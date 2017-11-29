@@ -33,6 +33,20 @@
   <text>
       <body>
          <listPlace xml:id="listplace">
+            <place xml:id="dietenheim">
+               <placeName>Dietenheim</placeName>
+               <location>
+                  <geo decls="#LatLng"></geo>
+               </location>
+               <idno type="URL"></idno>
+            </place>
+            <place xml:id="st_georgen">
+               <placeName>St. Georgen</placeName>
+               <location>
+                  <geo decls="#LatLng"></geo>
+               </location>
+               <idno type="URL"></idno>
+            </place>
             <place xml:id="st_lorenzen">
                <placeName>St. Lorenzen</placeName>
                <location>
