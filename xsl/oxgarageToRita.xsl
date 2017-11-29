@@ -1,6 +1,22 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" version="2.0">
+    xmlns:tei="http://www.tei-c.org/ns/1.0" version="2.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="#all">
     <xsl:output method="xml" indent="yes" omit-xml-declaration="yes"/>
+    
+   
+    <xsl:variable name="startpage">
+        <xsl:variable name="pagenumber">
+            <xsl:value-of select="substring-after((.//tei:hi[@rend='background(darkGray)'])[1]/text(), 'fol. ')"/>
+        </xsl:variable>
+        <xsl:value-of select="substring-before($pagenumber, ']')"/>
+    </xsl:variable>
+    
+    <xsl:variable name="endpage">
+        <xsl:variable name="pagenumber">
+            <xsl:value-of select="substring-after((.//tei:hi[@rend='background(darkGray)'])[last()]/text(), 'fol. ')"/>
+        </xsl:variable>
+        <xsl:value-of select="substring-before($pagenumber, ']')"/>
+    </xsl:variable>
+
     
     <xsl:template match="@* | node()">
         <xsl:copy>
@@ -71,7 +87,7 @@
                         </msIdentifier>
                         <msContents>
                             <msItem>
-                                <locus from="53r" to="65r"/>
+                                <locus from="{$startpage}" to="{$endpage}"/>
                                 <note>
                                     <rs type="skos" ref="#inventar">Inventar</rs>
                                 </note>
