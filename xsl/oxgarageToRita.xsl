@@ -1,7 +1,8 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.tei-c.org/ns/1.0"
     xmlns:tei="http://www.tei-c.org/ns/1.0" version="2.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="#all">
     <xsl:output method="xml" indent="yes" omit-xml-declaration="yes"/>
-       
+    
+   
     <xsl:variable name="startpage">
         <xsl:variable name="pagenumber">
             <xsl:value-of select="substring-after((.//tei:hi[@rend='background(darkGray)'])[1]/text(), 'fol. ')"/>
@@ -16,6 +17,7 @@
         <xsl:value-of select="substring-before($pagenumber, ']')"/>
     </xsl:variable>
 
+    
     <xsl:template match="@* | node()">
         <xsl:copy>
             <xsl:apply-templates select="@* | node()"/>
@@ -93,7 +95,7 @@
                         </msContents>
                         <history>
                             <origin notBefore="1762-01-28" notAfter="1762-01-28">
-                                <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                                <rs type="place" ref="st_lorenzen">St. Lorenzen</rs>
                             </origin>
                         </history>
                     </msDesc>
