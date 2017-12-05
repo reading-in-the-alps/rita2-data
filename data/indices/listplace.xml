@@ -60,6 +60,13 @@
                </location>
                <idno type="URL">http://sws.geonames.org/109223</idno>
             </place>
+            <place xml:id="st_lorenzen_test">
+               <placeName>St. Lorenzen Test</placeName>
+               <location>
+                  <geo decls="#LatLng">24.46861 -39.6141</geo>
+               </location>
+               <idno type="URL">http://sws.geonames.org/109223</idno>
+            </place>
          </listPlace>
       </body>
   </text>
