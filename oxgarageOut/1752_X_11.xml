@@ -67,67 +67,126 @@
         <pb n="fol. 4v"/>
         <p>jedes, was zu des Herrn<note place="foot" xml:id="ftn3" n="3"><p rend="footnote text"> <hi rend="italic">Über der Zeile eingefügt.</hi></p></note> Ableibers seelligen Verlassenschafft gehörig, und derselben wissendt ist, gethreulichen zu beschreiben antag göben, und gefehrlicher weise hievon bey Straf Landts Rechten nichts verhalten solle. Wän man<note place="foot" xml:id="ftn4" n="4"><p rend="footnote text"> <hi rend="italic">Über der Zeile eingefügt.</hi></p></note> nun von Seiten der geistlichen Commission, und weltlichen Obrigkheit daran kheine Bedenckhen getragen, als ist auch von daraus ersagter Heiserin <rs type="person" ref="#riserin-gertraud">Gerdrauth Riserin</rs> die geböttene Zuespröchung beschöchen, und nachdeme sie auch solchen nachzukhomben versprochen, und das Handt Anloben erstattet, hierauf die Secretur ab- und sodan vorgenamben worden, hernachvolgende</p><p>Inventur</p><p>Und zwar erstlichen in der unter</p>
         <pb n="fol. 5r"/>
-        <p>Stuben</p><p>Ain roth angestrichner Tisch mit ainer Schubladt pr	18 x</p><p>Ain anders clains angestrichnes Tischl sambt ainen darauf befindlichen Töppich per	24 x</p><p>Ittem ain clain roth angestrichnes Tischl, per	15 x</p><p>Zway roth mit Löder, und zwo mit plaben Tuech yberzochne Sösl per	4 f 0 x</p><p>Drey roth angestrichne Lain Stiell,	30 x</p><p>Ain an der Wandt angemachter Casten mit Schlos, und Pandt,	2 f 0 x</p><p>Darinen drey eingefaste, und finf andere Glöser nöbst dern noch mehrer pr	36 x</p><p>Ain mössings Ämppele per	24 x</p><p>Latus	8 f 27 x</p>
+        <p>Stuben</p>
+        <table rend="rules">
+          <row>
+            <cell>Ain roth angestrichner Tisch mit ainer Schubladt pr</cell>
+            <cell>18 x</cell>
+          </row>
+          <row>
+            <cell>Ain anders clains angestrichnes Tischl sambt ainen darauf befindlichen Töppich per</cell>
+           <cell>24 x</cell>
+          </row>
+          <row>
+            <cell>Ittem ain clain roth angestrichnes Tischl, per</cell>
+            <cell>15 x</cell>
+          </row>
+          <row>
+            <cell>Zway roth mit Löder, und zwo mit plaben Tuech yberzochne Sösl per</cell>
+            <cell>4 f 0 x</cell>
+          </row>
+          <row>
+            <cell>Drey roth angestrichne Lain Stiell,</cell>
+            <cell>30 x</cell>
+          </row>
+          <row>
+            <cell>Ain an der Wandt angemachter Casten mit Schlos, und Pandt,</cell>
+            <cell>2 f 0 x</cell>
+          </row>
+          <row>
+            <cell>Darinen drey eingefaste, und finf andere Glöser nöbst dern noch mehrer pr</cell>
+            <cell>36 x</cell>
+          </row>
+          <row>
+            <cell>Ain mössings Ämppele per</cell>
+            <cell>24 x</cell>
+          </row>
+          <row>
+            <cell>Latus</cell>
+            <cell>8 f 27 x</cell>
+          </row>
+        </table>
         <pb n="fol. 5v"/>
-        <p>Ain stainens Unter- und Ober Giespöckhet, auch ain plöchens Palbier Schisl per	12 x</p><p>In ain Wandt Cästl dreizöchen Wein, ittem vier clenere, und zwo Össig, auch ain anders Glas mit einen zinen Schreifele pr	40 x</p><p>Zwo Thee Schällelen mit ainen Pländl, zwo Halbe- und ain Fräggen Khriegl, ain Majolica Salz Pixl, drey ströbene Plänler, und ain Mösser Khörbl, per	18 x</p><p>Ain Maria Hilf, ain Johannes, und ain Märcus Tafl,	2 f 30 x</p><p>Sibenundtreissig gresser und clener papierene Khupfer Stich Taflen, per	36 x</p><p>Ain Crucifix mit drey clainen Täfelen per	48 x</p><p>In unterschlagnen Stibele.</p><p>Latus	5 f 4 x</p>
-        <pb n="fol. 6r"/>
-        <p>Ain Pöttstätl per	15 x</p><p>Darzue ain gedruckhter Firhang mit drey Thaill sambt zwo Eisen Stänglen per	1 f 0 x</p><p>Ain khupferenes unters und obers Giespöckhet per	1 f 15 x</p><p>Aber ain mit plaben Tuech yberzochner Sössl, per	40 x</p><p>Yber die jenigen vier Taflen, so zu der Stöllung gehörn, werden <note place="foot" xml:id="ftn5" n="5"><p rend="footnote text"><hi rend="superscript">-382</hi> <hi rend="italic">Am linken Rand nachgetragen.</hi></p></note>noch die ybrig daselbs befindliche<hi rend="superscript">382</hi> gressere und clenere Täfelen, sambt den eingefasten mössingen Wötter Creuz und andern Heilligen Sachen werth zusein aestimiert, und angeschlagen per	1 f 30 x</p><p>Ain grien angestrichnes Puldt, und ain Piecher Auflög Stöllele, pr	30 x</p><p>Drey gedruckhte Fenster Firhängler mit drey Eisen Stänglen per	18 x</p><p>Latus	5 f 28 x</p>
+        <table rend="rules">
+          <row>
+            <cell>Ain stainens Unter- und Ober Giespöckhet, auch ain plöchens Palbier Schisl per</cell>
+            <cell>12 x</cell>
+          </row>
+          <row>
+            <cell>In ain Wandt Cästl dreizöchen Wein, ittem vier clenere, und zwo Össig, auch ain anders Glas mit einen zinen Schreifele pr</cell>
+            <cell>40 x</cell>
+          </row>
+          <row>
+            <cell>Zwo Thee Schällelen mit ainen Pländl, zwo Halbe- und ain Fräggen Khriegl, ain Majolica Salz Pixl, drey ströbene Plänler, und ain Mösser Khörbl, per</cell>
+            <cell>18 x</cell>
+          </row>
+          <row>
+            <cell>Ain Maria Hilf, ain Johannes, und ain Märcus Tafl,</cell>
+            <cell>2 f 30 x</cell>
+          </row>
+          <row>
+            <cell>Sibenundtreissig gresser und clener papierene Khupfer Stich Taflen, per</cell>
+            <cell>36 x</cell>
+          </row>
+          <row>
+            <cell>Ain Crucifix mit drey clainen Täfelen per</cell>
+            <cell>48 x</cell>
+          </row>
+        </table>
+        <p>In unterschlagnen Stibele.</p>
+        <table rend="rules">
+          <row>
+            <cell>Latus</cell>
+            <cell>5 f 4 x</cell>
+          </row>
+        </table>
+        <pb n="fol. 6r"/>        
+        <table rend="rules">
+          <row><
+            cell>Ain Pöttstätl per</cell>
+            <cell>15 x</cell>
+          </row>
+          <row>
+            <cell>Darzue ain gedruckhter Firhang mit drey Thaill sambt zwo Eisen Stänglen per</cell>
+            <cell>1 f 0 x</cell>
+          </row>
+          <row>
+            <cell>Ain khupferenes unters und obers Giespöckhet per</cell>
+            <cell>1 f 15 x</cell>
+          </row>
+          <row>
+            <cell>Aber ain mit plaben Tuech yberzochner Sössl, per</cell>
+            <cell>40 x</cell>
+          </row>
+          <row>
+            <cell>Yber die jenigen vier Taflen, so zu der Stöllung gehörn, werden <note place="foot" xml:id="ftn1" n="1"><p rend="footnote text"><hi rend="italic">Am linken Rand nachgetragen.</hi></p>noch die ybrig daselbs befindliche</note> gressere und clenere Täfelen, sambt den eingefasten mössingen Wötter Creuz und andern Heilligen Sachen werth zusein aestimiert, und angeschlagen per</cell>
+            <cell>1 f 30 x</cell>
+          </row>
+          <row>
+            <cell>Ain grien angestrichnes Puldt, und ain Piecher Auflög Stöllele, pr</cell>
+            <cell>30 x</cell>
+          </row>
+          <row>
+            <cell>Drey gedruckhte Fenster Firhängler mit drey Eisen Stänglen per</cell>
+            <cell>18 x</cell>
+          </row>
+          <row>
+            <cell>Latus</cell>
+            <cell>5 f 28 x</cell>
+          </row>
+        </table>
         <pb n="fol. 6v"/>
-        <p>Zwo Gämbs Khöpflen per	14 x</p><p>Ain Khörbisch per	4 x</p><p>In Stuben Gädenle,</p><p>Ain roth angestrichnes Tischl per	12 x</p><p>Ain Proth Ramb per	5 x</p><p>Ain Schisl Ramb sambt einen Firhang, und Eisen Stängl, pr	30 x</p><p>Ain gros hilzene Schachtl,	3 x</p><p>Ain clains Trichele mit Schlos und Pandt, pr	20 x</p><p>Darinen,</p><p>Zway Par härbene Leillacher, das aine mit Spizen, und das andere mit Fransen, per	2 f 24 x</p><p>Ain Par leichhächlene deto per	40 x</p><p>Latus	4 f 32 x</p>
-        <pb n="fol. 7r"/>
-        <p>Drey ney rupfene Leillacher per	1 f 12 x</p><p>Ain Par abgetragne deto per	40 x</p><p>Aber zway abgetragne leichhächlene Leillacher pr	1 f 0 x</p><p>Drey gewögglete Tischtiecher pr	1 f 12 x</p><p>Ain ainliz guets gewögglets Tischtuech, per	32 x</p><p>Vier rupfene Tischtiecher,	1 f 0 x</p><p>Aber drey deto per	40 x</p><p>Ain leichhächlens per	15 x</p><p>Mehr zwo härbene Leillacher mit rothen und weisen Fransen per	1 f 0 x</p><p>Sechs gewögglete Handtiecher pr	48 x</p><p>Latus	8 f 19 x</p>
-        <pb n="fol. 7v"/>
-        <p>Sechs rupfene deto,	30 x</p><p>Verer zwo härbene Leillacher mit Fransen pr	1 f 24 x</p><p>Zwo rupfene deto pr	24 x</p><p>Mehr vier rupfene Handt- und ain deto Tischtuech, per	28 x</p><p>Widerumb drey schlechte Handtiecher per	9 x</p><p>Dreiundtzwainzig Tisch Salveter pr	1 f 35 x</p><p>Sechs Proth Stauchen, und zway Palbier Tiechlen,	30 x</p><p>Ain Welsperger Töppich pr	1 f 0 x</p><p>Zway ainhalb Ellen schwarz geförbtes Tuech pr	1 f 0 x</p><p>Zwo gedruckhte Töppichler per	30 x</p><p>Latus	7 f 30 x</p>
-        <pb n="fol. 8r"/>
-        <p>Ain rupfen gewögglet unnterfieterter Tischtöppich per	24 x</p><p>Ain rupfen Polster, und ain alt gewögglete Pöthziechen per	20 x</p><p>Ain plab, und ain anders Khis Ziechl, auch ain gedruckhter Flöckh,	24 x</p><p>Ain Gewandt Casten mit Schlos, und Pandt, auch zwo Thirlen, per	5 f 0 x</p><p>Darinen,</p><p>Ain schwarz tiechen abgetragner Mantl mit ainen sameten Kragen per	6 f 0 x</p><p>Ain grau tiechener Satur Rockh, per	4 f 0 x</p><p>Ain schwarz tiechen abgetragner Rockh, sambt den Cämisoll, per	3 f 0 x</p><p>Ain schwarz cämelotener Rockh, mit sameten Aufschlögen, sambt der</p><p>Latus	19 f 8 x</p>
-        <pb n="fol. 8v"/>
-        <p>gleichen Cämisoll, per	5 f 0 x</p><p>Ain schwarz mässelänener Rockh sambt den Camisoll, per	2 f 30 x</p><p>Darzue zway Par mässelänene Hosen per	1 f 12 x</p><p>Auch ein schwarz ainlizes mässelänenes Cämisoll,	1 f 0 x</p><p>Aber ain schwarz cron rässener Rockh, per	2 f 0 x</p><p>Zwo schlecht abgetragne Cämisöller per	32 x</p><p>Zway cron rassen schwarze Khrägelen per	12 x</p><p>Ain schwarz tiechen mit rothen Pey unterfieterte Rais Haben, per	20 x</p><p>Ain rauch sametes Pölz Heibl per	30 x</p><p>Latus	13 f 16 x</p>
-        <pb n="fol. 9r"/>
-        <p>Ain plab cartanen unterfieterter Schlafrockh, per	48 x</p><p>Ain Par schwarz gewirckhte, und ain Par gestrickhte Sumer Strimpf,	1 f 0 x</p><p>Ain Par neye, und drey Par abgetragne weise Strimpf, per	46 x</p><p>Zway sametene, und zwo cartanene Khäpplen, auch zwo weis gestrickhte Hauben, per	1 f 48 x</p><p>Ain plab cartanener Prustflöckh, per	15 x</p><p>Ain leinbatens, und <hi rend="strikethrough">acht</hi> 7<note place="foot" xml:id="ftn6" n="6"><p rend="footnote text"> <hi rend="italic">Über der Zeile ausgebessert.</hi></p></note> härbene Hemater per	3 f 30 x</p><p>Ain Par Schuech sambt die mössingen Schnallen, per	36 x</p><p>Ain Par ney härbene Leillacher, mit grosen Spizen per	2 f 40 x</p><p>Aber ain Par etwas gröber</p><p>Latus	11 f 23 x</p>
-        <pb n="fol. 9v"/>
-        <p>härbene Leillacher per	1 f 48 x</p><p>Ain Par leichhächlene deto mit Fransen per	1 f 12 x</p><p>Zway Par ney rupfene deto,	1 f 48 x</p><p>Vier gewögglete Tischtiecher per	1 f 48 x</p><p>Aber zwo rupfene deto per	30 x</p><p>Zwölf ney gewögglete Tisch Salveter mit Spiz, per	1 f 36 x</p><p>Ittem nein andere deto mit Spizlen per	54 x</p><p>Ain guetes und ain schlecht abgetragnes gewögglets Handtuech per	36 x</p><p>Ain grobhärbener Paadt Mantl per	36 x</p><p>Ain roth geplaimbt cartanene Döckhen mit ain rothen Unterfueter per	3 f 0 x</p><p>Latus 13 f 48 x</p>
-        <pb n="fol. 10r"/>
-        <p>Zwo Welsperger Döckhen per	36 x</p><p>Dreizöchen Ellen plab gewirfleter Pöth Khöllisch, zu sibenundtzwainzig Khreizer thuet	5 f 51 x</p><p>Sibenzig ainhalb die lange Ellen härbens Tuech zu zwainzig Kreizer thuet	23 f 30 x</p><p>Aber dreizöchen dreiviertl Ellen prait gröbers härbens Tuech, zu zwainzig Kreizer thuet	4 f 35 x</p><p>Sechzöchen Ellen gewöggleter Tischzeug, zu sibenzöchen Kreizer thuet	4 f 32 x</p><p>Ain Par lödene Stifelet, per	10 x</p><p>Mehr ain plab cartanener Prustflöckh mit flanellen Unterfueter,	30 x</p><p>Ain graue Paruquen,	1 f 0 x</p><p>Latus	40 f 44 x</p>
-        <pb n="fol. 10v"/>
-        <p>Drey viertl Pfundt härben gewaschnes Garn, per	12 x</p><p>Ain halb Pfundt Zwirn per	36 x</p><p>Zwo alte Cänen mit ainen gagezen, und ainen Stächlen Khnopf, per	48 x</p><p>Drey Tuzet schwarze Khnöpf, und ain Stren schwarz getränte Seiden, per	16 x</p><p>Ain clains Schz Cästl mit finf Tädtlen, zwo Thirlen, auch Schlos und Pandt, per	1 f 12 x</p><p>Ain clains Span Pöttstättl, per	15 x</p><p>Darinen,</p><p>Ain Strosackh sambt ainen Stro Polster, per	36 x</p><p>Ain Unterpöth sambt den Polster mit zwilchener innern und aussern leichhächlen Ziechen, wigt drei</p><p>Latus	3 f 55 x</p>
-        <pb n="fol. 11r"/>
-        <p>undtzwainzig Pfundt, zu acht Khreizer thuet	3 f 4 x</p><p>Ain grien unterfieterer Töppich, per	9 x</p><p>Ain Khopfkhis mit innern Zwilch und aussern plaben Ziechen, per	30 x</p><p>Ain clain roths Trichele mit Panden, auch ain essen Pröth	20 x</p><p>Aber ain Unterpöth sambt ainen Polster, und Khis, mit innern Zwilch, und aussern Ziechen, wigt achtundtreissig Pfundt zu sechs Kreizer, thuet	3 f 48 x</p><p>Ain schlechte unterfieterte Welsperger Döckhen per	15 x</p><p>Ain Par alt rupfene Leillacher, per	12 x</p><p>Vier Pfundt Zwöspen sambt ainen Tätl völl gedörten Kherschen	15 x</p><p>Latus	8 f 33 x</p>
-        <pb n="fol. 11v"/>
-        <p>Ain gelb glöserens Salz Pixl, per	6 x</p><p>In Khuchlgädenle,</p><p>Ain roths Täfele mit ainer Schubladt, per	 8 x</p><p>Ain Pach Trögl, ain deto Mitl, ain Nudl, sechs Proth, und ain Hackh Prötl, per	40 x</p><p>Neinzöchen gressere und clenere erdene Häfen, per	38 x</p><p>Ittem vier große mit Tradt eingefaste oder gepundtne Häfen, per	30 x</p><p>Zway gros eingefaste, und ein anders Essig Glas per	30 x</p><p>Ainundtfunfzig gresser, und clener tiefe und fleze stainene Schisl, per	1 f 0 x</p><p>Ain khupferene Pföster, und ain andere khupferene Pfan per	1 f 12 x</p><p>Latus	4 f 44 x</p>
-        <pb n="fol. 12r"/>
-        <p>Ain Fleisch Peill und ain Parten per	24 x</p><p>Ain Prath Rost, zwo plöchene Strauben Laur, ain Khrapfen Gabl, ain Fleisch Spis, ain schlechts faimb Khöllele, zwo plöchen Leichter, ain mössinger Puzer, ain Hafen Platen, ain Raif Mösser, und des Herrn Ableibers Prandt Marckh, auch ain Span Sag, 	1 f 0 x</p><p>Ain gloggspeisener Merscher, sambt ain dergleichen Strempfl, wigt sechs <hi rend="strikethrough">drei</hi>ainviertl<note place="foot" xml:id="ftn7" n="7"><p rend="footnote text"> ain <hi rend="italic">über der Zeile nachgetragen.</hi></p></note> Pfundt, zu dreissig Khreizer thuet	3 f 7 x</p><p>Ain mössings Pölgleisen<note place="foot" xml:id="ftn8" n="8"><p rend="footnote text"> <hi rend="italic">Zweites</hi> -l- <hi rend="italic">nachträglich eingefügt.</hi></p></note>, sambt zweo Stächl per	20 x</p><p>Ain groser Khachler, finf Tutl Khrieg, und ain stainens Bstötten Häfele, per	20 x</p><p>Drey plöchene Testlen, und zway deto Wurst Trächterlen, per	5 x</p><p>Latus	5 f 16 x</p>
-        <pb n="fol. 12v"/>
-        <p>Zway Egerer Flaschen per	20 x</p><p>Ein Salz Stibichle, zwo Multer, drey Zistlen, und zwo Handt Khörblen per	12 x</p><p>Ain Rauch Pfändl zwo Kreitle Häckhlen, ain grose Ehl Flasch, ain deto Khändele, ain Sib Eisen, ain Pföffer Pix, ain eisens, und ain plöchens Testl per	20 x</p><p>Ain Stockhfisch Scheit per	8 x</p><p>In der Khuchl,</p><p>Ain Feur Häll von acht Ringen und Häggen, ain Herdtschaufl, ain Feur Klupp, und ain Feur Hundt, per	26 x</p><p>Ain Pratter sambt der Zuegehör,	2 f 0 x</p><p>Zway Rohr Leichter, zwo Khuchl Mösser, zwo Puzer, und ain Khuchl Peill, per	15 x</p><p>Latus	3 f 41 x</p>
-        <pb n="fol. 13r"/>
-        <p>Aindlich erdene Häfelen finf Bstötten Testlen, und ain stainene Schisl, per	30 x</p><p>Sechs Hafen Plätlen, ain Rib Eisen, und ain clainer Prath Rost per	17 x</p><p>Ain khupferens Fueskhössele, wigt finf drey viertl Pfundt, zu zwölf Khreizer, thuet	1 f 9 x</p><p>Ain eissens Heng Khössele per	20 x</p><p>Zway gresser, sechs clener, und drey Schmölz Pfändlen, ain khupferene, und ain andere eisene Dirchling, ain eisene grose Wasser- ain Krapfen- und zway andere Khöllelen, zway Schmalz Löfl, ain Mueser, ain Fleisch Spis, und ain Träf Testl,	2 f 40 x</p><p>Ain Herdt Pfankhnecht, ain Glueth Pfändl, und ain Ofen Gabl per	18 x</p><p>Latus	5 f 14 x</p>
-        <pb n="fol. 13v"/>
-        <p>In der Laaben,</p><p>Zway Wasser Schäfer, ain Stözele, und ain langlechts Schäfl, per	15 x</p><p>Zway stainene Fleisch Kächl, per	10 x</p><p>Ain gros khupferener Secht Khösl, wigt finfundtzwainzig ainhalb Pfundt, zu achtzöchen Kreizer thuet	7 f 39 x</p><p>Zin,</p><p>Ain grose tiefe, und ain andere etwas clenere Suppen, Ittem ain gresser, drey etwas clenere <note place="foot" xml:id="ftn9" n="9"><p rend="footnote text"><hi rend="superscript">-386</hi> <hi rend="italic">Am linken Rand ergänzt.</hi></p></note>und 7 noch clenere<hi rend="superscript">386</hi> fleze Schiselen, weegen zusamben, dreiundtzwainzig drey viertl Pfundt, zu achtundtzwainzig Kreizer thuet	11 f 5 x</p><p>Vierundtzwainzig Thäller, und</p><p>Latus	19 f 9 x</p>
-        <pb n="fol. 14r"/>
-        <p>ain Schisele, weegen zwaiundtzwainzig ain viertl Pfundt zu vierundtzwainzig Khreizer, thuet	8 f 54 x</p><p>Ain obers und ain unters Giespöckhet, zwo Weichprun Khrieglen, zwo Leichter, ain Essig Schisele, und ain Mas Khandl, wigt alles zusamben, dreizöchen ain viertl Pfundt, zu sechsundtzwainzig Kreizer thuet	5 f 45 x</p><p>Dreizöchen Par Mösser, und Gabl mit weis painenen Höfftern per	1 f 18 x</p><p>Acht Par<note place="foot" xml:id="ftn10" n="10"><p rend="footnote text"> <hi rend="italic">Über der Zeile nachgetragen.</hi></p></note> hirschhorene Mösser, und Gabl, Ittem vier andere Mösser, und drey Gabl,	36 x</p><p>Ain plöchene ain grose, sechs clenere und zway tiefe<note place="foot" xml:id="ftn11" n="11"><p rend="footnote text"> <hi rend="italic">Über der Zeile nachgetragen.</hi></p></note> Majolica Schiselen	48 x</p><p>Latus	17 f 21 x</p>
-        <pb n="fol. 14v"/>
-        <p>Ain Viertl- zway Mas- zway drey Fräggen- und nein Trinckhl Khrieglen, alle mit zinen Lickhern, per	2 f 24 x</p><p>Untern Dach,</p><p>Ain Mehl Truchen mit sechs Tatten, und Panden, per	30 x</p><p>Ain Spuell Rädl, ain Garn Haspl, und ain Spinradt, per	30 x</p><p>Ain Proth Ramb, ain Nudl Pröth, zwo Pach Schrägen, dreissig Garn Spuellen, ain Proth Schisl, und ain Firpanckh, sambt der darauf befindlichen Harr Hächl, per	48 x</p><p>Ain roth angestrichne Gewandt Truch mit Schlos, und Pandt per	1 f 0 x</p><p>Ain (rev.) Nachtstuell sambt</p><p>Latus	5 f 12 x</p>
-        <pb n="fol. 15r"/>
-        <p>den gschyr, per zöchen Kreizer, sage	10 x</p><p>In Kheller,</p><p>Ain Kraut Pottich per	36 x</p><p>Darinen bey ungefehr finf Schaff Ruebe Kraut, per	45 x</p><p>Ain Fleisch Ziberle, ain Wasser Schaff, ain Milch- und drey andere Stözelen, per	18 x</p><p>Ain Halb, und ain Viertl Stär aufeinander per	8 x</p><p>Aber zwo Wasser Schäffer, zway Lain Stiell, ain Khörzen Khibl mit vierzöchen Prötlen, ain Schmalz Stözl, und sechzöchen Thäller per	1 f 0 x</p><p>Dreizöchen drei viertl Pfundt Ins-</p><p>Latus	2 f 57 x</p>
-        <pb n="fol. 15v"/>
-        <p>let Khörzen, zu zöchen Kreizer thuet	2 f 17 x</p><p>Zöchen Pfundt Spöckh, zu zöchen Kreizer thuet	1 f 40 x</p><p>Siben ain halb Pfundt geselchts Fleisch per	37 x</p><p>Vier Pfundt Schaff Khäs per	24 x</p><p>In Kheller bei der Ainsidlerey,</p><p>Ain gressere und drey clenere Wäsch Ziber, ain abstöch Schragen, und ain hilzener Wasser Sprizer mit ain plöchenen Kolben, per	1 f 24 x</p><p>Bey zöchen Ihrn Stattgschyr zu vierzöchen Kreizer thuet	2 f 20 x</p><p>Latus	8 f 42 x</p>
-        <pb n="fol. 16r"/>
-        <p>Ain Erde Schaufl, ain Hau, und ain Eisen Rechen, per	15 x</p><p>In der ober Stuben,</p><p>Ain langlechter Tisch, mit ainen darauf befindlichen Teppich, per	48 x</p><p>Ain angestrichne Span Pödtstatt	36 x</p><p>Darinen ain Yberpöth sambt den Polster, mit innern Zwilch, und aussern plab khöllischen, der Polster aber mit roth geplaimbten Ziechen, wigt zwainzig ainhalb Pfundt, zu sechzöchen Kreizer, thuet	5 f 28 x</p><p>Ain Unterpöth, und ain Kis, mit innern Zwilch, und aussern plab gewöggleten Ziechen wigt ainundtreissig Pfundt, zu dreizöchen Kreizer thuet	6 f 43 x</p><p>Latus	13 f 50 x</p>
-        <pb n="fol. 16v"/>
-        <p>Darzue ain Strosackh, und zway Stro Pölster per	15 x</p><p>Aber ain praun angestrichne Luckh Pöthstatt, per	1 f 12 x</p><p>Darinen,</p><p>Ain Yberpöth, und ain Khis, beedes mit innern parcheten und aussern plaben Ziechen, wigt zwölf Pfundt, zu vierundtzwainzig Khreizer, thuet	4 f 48 x</p><p>Ain Unterpöth, zwo Pölster, und ain Khis, alles (ausser den Khiss) mit innern Zwilch, das Khis aber mit Parchet, und volgsamb alles mit aussern plab gewirfleten Ziechen, wigt ainundtvierzig drei viertl Pfundt zu dreizöchen Kreizer, thuet	9 f 2 x</p><p>Latus	15 f 17 x</p>
-        <pb n="fol. 17r"/>
-        <p>Mehr ain Yberpöth mit innern parcheten und aussern plab khöllischen Ziechen, wigt sibenzöchen ain halb Pfundt, zu zwainzig Khreizer thuet	5 f 50 x</p><p>Ain Englische Döckhen per	1 f 12 x</p><p>Zwo Stuckh gedruckhter Firhang, sambt vier deto bey vier Fensterlen per	30 x</p><p>Ain gros mit Löder yberzochner Lain Sössl, per	2 f 0 x</p><p>In sollicher Stuben befindet sich auch ain Altärl mit etlich dreissig Täfelen, und andern Sachen, und Hältumber gezieret, ittem zwo grose, und zwaiundtzwainzig clenere papierene Theses, auch ain gemahlnes Abendt Mahl, und ain Maria Hilf Bildt, so alles werth zu sein</p><p>Latus	9 f 32 x</p>
-        <pb n="fol. 17v"/>
-        <p>angeschlagen wirdet, per	4 f 0 x</p><p>In Wein Kheller,</p><p>Drey plöchene Trächterlen per	12 x</p><p>In zwo Geschir zwo Yhrn, und zway Pareiden rother, und in ainen clain Pänzl, ain Pareiden weisser Wein, zu sechs Gulden dreissig Khreizer, thuet	14 f 37 x</p><p>Darzue drey Yhrn Stattgeschyr, per	42 x</p><p>Piecher,</p><p>In Folio,</p><p>Bibliae Sacrae in zwo thomy teutsch, und lateinisch, in franzosischen Einpundt, per	6 f 0 x</p><p>Latus	25 f 31 x</p>
-        <pb n="fol. 18r"/>
-        <p>Pater Jordan Prediger in zway Thaill, in französischen Einpundt per	4 f 0 x</p><p>In Quart</p><p>Historischer Schauplaz, in pirmenten Einpundt, per	1 f 30 x</p><p>Ezechiel Koch in pirmentenen Einpundt, in zway Thaill, per	1 f 30 x</p><p>Sacerdotale Brixinense, in schwarz lideren Einpundt, per	1 f 0 x</p><p>Prämbhofer Sämsonischer Hönig Fladen, in pirmentenen Einpundt, in drey Thaill,	2 f 30 x</p><p>Heriberth Dominical Et Festival in zwo thamy und in Schwein Löder per	2 f 0 x</p><p>Latus	12 f 30 x</p>
-        <pb n="fol. 18v"/>
-        <p>Pater Mauritius Homo Simplex Et Rectus, in Pirment,	2 f 0 x</p><p>Ignatius Ertl Son- Und Feyrtag Prödigen, in Pirment per	2 f 0 x</p><p>Schaz Camer Des Heiligen Rosenkranz, in Pirment,	36 x</p><p>Penzingers Khinderlehr Und Prödigen<note place="foot" xml:id="ftn12" n="12"><p rend="heading 3"> <hi rend="search-item">Penzinger</hi>, Sebastian Heinrich: <ref target="https://www.zvab.com/servlet/BookDetailsPL?bi=9343272102&amp;searchurl=hl%3Don%26tn%3DGute%2BOrdnung%2BDarau%25DF%26sortby%3D20%26an%3DPenzinger"><hi rend="search-item">Gute Ordnung</hi>/ <hi rend="search-item">Darauß</hi> Kinder-Lehr Auch Predigen zu machen</ref>; <ref target="https://www.zvab.com/servlet/SearchResults?an=Penzinger&amp;tn=Gute+Ordnung+Darau%DF&amp;cm_sp=mbc-_-SRP-_-all">https://www.zvab.com/servlet/SearchResults?an=Penzinger&amp;tn=Gute+Ordnung+Darau%DF&amp;cm_sp=mbc-_-SRP-_-all</ref></p></note> in Pirment, per	36 x</p><p>Breviarium Romanum, in schwarz lideren Einpundt per	1 f 0 x</p><p>Rogmon<note place="foot" xml:id="ftn13" n="13"><p rend="footnote text"> Vgl. 1773, fol. 125r.</p></note> Biblische Geschichten in französischen Einpundt, per	1 f 0 x</p><p>Dictionarius Frisius, in Schwein Löder per	30 x</p><p>In Octav,</p><p>Sargor Conferentiae Morales<note place="foot" xml:id="ftn14" n="14"><p rend="footnote text"> <ref target="https://www.amazon.de/Conferentiae-Theologico-Morales-Materia-Septem-Sacramentorum/dp/1247042987">https://www.amazon.de/Conferentiae-Theologico-Morales-Materia-Septem-Sacramentorum/dp/1247042987</ref></p></note>,	24 x</p><p>Latus	8 f 6 x</p>
-        <pb n="fol. 19r"/>
-        <p>Cathecismus Romanus, per	18 x</p><p>Christliches Ablas Piechl per	12 x</p><p>Tobias Lohner Instructio practica<note place="foot" xml:id="ftn15" n="15"><p rend="footnote text"> <ref target="https://www.zvab.com/buch-suchen/titel/instructio-practica-de-conversatione/autor/lohner/">https://www.zvab.com/buch-suchen/titel/instructio-practica-de-conversatione/autor/lohner/</ref></p></note>, per	24 x</p><p>Noch etwas clenere unterschidliche Piecher per	1 f 30 x</p><p>In den Puldt,</p><p>Ist befunden worden in Geldt, sibenundtzwainzig Khreizer zway Fierer, und dabey ein Zötl, warauf volgendes geschriben „Den geistlichen Herrn Joseph Antany Wachtler Coplan zu Cranburg gehörig“.</p><p>In ein clein rothen Schächtele, Minz,	38 x</p><p>Mehr in ain dergleichen in Fiehrern	10 x</p><p>Latus	3 f 12 x</p>
-        <pb n="fol. 19v"/>
-        <p>In einen <note place="foot" xml:id="ftn16" n="16"><p rend="footnote text"><hi rend="superscript">-393</hi> <hi rend="italic">Über der Zeile geschrieben.</hi></p></note>gar cleinen<hi rend="superscript">393</hi> weisen deto in Fichrern [sic!]	6 x</p><p>Sechs silberene Hemath Khnöpflen, per	1 f 0 x</p><p>Ein Agnus Dei mit zwo silberen Käpflen, zwo deto Dedlen, und ain silber gefastes Creuzl, per	3 f 0 x</p><p>In ainen Säckhl Silber Geldt,	3 f 5 x</p><p>Ain praune Hauben per	9 x</p><p>Ain Schnupf Tiechl	9 x</p><p>In ein clein Trichele befinden sich in Khreizern zway Gulden sambt einen Zötl, warauf geschriben, das ihme Herrn Ableiber seelligen, in allen siben Gulden dreissig Khreizer, fir allhiesige Unser Lieben Frauen Cappellen, zu einer Khirchen Zierdt, erlögt worden, mithin also derselbe</p><p>Latus	7 f 29 x</p>
-        <pb n="fol. 20r"/>
-        <p>noch zu ersözen, finf Gulden dreissig Khreizer, pr Bht.</p><p>Sechs gleiche silberene Löfl, weegen funfzöchen Loth à ain Gulden thuet	15 f 0 x</p><p>Mehr drey silberene deto, weegen acht Loth, à ain Gulden thuet	8 f 0 x</p><p>Drey Par Mösser, und Gabl, mit silberen Höfftern, weegen acht ainhalb Loth à ain Gulden, thuet acht Gulden dreissig Khreizer id est	8 f 30 x</p><p>Sechs puxpämene Löfl mit silberen Höfftern weegen zway ain viertl Loth, thuet	2 f 15 x</p><p>Latus	33 f 45 x</p><p>Summa vorbeschribner</p>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <p>Summa vorbeschribner</p>
         <pb n="fol. 20v"/>
         <p>Inventur, dreihundert ainundtfunfzig Gulden finfundtdreissig Khreizer, id est</p><p>[Summa]	351 f 35 x</p><p>Schulden herein</p><p>Als bey Petern Lanz Khriner zu Saallen, Cäppitäl laut Ybergab- und Schuldtbrief anderten Jully anno sibenzöchenhundert ainundtvierzig, auf Ybergöben des Mathesen Progers,	200 f 0 x</p><p>Interesse auf verwichnen Sonebenten sibenzöchenhundert zwaiundtfunfzig bis anhero von ain viertl Jahr,	1 f 45 x</p><p>Das ratum aus denen vorder</p><p>Latus	201 f 45 x</p>
         <pb n="fol. 21r"/>
