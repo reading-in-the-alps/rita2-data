@@ -2,6 +2,47 @@
     xmlns:tei="http://www.tei-c.org/ns/1.0" version="2.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="#all">
     <xsl:output method="xml" indent="yes" omit-xml-declaration="yes"/>
     
+    
+    <xsl:variable name="filename">
+        <xsl:value-of select="tokenize(base-uri(), '/')[last()]"/>
+    </xsl:variable>
+    
+    <xsl:variable name="orig-date">
+        <xsl:value-of select="substring-before($filename, '.xml')"/>
+    </xsl:variable>
+    
+    <xsl:variable name="year">
+        <xsl:value-of select="tokenize($orig-date, '_')[1]"/>
+    </xsl:variable>
+    
+    <xsl:variable name="mo">
+        <xsl:value-of select="tokenize($orig-date, '_')[2]"/>
+    </xsl:variable>
+    
+    <xsl:variable name="day">
+        <xsl:value-of select="format-number(number(tokenize($orig-date, '_')[3]), '#')"/>
+    </xsl:variable>
+    
+    <xsl:variable name="mo-iso">
+        <xsl:choose>
+            <xsl:when test="$mo = 'I'">01</xsl:when>
+            <xsl:when test="$mo = 'II'">02</xsl:when>
+            <xsl:when test="$mo = 'III'">03</xsl:when>
+            <xsl:when test="$mo = 'IV'">04</xsl:when>
+            <xsl:when test="$mo = 'V'">05</xsl:when>
+            <xsl:when test="$mo = 'VI'">06</xsl:when>
+            <xsl:when test="$mo = 'VII'">07</xsl:when>
+            <xsl:when test="$mo = 'VIII'">08</xsl:when>
+            <xsl:when test="$mo = 'IX'">09</xsl:when>
+            <xsl:when test="$mo = 'X'">10</xsl:when>
+            <xsl:when test="$mo = 'XI'">11</xsl:when>
+            <xsl:when test="$mo = 'XII'">12</xsl:when>
+        </xsl:choose>
+    </xsl:variable>
+    
+    <xsl:variable name="date-good">
+        <xsl:value-of select="string-join( ($year, $mo-iso, $day), '-')"/>
+    </xsl:variable>
    
     <xsl:variable name="startpage">
         <xsl:variable name="pagenumber">
@@ -57,6 +98,11 @@
     
     <xsl:template match="tei:teiHeader">
         <teiHeader>
+            <!--<filename><xsl:value-of select="$filename"/></filename>-->
+            <!--<dategood><xsl:value-of select="$date-good"/></dategood>
+            <day><xsl:value-of select="$day"/></day>
+            <moiso><xsl:value-of select="$mo-iso"/></moiso>
+            <year><xsl:value-of select="$year"/></year>-->
             <fileDesc>
                 <titleStmt>
                     <title>
@@ -94,7 +140,7 @@
                             </msItem>
                         </msContents>
                         <history>
-                            <origin notBefore="1762-01-28" notAfter="1762-01-28">
+                            <origin notBefore="{$date-good}">
                                 <rs type="place" ref="st_lorenzen">St. Lorenzen</rs>
                             </origin>
                         </history>
