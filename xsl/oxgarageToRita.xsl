@@ -168,4 +168,22 @@
         </teiHeader>
     </xsl:template>
     
+    <xsl:template match="tei:p/text()">
+        <xsl:analyze-string select="." regex="\[fol. .*\]">         
+            <xsl:matching-substring>
+                <xsl:variable name="pagenumber">
+                    <xsl:value-of select="normalize-space(substring-after(., '[fol.'))"/>
+                </xsl:variable>
+                <pb>
+                    <xsl:attribute name="n">
+                        <xsl:value-of select="substring-before($pagenumber, ']')"/>
+                    </xsl:attribute>
+                </pb>                
+            </xsl:matching-substring>
+            <xsl:non-matching-substring>
+                <xsl:value-of select="."/>
+            </xsl:non-matching-substring>
+        </xsl:analyze-string>
+    </xsl:template>
+    
 </xsl:stylesheet>

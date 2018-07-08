@@ -18,7 +18,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>oxgarageOut/1798_III_16.xml</String>
+                                    <String>oxgarageOut/1766_VIII_11.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -63,6 +63,21 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>oxgarageOut/1798_III_16.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>oxgarageToRita-temp</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>oxgarageOut/1784_IV_17.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -79,21 +94,6 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>oxgarageOut/1781_V_7.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>oxgarageToRita-temp</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>oxgarageOut/1766_VIII_11.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
