@@ -33,12 +33,20 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <geoDecl>latitude<rs ref="#">whitespace</rs> longitute</geoDecl>
+         <geoDecl xml:id="LatLng">latitude whitespace longitute</geoDecl>
       </encodingDesc>
    </teiHeader>
   <text>
       <body>
          <listPlace xml:id="listplace">
+            <place xml:id="brixen">
+               <placeName>Brixen</placeName>
+               <placeName type="alt">Bressanone</placeName>
+               <location>
+                  <geo decls="#LatLng">46.71503 11.65598</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3181550</idno>
+            </place>
             <place xml:id="dietenheim">
                <placeName>Dietenheim</placeName>
                <location>
@@ -58,14 +66,14 @@
                <location>
                   <geo decls="#LatLng">24.46861 39.6141</geo>
                </location>
-               <idno type="URL">http://sws.geonames.org/109223</idno>
+               <idno type="GEONAMES">http://sws.geonames.org/109223</idno>
             </place>
             <place xml:id="st_lorenzen_test">
                <placeName>St. Lorenzen Test</placeName>
                <location>
                   <geo decls="#LatLng">24.46861 -39.6141</geo>
                </location>
-               <idno type="URL">http://sws.geonames.org/109223</idno>
+               <idno type="GEONAMES">http://sws.geonames.org/109223</idno>
             </place>
          </listPlace>
       </body>

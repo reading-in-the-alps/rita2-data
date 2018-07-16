@@ -36,6 +36,18 @@
   <text>
       <body>
          <listPerson xml:id="listperson">
+            <person xml:id="stainer_sebastian">
+               <persName>
+                  <forename>Sebastian</forename>
+                  <surname>Stainer</surname>
+               </persName>
+            </person>
+            <person xml:id="hueber_martin">
+               <persName>
+                  <forename>Martin</forename>
+                  <surname>Hueber</surname>
+               </persName>
+            </person>
             <person xml:id="prokosch_michael">
                <persName>
                   <forename>Michael</forename>

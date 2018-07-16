@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bücherverzeichnis des Editionsprojects Reading in The Alps</title>
+                <respStmt>
+                    <resp>Datenkruation</resp>
+                    <name>
+                        <rs type="person" ref="#span_michael">Michael Span</rs>
+                    </name>
+                    <name>
+                        <rs type="person" ref="#proksch_michael">Michael Proksch</rs>
+                    </name>
+                    <name>
+                        <rs type="person" ref="#peter_andorfer">Peter Andorfer</rs>
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Reading in the Alps</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                        <p>The (CC BY-SA 4.0)-License applies to this document.</p>
+                        <p>You are allowed to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) for any purpose, even commercially.</p>
+                        <p>You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</p>
+                        <p>ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born Digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <bibl xml:id="marianischer_ehren_saal">Mariänischer Ehren Saal</bibl>
+                <bibl xml:id="knellingers_predigten">Reverentis Patris Knellingers Prödigen Auf Alle Andert Jahr</bibl>
+            </listBibl>
+        </body>
+    </text>
+</TEI>
