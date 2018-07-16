@@ -69,6 +69,9 @@
             </xi:include>
          </p>
       </encodingDesc>
+      <revisionDesc>
+         <change notBefore="2018-07-16" who="#martin_kirnbauer" status="draft">tagging all entites</change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -1917,7 +1920,7 @@
             <p>Item der andere vätterlich Christoph Stainerische Haubtstollen die B.</p>
             <p>Und der mietterlich Johanes Hinterseeriche Haubtstollen, die C.</p>
             <p>
-               <hi rend="bold">Piecher in Folio</hi>
+               Piecher in Folio
             </p>
             <table rend="rules">
                <row>
@@ -1947,10 +1950,10 @@
             <table rend="rules">
                <row>
                   <cell>
-                     <hi rend="bold">Pater Reittmayrs Christliche Lehr Verfassung, so starckh verbrenten pirementen Einpundt, zwai thomi, pr</hi>
+                     <rs type="bibl" ref="#pater_reittmayr_lehrverfassung">Pater Reittmayrs Christliche Lehr Verfassung</rs>, so starckh verbrenten pirementen Einpundt, zwai thomi, pr
                   </cell>
                   <cell>
-                     <hi rend="bold">1 f 30 x</hi>
+                     1 f 30 x
                   </cell>
                </row>
                <row>
