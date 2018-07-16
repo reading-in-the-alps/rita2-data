@@ -40,9 +40,7 @@
       <body>
          <listPlace xml:id="listplace">
             <place xml:id="brixen">
-               <placeName>Brixen</placeName>
-               <placeName type="alt">Bressanone</placeName>
-               <placeName type="alt">Brixnerischer</placeName>
+               <placeName>Bressanone</placeName>
                <location>
                   <geo decls="#LatLng">46.71503 11.65598</geo>
                </location>
@@ -63,14 +61,14 @@
                <idno type="URL"/>
             </place>
             <place xml:id="st_lorenzen">
-               <placeName>St. Lorenzen</placeName>
+               <placeName>San Lorenzo di Sebato</placeName>
                <location>
                   <geo decls="#LatLng">46.783333 11.9</geo>
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3168114</idno>
             </place>
             <place xml:id="saalen">
-               <placeName>Saalen</placeName>
+               <placeName>Sares</placeName>
                <location>
                   <geo decls="#LatLng">46.757974 11.874139</geo>
                </location>
@@ -78,14 +76,14 @@
                <note>Ist Teil von <rs type="#st_lorenzen">St. Lorenzen</rs></note>
             </place>
             <place xml:id="brunegg">
-               <placeName>Brunegg</placeName>
+               <placeName>Brunico</placeName>
                <location>
                   <geo decls="#LatLng">46.79674 11.935465</geo>
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3181480</idno>
             </place>
             <place xml:id="clausen">
-               <placeName>Clausen</placeName>
+               <placeName>Chiusa</placeName>
                <location>
                   <geo decls="#LatLng">46.633333 11.566667</geo>
                </location>
