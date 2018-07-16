@@ -26,7 +26,7 @@
                <msIdentifier>
                   <institution>Südtiroler Landesarchiv (SLA)</institution>
                   <repository>Verfachbücher Landgericht St. Michaelsburg</repository>
-                  <idno>1762 I 28</idno>
+                  <idno>1756 III 15</idno>
                </msIdentifier>
                <msContents>
                   <msItem>
@@ -70,7 +70,7 @@
          </p>
       </encodingDesc>
       <revisionDesc>
-         <change notBefore="2018-07-16" who="#martin_kirnbauer" status="draft">tagging all entites</change>
+         <change notBefore="2018-07-16" who="#kirnbauer_martin" status="draft">reading-in-the-alps/rita2-data/issues/1</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -80,31 +80,31 @@
                <pb n="42dr"/>
             </p>
             <p>Unseren freundlichen Grues und Dienst anvor. Ehrwürdig, edl, hochgelehrt besonders lieber Freind und Herr.</p>
-            <p>Wür haben aus des Herrn Bericht Schreiben des mereren vernomben, wie das der Beneficiat zu Saalen Priester <rs type="person" ref="#stainer_sebastian">Sebastian Stainer</rs> den 8. dis in Gott seelig verschiden, waraufhin bey dessen zeitlichen Verlassenschaft von dem selben die gewohnliche Secretur in unseren Nomben angeleget, und die Interimsprovision Priestern <rs type="person" ref="#hueber_martin">Martin Hueber</rs> auf getragen worden seye. Gleichwie es nun bey angelegter Secretur so wohl, als auch vorgekherter Provision dermahlen zu bewenden hat; Als tragen dem Herrn hierdurch die Commission auf, befelchende, das er sein Priesters Stainers seeligen Verlassenschafft servatis servandis vollstendig verhandlen, verthailen, und behöriger Orthen extradieren. Da er aber ein Testament oder anderley Disposition hinterlassen hette, und darwider von denen Erbsinteressenten oder jemande anderen ein Difficultet moviert wurde, das dem Stritt inter partes in Giethe zu vereinpahren</p>
+            <p>Wür haben aus des Herrn Bericht Schreiben des mereren vernomben, wie das der Beneficiat zu <rs type="place" ref="#saalen">Saalen</rs> Priester <rs type="person" ref="#stainer_sebastian">Sebastian Stainer</rs> den 8. dis in Gott seelig verschiden, waraufhin bey dessen zeitlichen Verlassenschaft von dem selben die gewohnliche Secretur in unseren Nomben angeleget, und die Interimsprovision Priestern <rs type="person" ref="#hueber_martin">Martin Hueber</rs> auf getragen worden seye. Gleichwie es nun bey angelegter Secretur so wohl, als auch vorgekherter Provision dermahlen zu bewenden hat; Als tragen dem Herrn hierdurch die Commission auf, befelchende, das er sein Priesters <rs type="person" ref="#stainer_sebastian">Stainers</rs> seeligen Verlassenschafft servatis servandis vollstendig verhandlen, verthailen, und behöriger Orthen extradieren. Da er aber ein Testament oder anderley Disposition hinterlassen hette, und darwider von denen Erbsinteressenten oder jemande anderen ein Difficultet moviert wurde, das dem Stritt inter partes in Giethe zu vereinpahren</p>
             <p>
                <pb n="42dv"/> oder zu entschaiden verfachende Project, vor dessen Publication uns zu gebihrender Deliberation, und volglicher Verbschaidung, wie auch seiner Zeit die Abhandlungs Acta in originali, aut copia authenticae mit seinen umbstendlichsten Bericht des Verlauffs anhero einsenden solle. Habende der Herr zu ain und anderen, wie obstehet hiemit all erforderlichen Gewalt. Hieran vollziecht der Herr unseren Willen und Mainung, und wür verbleiben dem selben anebey wohl beygethan. Geben in Consistorio zu <rs type="place" ref="#brixen">Brixen</rs> den <date when="1756-03-15">15. Marti 1756</date>.</p>
             <p><rs type="person" ref="#joseph_ferdinand">Ferdinand Joseph</rs> Bisch zu Hyschopl</p>
-            <p>Graf v. Särnthein Praeses m.p.</p>
-            <p>Joseph Andree Müller Secret.</p>
+            <p><rs type="person" ref="#graf_von_saernthein">Graf v. Särnthein</rs> Praeses m.p.</p>
+            <p><rs type="person" ref="#mueller_joseph_andree">Joseph Andree Müller</rs> Secret.</p>
             <p>
                <pb n="42ev"/>
             </p>
-            <p>[Briefadresse:] Dem ehrwürdig edlen hochgelehrten Joseph Mathias Ingramb von Liebenrain, und Fragburg, hochfürstlich Brixnerischer geistlicher Rath, auch Döchandt und Pfarrern zu Brunegg, unsern besonders lieben Freindt und Herrn.</p>
-            <p>Brunegg</p>
-            <p>[Rubrum] 15 Marty 1756</p>
-            <p>Commissionsbefehl zur Abhandlung zeitlich seel. Verlassenschaft des Beneficiaten zu Saalen Priester Sebastian Stainer</p>
-            <p>Praes. den 18ten detto</p>
+            <p>[Briefadresse:] Dem ehrwürdig edlen hochgelehrten <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingramb</rs> von Liebenrain, und Fragburg, hochfürstlich <rs type="place" ref="#brixen">Brixnerischer</rs> geistlicher Rath, auch Döchandt und Pfarrern zu <rs type="place" ref="#brunegg">Brunegg</rs>, unsern besonders lieben Freindt und Herrn.</p>
+            <p><rs type="place" ref="#brunegg">Brunegg</rs></p>
+            <p>[Rubrum] <date when="1756-03-15">15 Marty 1756</date></p>
+            <p>Commissionsbefehl zur Abhandlung zeitlich seel. Verlassenschaft des Beneficiaten zu <rs type="place" ref="#saalen">Saalen</rs> Priester <rs type="person" ref="#stainer_sebastian">Sebastian Stainer</rs></p>
+            <p>Praes. den <date when="1756-03-18">18ten detto</date></p>
             <p>
                <pb n="42fv"/>
             </p>
             <p>[Rubrum]<date notBefore="1756-01-01" notAfter="1756-12-31">1756</date></p>
             <p>Gwalt.</p>
-            <p>Fir dem wolernvesten Herrn Michaeln Iser Raths Burgern und Handlsman zu Clausen, und Franzen Kels, Tischlermaisern zu Layen.</p>
+            <p>Fir dem wolernvesten Herrn <rs type="person" ref="#iser_michaeln">Michaeln Iser</rs> Raths Burgern und Handlsman zu <rs type="place" ref="#clausen">Clausen</rs>, und <rs type="person" ref="#kels_franzen">Franzen Kels</rs>, Tischlermaisern zu Layen.</p>
             <p>Von ut intus.</p>
             <p>
                <pb n="42ar"/>
             </p>
-            <p>Actum <rs type="place" ref="#klausen">Clausen</rs> den finfundzwainzigisten Tag Mannats Marti anno sibenzöchenhundert sechsund funfzig.</p>
+            <p>Actum <rs type="place" ref="#klausen">Clausen</rs> den <date when="1756-03-25">finfundzwainzigisten Tag Mannats Marti anno sibenzöchenhundert sechsund funfzig</date>.</p>
             <p>Zumahlen Iro Wol Erwirden Herr Joseph Sebastian Stainer, gewester Beneficiat zu Saln, in Pusterthal, yber dessen jingstliches Verableiben, seeligen, selbst khaine, dargegen von dessen Vatern, Jacoben Stainer, gewesten Burger unnd Seckhlermaister alhier in Clausen, vermig disortigen Statgerichts Protocol, zwo Stainerische eheleibliche Geschwistriget, namens Christoph, und Mariä, als vaterpendiger seits negste Erben, verlassen, davon volgende Descendenz verhanden, als von ersten Haubtstollen, weilend Herrn Christophen Stainer, gewesten Raths Burger, und Handlsman disorts, aus Apolaniä Mesnerischer Ehe, finf Khinder, Herr Michael Stainer, Vicari unter den Erzbistumb Salzburg, dan Joseph, Seckhlermaister zu Ratenberg, Anthoni, so verstorben, unnd von Mariä Thalerischer Ehe, acht Khinder, namens</p>
             <p>
                <pb n="42av"/> Joseph, Mariä, Anna, Catharinä, Helenä, Elisabeth, Ursulä, unnd Margreth, zurugg begeben, dan Franz, gewester Seckhlermaisters alhier, bei Margreth Hueberin, ehelich erzeugter Sohn, Johann Michael genant, unnd Mariä Stainerin, noch unverheyraten Stants, alhier wahnend, verer von anderten Hauptstollen, Mariä Stainerin, bei iren gehabten Eheman, Stephan Planer, erzeigter Sohn, Ignäti Planer, gewester Bstantswirth am Bern alda in Clausen, so auch verstorben, unnd bei Elisabeth Riglin, zwai Khinder verlassen, namens Jacob, und Anna. Damit nun all dise, bei firwerender Herrn veterlich ermelt Joseph Sebastian Stainerischen Vermigens Abhandlung erforderlich vertreten werden, haben vonseiten des Herrn Christoph Stainerischen Hauptstollens, Herr Joseph Glanganer, des Raths alhier, als obrigkheitllich Verpflichter Gerhab des Anthoni Stainerischen Nachstollens noch maistenthails minderjerigen Khinder, unnd in Versprechung der ybrigen von disen Nach-</p>

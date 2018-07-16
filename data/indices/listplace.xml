@@ -42,6 +42,7 @@
             <place xml:id="brixen">
                <placeName>Brixen</placeName>
                <placeName type="alt">Bressanone</placeName>
+               <placeName type="alt">Brixnerischer</placeName>
                <location>
                   <geo decls="#LatLng">46.71503 11.65598</geo>
                </location>
@@ -64,16 +65,31 @@
             <place xml:id="st_lorenzen">
                <placeName>St. Lorenzen</placeName>
                <location>
-                  <geo decls="#LatLng">24.46861 39.6141</geo>
+                  <geo decls="#LatLng">46.783333 11.9</geo>
                </location>
-               <idno type="GEONAMES">http://sws.geonames.org/109223</idno>
+               <idno type="GEONAMES">http://www.geonames.org/3168114</idno>
             </place>
-            <place xml:id="st_lorenzen_test">
-               <placeName>St. Lorenzen Test</placeName>
+            <place xml:id="saalen">
+               <placeName>Saalen</placeName>
                <location>
-                  <geo decls="#LatLng">24.46861 -39.6141</geo>
+                  <geo decls="#LatLng">46.757974 11.874139</geo>
                </location>
-               <idno type="GEONAMES">http://sws.geonames.org/109223</idno>
+               <idno type="GEONAMES">http://www.geonames.org/3168114</idno>
+               <note>Ist Teil von <rs type="#st_lorenzen">St. Lorenzen</rs></note>
+            </place>
+            <place xml:id="brunegg">
+               <placeName>Brunegg</placeName>
+               <location>
+                  <geo decls="#LatLng">46.79674 11.935465</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3181480</idno>
+            </place>
+            <place xml:id="clausen">
+               <placeName>Clausen</placeName>
+               <location>
+                  <geo decls="#LatLng">46.633333 11.566667</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3178764</idno>
             </place>
          </listPlace>
       </body>

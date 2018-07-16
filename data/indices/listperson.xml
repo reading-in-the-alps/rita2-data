@@ -41,10 +41,13 @@
                   <forename>Sebastian</forename>
                   <surname>Stainer</surname>
                </persName>
-               <note>
-                  <p>Ist Bruder von <rs type="#hueber_martin">Hueber Martin</rs></p>
-                  <p>Ist Vater von <ptr target="#prokosch_michael"/></p>
-               </note>
+               <note/>
+            </person>
+            <person xml:id="joseph_ferdinand">
+               <persName>
+                  <forename>Ferdinand</forename>
+                  <surname>Joseph</surname>
+               </persName>
             </person>
             <person xml:id="hueber_martin">
                <persName>
@@ -72,6 +75,42 @@
                   <surname>Andorfer</surname>
                </persName>
                <idno type="URL">VIAF</idno>
+            </person>
+            <person xml:id="kirnbauer_martin">
+               <persName>
+                  <forename>Martin</forename>
+                  <surname>Kirnbauer</surname>
+               </persName>
+            </person>
+            <person xml:id="graf_von_saernthein">
+               <persName>
+                  <forename/>
+                  <surname/>
+               </persName>
+            </person>
+            <person xml:id="mueller_joseph_andree">
+               <persName>
+                  <forename>Joseph Andree</forename>
+                  <surname>Müller</surname>
+               </persName>
+            </person>
+            <person xml:id="ingramb_joseph_mathias">
+               <persName>
+                  <forename>Joseph Mathias</forename>
+                  <surname>Ingramb</surname>
+               </persName>
+            </person>
+            <person xml:id="iser_michaeln">
+               <persName>
+                  <forename>Michaeln</forename>
+                  <surname>Iser</surname>
+               </persName>
+            </person>
+            <person xml:id="kels_franzen">
+               <persName>
+                  <forename>Franzen</forename>
+                  <surname>Kels</surname>
+               </persName>
             </person>
          </listPerson>
       </body>
