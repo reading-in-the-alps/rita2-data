@@ -41,6 +41,10 @@
                   <forename>Sebastian</forename>
                   <surname>Stainer</surname>
                </persName>
+               <note>
+                  <p>Ist Bruder von <rs type="#hueber_martin">Hueber Martin</rs></p>
+                  <p>Ist Vater von <ptr target="#prokosch_michael"/></p>
+               </note>
             </person>
             <person xml:id="hueber_martin">
                <persName>
