@@ -60,6 +60,13 @@
                   <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
                </fallback>
             </xi:include>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="../indices/listbibl.xml"
+               xpointer="listbibl">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">
+                  <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
+               </fallback>
+            </xi:include>
          </p>
       </encodingDesc>
    </teiHeader>

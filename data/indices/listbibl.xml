@@ -35,7 +35,7 @@
     </teiHeader>
     <text>
         <body>
-            <listBibl>
+            <listBibl xml:id="listbibl">
                 <bibl xml:id="marianischer_ehren_saal">Mariänischer Ehren Saal</bibl>
                 <bibl xml:id="knellingers_predigten">Reverentis Patris Knellingers Prödigen Auf Alle Andert Jahr</bibl>
             </listBibl>
