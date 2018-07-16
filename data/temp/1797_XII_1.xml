@@ -30,14 +30,14 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus from="" to=""/>
+                     <locus from="208r" to="247v"/>
                      <note>
                         <rs type="skos" ref="#inventar">Inventar</rs>
                      </note>
                   </msItem>
                </msContents>
                <history>
-                  <origin notBefore="1797-12-1">
+                  <origin notBefore="1797-12-01">
                      <rs type="place" ref="st_lorenzen">St. Lorenzen</rs>
                   </origin>
                </history>

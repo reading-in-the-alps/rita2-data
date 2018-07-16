@@ -20,7 +20,7 @@
     </xsl:variable>
     
     <xsl:variable name="day">
-        <xsl:value-of select="format-number(number(tokenize($orig-date, '_')[3]), '#')"/>
+        <xsl:value-of select="format-number(number(tokenize($orig-date, '_')[3]), '00')"/>
     </xsl:variable>
     
     <xsl:variable name="mo-iso">
@@ -44,18 +44,18 @@
         <xsl:value-of select="string-join( ($year, $mo-iso, $day), '-')"/>
     </xsl:variable>
    
-    <xsl:variable name="startpage">
+    <xsl:variable name="startpage"> 
         <xsl:variable name="pagenumber">
-            <xsl:value-of select="substring-after((.//tei:hi[@rend='background(darkGray)'])[1]/text(), 'fol. ')"/>
+            <xsl:value-of select=".//tei:p[starts-with(., '[fol. ')][1]"/>
         </xsl:variable>
-        <xsl:value-of select="substring-before($pagenumber, ']')"/>
+        <xsl:value-of select="substring-after(substring-before($pagenumber, ']'), '[fol. ')"/>
     </xsl:variable>
     
-    <xsl:variable name="endpage">
+    <xsl:variable name="endpage"> 
         <xsl:variable name="pagenumber">
-            <xsl:value-of select="substring-after((.//tei:hi[@rend='background(darkGray)'])[last()]/text(), 'fol. ')"/>
+            <xsl:value-of select=".//tei:p[starts-with(., '[fol. ')][last()]"/>
         </xsl:variable>
-        <xsl:value-of select="substring-before($pagenumber, ']')"/>
+        <xsl:value-of select="substring-after(substring-before($pagenumber, ']'), '[fol. ')"/>
     </xsl:variable>
 
     
@@ -98,8 +98,9 @@
     
     <xsl:template match="tei:teiHeader">
         <teiHeader>
-            <!--<filename><xsl:value-of select="$filename"/></filename>-->
-            <!--<dategood><xsl:value-of select="$date-good"/></dategood>
+<!--            <startpage><xsl:value-of select="$startpage"/></startpage>
+            <filename><xsl:value-of select="$filename"/></filename>
+            <dategood><xsl:value-of select="$date-good"/></dategood>
             <day><xsl:value-of select="$day"/></day>
             <moiso><xsl:value-of select="$mo-iso"/></moiso>
             <year><xsl:value-of select="$year"/></year>-->

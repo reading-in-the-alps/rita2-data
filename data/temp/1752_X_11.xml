@@ -30,7 +30,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus from="" to=""/>
+                     <locus from="5v" to="20r"/>
                      <note>
                         <rs type="skos" ref="#inventar">Inventar</rs>
                      </note>
