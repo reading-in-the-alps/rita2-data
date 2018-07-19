@@ -43,6 +43,76 @@
                </persName>
                <note/>
             </person>
+            <person xml:id="stainer_joseph_sebastian">
+               <persName>
+                  <forename>Joseph Sebastian</forename>
+                  <surname>Stainer</surname>
+               </persName>
+               <note/>
+            </person>
+            <person xml:id="stainer_jacoben">
+               <persName>
+                  <forename>Jacoben</forename>
+                  <surname>Stainer</surname>
+               </persName>
+               <note>Vater von <rs type="person" ref="#stainer_joseph_sebastian">Joseph Sebastian Stainer</rs></note>
+            </person>
+            <person xml:id="stainer_christoph">
+               <persName>
+                  <forename>Christoph</forename>
+                  <surname>Stainer</surname>
+               </persName>
+               <note>Sohn von <rs type="person" ref="#stainer_joseph_sebastian">Joseph Sebastian Stainer</rs></note>
+            </person>
+            <person xml:id="stainer_mariae">
+               <persName>
+                  <forename>Mariä</forename>
+                  <surname>Stainer</surname>
+               </persName>
+               <note>Tochter von <rs type="person" ref="#stainer_joseph_sebastian">Joseph Sebastian Stainer</rs></note>
+            </person>
+            <person xml:id="stainer_christophen">
+               <persName>
+                  <forename>Christophen</forename>
+                  <surname>Stainer</surname>
+               </persName>
+               <note/>
+            </person>
+            <person xml:id="stainer_michael">
+               <persName>
+                  <forename>Michael</forename>
+                  <surname>Stainer</surname>
+               </persName>
+               <note>Sohn von <rs type="person" ref="#stainer_christophen">Christophen Steiner</rs> und <rs type="person" ref="#mesner_apolaniae">Apolaniä Mesner</rs></note>
+            </person>
+            <person xml:id="stainer_anthoni">
+               <persName>
+                  <forename>Anthoni</forename>
+                  <surname>Stainer</surname>
+               </persName>
+               <note>Sohn von <rs type="person" ref="#stainer_christophen">Christophen Steiner</rs> und <rs type="person" ref="#mesner_apolaniae">Apolaniä Mesner</rs></note>
+            </person>
+            <person xml:id="stainer_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Stainer</surname>
+               </persName>
+               <note>Sohn von <rs type="person" ref="#stainer_christophen">Christophen Steiner</rs> und <rs type="person" ref="#mesner_apolaniae">Apolaniä Mesner</rs></note>
+            </person>
+            <person xml:id="mesner_apolaniae">
+               <persName>
+                  <forename>Apolaniä</forename>
+                  <surname>Mesner</surname>
+               </persName>
+               <note>Erste Ehefrau von <rs type="person" ref="#stainer_christophen">Christophen Stainer</rs></note>
+            </person>
+            <person xml:id="thaler_mariae">
+               <persName>
+                  <forename>Mariä</forename>
+                  <surname>Thaler</surname>
+               </persName>
+               <note>Zweite Ehefrau von <rs type="person" ref="#stainer_christophen">Christophen Stainer</rs></note>
+            </person>
             <person xml:id="joseph_ferdinand">
                <persName>
                   <forename>Ferdinand</forename>

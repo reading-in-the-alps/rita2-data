@@ -82,7 +82,7 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3181480</idno>
             </place>
-            <place xml:id="clausen">
+            <place xml:id="klausen">
                <placeName>Chiusa</placeName>
                <location>
                   <geo decls="#LatLng">46.633333 11.566667</geo>

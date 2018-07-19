@@ -15,3 +15,5 @@ contains the result of bulk processing `/word/*.docx` with `DOCX TEI P5` oxygen 
 ## annotation guidelines
 
 * person: in case name + role is mentioned, annotate name only; in case only role is mentioned, annotate role as person
+* place: place names, e.g. in *Seckhlermaister zu Ratenberg*, are annotated
+* place: in case a place name is mentioned as part of an organizational name, the place name is not annotated, e.g. *Salzburg* in *Erzbistumb Salzburg*
