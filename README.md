@@ -14,6 +14,11 @@ contains the result of bulk processing `/word/*.docx` with `DOCX TEI P5` oxygen 
 
 ## annotation guidelines
 
-* person: in case name + role is mentioned, annotate name only; in case only role is mentioned, annotate role as person
-* place: place names, e.g. in *Seckhlermaister zu Ratenberg*, are annotated
-* place: in case a place name is mentioned as part of an organizational name, the place name is not annotated, e.g. *Salzburg* in *Erzbistumb Salzburg*
+* person: 
+** in case name + role is mentioned, annotate name only; in case only role is mentioned, annotate role as person
+** *Hansen*, *Josephen*, *Christophen* annotated as *Hans*, *Joseph*, *Christoph*
+** *Ännä Pirchnerin* annotated as *pirchner_aennae*
+** saints (*Johan*, *Franciscus*, *Mariä* are not to be annotated
+* place: 
+** place names, e.g. in *Seckhlermaister zu Ratenberg* are to be annotated
+** in case a place name is mentioned as part of an organizational name, the place name is not to be annotated, e.g. *Salzburg* in *Erzbistumb Salzburg*, *Brixen* in *Stüffts Brixen*

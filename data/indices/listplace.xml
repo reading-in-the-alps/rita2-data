@@ -89,6 +89,21 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3178764</idno>
             </place>
+			<place xml:id="saenct_michaelspurg">
+               <placeName>Castel di San Michele</placeName>
+               <location>
+                  <geo decls="#LatLng">46.783333 11.9</geo>
+               </location>
+               <idno type="GEONAMES"></idno>
+			   <note>Teil von <rs type="place" ref="#st_lorenzen">Sankt Lorenzen</rs></note>
+            </place>
+			<place xml:id="welsberg">
+               <placeName>Monguelfo</placeName>
+               <location>
+                  <geo decls="#LatLng">46.75774 12.10556</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3173140</idno>
+            </place>
          </listPlace>
       </body>
   </text>
