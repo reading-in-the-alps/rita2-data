@@ -41,49 +41,48 @@
                   <forename>Sebastian</forename>
                   <surname>Stainer</surname>
                </persName>
-               <note/>
+               <note>Priester, Beneficiat zu Saln in Pusterthal</note>
             </person>
             <person xml:id="stainer_joseph_sebastian">
                <persName>
                   <forename>Joseph Sebastian</forename>
                   <surname>Stainer</surname>
                </persName>
-               <note/>
             </person>
             <person xml:id="stainer_jacoben">
                <persName>
                   <forename>Jacoben</forename>
                   <surname>Stainer</surname>
                </persName>
-               <note>Vater von <rs type="person" ref="#stainer_joseph_sebastian">Joseph Sebastian Stainer</rs></note>
+               <note>Vater von <rs type="person" ref="#stainer_joseph_sebastian">Joseph Sebastian Stainer</rs>, Burger unnd Seckhlermaister alhier in Clausen</note>
             </person>
             <person xml:id="stainer_christoph">
                <persName>
                   <forename>Christoph</forename>
                   <surname>Stainer</surname>
                </persName>
-               <note>Sohn von <rs type="person" ref="#stainer_joseph_sebastian">Joseph Sebastian Stainer</rs></note>
+               <note>Sohn von <rs type="person" ref="#stainer_joseph_sebastian">Joseph Sebastian Stainer</rs>, Bruder von <rs type="person" ref="#stainer_sebastian">Sebastian Stainer</rs></note>
             </person>
             <person xml:id="stainer_mariae">
                <persName>
                   <forename>Mariä</forename>
                   <surname>Stainer</surname>
                </persName>
-               <note>Tochter von <rs type="person" ref="#stainer_joseph_sebastian">Joseph Sebastian Stainer</rs></note>
+               <note>Tochter von <rs type="person" ref="#stainer_joseph_sebastian">Joseph Sebastian Stainer, Schwester von <rs type="person" ref="#stainer_sebastian">Sebastian Stainer</rs></note>
             </person>
             <person xml:id="stainer_christophen">
                <persName>
                   <forename>Christophen</forename>
                   <surname>Stainer</surname>
                </persName>
-               <note/>
+               <note>Sohn von <rs type="person" ref="#stainer_sebastian">Sebastian Stainer</rs>, Raths Burger, und Handlsman </note>
             </person>
             <person xml:id="stainer_michael">
                <persName>
                   <forename>Michael</forename>
                   <surname>Stainer</surname>
                </persName>
-               <note>Sohn von <rs type="person" ref="#stainer_christophen">Christophen Steiner</rs> und <rs type="person" ref="#mesner_apolaniae">Apolaniä Mesner</rs></note>
+               <note>Sohn von <rs type="person" ref="#stainer_christophen">Christophen Steiner</rs> und <rs type="person" ref="#mesner_apolaniae">Apolaniä Mesner</rs>, Vicari unter den Erzbistumb Salzburg</note>
             </person>
             <person xml:id="stainer_anthoni">
                <persName>
@@ -124,6 +123,7 @@
                   <forename>Martin</forename>
                   <surname>Hueber</surname>
                </persName>
+			   <note>Priester</note>
             </person>
             <person xml:id="prokosch_michael">
                <persName>
@@ -169,18 +169,170 @@
                   <forename>Joseph Mathias</forename>
                   <surname>Ingramb</surname>
                </persName>
+			   <note>hochfürstlich Brixnerischer geistlicher Rath, Döchandt und Pfarrern zu Brunegg</note>
             </person>
             <person xml:id="iser_michaeln">
                <persName>
                   <forename>Michaeln</forename>
                   <surname>Iser</surname>
                </persName>
+			   <note>Raths Burgern und Handlsman zu Clausen</note>
             </person>
-            <person xml:id="kels_franzen">
+            <person xml:id="kels_franz">
                <persName>
-                  <forename>Franzen</forename>
+                  <forename>Franz</forename>
                   <surname>Kels</surname>
                </persName>
+			   <note>Tischlermaisern zu Layen</note>
+            </person>
+			<person xml:id="stainer_joseph_2">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Stainer</surname>
+               </persName>
+			   <note>Seckhlermaister zu Ratenberg</note>
+            </person>
+			<person xml:id="stainer_mariae">
+               <persName>
+                  <forename>Mariä</forename>
+                  <surname>Stainer</surname>
+               </persName>
+            </person>
+			<person xml:id="stainer_anna">
+               <persName>
+                  <forename>Anna</forename>
+                  <surname>Stainer</surname>
+               </persName>
+            </person>
+			<person xml:id="stainer_catharinae">
+               <persName>
+                  <forename>Catharinä</forename>
+                  <surname>Stainer</surname>
+               </persName>
+            </person>
+			<person xml:id="stainer_helenae">
+               <persName>
+                  <forename>Helenä</forename>
+                  <surname>Stainer</surname>
+               </persName>
+            </person>
+			<person xml:id="stainer_elisabeth">
+               <persName>
+                  <forename>Elisabeth</forename>
+                  <surname>Stainer</surname>
+               </persName>
+            </person>
+			<person xml:id="stainer_ursulae">
+               <persName>
+                  <forename>Ursulä</forename>
+                  <surname>Stainer</surname>
+               </persName>
+            </person>
+			<person xml:id="stainer_margreth">
+               <persName>
+                  <forename>Margreth</forename>
+                  <surname>Stainer</surname>
+               </persName>
+            </person>
+			<person xml:id="stainer_franz">
+               <persName>
+                  <forename>Franz</forename>
+                  <surname>Stainer</surname>
+               </persName>
+			   <note>Seckhlermaister</note>
+            </person>
+			<person xml:id="hueber_margreth">
+               <persName>
+                  <forename>Margreth</forename>
+                  <surname>Hueber</surname>
+               </persName>
+            </person>
+			<person xml:id="stainer_johann_michael">
+               <persName>
+                  <forename>Johann Michael</forename>
+                  <surname>Stainer</surname>
+               </persName>
+			   <note>Sohn von <rs type="person" ref="#stainer_franz">Franz Stainer</rs></note>
+            </person>
+			<person xml:id="planer_stephan">
+               <persName>
+                  <forename>Stephan</forename>
+                  <surname>Planer</surname>
+               </persName>
+            </person>
+			<person xml:id="planer_ignaeti">
+               <persName>
+                  <forename>Ignäti</forename>
+                  <surname>Planer</surname>
+               </persName>
+            </person>
+			<person xml:id="riglin_elisabeth">
+               <persName>
+                  <forename>Elisabeth</forename>
+                  <surname>Riglin</surname>
+               </persName>
+            </person>
+			<person xml:id="planer_jacob">
+               <persName>
+                  <forename>Jacob</forename>
+                  <surname>Planer</surname>
+               </persName>
+			   <note>Sohn von <rs type="person" ref="#planer_ignaeti">Ignäti Planer</rs></note>
+            </person>
+			<person xml:id="planer_anna">
+               <persName>
+                  <forename>Anna</forename>
+                  <surname>Planer</surname>
+               </persName>
+			   <note>Tochter von <rs type="person" ref="#planer_ignaeti">Ignäti Planer</rs></note>
+            </person>
+			<person xml:id="stainer_johann_sebastian">
+               <persName>
+                  <forename>Johann Sebastian</forename>
+                  <surname>Stainer</surname>
+               </persName>
+            </person>
+			<person xml:id="glanganer_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Glanganer</surname>
+               </persName>
+			   <note>Rath</note>
+            </person>
+			<person xml:id="schaler_christoph">
+               <persName>
+                  <forename>Christoph</forename>
+                  <surname>Schaler</surname>
+               </persName>
+			   <note>Burger und Pintermaister</note>
+            </person>
+			<person xml:id="zopolt_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Zopolt</surname>
+               </persName>
+			   <note>Statschreiber</note>
+            </person>
+			<person xml:id="rabenstainer_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Rabenstainer</surname>
+               </persName>
+			   <note>Zeuge</note>
+            </person>
+			<person xml:id="wirth_puschen">
+               <persName>
+                  <forename>Puschen</forename>
+                  <surname>Wirth</surname>
+               </persName>
+			   <note>Zeuge</note>
+            </person>
+			<person xml:id="schwarzrockh_marx">
+               <persName>
+                  <forename>Marx</forename>
+                  <surname>Schwarzrockh</surname>
+               </persName>
+			   <note>Zeuge, Portenwirckher</note>
             </person>
          </listPerson>
       </body>
