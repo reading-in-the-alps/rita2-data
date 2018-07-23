@@ -73,7 +73,7 @@
                   <geo decls="#LatLng">46.757974 11.874139</geo>
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3168114</idno>
-               <note>Ist Teil von <rs type="#st_lorenzen">St. Lorenzen</rs></note>
+               <note>Ist Teil von <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </place>
             <place xml:id="brunegg">
                <placeName>Brunico</placeName>
