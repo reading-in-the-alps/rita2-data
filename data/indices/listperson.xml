@@ -83,8 +83,11 @@
                   <forename>Jacob</forename>
                   <surname>Stainer</surname>
                </persName>
-               <note>Vater von <rs type="person" ref="#stainer_sebastian">Sebastian
-                  Stainer</rs>, Burger unnd Seckhlermaister in <rs type="place" ref="#klausen">Clausen</rs></note>
+               <note type="family">Vater von <rs type="person" ref="#stainer_sebastian">Sebastian
+                  Stainer</rs> </note>
+               <note type="function">
+                  Burger unnd Seckhlermaister in <rs type="place" ref="#klausen">Clausen</rs>
+               </note>
             </person>
             <person xml:id="stainer_christoph">
                <persName>
