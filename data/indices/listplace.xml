@@ -7,14 +7,14 @@
             <respStmt>
                <resp>Datenkruation</resp>
                <name>
-                        <rs type="person" ref="#span_michael">Michael Span</rs>
-                    </name>
+                  <rs type="person" ref="#span_michael">Michael Span</rs>
+               </name>
                <name>
-                        <rs type="person" ref="#proksch_michael">Michael Proksch</rs>
-                    </name>
+                  <rs type="person" ref="#proksch_michael">Michael Proksch</rs>
+               </name>
                <name>
-                        <rs type="person" ref="#peter_andorfer">Peter Andorfer</rs>
-                    </name>
+                  <rs type="person" ref="#peter_andorfer">Peter Andorfer</rs>
+               </name>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -22,9 +22,14 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                   <p>The (CC BY-SA 4.0)-License applies to this document.</p>
-                  <p>You are allowed to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) for any purpose, even commercially.</p>
-                  <p>You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</p>
-                  <p>ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.</p>
+                  <p>You are allowed to share (copy and redistribute the material in any medium or
+                     format) and adapt (remix, transform, and build upon the material) for any
+                     purpose, even commercially.</p>
+                  <p>You must give appropriate credit, provide a link to the license, and indicate
+                     if changes were made. You may do so in any reasonable manner, but not in any
+                     way that suggests the licensor endorses you or your use.</p>
+                  <p>ShareAlike — If you remix, transform, or build upon the material, you must
+                     distribute your contributions under the same license as the original.</p>
                </licence>
             </availability>
          </publicationStmt>
@@ -36,7 +41,7 @@
          <geoDecl xml:id="LatLng">latitude whitespace longitute</geoDecl>
       </encodingDesc>
    </teiHeader>
-  <text>
+   <text>
       <body>
          <listPlace xml:id="listplace">
             <place xml:id="brixen">
@@ -89,22 +94,43 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3178764</idno>
             </place>
-			<place xml:id="saenct_michaelspurg">
+            <place xml:id="saenct_michaelspurg">
                <placeName>Castel di San Michele</placeName>
                <location>
                   <geo decls="#LatLng">46.783333 11.9</geo>
                </location>
-               <idno type="GEONAMES"></idno>
-			   <note>Teil von <rs type="place" ref="#st_lorenzen">Sankt Lorenzen</rs></note>
+               <idno type="GEONAMES"/>
+               <note>Teil von <rs type="place" ref="#st_lorenzen">Sankt Lorenzen</rs></note>
             </place>
-			<place xml:id="welsberg">
+            <place xml:id="welsberg">
                <placeName>Monguelfo</placeName>
                <location>
                   <geo decls="#LatLng">46.75774 12.10556</geo>
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3173140</idno>
             </place>
+            <place xml:id="lazfonns">
+               <placeName>Lazfons</placeName>
+               <location>
+                  <geo decls="#LatLng">46.66965 11.55135</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3174978</idno>
+            </place>
+            <place xml:id="verdings">
+               <placeName>Verdignes</placeName>
+               <location>
+                  <geo decls="#LatLng">46.65653 11.57221</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/8951089</idno>
+            </place>
+            <place xml:id="aufkhirchen">
+               <placeName>Santa Maria</placeName>
+               <location>
+                  <geo decls="#LatLng">46.74395 12.20311</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/8954761</idno>
+            </place>
          </listPlace>
       </body>
-  </text>
+   </text>
 </TEI>
