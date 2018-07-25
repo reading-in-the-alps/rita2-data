@@ -15,6 +15,9 @@
                <name>
                   <rs type="person" ref="#peter_andorfer">Peter Andorfer</rs>
                </name>
+               <name>
+                  <rs type="person" ref="#kirnbauer_martin">Martin Kirnbauer</rs>
+               </name>
             </respStmt>
          </titleStmt>
          <publicationStmt>
