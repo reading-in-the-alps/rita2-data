@@ -95,12 +95,15 @@
                <idno type="GEONAMES">http://www.geonames.org/3178764</idno>
             </place>
             <place xml:id="saenct_michaelspurg">
-               <placeName>Castel di San Michele</placeName>
+               <placeName>St. Michaelsburg</placeName>
+               <placeName type="alt">St. Michelsburg</placeName>
+               <placeName type="alt">Michaelsburg</placeName>
+               <placeName type="alt">Michelsburg</placeName>
                <location>
-                  <geo decls="#LatLng">46.783333 11.9</geo>
+                  <geo decls="#LatLng">46.772234 11.892195</geo>
                </location>
                <idno type="GEONAMES"/>
-               <note>Teil von <rs type="place" ref="#st_lorenzen">Sankt Lorenzen</rs></note>
+               <note>Gericht</note>
             </place>
             <place xml:id="welsberg">
                <placeName>Monguelfo</placeName>
@@ -123,12 +126,20 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/8951089</idno>
             </place>
-            <place xml:id="aufkhirchen">
-               <placeName>Santa Maria</placeName>
+            <place xml:id="rattenperg">
+               <placeName>Rattenberg</placeName>
                <location>
-                  <geo decls="#LatLng">46.74395 12.20311</geo>
+                  <geo decls="#LatLng">47.43941 11.89407</geo>
                </location>
-               <idno type="GEONAMES">http://www.geonames.org/8954761</idno>
+               <idno type="GEONAMES">http://www.geonames.org/2767902</idno>
+            </place>
+            <place xml:id="soneburg">
+               <placeName>Sonnenburg</placeName>
+               <location>
+                  <geo decls="#LatLng">46.78644 11.89123</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/8954327</idno>
+               <note>Hof- und Lehengericht</note>
             </place>
          </listPlace>
       </body>
