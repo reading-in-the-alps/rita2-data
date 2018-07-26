@@ -102,6 +102,7 @@
                <placeName type="alt">St. Michelsburg</placeName>
                <placeName type="alt">Michaelsburg</placeName>
                <placeName type="alt">Michelsburg</placeName>
+               <placeName type="alt">St. Michaelspurg</placeName>
                <location>
                   <geo decls="#LatLng">46.772234 11.892195</geo>
                </location>
@@ -143,6 +144,14 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/8954327</idno>
                <note>Hof- und Lehengericht</note>
+            </place>
+            <place xml:id="getreuenstain">
+               <placeName>Getreuenstain</placeName>
+               <location>
+                  <geo decls="#LatLng"/>
+               </location>
+               <idno type="GEONAMES"/>
+               <note>Ansitz zu <rs type="place" ref="#dietenheim">Dietenhaimb</rs></note>
             </place>
          </listPlace>
       </body>

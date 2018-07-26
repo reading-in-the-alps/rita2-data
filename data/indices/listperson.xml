@@ -620,6 +620,81 @@
                   <surname>Steeger</surname>
                </persName>
             </person>
+            <person xml:id="stockher_maria_ursula">
+               <persName>
+                  <forename>Maria Ursula</forename>
+                  <surname>Stockher</surname>
+               </persName>
+            </person>
+            <person xml:id="wenzl_johann_joseph_martin">
+               <persName>
+                  <forename>Johann Joseph Martin</forename>
+                  <surname>Wenzl von Khirchegg zu Ragen, und Gethreuenstain etc.</surname>
+               </persName>
+            </person>
+            <person xml:id="hebenstreit_christoph_andree">
+               <persName>
+                  <forename>Christoph Andree</forename>
+                  <surname>Hebenstreit, von Glurnhör</surname>
+               </persName>
+            </person>
+            <person xml:id="hueber_nidermayr_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Hueber Nidermayr zu Dietenhaimb</surname>
+               </persName>
+            </person>
+            <person xml:id="danauer_johann_joseph_ciriaen">
+               <persName>
+                  <forename>Johann Joseph Ciriän</forename>
+                  <surname>Danauer</surname>
+               </persName>
+            </person>
+            <person xml:id="stockher_andre">
+               <persName>
+                  <forename>Andre</forename>
+                  <surname>Stockher</surname>
+               </persName>
+            </person>
+            <person xml:id="stockher_franz_antoni">
+               <persName>
+                  <forename>Franz Antoni</forename>
+                  <surname>Stockher</surname>
+               </persName>
+            </person>
+            <person xml:id="stockher_maria_magdalena">
+               <persName>
+                  <forename>Maria Magdalena</forename>
+                  <surname>Stockher</surname>
+               </persName>
+            </person>
+            <person xml:id="spaengler_joseph_paul">
+               <persName>
+                  <forename>Joseph Paul</forename>
+                  <surname>Spängler</surname>
+               </persName>
+               <note type="function">Ährner Handls Verweeser und Cassier</note>
+            </person>
+            <person xml:id="stockher_maria_catharinae">
+               <persName>
+                  <forename>Maria Catharinä</forename>
+                  <surname>Stockher</surname>
+               </persName>
+            </person>
+            <person xml:id="marchner_johann_lorenz">
+               <persName>
+                  <forename>Johann Lorenz</forename>
+                  <surname>Marchner</surname>
+               </persName>
+               <note type="function">Commission- und Ambgerichtsschreiber in <rs type="place" ref="#brunegg">Brunegg</rs></note>
+            </person>
+            <person xml:id="satzinger_johann_ludwig">
+               <persName>
+                  <forename>Johann Ludwig</forename>
+                  <surname>Satzinger</surname>
+               </persName>
+               <note type="function">Goldtschmidt in <rs type="place" ref="#brunegg">Brunneggen</rs></note>
+            </person>
          </listPerson>
       </body>
    </text>
