@@ -178,7 +178,7 @@
             <person xml:id="ingramb_joseph_mathias">
                <persName>
                   <forename>Joseph Mathias</forename>
-                  <surname>Ingramb</surname>
+                  <surname>Ingramb von Liebenrain, und Fragburg</surname>
                </persName>
                <note type="function">hochfürstlich Brixnerischer geistlicher Rath, Döchandt und Pfarrern zu
                   <rs type="place" ref="#brunegg">Brunegg</rs></note>
@@ -649,6 +649,7 @@
                   <forename>Johann Joseph Ciriän</forename>
                   <surname>Danauer</surname>
                </persName>
+               <note type="function">Pergrichter in Ährn</note>
             </person>
             <person xml:id="stockher_andre">
                <persName>
@@ -694,6 +695,91 @@
                   <surname>Satzinger</surname>
                </persName>
                <note type="function">Goldtschmidt in <rs type="place" ref="#brunegg">Brunneggen</rs></note>
+            </person>
+            <person xml:id="manucredo_marcus_aurelii">
+               <persName>
+                  <forename>Marcus Aurelii</forename>
+                  <surname>Manucredo</surname>
+               </persName>
+               <note type="function">Cooperator zu <rs type="place" ref="#saalen">Saallen</rs></note>
+               <note type="family">Bruder von <rs type="person" ref="#manucredo_joseph_carl">Joseph Carl Manucredo</rs></note>
+            </person>
+            <person xml:id="manucredo_joseph_carl">
+               <persName>
+                  <forename>Joseph Carl</forename>
+                  <surname>Manucredo</surname>
+               </persName>
+               <note type="family">Bruder von <rs type="person" ref="#manucredo_marcus_aurelii">Marcus Aurelii Manucredo</rs></note>
+            </person>
+            <person xml:id="cappellani_">
+               <persName>
+                  <forename/>
+                  <surname>Cappellani</surname>
+               </persName>
+            </person>
+            <person xml:id="pifrader_maria_johanesen">
+               <persName>
+                  <forename>Maria Johanesen</forename>
+                  <surname>Pifraders zu Rofereidt</surname>
+               </persName>
+            </person>
+            <person xml:id="_theresia">
+               <persName>
+                  <forename>Theresia</forename>
+                  <surname/>
+               </persName>
+               <note>vermutlich Cappellani</note>
+            </person>
+            <person xml:id="_annae">
+               <persName>
+                  <forename>Annä</forename>
+                  <surname/>
+               </persName>
+               <note>vermutlich Cappellani</note>
+            </person>
+            <person xml:id="manucredo_leonardi_joachimi">
+               <persName>
+                  <forename>Leonardi Joachimi</forename>
+                  <surname>Manucredo</surname>
+               </persName>
+            </person>
+            <person xml:id="scheuckin_hellanae">
+               <persName>
+                  <forename>Hellanae</forename>
+                  <surname>Scheukhin</surname>
+               </persName>
+            </person>
+            <person xml:id="antany_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Antany</surname>
+               </persName>
+               <note type="function">Priester</note>
+            </person>
+            <person xml:id="diaconi_joseph_joachimb">
+               <persName>
+                  <forename>Joseph Joachimb</forename>
+                  <surname>Diaconi</surname>
+               </persName>
+            </person>
+            <person xml:id="manucredo_maria_ursulae">
+               <persName>
+                  <forename>Maria Ursulä</forename>
+                  <surname>Manucredo</surname>
+               </persName>
+            </person>
+            <person xml:id="wachtler_jacob">
+               <persName>
+                  <forename>Jacob</forename>
+                  <surname>Wachtler</surname>
+               </persName>
+               <note type="function">Burger, auch Wirth, und Gastgöben an der Rosen</note>
+            </person>
+            <person xml:id="riser_gerdrauth">
+               <persName>
+                  <forename>Gerdrauth</forename>
+                  <surname>Riser</surname>
+               </persName>
             </person>
          </listPerson>
       </body>
