@@ -744,18 +744,11 @@
                   <surname>Manucredo</surname>
                </persName>
             </person>
-            <person xml:id="scheuckin_hellanae">
+            <person xml:id="scheuckin_hellenae">
                <persName>
-                  <forename>Hellanae</forename>
+                  <forename>Hellenae</forename>
                   <surname>Scheukhin</surname>
                </persName>
-            </person>
-            <person xml:id="antany_johann">
-               <persName>
-                  <forename>Johann</forename>
-                  <surname>Antany</surname>
-               </persName>
-               <note type="function">Priester</note>
             </person>
             <person xml:id="diaconi_joseph_joachimb">
                <persName>
@@ -845,6 +838,7 @@
                   <forename>Johann Antany</forename>
                   <surname>Manucredo</surname>
                </persName>
+               <note type="function">Priester</note>
             </person>
             <person xml:id="manucredo_joseph_joaechimb">
                <persName>
