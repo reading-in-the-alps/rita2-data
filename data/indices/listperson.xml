@@ -457,7 +457,7 @@
                   <forename>Johann Antoni</forename>
                   <surname>Wachtler</surname>
                </persName>
-               <note type="function">Wirth</note>
+               <note type="function">Wirth an der Rosen zu <rs type="place" ref="st_lorenzen">Sanct Lorenzen</rs></note>
             </person>
             <person xml:id="puel_franz_xaveri">
                <persName>
@@ -501,6 +501,7 @@
                   <forename>Felix</forename>
                   <surname>Perger</surname>
                </persName>
+               <note type="function">Herr Doctor zu <rs type="place" ref="#brunegg">Brunögg</rs></note>
             </person>
             <person xml:id="muz_johan_geoerg">
                <persName>
@@ -717,9 +718,9 @@
                   <surname>Cappellani</surname>
                </persName>
             </person>
-            <person xml:id="pifrader_maria_johanesen">
+            <person xml:id="pifrader_maria_johanes">
                <persName>
-                  <forename>Maria Johanesen</forename>
+                  <forename>Maria Johanes</forename>
                   <surname>Pifraders zu Rofereidt</surname>
                </persName>
             </person>
@@ -779,6 +780,82 @@
                <persName>
                   <forename>Gerdrauth</forename>
                   <surname>Riser</surname>
+               </persName>
+            </person>
+            <person xml:id="wachtler_joseph_antany">
+               <persName>
+                  <forename>Joseph Antany</forename>
+                  <surname>Wachtler</surname>
+               </persName>
+               <note type="function">Coplan zu Cranburg</note>
+            </person>
+            <person xml:id="lanz_peter">
+               <persName>
+                  <forename>Peter</forename>
+                  <surname>Lanz</surname>
+               </persName>
+               <note type="function">Khriner zu <rs type="place" ref="#saalen">Saallen</rs></note>
+            </person>
+            <person xml:id="wachtler_maria_theresa">
+               <persName>
+                  <forename>Maria Theresa</forename>
+                  <surname>Wachtler</surname>
+               </persName>
+            </person>
+            <person xml:id="nagler_andree">
+               <persName>
+                  <forename>Andree</forename>
+                  <surname>Nagler</surname>
+               </persName>
+               <note type="function">Parbierer</note>
+            </person>
+            <person xml:id="unterstainer_antany">
+               <persName>
+                  <forename>Antany</forename>
+                  <surname>Unterstainer</surname>
+               </persName>
+               <note type="function">Schuester zu <rs type="place" ref="#soneburg">Soneburg</rs></note>
+            </person>
+            <person xml:id="daemb_jacob">
+               <persName>
+                  <forename>Jacob</forename>
+                  <surname>Dämb</surname>
+               </persName>
+            </person>
+            <person xml:id="manucredo_jacob_andree">
+               <persName>
+                  <forename>Jacob Andree</forename>
+                  <surname>Manucredo</surname>
+               </persName>
+            </person>
+            <person xml:id="manucredo_antany_sebastian">
+               <persName>
+                  <forename>Antany Sebastian</forename>
+                  <surname>Manucredo</surname>
+               </persName>
+            </person>
+            <person xml:id="manucredo_leonhardt_johann">
+               <persName>
+                  <forename>Leonhardt Johann</forename>
+                  <surname>Manucredo</surname>
+               </persName>
+            </person>
+            <person xml:id="manucredo_johann_antany">
+               <persName>
+                  <forename>Johann Antany</forename>
+                  <surname>Manucredo</surname>
+               </persName>
+            </person>
+            <person xml:id="manucredo_joseph_joaechimb">
+               <persName>
+                  <forename>Joseph Joächimb</forename>
+                  <surname>Manucredo</surname>
+               </persName>
+            </person>
+            <person xml:id="manucredo_maria_theresia">
+               <persName>
+                  <forename>Maria Theresia</forename>
+                  <surname>Manucredo</surname>
                </persName>
             </person>
          </listPerson>

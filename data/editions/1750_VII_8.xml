@@ -61,8 +61,8 @@
                </fallback>
             </xi:include>
             <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-               href="../indices/listbibl.xml"
-               xpointer="listbibl">
+                        href="../indices/listbibl.xml"
+                        xpointer="listbibl">
                <fallback xmlns="http://www.w3.org/2001/XInclude">
                   <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
                </fallback>
@@ -125,7 +125,7 @@
             <p>
                <pb n="5v"/> als nammentlich die baidpendige Frau Schwester <rs type="person" ref="#stockher_maria_magdalena">Maria Magdalena gebohrne Stockherin</rs>, in Beysein ihres Eheherrn, als eheschuldtshalben billichisten Anweisers des woledlen Herrn <rs type="person" ref="#spaengler_joseph_paul">Joseph Paul Spänglers</rs> des loblichen Ährner Handls Verweeser und Cassiers erster, dan Frau <rs type="person" ref="#stockher_maria_catharinae">Maria Catharinä gebohrne Stockherin</rs>, in gleichen Beysein und Nebenstandt Ihres Eheherrns, des woledlen Herrn <rs type="person" ref="#marchner_johann_lorenz">Johann Lorenz Marchner</rs> Commission- und Ambgerichtsschreiber in <rs type="place" ref="#brunegg">Brunegg</rs>, anderter, weitters Herr <rs type="person" ref="#stockher_franz_antoni">Franz Antoni Stockher</rs> dritter und endtlichen Frau <rs type="person" ref="#stockher_elisabeth">Elisabethä Stockherin</rs> in anweisschäfftlicher Praesenz ihres eheverglibten des edlen und kunstreichen Herrn</p>
             <p>
-               <pb n="6r"/> <rs type="person" ref="#satzinger_johann_ludwig">Johann Ludwig Satzinger</rs> Goldtschmidts in Brunneggen, vierter und letster Erbstoll. Alle offtberedter Jungfrauen Ableiberin ain- und baidpendig respective Herr Brueder und Frauen Schwestern auf der Stöll beykhommen. Als will man von seiten der Ansiz Inhabung mit der Inventur vorbeygehen, zugleich aber gewertigen: Obe etwan vor Vornemmung derselben ainer oder anderer aus denen Herrn und Frauen Erbs Intressenten jechtewas vor- und anzubringen haben möchte?</p>
+               <pb n="6r"/> <rs type="person" ref="#satzinger_johann_ludwig">Johann Ludwig Satzinger</rs> Goldtschmidts in <rs type="place" ref="#brunegg">Brunneggen</rs>, vierter und letster Erbstoll. Alle offtberedter Jungfrauen Ableiberin ain- und baidpendig respective Herr Brueder und Frauen Schwestern auf der Stöll beykhommen. Als will man von seiten der Ansiz Inhabung mit der Inventur vorbeygehen, zugleich aber gewertigen: Obe etwan vor Vornemmung derselben ainer oder anderer aus denen Herrn und Frauen Erbs Intressenten jechtewas vor- und anzubringen haben möchte?</p>
             <p>Auf welcheshin Beykhommen Herr <rs type="person" ref="#spaengler_joseph_paul">Joseph Paul Spängler</rs>, gezimmend vorbringende, wasgestalten ihme die Jungfrau</p>
             <p>
                <pb n="6v"/> Ableiberin <rs type="person" ref="#stockher_maria_ursula">Maria Ursulä Stockherin</rs> seeligen in ihrer letsten Kranckhheit drey Täg vor ihren Hinscheiden untern <date when="1749-11-13">dreyzechenden Novembris anno sibenzechenhundertneünundvierzig</date> ihre aigenhendig geschribne letstwillige Verordnung, mit Bitten solche ordentlich erwittern zu lassen, eingehendiget. Es hat aber bey abgehaltenen dreissigist willen obschwebende und schon oben in der Relation bereits angefierten Iurisdictions Stritt nicht publiciert unnd erwitteret werden können, und haben sich sammentlich Herrn und Frauen Erbsintressenten (wie es die No. 1 gibet)<note>
