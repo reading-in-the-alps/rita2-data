@@ -62,11 +62,11 @@
                <idno type="URL"/>
             </place>
             <place xml:id="st_georgen">
-               <placeName>St. Georgen</placeName>
+               <placeName>San Giorgio</placeName>
                <location>
-                  <geo decls="#LatLng"/>
+                  <geo decls="#LatLng">46.81254 11.93416</geo>
                </location>
-               <idno type="URL"/>
+               <idno type="GEONAMES">http://www.geonames.org/3168310</idno>
             </place>
             <place xml:id="st_lorenzen">
                <placeName>San Lorenzo di Sebato</placeName>
@@ -152,6 +152,34 @@
                </location>
                <idno type="GEONAMES"/>
                <note>Ansitz zu <rs type="place" ref="#dietenheim">Dietenhaimb</rs></note>
+            </place>
+            <place xml:id="uttenheim">
+               <placeName>Villa Ottone</placeName>
+               <location>
+                  <geo decls="#LatLng">46.86507 11.94753</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3164169</idno>
+            </place>
+            <place xml:id="stockh">
+               <placeName>Stockh</placeName>
+               <location>
+                  <geo decls="#LatLng">46.86507 11.94753</geo>
+               </location>
+               <idno type="GEONAMES"></idno>
+            </place>
+            <place xml:id="oberwiellenpach">
+               <placeName>Oberwielenpach</placeName>
+               <location>
+                  <geo decls="#LatLng"></geo>
+               </location>
+               <idno type="GEONAMES"></idno>
+            </place>
+            <place xml:id="gais">
+               <placeName>Gais</placeName>
+               <location>
+                  <geo decls="#LatLng"></geo>
+               </location>
+               <idno type="GEONAMES"></idno>
             </place>
          </listPlace>
       </body>

@@ -852,6 +852,278 @@
                   <surname>Manucredo</surname>
                </persName>
             </person>
+            <person xml:id="fezl_christoph">
+               <persName>
+                  <forename>Christoph Sebastian</forename>
+                  <surname>Fezl</surname>
+               </persName>
+               <note type="function">Priester, Beneficiatus ad <rs type="place" ref="#st_georgen">St. Georgium</rs></note>
+            </person>
+            <person xml:id="graf_zu_lodron_dumbherr">
+               <persName>
+                  <forename>Sebastian</forename>
+                  <surname>Graf zu Lodron Dumbherr</surname>
+               </persName>
+               <note type="function">geystlicher Rath m.p.</note>
+            </person>
+            <person xml:id="tangl_georg">
+               <persName>
+                  <forename>Georg</forename>
+                  <surname>Tangl</surname>
+               </persName>
+               <note type="function">Secret. Eulicus m.p.</note>
+            </person>
+            <person xml:id="fezl_joseph_wolfgang">
+               <persName>
+                  <forename>Joseph Wolfgang</forename>
+                  <surname>Fezl</surname>
+               </persName>
+               <note type="function">Secret. Eulicus m.p.</note>
+            </person>
+            <person xml:id="saliet_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Saliet</surname>
+               </persName>
+            </person>
+            <person xml:id="fezl_johannes">
+               <persName>
+                  <forename>Johannes</forename>
+                  <surname>Fezl</surname>
+               </persName>
+            </person>
+            <person xml:id="valtiner_peter">
+               <persName>
+                  <forename>Peter</forename>
+                  <surname>Valtiner</surname>
+               </persName>
+               <note type="function">Huefschmidt zu <rs type="place" ref="#brunegg">Brunögg</rs></note>
+            </person>
+            <person xml:id="vestner_maria">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Vestner</surname>
+               </persName>
+            </person>
+            <person xml:id="mitterhofer_hanns">
+               <persName>
+                  <forename>Hanns</forename>
+                  <surname>Mitterhofer</surname>
+               </persName>
+            </person>
+            <person xml:id="kessler_geoerg">
+               <persName>
+                  <forename>Geörg</forename>
+                  <surname>Kessler</surname>
+               </persName>
+            </person>
+            <person xml:id="pifrader_hanns">
+               <persName>
+                  <forename>Hanns</forename>
+                  <surname>Pifrader</surname>
+               </persName>
+            </person>
+            <person xml:id="tinckhhauser_hanns">
+               <persName>
+                  <forename>Hanns</forename>
+                  <surname>Pifrader</surname>
+               </persName>
+            </person>
+            <person xml:id="khachler_andre">
+               <persName>
+                  <forename>Andre</forename>
+                  <surname>Khachler</surname>
+               </persName>
+            </person>
+            <person xml:id="sell_franz_joseph">
+               <persName>
+                  <forename>Franz Joseph</forename>
+                  <surname>Sell</surname>
+               </persName>
+               <note type="function">Forstmaister in Pusterthall</note>
+            </person>
+            <person xml:id="wanger_peter">
+               <persName>
+                  <forename>Peter</forename>
+                  <surname>Wanger</surname>
+               </persName>
+            </person>
+            <person xml:id="pifrader_prantlechner_andree">
+               <persName>
+                  <forename>Andree</forename>
+                  <surname>Pifrader Prantlechner</surname>
+               </persName>
+            </person>
+            <person xml:id="stainer_blaesi">
+               <persName>
+                  <forename>Bläsi</forename>
+                  <surname>Stainer</surname>
+               </persName>
+            </person>
+            <person xml:id="pacher_maria">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Pacher</surname>
+               </persName>
+            </person>
+            <person xml:id="stainer_andree">
+               <persName>
+                  <forename>Andree</forename>
+                  <surname>Stainer</surname>
+               </persName>
+            </person>
+            <person xml:id="gasmayr_maria">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Gasmayr</surname>
+               </persName>
+            </person>
+            <person xml:id="techterle_mathies">
+               <persName>
+                  <forename>Mathies</forename>
+                  <surname>Techterle</surname>
+               </persName>
+               <note type="function">Huefschmidt in Mitterthall Antholz</note>
+            </person>
+            <person xml:id="techterle_simon">
+               <persName>
+                  <forename>Simon</forename>
+                  <surname>Techterle</surname>
+               </persName>
+            </person>
+            <person xml:id="mayr_martin">
+               <persName>
+                  <forename>Martin</forename>
+                  <surname>Mayr</surname>
+               </persName>
+            </person>
+            <person xml:id="unterweger_maria">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Unterweger</surname>
+               </persName>
+            </person>
+            <person xml:id="fezl_michael">
+               <persName>
+                  <forename>Michael</forename>
+                  <surname>Fezl</surname>
+               </persName>
+            </person>
+            <person xml:id="sotora_johann_baebtistae">
+               <persName>
+                  <forename>Johann Bäbtistä</forename>
+                  <surname>Sotora</surname>
+               </persName>
+            </person>
+            <person xml:id="gogl_stampfer_martin">
+               <persName>
+                  <forename>Martin</forename>
+                  <surname>Gogl Stampfer</surname>
+               </persName>
+            </person>
+            <person xml:id="laehner_forcher_jacob">
+               <persName>
+                  <forename>Jacob</forename>
+                  <surname>Lähner Forcher</surname>
+               </persName>
+            </person>
+            <person xml:id="pacher_maegdaelenae">
+               <persName>
+                  <forename>Mägdälenä</forename>
+                  <surname>Pacher</surname>
+               </persName>
+            </person>
+            <person xml:id="mayr_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Mayr</surname>
+               </persName>
+            </person>
+            <person xml:id="khlettenhamber_aennae">
+               <persName>
+                  <forename>Ännä</forename>
+                  <surname>Khlettenhamber</surname>
+               </persName>
+            </person>
+            <person xml:id="von_tschusi_franz_andree">
+               <persName>
+                  <forename>Franz Andree</forename>
+                  <surname>von Tschusi</surname>
+               </persName>
+            </person>
+            <person xml:id="renzler_martin">
+               <persName>
+                  <forename>Martin</forename>
+                  <surname>Renzler</surname>
+               </persName>
+            </person>
+            <person xml:id="wenzl_martin">
+               <persName>
+                  <forename>Martin</forename>
+                  <surname>Wenzl</surname>
+               </persName>
+            </person>
+            <person xml:id="khachler_hanns">
+               <persName>
+                  <forename>Hanns</forename>
+                  <surname>Khachler</surname>
+               </persName>
+               <note type="function">Khirchprobst</note>
+            </person>
+            <person xml:id="moesner_graber_christian">
+               <persName>
+                  <forename>Christian</forename>
+                  <surname>Mösner Graber</surname>
+               </persName>
+            </person>
+            <person xml:id="prugger_franz">
+               <persName>
+                  <forename>Franz</forename>
+                  <surname>Prugger</surname>
+               </persName>
+               <note type="function">Jäger unnd Vischer</note>
+            </person>
+            <person xml:id="pfeiffhofer_gregori">
+               <persName>
+                  <forename>Gregori</forename>
+                  <surname>Pfeiffhofer</surname>
+               </persName>
+               <note type="function">Miller zu Steegen</note>
+            </person>
+            <person xml:id="eppacher_schmidt_martin">
+               <persName>
+                  <forename>Martin</forename>
+                  <surname>Eppacher Schmidt</surname>
+               </persName>
+            </person>
+            <person xml:id="mutio_georg">
+               <persName>
+                  <forename>Georg</forename>
+                  <surname>Mutio</surname>
+               </persName>
+               <note type="function">Parbierer zu <rs type="place" ref="#brunegg">Brunögg</rs></note>
+            </person>
+            <person xml:id="auracher_johann_joseph">
+               <persName>
+                  <forename>Johann Joseph</forename>
+                  <surname>Auracher</surname>
+               </persName>
+               <note type="function">Handlsmann</note>
+            </person>
+            <person xml:id="tinckhhauser_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Tinckhhauser</surname>
+               </persName>
+               <note type="function">Statt Mözger zu <rs type="place" ref="#brunegg">Brunögg</rs></note>
+            </person>
+            <person xml:id="preindl_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Preindl</surname>
+               </persName>
+               <note type="function">Kupferschmidt</note>
+            </person>
          </listPerson>
       </body>
    </text>
