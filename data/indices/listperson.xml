@@ -878,7 +878,6 @@
                   <forename>Joseph Wolfgang</forename>
                   <surname>Fezl</surname>
                </persName>
-               <note type="function">Secret. Eulicus m.p.</note>
             </person>
             <person xml:id="saliet_joseph">
                <persName>
@@ -926,7 +925,7 @@
             <person xml:id="tinckhhauser_hanns">
                <persName>
                   <forename>Hanns</forename>
-                  <surname>Pifrader</surname>
+                  <surname>Tinckhhauser</surname>
                </persName>
             </person>
             <person xml:id="khachler_andre">
@@ -1123,6 +1122,114 @@
                   <surname>Preindl</surname>
                </persName>
                <note type="function">Kupferschmidt</note>
+            </person>
+            <person xml:id="sigmayr_andree">
+               <persName>
+                  <forename>Andree</forename>
+                  <surname>Sigmayr</surname>
+               </persName>
+               <note type="function">Cooperatore</note>
+            </person>
+            <person xml:id="sigmayr_bartlmee">
+               <persName>
+                  <forename>Bartlmee</forename>
+                  <surname>Sigmayr</surname>
+               </persName>
+            </person>
+            <person xml:id="sigmayr_michael">
+               <persName>
+                  <forename>Michael</forename>
+                  <surname>Sigmayr</surname>
+               </persName>
+            </person>
+            <person xml:id="woechner_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Wöchner</surname>
+               </persName>
+            </person>
+            <person xml:id="walder_andree">
+               <persName>
+                  <forename>Andree</forename>
+                  <surname>Walder</surname>
+               </persName>
+            </person>
+            <person xml:id="mitterhofer_caethaerinae">
+               <persName>
+                  <forename>Cäthärinä</forename>
+                  <surname>Mitterhofer</surname>
+               </persName>
+            </person>
+            <person xml:id="nidergoetscher_">
+               <persName>
+                  <forename></forename>
+                  <surname>Nidergötscher</surname>
+               </persName>
+            </person>
+            <person xml:id="vogl_">
+               <persName>
+                  <forename></forename>
+                  <surname>Vogl</surname>
+               </persName>
+               <note type="function">Doctor zu <rs type="place" ref="#brunegg">Brunegg</rs></note>
+            </person>
+            <person xml:id="schranz_paul">
+               <persName>
+                  <forename>Paul</forename>
+                  <surname>Schranz</surname>
+               </persName>
+               <note type="function">Würth zu Wenz in Ober Yhnthall</note>
+            </person>
+            <person xml:id="helweger_jacob">
+               <persName>
+                  <forename>Jacob</forename>
+                  <surname>Helweger</surname>
+               </persName>
+            </person>
+            <person xml:id="rungger_gregori">
+               <persName>
+                  <forename>Gregori</forename>
+                  <surname>Rungger</surname>
+               </persName>
+            </person>
+            <person xml:id="mayr_maria">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Mayr</surname>
+               </persName>
+               <note type="function">Weeberin</note>
+            </person>
+            <person xml:id="de_paula_penz_franz">
+               <persName>
+                  <forename>Franz</forename>
+                  <surname>de Paula Penz</surname>
+               </persName>
+            </person>
+            <person xml:id="haslmayr_">
+               <persName>
+                  <forename></forename>
+                  <surname>Haslmayr</surname>
+               </persName>
+            </person>
+            <person xml:id="steyrer_">
+               <persName>
+                  <forename></forename>
+                  <surname>Steyrer</surname>
+               </persName>
+            </person>
+            <person xml:id="steeger_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Steeger</surname>
+               </persName>
+               <note type="function">Schreiber</note>
+            </person>
+            <person xml:id="baldtauf_mathias">
+               <persName>
+                  <forename>Mathias</forename>
+                  <surname>Baldtauf</surname>
+               </persName>
+               <note type="function">Schreiber</note>
             </person>
          </listPerson>
       </body>

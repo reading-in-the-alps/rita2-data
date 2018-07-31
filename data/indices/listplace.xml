@@ -181,6 +181,20 @@
                </location>
                <idno type="GEONAMES"></idno>
             </place>
+            <place xml:id="strengen">
+               <placeName>Strengen</placeName>
+               <location>
+                  <geo decls="#LatLng">47.12589 10.46199</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/2764137</idno>
+            </place>
+            <place xml:id="telfes">
+               <placeName>Telfes</placeName>
+               <location>
+                  <geo decls="#LatLng">47.16667 11.36667</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/2763811</idno>
+            </place>
          </listPlace>
       </body>
    </text>
