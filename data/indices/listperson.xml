@@ -1221,6 +1221,7 @@
                   <forename>Cäthärinä</forename>
                   <surname>Mitterhofer</surname>
                </persName>
+               <note type="function">Würth und Gastgebin in Marckht <rs type="place" ref="st_lorenzen">Sanct Lorenzen</rs></note>
             </person>
             <person xml:id="nidergoetscher_">
                <persName>
@@ -1357,6 +1358,64 @@
                   <forename>Maria</forename>
                   <surname>Obermayr</surname>
                </persName>
+            </person>
+            <person xml:id="jais_celestin_johan">
+               <persName>
+                  <forename>Celestin Johan</forename>
+                  <surname>Jais</surname>
+               </persName>
+            </person>
+            <person xml:id="jais_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Jais</surname>
+               </persName>
+               <note type="function">Pilthauer</note>
+            </person>
+            <person xml:id="jais_johann_michael">
+               <persName>
+                  <forename>Johann Michael</forename>
+                  <surname>Jais</surname>
+               </persName>
+            </person>
+            <person xml:id="holzer_anna_maria">
+               <persName>
+                  <forename>Anna Maria</forename>
+                  <surname>Holzer</surname>
+               </persName>
+            </person>
+            <person xml:id="jaisin_catharina">
+               <persName>
+                  <forename>Catharina</forename>
+                  <surname>Jaisin</surname>
+               </persName>
+            </person>
+            <person xml:id="posch_johan">
+               <persName>
+                  <forename>Johan</forename>
+                  <surname>Posch</surname>
+               </persName>
+               <note type="function">Purger und Vogltrager zu <rs type="place" ref="#ymbst">Ymbst</rs></note>
+            </person>
+            <person xml:id="kappeller_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Kappeller</surname>
+               </persName>
+               <note type="function">Gerichts Verpflichter auch Burger und Glasermaister zu <rs type="place" ref="#ymbst">Ymbst</rs></note>
+            </person>
+            <person xml:id="maezekopf_catharina">
+               <persName>
+                  <forename>Catharina</forename>
+                  <surname>Mäzekopf</surname>
+               </persName>
+            </person>
+            <person xml:id="jais_balthasar">
+               <persName>
+                  <forename>Balthasar</forename>
+                  <surname>Jais</surname>
+               </persName>
+               <note type="function">Raths Burger und der freyen Kunst Bildthauern in Ober Marckht <rs type="place" ref="#ymbst">Ymbst</rs></note>
             </person>
          </listPerson>
       </body>

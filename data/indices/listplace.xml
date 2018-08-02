@@ -203,6 +203,20 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/2775220</idno>
             </place>
+            <place xml:id="ymbst">
+               <placeName>Ymbst</placeName>
+               <location>
+                  <geo decls="#LatLng">47.24504 10.73974</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/2775307</idno>
+            </place>
+            <place xml:id="salzburg">
+               <placeName>Salzburg</placeName>
+               <location>
+                  <geo decls="#LatLng">47.79941 13.04399</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/2766824</idno>
+            </place>
          </listPlace>
       </body>
    </text>
