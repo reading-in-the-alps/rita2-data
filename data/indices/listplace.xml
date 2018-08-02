@@ -195,6 +195,14 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/2763811</idno>
             </place>
+            <place xml:id="yhnsprugg">
+               <placeName>Yhnsprugg</placeName>
+               <placeName type="alt">Innsbruck</placeName>
+               <location>
+                  <geo decls="#LatLng">47.26266 11.39454</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/2775220</idno>
+            </place>
          </listPlace>
       </body>
    </text>
