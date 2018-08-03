@@ -1384,10 +1384,10 @@
                   <surname>Holzer</surname>
                </persName>
             </person>
-            <person xml:id="jaisin_catharina">
+            <person xml:id="jais_catharina">
                <persName>
                   <forename>Catharina</forename>
-                  <surname>Jaisin</surname>
+                  <surname>Jais</surname>
                </persName>
             </person>
             <person xml:id="posch_johan">
@@ -1416,6 +1416,117 @@
                   <surname>Jais</surname>
                </persName>
                <note type="function">Raths Burger und der freyen Kunst Bildthauern in Ober Marckht <rs type="place" ref="#ymbst">Ymbst</rs></note>
+            </person>
+            <person xml:id="pruner_maria">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Pruner</surname>
+               </persName>
+               <note type="function">Closterfrau in <rs type="person" ref="#lienz">Lienz</rs></note>
+            </person>
+            <person xml:id="paldauf_gottlieb">
+               <persName>
+                  <forename>Gottlieb</forename>
+                  <surname>Paldauf</surname>
+               </persName>
+               <note type="function">Burger, Parbierer und Cramers</note>
+            </person>
+            <person xml:id="hartmann_">
+               <persName>
+                  <forename></forename>
+                  <surname>Hartmann</surname>
+               </persName>
+               <note type="function">Freyherr von Enzenperg</note>
+            </person>
+            <person xml:id="jais_felix">
+               <persName>
+                  <forename>Felix</forename>
+                  <surname>Jais</surname>
+               </persName>
+            </person>
+            <person xml:id="holler_geoerg_simon">
+               <persName>
+                  <forename>Geörg Simon</forename>
+                  <surname>Holler</surname>
+               </persName>
+               <note type="function">Gasthalter und Ambts Burgermaister zu <rs type="person" ref="#ymbst">Ymbst</rs></note>
+            </person>
+            <person xml:id="klapfer_jacob">
+               <persName>
+                  <forename>Jacob</forename>
+                  <surname>Klapfer</surname>
+               </persName>
+            </person>
+            <person xml:id="pergmaister_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Pergmaister</surname>
+               </persName>
+            </person>
+            <person xml:id="vestner_">
+               <persName>
+                  <forename></forename>
+                  <surname>Vestner</surname>
+               </persName>
+               <note type="function">Doctor</note>
+            </person>
+            <person xml:id="unterlechner_michael">
+               <persName>
+                  <forename>Michael</forename>
+                  <surname>Unterlechner</surname>
+               </persName>
+               <note type="function">Arzt zu <rs type="place" ref="#steegen">Steegen</rs></note>
+            </person>
+            <person xml:id="lucretia_von_egerwin_johanna">
+               <persName>
+                  <forename>Johanna</forename>
+                  <surname>Lucretia von Egerwin</surname>
+               </persName>
+               <note type="function">Arzt zu <rs type="place" ref="#steegen">Steegen</rs></note>
+            </person>
+            <person xml:id="unterpertinger_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Unterpertinger</surname>
+               </persName>
+               <note type="function">Maurer in <rs type="place" ref="#pflaurenz">Pflaurenz</rs></note>
+            </person>
+            <person xml:id="mayr_franz">
+               <persName>
+                  <forename>Franz</forename>
+                  <surname>Mayr</surname>
+               </persName>
+            </person>
+            <person xml:id="epacher_jacob">
+               <persName>
+                  <forename>Jacob</forename>
+                  <surname>Epacher</surname>
+               </persName>
+               <note type="function">Uhrmacher zu <rs type="place" ref="#brunegg">Brunegg</rs></note>
+            </person>
+            <person xml:id="starckh_andree">
+               <persName>
+                  <forename>Andree</forename>
+                  <surname>Starckh</surname>
+               </persName>
+            </person>
+            <person xml:id="pasler_">
+               <persName>
+                  <forename></forename>
+                  <surname>Pasler</surname>
+               </persName>
+            </person>
+            <person xml:id="prass_ursula">
+               <persName>
+                  <forename>Ursula</forename>
+                  <surname>Prass</surname>
+               </persName>
+            </person>
+            <person xml:id="wiellandt_gerdrauth">
+               <persName>
+                  <forename>Gerdrauth</forename>
+                  <surname>Wiellandt</surname>
+               </persName>
             </person>
          </listPerson>
       </body>

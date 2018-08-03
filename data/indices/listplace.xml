@@ -217,6 +217,27 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/2766824</idno>
             </place>
+            <place xml:id="lienz">
+               <placeName>Lienz</placeName>
+               <location>
+                  <geo decls="#LatLng">46.8289 12.76903</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/2772505</idno>
+            </place>
+            <place xml:id="steegen">
+               <placeName>Steegen</placeName>
+               <location>
+                  <geo decls="#LatLng"></geo>
+               </location>
+               <idno type="GEONAMES"></idno>
+            </place>
+            <place xml:id="pflaurenz">
+               <placeName>Floronzo</placeName>
+               <location>
+                  <geo decls="#LatLng">46.78225 11.89223</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3176902</idno>
+            </place>
          </listPlace>
       </body>
    </text>
