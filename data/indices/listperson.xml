@@ -1534,6 +1534,20 @@
                   <surname>Gasser</surname>
                </persName>
             </person>
+            <person xml:id="gasser_jacob">
+               <persName>
+                  <forename>Jacob</forename>
+                  <surname>Gasser</surname>
+               </persName>
+               <note type="function">Hafner</note>
+            </person>
+            <person xml:id="brunegger_antoni">
+               <persName>
+                  <forename>Antoni</forename>
+                  <surname>Brunegger</surname>
+               </persName>
+               <note type="function">Hafnermeister zu <rs type="place" ref="#brixen">Brixen</rs></note>
+            </person>
          </listPerson>
       </body>
    </text>

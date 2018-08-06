@@ -75,6 +75,8 @@
                 <bibl xml:id="exterminium_acediae">Exterminium Acediae P. Francisci Neymayr</bibl>
                 <bibl xml:id="ezechiel_koch">Ezechiel Koch</bibl>
                 <bibl xml:id="fosa_juvavium">Fosa Juvavium</bibl>
+                <bibl xml:id="francisc_heger_predigen">Francisc Heger Predigen</bibl>
+                <bibl xml:id="franciscus_josephus_lohr_predigen">D. Franciscus Josephus Lohr Predigen</bibl>
                 <bibl xml:id="freythamer_proedigen">Freythamer Sonn- und Feyrtägliche Feyrtag Prödigen</bibl>
                 <bibl xml:id="gabriel_zuerchers_prophetischer_clag_posaun">Herr Gabriel Zürchers Prophetischer Clag Posaun</bibl>
                 <bibl xml:id="gerardi_pauli">Gerardi Pauli Prödigen</bibl>
@@ -106,6 +108,7 @@
                 <bibl xml:id="lavitan_fastenproedigen">Lavitan Fastenprödigen</bibl>
                 <bibl xml:id="liber_apocalipicus_signatus">Liber Apocalipicus Signatus</bibl>	
                 <bibl xml:id="libra_appolipticas">Libra Appolipticas</bibl>
+                <bibl xml:id="lotarico_friderico_predig">Sitten- und Lehrreiche Predig von Lotarico Friderico v. Alpach</bibl>
                 <bibl xml:id="lucianus">Lucianus, Geistliches Khinder Spil, vier thomi</bibl>
                 <bibl xml:id="manuale_romanum">Manuale Romanum</bibl>
                 <bibl xml:id="manuscriptoten_tractus_de_sacram">Manuscriptoten Tractatus de Sacram. Poenitentiae ohne Tax</bibl>
@@ -125,6 +128,7 @@
                 <bibl xml:id="p_anselmi_schnell_supplementum">P. Anselmi Schnell Supplementum Theolog. Moralis</bibl>
                 <bibl xml:id="p_benedicti_rogazzi_tractatis_von_der_erkhantnus_und_liebe_gottes">P. Benedicti Rogazzi Tractatis von der Erkhantnus und Liebe Gottes</bibl>
                 <bibl xml:id="p_bovii_predigen">P. Bovii Marianische Cremsl Predigen</bibl>
+                <bibl xml:id="p_conradus_purschelius_fons_aquae">P. Conradus Purschelius Fons Aquae</bibl>
                 <bibl xml:id="p_engl_ius_canonici">P. Engl Ius Canonici</bibl>
                 <bibl xml:id="p_francisci_fegebe_quaestiones_practicae">P. Francisci Fegebe Quaestiones Practicae</bibl>
                 <bibl xml:id="p_francisci_nepren_considerationes_christ">P. Francisci Nepren Considerationes Christ.</bibl>
@@ -137,6 +141,7 @@
                 <bibl xml:id="p_hetti_heiliger_ehestandt">P. Hetti Heiliger Ehestandt</bibl>
                 <bibl xml:id="p_joann_stephani_meditationes">P. Joann Stephani Grossez Concionetor Meditationes</bibl>
                 <bibl xml:id="p_joannis_taberna_synopsus">P. Joannis Taberna Synopsus Theolog. Pract.</bibl>
+                <bibl xml:id="p_laymon_theol_moralis">P. Laymon Theol. Moralis</bibl>
                 <bibl xml:id="p_lohner">P. Lohner</bibl>
                 <bibl xml:id="p_ludovici_michon_casus_de_sacramentis">P. Ludovici Michon Casus de Sacramentis</bibl>
                 <bibl xml:id="p_neymayr_khern_des_christenthumb">P. Neymayr Khern des Christenthumb</bibl>
