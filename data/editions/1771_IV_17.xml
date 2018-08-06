@@ -70,7 +70,7 @@
          </p>
       </encodingDesc>
       <revisionDesc>
-         <change notBefore="2018-08-02" who="#kirnbauer_martin" status="draft">reading-in-the-alps/rita2-data/issues/1</change>
+         <change notBefore="2018-08-02" notAfter="2018-08-03" who="#kirnbauer_martin" status="done">reading-in-the-alps/rita2-data/issues/1</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -826,7 +826,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#proprium_brixinense">Proprium Brixinense so zu dem Praevier geherig, ohne Tax</rs>
+                     <rs type="bibl" ref="#proprium_brixinense">Proprium Brixinense so zu dem Praevier geherig</rs>, ohne Tax
                   </cell>
                   <cell/>
                </row>

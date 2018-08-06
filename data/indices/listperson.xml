@@ -1528,6 +1528,12 @@
                   <surname>Wiellandt</surname>
                </persName>
             </person>
+            <person xml:id="gasser_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Gasser</surname>
+               </persName>
+            </person>
          </listPerson>
       </body>
    </text>
