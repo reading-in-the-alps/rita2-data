@@ -1080,11 +1080,12 @@
                   <surname>Gogl Stampfer</surname>
                </persName>
             </person>
-            <person xml:id="laehner_forcher_jacob">
+            <person xml:id="laehner_jacob">
                <persName>
                   <forename>Jacob</forename>
-                  <surname>Lähner Forcher</surname>
+                  <surname>Lähner</surname>
                </persName>
+               <note type="function">Forcher in <rs type="place" ref="#oberwiellenpach">Oberwiellenpach</rs></note>
             </person>
             <person xml:id="pacher_maegdaelenae">
                <persName>
@@ -1129,11 +1130,12 @@
                </persName>
                <note type="function">Khirchprobst</note>
             </person>
-            <person xml:id="moesner_graber_christian">
+            <person xml:id="graber_christian">
                <persName>
                   <forename>Christian</forename>
-                  <surname>Mösner Graber</surname>
+                  <surname>Graber</surname>
                </persName>
+               <note type="function">Mösner</note>
             </person>
             <person xml:id="prugger_franz">
                <persName>
@@ -1149,11 +1151,12 @@
                </persName>
                <note type="function">Miller zu Steegen</note>
             </person>
-            <person xml:id="eppacher_schmidt_martin">
+            <person xml:id="eppacher_martin">
                <persName>
                   <forename>Martin</forename>
-                  <surname>Eppacher Schmidt</surname>
+                  <surname>Eppacher</surname>
                </persName>
+               <note type="function">Schmidt, Schneidermeister zu <rs type="place" ref="#st_georgen">St. Georgen</rs></note>
             </person>
             <person xml:id="mutio_georg">
                <persName>
@@ -1482,7 +1485,6 @@
                   <forename>Johanna</forename>
                   <surname>Lucretia von Egerwin</surname>
                </persName>
-               <note type="function">Arzt zu <rs type="place" ref="#steegen">Steegen</rs></note>
             </person>
             <person xml:id="unterpertinger_joseph">
                <persName>
@@ -1547,6 +1549,130 @@
                   <surname>Brunegger</surname>
                </persName>
                <note type="function">Hafnermeister zu <rs type="place" ref="#brixen">Brixen</rs></note>
+            </person>
+            <person xml:id="mayr_joseph_2">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Mayr</surname>
+               </persName>
+               <note type="function">Caplanei Administrierer, Kuchlmayr zu <rs type="place" ref="st_georgen">St. Georgen</rs></note>
+            </person>
+            <person xml:id="mutschlechner_michael">
+               <persName>
+                  <forename>Michael</forename>
+                  <surname>Mutschlechner</surname>
+               </persName>
+            </person>
+            <person xml:id="niedergaetscher_">
+               <persName>
+                  <forename></forename>
+                  <surname>Niedergaetscher</surname>
+               </persName>
+            </person>
+            <person xml:id="lercher_catharina">
+               <persName>
+                  <forename>Catharina</forename>
+                  <surname>Lercher</surname>
+               </persName>
+               <note type="function">Krankenwartherin in Spittal zu <rs type="place" ref="brixen">Brixen</rs></note>
+            </person>
+            <person xml:id="vieschnaler_christian">
+               <persName>
+                  <forename>Christian</forename>
+                  <surname>Vieschnaler</surname>
+               </persName>
+               <note type="function">Mayr zu <rs type="place" ref="#rodenegg">Rodenegg</rs></note>
+            </person>
+            <person xml:id="ehrnhauser_michael">
+               <persName>
+                  <forename>Michael</forename>
+                  <surname>Ehrnhauser</surname>
+               </persName>
+               <note type="function">Hinteregger in der Neustüft</note>
+            </person>
+            <person xml:id="von_moerl_maria_anna">
+               <persName>
+                  <forename>Maria Anna</forename>
+                  <surname>von Mörl</surname>
+               </persName>
+            </person>
+            <person xml:id="frenes_">
+               <persName>
+                  <forename></forename>
+                  <surname>Frenes</surname>
+               </persName>
+               <note type="function">Doctor zu <rs type="place" ref="#brunegg">Brunegg</rs></note>
+            </person>
+            <person xml:id="canrad_franz">
+               <persName>
+                  <forename>Franz</forename>
+                  <surname>Canrad</surname>
+               </persName>
+               <note type="function">Chyrurgos</note>
+            </person>
+            <person xml:id="perffler_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Perffler</surname>
+               </persName>
+               <note type="function">Materalist zu <rs type="place" ref="dietenheim">Dietenhaim</rs></note>
+            </person>
+            <person xml:id="egger_brigita">
+               <persName>
+                  <forename>Brigita</forename>
+                  <surname>Egger</surname>
+               </persName>
+            </person>
+            <person xml:id="von_moerl_johann_balthasar">
+               <persName>
+                  <forename>Johann Balthasar</forename>
+                  <surname>von Mörl</surname>
+               </persName>
+            </person>
+            <person xml:id="hueber_niclaus">
+               <persName>
+                  <forename>Niclaus</forename>
+                  <surname>Hueber</surname>
+               </persName>
+            </person>
+            <person xml:id="tratter_mathes">
+               <persName>
+                  <forename>Mathes</forename>
+                  <surname>Tratter</surname>
+               </persName>
+               <note type="function">Tratter zu <rs type="place" ref="st_georgen">St. Georgen</rs></note>
+            </person>
+            <person xml:id="tratter_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Tratter</surname>
+               </persName>
+            </person>
+            <person xml:id="plank_ursula">
+               <persName>
+                  <forename>Ursula</forename>
+                  <surname>Plank</surname>
+               </persName>
+            </person>
+            <person xml:id="salcher_jakob_vallentin">
+               <persName>
+                  <forename>Jakob Vallentin</forename>
+                  <surname>Salcher</surname>
+               </persName>
+            </person>
+            <person xml:id="von_klausner_peter">
+               <persName>
+                  <forename>Peter</forename>
+                  <surname>von Klausner</surname>
+               </persName>
+               <note type="function">Schneidermeister zu <rs type="place" ref="#brixen">Brixen</rs></note>
+            </person>
+            <person xml:id="mayr_peter">
+               <persName>
+                  <forename>Peter</forename>
+                  <surname>Mayr</surname>
+               </persName>
+               <note type="function">Schreiber</note>
             </person>
          </listPerson>
       </body>

@@ -696,7 +696,7 @@
                   <cell>1 f 14 x</cell>
                </row>
                <row>
-                  <cell>Ittem solle <rs type="person" ref="#laehner_forcher_jacob">Jacob Lähner Forcher</rs> in <rs type="place" ref="#Oberwiellenpach">Oberwiellenpach</rs> auf Ybergeben der <rs type="person" ref="#pacher_maria">Maria</rs>, unnd <rs type="person" ref="#pacher_maegdaelenae">Mägdälenä Pacherischen</rs> Schwesteren inhalt Ybergab <date when="1747-07-08">anderten Julli änno sibenzechenhundert sibenundt vierzig</date> Capitall, nunmehro aber</cell>
+                  <cell>Ittem solle <rs type="person" ref="#laehner_jacob">Jacob Lähner</rs> Forcher in <rs type="place" ref="#Oberwiellenpach">Oberwiellenpach</rs> auf Ybergeben der <rs type="person" ref="#pacher_maria">Maria</rs>, unnd <rs type="person" ref="#pacher_maegdaelenae">Mägdälenä Pacherischen</rs> Schwesteren inhalt Ybergab <date when="1747-07-08">anderten Julli änno sibenzechenhundert sibenundt vierzig</date> Capitall, nunmehro aber</cell>
                   <cell/>
                </row>
             </table>
@@ -705,7 +705,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>auf Verkhaufung sein <rs type="person" ref="#laehner_forcher_jacob">Jacoben Lähners</rs> innegehabten Forchner Gueths dessen Khaufer <rs type="person" ref="#mayr_joseph">Joseph Mayr</rs> Mayr in <rs type="place" ref="#oberwiellenpach">Oberwiellenpach</rs> dreihundert Gulden sage</cell>
+                  <cell>auf Verkhaufung sein <rs type="person" ref="#laehner_jacob">Jacoben Lähners</rs> innegehabten Forchner Gueths dessen Khaufer <rs type="person" ref="#mayr_joseph">Joseph Mayr</rs> Mayr in <rs type="place" ref="#oberwiellenpach">Oberwiellenpach</rs> dreihundert Gulden sage</cell>
                   <cell>300 f 0 x</cell>
                </row>
                <row>
@@ -867,7 +867,7 @@
                   <cell>10 f 8 x</cell>
                </row>
                <row>
-                  <cell>Den vorherig gewesten Khirchprobsten <rs type="person" ref="#graber_moesner_christian">Christian Graber Mösner</rs></cell>
+                  <cell>Den vorherig gewesten Khirchprobsten <rs type="person" ref="#graber_christian">Christian Graber</rs> Mösner</cell>
                   <cell/>
                </row>
             </table>
@@ -942,7 +942,7 @@
                   <cell>5 f 9 x</cell>
                </row>
                <row>
-                  <cell><rs type="person" ref="#eppacher_schmidt_martin">Martin Eppacher Schmidt</rs> alhier sibenundtfunfzig Khreizer sage</cell>
+                  <cell><rs type="person" ref="#eppacher_martin">Martin Eppacher</rs> Schmidt alhier sibenundtfunfzig Khreizer sage</cell>
                   <cell>57 x</cell>
                </row>
                <row>
