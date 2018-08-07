@@ -1007,11 +1007,12 @@
                   <surname>Wanger</surname>
                </persName>
             </person>
-            <person xml:id="pifrader_prantlechner_andree">
+            <person xml:id="pifrader_andree">
                <persName>
                   <forename>Andree</forename>
-                  <surname>Pifrader Prantlechner</surname>
+                  <surname>Pifrader</surname>
                </persName>
+               <note type="function">Prantlechner</note>
             </person>
             <person xml:id="stainer_blaesi">
                <persName>
