@@ -1675,6 +1675,102 @@
                </persName>
                <note type="function">Schreiber</note>
             </person>
+            <person xml:id="zoeggele_anton">
+               <persName>
+                  <forename>Anton</forename>
+                  <surname>Zöggele</surname>
+               </persName>
+               <note type="function">Stifft Sonnenburgischen Caplan und Beneficiaten bey <rs type="place" ref="#st_martin">St. Martin</rs></note>
+            </person>
+            <person xml:id="von_call_johann_leonhard">
+               <persName>
+                  <forename>Johann Leonhard</forename>
+                  <surname>von Call</surname>
+               </persName>
+               <note type="function">Doctore des fürstlichen Stiffts und Gottshaus Sonnenburg Hof- und Lechen Richtern als Stifft Sonnenburgischer Deputierten</note>
+            </person>
+            <person xml:id="gassmeyr_johann_franz">
+               <persName>
+                  <forename>Johann Franz</forename>
+                  <surname>Gassmeyr</surname>
+               </persName>
+               <note type="function">Doctore des fürstlichen Stiffts und Gottshaus Sonnenburg Hof- und Lechen Richtern als Stifft Sonnenburgischer Deputierten</note>
+            </person>
+            <person xml:id="turneretscher_johann_joseph">
+               <persName>
+                  <forename>Johann Joseph</forename>
+                  <surname>Turneretscher</surname>
+               </persName>
+               <note type="function">Hof- und Urbäry Amtmann, Amtschreiber <rs type="person" ref="#salcher_jakob_vallentin">Jakob Valentin Salchers</rs></note>
+            </person>
+            <person xml:id="niderwanger_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Niderwanger</surname>
+               </persName>
+            </person>
+            <person xml:id="pranter_barbara">
+               <persName>
+                  <forename>Barbara</forename>
+                  <surname>Pranter</surname>
+               </persName>
+            </person>
+            <person xml:id="niderwanger_ursula">
+               <persName>
+                  <forename>Ursula</forename>
+                  <surname>Niderwanger</surname>
+               </persName>
+            </person>
+            <person xml:id="kamerer_hanns">
+               <persName>
+                  <forename>Hanns</forename>
+                  <surname>Kamerer</surname>
+               </persName>
+               <note type="function">Schuestermeister in <rs type="place" ref="#pflaurenz">Pflaurenz</rs></note>
+            </person>
+            <person xml:id="egger_elisabeth">
+               <persName>
+                  <forename>Elisabeth</forename>
+                  <surname>Egger</surname>
+               </persName>
+            </person>
+            <person xml:id="lercher_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Lercher</surname>
+               </persName>
+               <note type="function">Lercher in Ohnnach</note>
+            </person>
+            <person xml:id="helleitner_maria">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Helleitner</surname>
+               </persName>
+            </person>
+            <person xml:id="lercher_andre">
+               <persName>
+                  <forename>Andre</forename>
+                  <surname>Lercher</surname>
+               </persName>
+            </person>
+            <person xml:id="niderbacher_hans">
+               <persName>
+                  <forename>Hans</forename>
+                  <surname>Niderbacher</surname>
+               </persName>
+            </person>
+            <person xml:id="vischnaller_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Vischnaller</surname>
+               </persName>
+            </person>
+            <person xml:id="heleiter_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Heleiter</surname>
+               </persName>
+            </person>
          </listPerson>
       </body>
    </text>

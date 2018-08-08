@@ -259,6 +259,13 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3164065</idno>
             </place>
+            <place xml:id="st_martin">
+               <placeName>San Martino in Badia</placeName>
+               <location>
+                  <geo decls="#LatLng">46.683333 11.9</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/6534788</idno>
+            </place>
          </listPlace>
       </body>
    </text>
