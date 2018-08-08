@@ -8801,37 +8801,37 @@
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Theologia Rationalis Eius Juvenalis Ananiensis französischer Bund,</hi>
+                        <rs type="bibl" ref="#theologia_rationalis_eius_juvenalis_ananiensis">Theologia Rationalis Eius Juvenalis Ananiensis</rs> französischer Bund,
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Peripateticus Nostri Temporis P. Schwarz, in deto Bund,</hi>
+                        <rs type="bibl" ref="#p_schwarz_peripateticus_nostri_temporis">Peripateticus Nostri Temporis P. Schwarz</rs>, in deto Bund,
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Heiliger Jahrs Kalender, Betrachtung Über Das Leben, Und Lehr Jesu Christi P. Spinola 2 thom. französischer Bund</hi>
+                        <rs type="bibl" ref="#p_spinola_heiliger_jahrs_kalender">Heiliger Jahrs Kalender, Betrachtung Über Das Leben, Und Lehr Jesu Christi P. Spinola</rs> 2 thom. französischer Bund
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">De Autonomia Francisci Burkardi in Schwein Leder,</hi>
+                        <rs type="bibl" ref="#de_autonomia_francisci_burkardi">De Autonomia Francisci Burkardi</rs> in Schwein Leder,
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Sacerdotale Sive Sacerdotum Thesaurus in Pirmenten Bund.</hi>
+                        <rs type="bibl" ref="#sacerdotale_sive_sacerdotum_thesaurus">Sacerdotale Sive Sacerdotum Thesaurus</rs> in Pirmenten Bund.
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Gottseliger Schluss, Und Firsetz Der Seelen P. Zumsteeg in braun Leder,</hi>
+                        <rs type="bibl" ref="#gottseliger_schluss">Gottseliger Schluss, Und Firsetz Der Seelen P. Zumsteeg</rs> in braun Leder,
                      </cell>
                   </row>
                </table>
@@ -8840,21 +8840,21 @@
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Anmuthige Hundert Historien P. Casalicchio 2 thom. in pirmenten Bund,</hi>
+                        <rs type="bibl" ref="#p_casalicchio_anmuthige_hundert_historien">Anmuthige Hundert Historien P. Casalicchio</rs> 2 thom. in pirmenten Bund,
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Historia Concilii Tridentini in schlechten pirmenten Bund.</hi>
+                        <rs type="bibl" ref="#historia_concilii_tridentini">Historia Concilii Tridentini</rs> in schlechten pirmenten Bund.
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Lux Cat</hi>
+                        <rs type="bibl" ref="#lux_cathechetica_comitis_fieger">Lux Cat</rs>
                         <hi rend="bold strikethrough">h</hi>
-                        <hi rend="bold">echetica Comitis Fieger in braun Papir,</hi>
+                        <rs type="bibl" ref="#lux_cathechetica_comitis_fieger">echetica Comitis Fieger</rs> in braun Papir,
                      </cell>
                   </row>
                   <row>
@@ -8872,69 +8872,69 @@
                         </note>
                      </cell>
                      <cell>
-                        <hi rend="bold">Quator Mundi Monarchiarum Initium Et Origo authore Penzinger in pirmenten Bund</hi>
+                        <rs type="bibl" ref="#quator_mundi_monarchiarum_initium_et_origo">Quator Mundi Monarchiarum Initium Et Origo authore Penzinger</rs> in pirmenten Bund
                      </cell>
                   </row>
                   <row>
                      <cell>NB</cell>
                      <cell>
-                        <hi rend="bold">Incredulus Non Excusabilibis P. Segneri in französischem Bund</hi>
+                        <rs type="bibl" ref="#p_segneri_incredulus_non_excusabilibis">Incredulus Non Excusabilibis P. Segneri</rs> in französischem Bund
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Eiusdem Panegirici in pirmenten Bund,</hi>
+                        <rs type="bibl" ref="#eiusdem_panegirici">Eiusdem Panegirici</rs> in pirmenten Bund,
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Eiusdem Instructio Poenitentis, Confessarii, Et Parochi in pirmenten Bund</hi>
+                        <rs type="bibl" ref="#eiusdem_instructio_poenitentis">Eiusdem Instructio Poenitentis, Confessarii, Et Parochi in pirmenten Bund</rs>
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Eiusdem Il Christiano Instruito 3 thom. in pirmenten Bund,</hi>
+                        <rs type="bibl" ref="#eiusdem_il_christiano_instruito">Eiusdem Il Christiano Instruito</rs> 3 thom. in pirmenten Bund,
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Fremdling zu Jerusalem P. Myller in braunen Leder 2 thom.</hi>
+                        <rs type="bibl" ref="#p_myller_fremdling_zu_jerusalem">Fremdling zu Jerusalem P. Myller</rs> in braunen Leder 2 thom.
                      </cell>
                   </row>
                   <row>
                      <cell>NB</cell>
                      <cell>
-                        <hi rend="bold">Homo Christianus Institutus Pauli Segneri 3 thom. in pirmenten deto</hi>
+                        <rs type="bibl" ref="#homo_christianus_institutus_pauli_segneri">Homo Christianus Institutus Pauli Segneri</rs> 3 thom. in pirmenten deto
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Eiusdem Brevis Vitae Historia etc. in deto Bund.</hi>
+                        <rs type="bibl" ref="#eiusdem_brevis_vitae_historia">Eiusdem Brevis Vitae Historia etc.</rs> in deto Bund.
                      </cell>
                   </row>
                   <row>
                      <cell>NB</cell>
                      <cell>
-                        <hi rend="bold">Thesauri Concionatorum de Trugillo in Pirmenten.</hi>
+                        <rs type="bibl" ref="#thesauri_concionatorum_de_trugillo">Thesauri Concionatorum de Trugillo</rs> in Pirmenten.
                      </cell>
                   </row>
                   <row>
                      <cell>NB</cell>
                      <cell>
-                        <hi rend="bold" xml:space="preserve">Prediche De Palazzo Apostolico </hi>
+                        <rs type="bibl" ref="#pauli_segneri_prediche_de_palazzo_apostolico">Prediche De Palazzo Apostolico</rs>
                         <hi rend="bold strikethrough">in</hi>
-                        <hi rend="bold" xml:space="preserve"> Pauli Segneri in Papir,</hi>
+                        <rs type="bibl" ref="#pauli_segneri_prediche_de_palazzo_apostolico">Pauli Segneri</rs> in Papir,
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Bedenken Und Untersuchung etc. in franzöischen Bund.</hi>
+                        <rs type="bibl" ref="#bedenken_und_untersuchung">Bedenken Und Untersuchung etc.</rs> in franzöischen Bund.
                      </cell>
                   </row>
                </table>
@@ -8943,77 +8943,77 @@
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Tugend</hi>
+                        Tugend
                         <note>
                            <p rend="footnote text"> T- <hi rend="italic">korrigiert aus</hi> L-.</p>
                         </note>
-                        <hi rend="bold" xml:space="preserve"> Schmied P. Gansler 3 thom. in Papir,</hi>
+                         Schmied P. Gansler 3 thom. in Papir,
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Veldidena Urbs Antiquissima authore Roschmann in französischem Bund.</hi>
+                        <rs type="bibl" ref="#roschmann_veldidena_urbs_antiquissima">Veldidena Urbs Antiquissima authore Roschmann</rs> in französischem Bund.
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Alte Brevier in 4 Theil.</hi>
+                        Alte Brevier in 4 Theil.
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Dictionarium Casuum Conscientiae P. Amort thom. 2 französischer Bund</hi>
+                        <rs type="bibl" ref="#p_amort_dictionarium_casuum_conscientiae">Dictionarium Casuum Conscientiae P. Amort</rs> thom. 2 französischer Bund
                      </cell>
                   </row>
                   <row>
                      <cell>C. L.</cell>
                      <cell>
-                        <hi rend="bold">Christliche Wahrheiten P. Breanni deto Bund, 2 thom.</hi>
+                        <rs type="bibl" ref="#p_breanni_christliche_wahrheiten">Christliche Wahrheiten P. Breanni</rs> deto Bund, 2 thom.
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Opere del Padre Gio Eusebio Nieremberg 3 thom. in französischen Bund</hi>
+                        <rs type="bibl" ref="#opere_del_padre_gio_eusebio_nieremberg">Opere del Padre Gio Eusebio Nieremberg</rs> 3 thom. in französischen Bund
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Bibliotheca Patrum Asscetica französischer Bund 5 thomi.</hi>
+                        <rs type="bibl" ref="#bibliotheca_patrum_asscetica">Bibliotheca Patrum Asscetica</rs> französischer Bund 5 thomi.
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Caeleste Pantheon P. Henrici Engelgrave in französischen Bund.</hi>
+                        <rs type="bibl" ref="#p_henrici_engelgrave_caeleste_pantheon">Caeleste Pantheon P. Henrici Engelgrave</rs> in französischen Bund.
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Eiusdem Caelum Empyreum in deto Bund.</hi>
+                        <rs type="bibl" ref="#eiusdem_caelum_empyreum">Eiusdem Caelum Empyreum</rs> in deto Bund.
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Eiusdem Lux Evangelica in deto Bund.</hi>
+                        <rs type="bibl" ref="#eiusdem_lux_evangelica">Eiusdem Lux Evangelica</rs> in deto Bund.
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Christliches Andächtiges Jahr P. Joannis Suffren 4 thom. in französischen Bund,</hi>
+                        <rs type="bibl" ref="#p_joannis_christliches_andaechtiges_jahr">Christliches Andächtiges Jahr P. Joannis</rs> Suffren 4 thom. in französischen Bund,
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Anbettung Im Geist, Und Wahrheit P. Joannis Eusebii Nierembergii in deto Bund.</hi>
+                        <rs type="bibl" ref="#p_joannis_anbettung_im_geist">Anbettung Im Geist, Und Wahrheit P. Joannis Eusebii Nierembergii</rs> in deto Bund.
                      </cell>
                   </row>
                </table>
@@ -9022,83 +9022,83 @@
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold" xml:space="preserve">Discussio Theologica Augustini Michel in </hi>
+                        <rs type="bibl" ref="#discussio_theologica_augustini_michel">Discussio Theologica Augustini Michel</rs> in 
                         <hi rend="bold strikethrough">f</hi>
-                        <hi rend="bold" xml:space="preserve"> papiren Bund.</hi>
+                         papiren Bund.
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Neu Reformierte Landesordnung in französischen Bund,</hi>
+                        <rs type="bibl" ref="#neu_reformierte_landesordnung">Neu Reformierte Landesordnung</rs> in französischen Bund,
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Selva Novissima Di Concetti del R. P. Alesandro Calamato in deto Bund</hi>
+                        <rs type="bibl" ref="#selva_novissima_di_concetti_del_r_p_alesandro_calamato">Selva Novissima Di Concetti del R. P. Alesandro Calamato</rs> in deto Bund
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Memoriale Catechistico dal Padre Antoni Maria Affaitati in französischen Bund.</hi>
+                        <rs type="bibl" ref="#memoriale_catechistico_dal_padre_antoni_maria_affaitati">Memoriale Catechistico dal Padre Antoni Maria Affaitati</rs> in französischen Bund.
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold" xml:space="preserve">Il Gentiluomo </hi>
+                        <rs type="bibl" ref="#il_gentiluomo_istruito_da_d_francesco_giuseppe_morelli">Il Gentiluomo</rs> 
                         <hi rend="bold strikethrough">ins</hi>
-                        <hi rend="bold" xml:space="preserve"> Istruito etc. da D. Francesco Giuseppe Morelli in deto Bund.</hi>
+                        <rs type="bibl" ref="#il_gentiluomo_istruito_da_d_francesco_giuseppe_morelli"> Istruito etc. da D. Francesco Giuseppe Morelli</rs> in deto Bund.
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Gute Ordnung Zur Kinderlehr etc. Henrici Penzinger in deto Bund.</hi>
+                        <rs type="bibl" ref="#henrici_penzinger_gute_ordnung_zur_kinderlehr">Gute Ordnung Zur Kinderlehr etc. Henrici Penzinger</rs> in deto Bund.
                      </cell>
                   </row>
                   <row>
                      <cell>NB</cell>
                      <cell>
-                        <hi rend="bold">Historischer Sonntag Prediger R. D. Gregorio Fritz in braun Leder</hi>
+                        <rs type="bibl" ref="#r_d_gregorio_fritz_historischer_sonntag_prediger">Historischer Sonntag Prediger R. D. Gregorio Fritz</rs> in braun Leder
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Speculum Cleri P. Naisl in französischen Bund 3 thom.</hi>
+                        <rs type="bibl" ref="#p_naisl_speculum_cleri">Speculum Cleri P. Naisl</rs> in französischen Bund 3 thom.
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Margaritha Caelestis P. Rothner französischer Bund,</hi>
+                        <rs type="bibl" ref="#p_rothner_margaritha_caelestis">Margaritha Caelestis P. Rothner</rs> französischer Bund,
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Erkantnis, Und Liebe Des Sohn Gottes P. Saint-Jure 2 Theil in Schwein Leder</hi>
+                        <rs type="bibl" ref="#erkantnis">Erkantnis, Und Liebe Des Sohn Gottes P. Saint-Jure</rs> 2 Theil in Schwein Leder
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Sacerdotale Brixinense in schwarzen alten Leder Bund,</hi>
+                        <rs type="bibl" ref="#sacerdotale_brixinense">Sacerdotale Brixinense</rs> in schwarzen alten Leder Bund,
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Magnum Speculum Exemplorum P. Joannis Majoris in pirmenten Bund.</hi>
+                        <rs type="bibl" ref="#p_joannis_majoris_magnum_speculum_exemplorum">Magnum Speculum Exemplorum P. Joannis Majoris</rs> in pirmenten Bund.
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Heilige Hofhaltung P. Nicolai Caussini 3 thom. in deto Bund</hi>
+                        <rs type="bibl" ref="#p_nicolai_caussini_heilige_hofhaltung">Heilige Hofhaltung P. Nicolai Caussini</rs> 3 thom. in deto Bund
                      </cell>
                   </row>
                </table>
@@ -9107,37 +9107,37 @@
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Sermoni Domestici P. Paulo Oliva 3 thom. in braun Leder.</hi>
+                        <rs type="bibl" ref="#p_paulo_oliva_sermoni_domestici">Sermoni Domestici P. Paulo Oliva</rs> 3 thom. in braun Leder.
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Sermoni Sacri del P. la Columbiere 2 thom. in französischen Bund,</hi>
+                        <rs type="bibl" ref="#sermoni_sacri_del_p_la_columbiere">Sermoni Sacri del P. la Columbiere</rs> 2 thom. in französischen Bund,
                      </cell>
                   </row>
                   <row>
                      <cell>NB</cell>
                      <cell>
-                        <hi rend="bold">Novo Ditionario Reale Italiano Todesco Mathias Kramer Pirment Bund</hi>
+                        <rs type="bibl" ref="#mathias_kramer_novo_ditionario_reale">Novo Ditionario Reale Italiano Todesco Mathias Kramer</rs> Pirment Bund
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Opera del Padre Cattaneo in braun Leder Bund,</hi>
+                        <rs type="bibl" ref="#opera_del_padre_cattaneo">Opera del Padre Cattaneo</rs> in braun Leder Bund,
                      </cell>
                   </row>
                   <row>
                      <cell>NB</cell>
                      <cell>
-                        <hi rend="bold">Quaresimale di P. Segneri in französischen Bund,</hi>
+                        <rs type="bibl" ref="#quaresimale_di_p_segneri">Quaresimale di P. Segneri</rs> in französischen Bund,
                      </cell>
                   </row>
                   <row>
                      <cell>NB</cell>
                      <cell>
-                        <hi rend="bold">Discorsi Sacri Morali Campidelli in braunen Papir</hi>
+                        <rs type="bibl" ref="discorsi_sacri_morali_campidelli">Discorsi Sacri Morali Campidelli</rs> in braunen Papir
                      </cell>
                   </row>
                   <row>
