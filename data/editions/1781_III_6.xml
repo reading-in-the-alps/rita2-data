@@ -38,7 +38,7 @@
                </msContents>
                <history>
                   <origin notBefore="1781-03-06" notAfter="1781-05-01">
-                     <rs type="place" ref="st_martin">St. Martin/Sonnenburg</rs>
+                     <rs type="place" ref="#st_martin">St. Martin/Sonnenburg</rs>
                   </origin>
                </history>
             </msDesc>
@@ -7533,7 +7533,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="missale_romanum">Missale Romanum</rs> uralt in schlechten Schwein Leder Bund.
+                        <rs type="bibl" ref="#missale_romanum">Missale Romanum</rs> uralt in schlechten Schwein Leder Bund.
                      </cell>
                   </row>
                   <row>
@@ -7834,7 +7834,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="r_d_ginther_currus_israel_et_auriga">Currus Israel Et Auriga R. D. Ginther</rs> französischer Bund
+                        <rs type="bibl" ref="#r_d_ginther_currus_israel_et_auriga">Currus Israel Et Auriga R. D. Ginther</rs> französischer Bund
                      </cell>
                   </row>
                   <row>
@@ -8047,7 +8047,7 @@
                   <row>
                      <cell>NB</cell>
                      <cell>
-                        <rs type="bibl" ref="quacesimale_del_p_d_romolo_marchelli">Quacesimale del P. D. Romolo Marchelli</rs> in wälschen Bund.
+                        <rs type="bibl" ref="#quacesimale_del_p_d_romolo_marchelli">Quacesimale del P. D. Romolo Marchelli</rs> in wälschen Bund.
                      </cell>
                   </row>
                   <row>
@@ -8336,13 +8336,13 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="francisci_antoni_oberleutner_geistliche_baurn_regul">Francisci Antoni Oberleutner Geistliche Baurn Regul</rs> in französischen Bund
+                        <rs type="bibl" ref="#francisci_antoni_oberleutner_geistliche_baurn_regul">Francisci Antoni Oberleutner Geistliche Baurn Regul</rs> in französischen Bund
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="jacobi_schmid_baurn_legendt">Jacobi Schmid Baurn Legendt</rs> in französischen Bund
+                        <rs type="bibl" ref="#jacobi_schmid_baurn_legendt">Jacobi Schmid Baurn Legendt</rs> in französischen Bund
                      </cell>
                   </row>
                   <row>

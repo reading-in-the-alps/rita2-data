@@ -38,7 +38,7 @@
                </msContents>
                <history>
                   <origin notBefore="1771-04-17">
-                     <rs type="place" ref="st_lorenzen">St. Lorenzen</rs>
+                     <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
                   </origin>
                </history>
             </msDesc>
@@ -90,7 +90,7 @@
             <p>
                <pb n="72v"/>
             </p>
-            <p>wohledl und wohlgelehrten Herrn <rs type="person" ref="#jais_celestin_johan">Celestin <hi rend="strikethrough">Jais</hi> Johan Jais</rs> gewest eltisten Cooperotore alhier zue <rs type="st_lorenzen" ref="#st_lorenzen">Sanct Lorenzen</rs> nach langwirig schmerzlich ausgestandener Leibs Kranckhheit entlich wohl resignierter, von dism Zeitlichen zu dem Ebigen zu meniglichen Bethauren, abzufordern und zweiflsohne zu sich in die ebige Freidt und Glickhseeligkheit aufzunemben, Gott gnadt der Seelen, wurde von der gnedig geistlichen Commission sowohl als auch weltlichen Obrigkheit die gebreichige Secretur angelegt, und nach der abgeleibten Seelen zu Hilf und Trost abgehaltenen Heiligen Gottesdenst, auch an der loblichen Pfleggerichtsobrigkeit zu Ymbst die Requisition erlassen, sein des Herrn Ableibers seel. hinterlassene Geschwistrigeth und Erbs Interessenten zu Verabhandlung desselben hinterbegebenen Vermigens alhero zu verschaffen, alldieweillen aber sie Erbs Interessenten nach formierten Inventäri die Thaillung zu Ymbst vornemben zu migen von darumben angesprochen, als Herr Ableiber dortselbs gebohrn auch mit Liegenden</p>
+            <p>wohledl und wohlgelehrten Herrn <rs type="person" ref="#jais_celestin_johan">Celestin <hi rend="strikethrough">Jais</hi> Johan Jais</rs> gewest eltisten Cooperotore alhier zue <rs type="#st_lorenzen" ref="#st_lorenzen">Sanct Lorenzen</rs> nach langwirig schmerzlich ausgestandener Leibs Kranckhheit entlich wohl resignierter, von dism Zeitlichen zu dem Ebigen zu meniglichen Bethauren, abzufordern und zweiflsohne zu sich in die ebige Freidt und Glickhseeligkheit aufzunemben, Gott gnadt der Seelen, wurde von der gnedig geistlichen Commission sowohl als auch weltlichen Obrigkheit die gebreichige Secretur angelegt, und nach der abgeleibten Seelen zu Hilf und Trost abgehaltenen Heiligen Gottesdenst, auch an der loblichen Pfleggerichtsobrigkeit zu Ymbst die Requisition erlassen, sein des Herrn Ableibers seel. hinterlassene Geschwistrigeth und Erbs Interessenten zu Verabhandlung desselben hinterbegebenen Vermigens alhero zu verschaffen, alldieweillen aber sie Erbs Interessenten nach formierten Inventäri die Thaillung zu Ymbst vornemben zu migen von darumben angesprochen, als Herr Ableiber dortselbs gebohrn auch mit Liegenden</p>
             <p>
                <pb n="73r"/>
             </p>

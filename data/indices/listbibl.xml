@@ -74,6 +74,7 @@
                 <bibl xml:id="callans_contans">Callans Contans, item Geistliche Seellen Jagt</bibl>
                 <bibl xml:id="casparii_mandl_meditationes">Casparii Mandl Meditationes</bibl>
                 <bibl xml:id="casus_conscientia_benedicti">Casus Conscientia Benedicti decim-4ti</bibl>
+                <bibl xml:id="cathecismus_concilium_tridentinum">Cathecismus Concilium Tridentinum</bibl>
                 <bibl xml:id="cathecismus_romanus">Cathecismus Romanus</bibl>
                 <bibl xml:id="catholicus_cathecismus_planci_canisiani_episcopi_vienensis">Catholicus Cathecismus Planci Canisiani Episcopi Vienensis</bibl>
                 <bibl xml:id="catholische_replic">Catholische Replic</bibl>
@@ -121,6 +122,7 @@
                 <bibl xml:id="discorsi_sacri_morali_campidelli">Discorsi Sacri Morali Campidelli</bibl>
                 <bibl xml:id="discursus_pradicabiles_justini_miakoviensis">Discursus praedicabiles Justini Miakoviensis</bibl>
                 <bibl xml:id="discussio_theologica_augustini_michel">Discussio Theologica Augustini Michel</bibl>
+                <bibl xml:id="dissertationes_historico_polemicae">Disserationes Historico Polemicae</bibl>
                 <bibl xml:id="diurnale_neu_curati">Diurnale Neu Curati</bibl>
                 <bibl xml:id="dolog_moralis">Dolog. Moralis</bibl>
                 <bibl xml:id="dominicale_v_petro_hofer_dom_predigern_zu_brixen">Dominicale v. Petro Hofer Dom Predigern zu Brixen</bibl>
@@ -138,7 +140,7 @@
                 <bibl xml:id="englberti_kranckenbuch">Englberti Kranckenbuch</bibl>
                 <bibl xml:id="ecclesiastes_apreviatus">Ecclesiastes Apreviatus</bibl>
                 <bibl xml:id="erhard_erkhantnus_und_liebe">Erhard Erkhantnus, Und Liebe</bibl>
-                <bibl xml:id="erkhantnis">Erkantnis, Und Liebe Des Sohn Gottes P. Saint-Jure</bibl>
+                <bibl xml:id="erkantnis">Erkantnis, Und Liebe Des Sohn Gottes P. Saint-Jure</bibl>
                 <bibl xml:id="erstes_jubel_jahr_v_dem_collegio_der_gesellschaft_jesu">Erstes Jubel Jahr v. dem Collegio der Gesellschaft Jesu zu Munichen</bibl>
                 <bibl xml:id="eschenlotter_khinder_lehrer">Eschenlotter Khinder Lehrer</bibl>
                 <bibl xml:id="exterminium_acediae">Exterminium Acediae P. Francisci Neymayr</bibl>
@@ -199,6 +201,7 @@
                 <bibl xml:id="ius_canonicum_petern_pichler">Ius Canonicum Petern Pichler</bibl>	
                 <bibl xml:id="jacobi_gechtneri_murices_antiquitatis_catholicae">Jacobi Gechtneri Murices Antiquitatis Catholicae</bibl>
                 <bibl xml:id="jacobi_marchantii_hortus_pastorum">Jacobi Marchantii Hortus Pastorum</bibl>
+                <bibl xml:id="jacobi_schmid_baurn_legendt">Jacobi Schmid Baurn Legendt</bibl>
                 <bibl xml:id="johan_goestl_caethaekhismus">Johan Göstl Cäthäkhismus</bibl>
                 <bibl xml:id="joann_christoph_peer_der_in_eyl_bereitete_prediger">Joann Christoph Peer Der In Eyl Bereitete Prediger</bibl>
                 <bibl xml:id="joann_imhof_messis_mistica_theol_moral">Joann Imhof Messis Mistica Theol. Moral.</bibl>
@@ -258,6 +261,7 @@
                 <bibl xml:id="mundus_marianus_p_dalmata">Mundus Marianus P. Dalmata</bibl>
                 <bibl xml:id="nadasi_anni_coelestis">Nadasi Anni Coelestis</bibl>
                 <bibl xml:id="narrazione_storica_del_st_simoni_di_trento">Narrazione Storica Del St. Simoni di Trento</bibl>
+                <bibl xml:id="natalis_alexandri_historia_ecclesiastica">Natalis Alexandri Historia Ecclesiastica</bibl>
                 <bibl xml:id="natalis_sanctorum_ordinis_praemonstratensis">Natalis Sanctorum Ordinis Praemonstratensis</bibl>
                 <bibl xml:id="nattuerliches_zauberbuch">Nattürliches Zauberbuch</bibl>
                 <bibl xml:id="neuburger_conciodes_moralis">Neuburger Conciodes Moralis</bibl>
@@ -413,6 +417,7 @@
                 <bibl xml:id="pater_knellingers_proedigen">Pater Knellingers Prödigen</bibl>	
                 <bibl xml:id="pater_letelies_geistliche_veldt">Pater Letelies Geistliche Veldt Pau</bibl>	
                 <bibl xml:id="pater_lucas_proedigen">Pater Lucas Prödigen</bibl>	
+                <bibl xml:id="pater_mandls_fasten_proedigen">Pater Mandls Fasten Prödigen</bibl>
                 <bibl xml:id="pater_mauritius_homo_simplex_et_rectus">Pater Mauritius Homo Simplex Et Rectus</bibl>	
                 <bibl xml:id="pater_melchior_paurn_concept">Pater Melchior Paurn Concept</bibl>	
                 <bibl xml:id="pater_miel_proedigen">Pater Miel Sonn- Und Feyrtag Prödigen</bibl>
