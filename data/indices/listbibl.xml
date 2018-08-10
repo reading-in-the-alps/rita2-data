@@ -117,6 +117,7 @@
                 <bibl xml:id="dictionarium_linguae_latinae_ambrosii_calipini">Dictionarium Linguae Latinae Ambrosii Calipini</bibl>
                 <bibl xml:id="dictionarius_frisius">Dictionarius Frisius</bibl>	
                 <bibl xml:id="dictionnarius">Dictionnarius</bibl>
+                <bibl xml:id="discorsi_della_bona_morte_del_padre_bordoni">Discorsi Della Bona Morte del Padre Bordoni</bibl>
                 <bibl xml:id="discorsi_sacri_morali_campidelli">Discorsi Sacri Morali Campidelli</bibl>
                 <bibl xml:id="discursus_pradicabiles_justini_miakoviensis">Discursus praedicabiles Justini Miakoviensis</bibl>
                 <bibl xml:id="discussio_theologica_augustini_michel">Discussio Theologica Augustini Michel</bibl>
@@ -128,10 +129,12 @@
                 <bibl xml:id="ebenbildt_der_naettur">Ebenbildt Der Nättur Ein Kreiter Buech</bibl>
                 <bibl xml:id="eiusdem_brevis_vitae_historia">Eiusdem Brevis Vitae Historia etc.</bibl>
                 <bibl xml:id="eiusdem_caelum_empyreum">Eiusdem Caelum Empyreum</bibl>
+                <bibl xml:id="eiusdem_discorsi_sacri_sopra_varie_feste">Eiusdem Discorsi Sacri Sopra Varie Feste</bibl>
                 <bibl xml:id="eiusdem_il_christiano_instruito">Eiusdem Il Christiano Instruito</bibl>
                 <bibl xml:id="eiusdem_instructio_poenitentis">Eiusdem Instructio Poenitentis, Confessarii, Et Parochi</bibl>
                 <bibl xml:id="eiusdem_lux_evangelica">Eiusdem Lux Evangelica</bibl>
                 <bibl xml:id="eiusdem_panegirici">Eiusdem Panegirici</bibl>
+                <bibl xml:id="eiusdem_quaresimale">Eiusdem Quaresimale</bibl>
                 <bibl xml:id="englberti_kranckenbuch">Englberti Kranckenbuch</bibl>
                 <bibl xml:id="ecclesiastes_apreviatus">Ecclesiastes Apreviatus</bibl>
                 <bibl xml:id="erhard_erkhantnus_und_liebe">Erhard Erkhantnus, Und Liebe</bibl>
@@ -144,6 +147,7 @@
                 <bibl xml:id="flagellum_demonum_hyronimus_mengolt">Flagellum Demonum Hyronimus Mengolt</bibl>
                 <bibl xml:id="f_joannes_nass_concordia_alter">F. Joannes Nass Concordia Alter</bibl>
                 <bibl xml:id="f_michaelen_anisium_procession_predig">Procession Predig F. Michaelen Anisium</bibl>
+                <bibl xml:id="fleschiers_sitten_rede">Fleschiers Sitten Rede und andere etc.</bibl>
                 <bibl xml:id="fosa_juvavium">Fosa Juvavium</bibl>
                 <bibl xml:id="francisc_heger_predigen">Francisc Heger Predigen</bibl>
                 <bibl xml:id="francisci_antoni_oberleutner_geistliche_baurn_regul">Francisci Antoni Oberleutner Geistliche Baurn Regul</bibl>
@@ -152,6 +156,7 @@
                 <bibl xml:id="freythamer_proedigen">Freythamer Sonn- und Feyrtägliche Feyrtag Prödigen</bibl>
                 <bibl xml:id="gabriel_zuerchers_prophetischer_clag_posaun">Herr Gabriel Zürchers Prophetischer Clag Posaun</bibl>
                 <bibl xml:id="geist_des_heiligen_francisci_salesii">Geist Des Heiligen Francisci Salesii</bibl>
+                <bibl xml:id="geistliche_stadt_gottes_mariae_lauretae">Geistliche Stadt Gottes Mariae Lauretae</bibl>
                 <bibl xml:id="geistlicher_krammer_laden_von_p_abraham_a_st_clara">Geistlicher Krammer Laden von P. Abraham à St. Clara</bibl>
                 <bibl xml:id="geistlicher_vatter_des_heiligen_francisci_v_sales">Geistlicher Vatter des Heiligen Francisci v. Sales</bibl>
                 <bibl xml:id="georg_zeaemans_keptisches_wunder_thier">Georg Zeämans Kemptisches Wunder Thier in gsch[o]bnen Pirment</bibl>
@@ -202,6 +207,7 @@
                 <bibl xml:id="joannis_belethi_rationale_divinorum_beneficiorum">Joannis Belethi Rationale Divinorum Beneficiorum</bibl>
                 <bibl xml:id="joannis_clericati">Joannis Clericati</bibl>
                 <bibl xml:id="joannis_taberni_sinop_theol_practicae">Joannis Taberni Sinop. Theol. Practicae</bibl>
+                <bibl xml:id="johann_caspar_du_fey_predigen">Johann Caspar du Fey Predigen</bibl>
                 <bibl xml:id="johann_hibners_real_statts_und_zeitungslexikon">Johann Hibners Real Statts- Und Zeitungs etc. Lexicon</bibl>
                 <bibl xml:id="jubel_in_jubl_jahr">Jubel in Jubl Jahr</bibl>
                 <bibl xml:id="judas_der_erzschelm">Judas Der Erzschelm</bibl>
@@ -213,6 +219,7 @@
                 <bibl xml:id="knellingers_predigten">Reverentis Patris Knellingers Prödigen</bibl>
                 <bibl xml:id="l_annuale_per_gli_parochi_di_gioseppe_musoco">L’annuale Per Gli Parochi, di Gioseppe Musoco</bibl>
                 <bibl xml:id="la_santita_e_la_pieta_di_monsignor_giovanni_fontana">La Santita E La Pieta di Monsignor Giovanni Fontana</bibl>
+                <bibl xml:id="la_vita_di_st_francesco_di_sales">La Vita di St. Francesco di Sales</bibl>
                 <bibl xml:id="la_vita_di_st_antonio_di_padova_dal_padre_angelico">La Vita di St. Antonio di Padova dal Padre Angelico</bibl>
                 <bibl xml:id="lacrua">Lacrua</bibl>	
                 <bibl xml:id="laurentii_forero_anatomiae_societatis_jesu">Laurentii Forero Anatomiae Societatis Jesu</bibl>
@@ -260,6 +267,7 @@
                 <bibl xml:id="opera_del_padre_cattaneo">Opera del Padre Cattaneo</bibl>
                 <bibl xml:id="opera_der_heiligen_seraphischen_jungfrauen_theresia_v_jesu">Opera Der Heiligen Seraphischen Jungfrauen Theresia V. Jesu</bibl>
                 <bibl xml:id="opere_del_padre_gio_eusebio_nieremberg">Opere del Padre Gio Eusebio Nieremberg</bibl>
+                <bibl xml:id="opere_spirituali_di_st_francesco_di_sales">Opere Spirituali di St. Francesco di Sales</bibl>
                 <bibl xml:id="opus_marcus_maruli_spalatensis_dictorum_factorumque_memorabilium">Opus Marcus Maruli Spalatensis Dictorum Factorumque Memorabilium</bibl>
                 <bibl xml:id="orationes_josephi_ignatii_chiaberge">Orationes Josephi Ignatii Chiaberge</bibl>
                 <bibl xml:id="orazione_in_morte_di_eugenio_francesco_principae_di_savoja">Orazione In Morte Di Eugenio Francesco Principae Di Savoja</bibl>
@@ -333,10 +341,12 @@
                 <bibl xml:id="p_leopoldi_gramiller_ariadnae_evangelica">Ariadnae Evangelica P. Leopoldi Gramiller</bibl>
                 <bibl xml:id="p_lohner">P. Lohner</bibl>
                 <bibl xml:id="p_ludovici_michon_casus_de_sacramentis">P. Ludovici Michon Casus de Sacramentis</bibl>
+                <bibl xml:id="p_luigi_granata_opere_spirituali">Opere Spirituali P. Luigi Granata</bibl>
                 <bibl xml:id="p_maffei_historiarum_indicarum">P. Maffei Historiarum Indicarum</bibl>
                 <bibl xml:id="p_marcelinus_holzer_exempl_predigen">P. Marcelinus Holzer Exempl Predigen</bibl>
                 <bibl xml:id="p_martini_becani_manuale_controversiarium">P. Martini Becani Manuale Controversiarium</bibl>
                 <bibl xml:id="p_mauritius_notenssussae_homo_simplex_et_rectus">P. Mauritius Notenssussae Homo Simplex Et Rectus</bibl>
+                <bibl xml:id="p_mayr_tractatus_theologicus_de_secundo_christi_adventus">Tractatus Theologicus De Secundo Christi Adventus P. Mayr</bibl>
                 <bibl xml:id="p_mezger_sacra_historia_de_gestis_haebraicae_gentis">Sacra Historia De Gestis Haebraicae Gentis P. Mezger</bibl>
                 <bibl xml:id="p_myller_fremdling_zu_jerusalem">Fremdling zu Jerusalem P. Myller</bibl>
                 <bibl xml:id="p_naisl_speculum_cleri">Speculum Cleri P. Naisl</bibl>
@@ -364,13 +374,17 @@
                 <bibl xml:id="p_schwarz_imperii_princeps_ecclesiasticus">Imperii Prineps Ecclesiasticus P. Schwarz</bibl>
                 <bibl xml:id="p_schwarz_peripateticus_nostri_temporis">Peripateticus Nostri Temporis P. Schwarz</bibl>
                 <bibl xml:id="p_segneri_incredulus_non_excusabilibis">Incredulus Non Excusabilibis P. Segneri</bibl>
+                <bibl xml:id="p_seiller_geistliche_reden">Geistliche Reden P. Seiller</bibl>
                 <bibl xml:id="p_sender_domo_christiani">P. Sender Domo Christiani</bibl>
                 <bibl xml:id="p_sigl_diester_gwaldt_zum_todt">P. Sigl Diester Gwaldt Zum Todt</bibl>
                 <bibl xml:id="p_spinola_heiliger_jahrs_kalender">Heiliger Jahrs Kalender, Betrachtung Über Das Leben, Und Lehr Jesu Christi P. Spinola</bibl>
+                <bibl xml:id="p_steinhart_sacrum_veterum_tempora">Sacrum Veterum Tempora P. Steinhart</bibl>
                 <bibl xml:id="p_steinhies_aphorismus_juris">P. Steinhies Aphorismus Juris</bibl>
                 <bibl xml:id="p_thirini_commentarius_in_vetus_et_novum_testamentum">P. Thirini Commentarius In Vetus Et Novum Testamentum</bibl>
                 <bibl xml:id="p_tobias_lohner_instruction_practicae">P. Tobias Lohner Instruction Practicae</bibl>
                 <bibl xml:id="p_udalricus_probst_betrachtung">P. Udalricus Probst Betrachtung</bibl>
+                <bibl xml:id="p_veggi_sermoni_familiari">Sermoni Familiari P. Veggi</bibl>
+                <bibl xml:id="p_vieyra_prediche_della_quaresima">Prediche Della Quaresima P. Vieyra</bibl>
                 <bibl xml:id="p_vitus_haberius_predigen">P. Vitus Haberius 30 Predigen</bibl>
                 <bibl xml:id="p_vogl_veritates_et_terne">P. Vogl Veritates et Terne</bibl>
                 <bibl xml:id="p_waldner_handt_bethbuech">P. Waldner Handt- und Beth Buech</bibl>
@@ -380,6 +394,7 @@
                 <bibl xml:id="p_ximenez_kurzer_lebens_begriff_der_wuerdigen_mutter_schwester_maria_v_jesu">Kurzer Lebens Begriff Der Würdigen Mutter Schwester Maria v. Jesu P. Ximenez</bibl>
                 <bibl xml:id="p_zacharias_ratgeb_muster">P. Zacharias Ratgeb Muster der Geistlichen Wohl Redenheit</bibl>
                 <bibl xml:id="p_zillis">P. Zillis</bibl>
+                <bibl xml:id="padre_vieyra_la_rosa_mystica">La Rosa Mystica Padre Vieyra</bibl>
                 <bibl xml:id="parochus_florilegus">Parochus Florilegus</bibl>
                 <bibl xml:id="paetivil_proedigen">Paetivil Prödigen</bibl>
                 <bibl xml:id="parzios_ain_thail">Parzios ain Thail</bibl>	
@@ -486,6 +501,7 @@
                 <bibl xml:id="series_romanorum_pontificum">Series Romanorum Ponitificum</bibl>
                 <bibl xml:id="sermones_de_festis">Semones de Festis</bibl>
                 <bibl xml:id="sermones_discipuli_quadragesimales">Sermones Discipuli Quadragesimales</bibl>
+                <bibl xml:id="sermones_in_evangelium_dominicarum">Sermones in Evangelium Dominicarum</bibl>
                 <bibl xml:id="sermones_pellbarti_de_themeswar">Sermones Pellbarti de Themeswar</bibl>
                 <bibl xml:id="sermoni_familiari_di_st_carolo_boro">Sermoni Familiari di St. Carolo Boro</bibl>
                 <bibl xml:id="sermoni_sacri_del_p_la_columbiere">Sermoni Sacri del P. la Columbiere</bibl>
@@ -496,6 +512,7 @@
                 <bibl xml:id="stanislai_hosii_drey_christliche_gespraech">Stanislai Hosii Drey Christliche Gespräch in gsch[o]bnen Pirment</bibl>
                 <bibl xml:id="strobl_geistliches_khartten">Strobl Geistliches Khartten</bibl>	
                 <bibl xml:id="stubenpeck_in_casus_reservatis">Stubenpeck In Casus Reservatis</bibl>
+                <bibl xml:id="summa_corona_confessorum_antonio_berarducii">Summa Corona Confessorum Antonio Berarducii</bibl>
                 <bibl xml:id="synodus_prixinensis">Synodus Prixinensis</bibl>	
                 <bibl xml:id="tertulianus_praedicans_p_viviens">Tertulianus Praedicans P. Viviens</bibl>
                 <bibl xml:id="teutsche_bibl">Teutsche Bibl</bibl>
@@ -514,6 +531,7 @@
                 <bibl xml:id="tractat_de_autonomia_andert">Tractat de Autonomia andert</bibl>
                 <bibl xml:id="tractatus_de_iustitiam">Tractatus De Iustitiam, Et Iure P. Babenstub</bibl>
                 <bibl xml:id="tractatus_theologico_moralis_in_decem_decalogi">Tractatus Theologico Moralis In Decem Decalogi</bibl>
+                <bibl xml:id="trattenimento_istorico_spirituale_di_calino">Trattenimento Istorico Spirituale di Calino</bibl>
                 <bibl xml:id="trauner_fragmenta_sacra">Trauner Fragmenta Sacra</bibl>	
                 <bibl xml:id="trauners_erstes_dominicale">Trauners Erstes Dominicale</bibl>
                 <bibl xml:id="triumpfirende_tugenden_oder_leben_der_heiligen_p_ribadenvira">Triumpfirende Tugenden, oder Leben der Heiligen P. Ribadenevira</bibl>

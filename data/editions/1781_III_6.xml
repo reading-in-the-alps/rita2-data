@@ -9137,7 +9137,7 @@
                   <row>
                      <cell>NB</cell>
                      <cell>
-                        <rs type="bibl" ref="discorsi_sacri_morali_campidelli">Discorsi Sacri Morali Campidelli</rs> in braunen Papir
+                        <rs type="bibl" ref="#discorsi_sacri_morali_campidelli">Discorsi Sacri Morali Campidelli</rs> in braunen Papir
                      </cell>
                   </row>
                   <row>
@@ -9149,43 +9149,43 @@
                   <row>
                      <cell>NB</cell>
                      <cell>
-                        <hi rend="bold">Eiusdem Discorsi Sacri Sopra Varie Feste in wälschen Bund,</hi>
+                        <rs type="bibl" ref="#eiusdem_discorsi_sacri_sopra_varie_feste">Eiusdem Discorsi Sacri Sopra Varie Feste</rs> in wälschen Bund,
                      </cell>
                   </row>
                   <row>
                      <cell>NB NB</cell>
                      <cell>
-                        <hi rend="bold">Discorsi Della Bona Morte del Padre Bordoni 3 thom. französischer Bund,</hi>
+                        <rs type="bibl" ref="#discorsi_della_bona_morte_del_padre_bordoni">Discorsi Della Bona Morte del Padre Bordoni</rs> 3 thom. französischer Bund,
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Opere Spirituali P. Luigi Granata in französischen Bund 3 thom.</hi>
+                        <rs type="bibl" ref="#p_luigi_granata_opere_spirituali">Opere Spirituali P. Luigi Granata</rs> in französischen Bund 3 thom.
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Prediche Della Quaresima P. Vieyra in braun Leder,</hi>
+                        <rs type="bibl" ref="#p_vieyra_prediche_della_quaresima">Prediche Della Quaresima P. Vieyra</rs> in braun Leder,
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">La Vita di St. Francesco di Sales in französischen Bund.</hi>
+                        <rs type="bibl" ref="#la_vita_di_st_francesco_di_sales">La Vita di St. Francesco di Sales</rs> in französischen Bund.
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">La Rosa Mystica Padre Vieyra in deto Bund.</hi>
+                        <rs type="bibl" ref="#padre_vieyra_la_rosa_mystica">La Rosa Mystica Padre Vieyra</rs> in deto Bund.
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Opere Spirituali di St. Francesco di Sales in französischen Bund,</hi>
+                        <rs type="bibl" ref="#opere_spirituali_di_st_francesco_di_sales">Opere Spirituali di St. Francesco di Sales</rs> in französischen Bund,
                      </cell>
                   </row>
                </table>
@@ -9200,56 +9200,56 @@
                               <hi rend="italic">Am linken Rand nachgetragen.</hi>
                            </p>
                         </note>
-                        <hi rend="bold">Breviarium Romanum in 2 Theilen in schlechten Bund</hi>
+                        <rs type="bibl" ref="#breviarium_romanum">Breviarium Romanum</rs> in 2 Theilen in schlechten Bund
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Summa Corona Confessorum Antonio Berarducii in schlechten Pirment</hi>
+                        <rs type="bibl" ref="#summa_corona_confessorum_antonio_berarducii">Summa Corona Confessorum Antonio Berarducii</rs> in schlechten Pirment
                         <hi rend="bold superscript">172</hi>
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Trattenimento Istorico Spirituale di Calino 2 thom. in französischen Bund,</hi>
+                        <rs type="bibl" ref="#trattenimento_istorico_spirituale_di_calino">Trattenimento Istorico Spirituale di Calino</rs> 2 thom. in französischen Bund,
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Eiusdem Quaresimale in deto Bund</hi>
+                        <rs type="bibl" ref="#eiusdem_quaresimale">Eiusdem Quaresimale</rs> in deto Bund
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Sermoni Familiari P. Veggi in braun Leder,</hi>
+                        <rs type="bibl" ref="#p_veggi_sermoni_familiari">Sermoni Familiari P. Veggi</rs> in braun Leder,
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Sacrum Veterum Tempora P. Steinhart in französischem Bund,</hi>
+                        <rs type="bibl" ref="#p_steinhart_sacrum_veterum_tempora">Sacrum Veterum Tempora P. Steinhart</rs> in französischem Bund,
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Sermones in Evangelium Dominicarum in fränzösischem Bund,</hi>
+                        <rs type="bibl" ref="#sermones_in_evangelium_dominicarum">Sermones in Evangelium Dominicarum</rs> in fränzösischem Bund,
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Tractatus Theologicus De Secundo Christi Adventus P. Mayr in braun Papir</hi>
+                        <rs type="bibl" ref="#p_mayr_tractatus_theologicus_de_secundo_christi_adventus">Tractatus Theologicus De Secundo Christi Adventus P. Mayr</rs> in braun Papir
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Geistliche Stadt Gottes Mariae Lauretae 3 Theile fränzösischer Bund,</hi>
+                        <rs type="bibl" ref="#geistliche_stadt_gottes_mariae_lauretae">Geistliche Stadt Gottes Mariae Lauretae</rs> 3 Theile fränzösischer Bund,
                      </cell>
                   </row>
                </table>
@@ -9265,19 +9265,19 @@
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Johann Caspar du Fey Predigen 2 thom. französischer Bund,</hi>
+                        <rs type="bibl" ref="#johann_caspar_du_fey_predigen">Johann Caspar du Fey Predigen</rs> 2 thom. französischer Bund,
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Geistliche Reden P. Seiller 2 thom. in deto Bund,</hi>
+                        <rs type="bibl" ref="#p_seiller_geistliche_reden">Geistliche Reden P. Seiller</rs> 2 thom. in deto Bund,
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="bold">Fleschiers Sitten Rede und andere etc. 3 thom. in deto Bund,</hi>
+                        <rs type="bibl" ref="#fleschiers_sitten_rede">Fleschiers Sitten Rede und andere etc.</rs> 3 thom. in deto Bund,
                      </cell>
                   </row>
                   <row>
