@@ -266,6 +266,13 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/6534788</idno>
             </place>
+            <place xml:id="ollang">
+               <placeName>Valdaora</placeName>
+               <location>
+                  <geo decls="#LatLng">46.766667 12.033333</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3164949</idno>
+            </place>
          </listPlace>
       </body>
    </text>

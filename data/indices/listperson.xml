@@ -1790,6 +1790,13 @@
                   <surname>Hueber</surname>
                </persName>
             </person>
+            <person xml:id="nideregger_hanns">
+               <persName>
+                  <forename>Hanns</forename>
+                  <surname>Nideregger</surname>
+               </persName>
+               <note type="function">Bäck zu <rs type="place" ref="#ollang">Ollang</rs></note>
+            </person>
          </listPerson>
       </body>
    </text>
