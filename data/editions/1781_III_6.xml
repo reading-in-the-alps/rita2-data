@@ -7396,7 +7396,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#aenigma_theoligicum_p_cinenfuego">Aenigma Theoligicum P. Cinenfuego</rs> in französischen Bund
+                        <rs type="bibl" ref="#p_cinenfuego_aenigma_theoligicum">Aenigma Theoligicum P. Cinenfuego</rs> in französischen Bund
                      </cell>
                   </row>
                   <row>
@@ -7414,7 +7414,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#admiranda_orbis_christiani_p_bagatta">Admiranda Orbis Christiani P. Bagatta</rs> französischer Bund.
+                        <rs type="bibl" ref="#p_bagatta_admiranda_orbis_christiani">Admiranda Orbis Christiani P. Bagatta</rs> französischer Bund.
                      </cell>
                   </row>
                   <row>
@@ -7456,7 +7456,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#quaestiones_singulares_p_nogueira">Quaestiones Singulares P. Nogueira</rs> in weiss pirmenten Bund.
+                        <rs type="bibl" ref="#p_nogueira_quaestiones_singulares">Quaestiones Singulares P. Nogueira</rs> in weiss pirmenten Bund.
                      </cell>
                   </row>
                   <row>
@@ -7477,7 +7477,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#tertulianus_praedicans_p_viviens">Tertulianus Praedicans P. Viviens</rs> thom. 2 in Schwein Leder.
+                        <rs type="bibl" ref="#p_viviens_tertulianus_praedicans">Tertulianus Praedicans P. Viviens</rs> thom. 2 in Schwein Leder.
                      </cell>
                   </row>
                   <row>
@@ -7489,13 +7489,13 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#triumpfirende_tugenden_oder_leben_der_heiligen_p_ribadenvira">Triumpfirende Tugenden, oder Leben der Heiligen P. Ribadenevira</rs> thom. 2 in Schwein Leder
+                        <rs type="bibl" ref="#p_ribadenvira_triumpfirende_tugenden_oder_leben_der_heiligen">Triumpfirende Tugenden, oder Leben der Heiligen P. Ribadenevira</rs> thom. 2 in Schwein Leder
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#conceptus_conographicus_p_joseph_zoller">Conceptus Conographicus P. Joseph Zoller</rs>
+                        <rs type="bibl" ref="#p_joseph_zoller_conceptus_conographicus">Conceptus Conographicus P. Joseph Zoller</rs>
                      </cell>
                   </row>
                   <row>
@@ -7572,7 +7572,7 @@
                   <row>
                      <cell>NB</cell>
                      <cell>
-                        <rs type="bibl" ref="#postil_p_scherer">Postil P. Scherer</rs> in alten Schwein Leder 2 thom.
+                        <rs type="bibl" ref="#p_scherer_postil">Postil P. Scherer</rs> in alten Schwein Leder 2 thom.
                      </cell>
                   </row>
                   <row>
@@ -7626,7 +7626,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#vita_domini_nostri_jesu_christi_v_p_ludolpus">Vita Domini Nostri Jesu Christi v. P. Ludolphus</rs>
+                        <rs type="bibl" ref="#p_ludolphus_vita_domini_nostri_jesu_christi">Vita Domini Nostri Jesu Christi v. P. Ludolphus</rs>
                         <note>
                            <p rend="footnote text"> -us <hi rend="italic">korrigiert aus</hi> -i.</p>
                         </note>
@@ -7660,7 +7660,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#mundus_marianus_p_dalmata">Mundus Marianus P. Dalmata</rs> französischer Bund
+                        <rs type="bibl" ref="#p_dalmata_mundus_marianus">Mundus Marianus P. Dalmata</rs> französischer Bund
                      </cell>
                   </row>
                </table>
@@ -8638,7 +8638,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#tractatus_de_iustitiam">Tractatus De Iustitiam, Et Iure P. Babenstub</rs>
+                        <rs type="bibl" ref="#p_babenstub_tractatus_de_iustitiam">Tractatus De Iustitiam, Et Iure P. Babenstub</rs>
                         <note>
                            <p rend="footnote text"> Babenstuber.</p>
                         </note>
@@ -8692,7 +8692,7 @@
                   <row>
                      <cell>NB</cell>
                      <cell>
-                        <rs type="bibl" ref="#conciones_tergeminae_in_dominicas_et_festa">Conciones Tergeminae In Dominicas Et Festa P. Philippi Hartung</rs> in braun Leder 4 thom.
+                        <rs type="bibl" ref="#p_philippi_hartung_conciones_tergeminae_in_dominicas_et_festa">Conciones Tergeminae In Dominicas Et Festa P. Philippi Hartung</rs> in braun Leder 4 thom.
                      </cell>
                   </row>
                   <row>
@@ -8831,7 +8831,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#gottseliger_schluss">Gottseliger Schluss, Und Firsetz Der Seelen P. Zumsteeg</rs> in braun Leder,
+                        <rs type="bibl" ref="#p_zumsteeg_gottseliger_schluss">Gottseliger Schluss, Und Firsetz Der Seelen P. Zumsteeg</rs> in braun Leder,
                      </cell>
                   </row>
                </table>
@@ -9080,7 +9080,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#erkantnis">Erkantnis, Und Liebe Des Sohn Gottes P. Saint-Jure</rs> 2 Theil in Schwein Leder
+                        <rs type="bibl" ref="#p_saint_jure_erkantnis">Erkantnis, Und Liebe Des Sohn Gottes P. Saint-Jure</rs> 2 Theil in Schwein Leder
                      </cell>
                   </row>
                   <row>
@@ -10376,7 +10376,7 @@
                      <cell>32 x</cell>
                   </row>
                   <row>
-                     <cell>Simon Mutschlechnerische Verlassenschafft zu Lothen</cell>
+                     <cell><rs type="person" ref="#mutschlechner_simon">Simon Mutschlechnerische</rs> Verlassenschafft zu Lothen</cell>
                      <cell>18¾ x</cell>
                   </row>
                   <row>
@@ -10384,7 +10384,7 @@
                      <cell>8f 46 x</cell>
                   </row>
                   <row>
-                     <cell>Hans Grueber Erschpämer zu Moos 6 Stär Gersten à 50 x</cell>
+                     <cell><rs type="person" ref="#grueber_hans">Hans Grueber</rs> Erschpämer zu Moos 6 Stär Gersten à 50 x</cell>
                      <cell>5 f 0 x</cell>
                   </row>
                   <row>
@@ -10396,7 +10396,7 @@
                      <cell>12 x</cell>
                   </row>
                   <row>
-                     <cell>Winkler zu St. Martin oder vilmehr titl. Herr von Gall 4 Stär Gersten à 50 x</cell>
+                     <cell>Winkler zu <rs type="place" ref="#st_martin">St. Martin</rs> oder vilmehr titl. Herr von Gall 4 Stär Gersten à 50 x</cell>
                      <cell>3 f 20 x</cell>
                   </row>
                   <row>
@@ -11397,7 +11397,7 @@
                      <cell>5 x</cell>
                   </row>
                </table>
-               <p>Rader zu Bruneck</p>
+               <p>Rader zu <rs type="place" ref="#brunegg">Bruneck</rs></p>
                <table rend="rules">
                   <row>
                      <cell>Unterschidliche Bilder dt.</cell>
@@ -11463,7 +11463,7 @@
                   </row>
                </table>
                <p>[3r]</p>
-               <p>Frau Gerichtsscheiberin zu St. Lorenzen</p>
+               <p>Frau Gerichtsscheiberin zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></p>
                <table rend="rules">
                   <row>
                      <cell>1 Korb, fol. 5, dt.</cell>
@@ -11651,7 +11651,7 @@
                      <cell>38 f 14 x</cell>
                   </row>
                </table>
-               <p>Klampperer zu St. Martin</p>
+               <p>Klampperer zu <rs type="place" ref="#st_martin">St. Martin</rs></p>
                <table rend="rules">
                   <row>
                      <cell>1 Becher wigt 8 Loth à 1 f 4 x dt.</cell>
@@ -11791,7 +11791,7 @@
                      <cell>5 f 6 x</cell>
                   </row>
                </table>
-               <p>Herr Supernumerario zu Gais</p>
+               <p>Herr Supernumerario zu <rs type="place" ref="#gais">Gais</rs></p>
                <table rend="rules">
                   <row>
                      <cell>1 Sackuhr dt.</cell>
@@ -11859,7 +11859,7 @@
                      <cell/>
                   </row>
                </table>
-               <p>Ziller zu Lorenzen</p>
+               <p>Ziller zu <rs type="place" ref="#st_lorenzen">Lorenzen</rs></p>
                <table rend="rules">
                   <row>
                      <cell>1 Ziller Hut und deto Hosen dt.</cell>
@@ -11946,7 +11946,7 @@
                      <cell>21 x</cell>
                   </row>
                </table>
-               <p>Luck Beck zu Bruneck</p>
+               <p>Luck Beck zu <rs type="place" ref="#brunegg">Bruneck</rs></p>
                <table rend="rules">
                   <row>
                      <cell>2 Spin Räder fol. 7 dt.</cell>
@@ -12058,7 +12058,7 @@
                      <cell>14 x</cell>
                   </row>
                </table>
-               <p>Herr Bixenmacher zu Lorenzen</p>
+               <p>Herr Bixenmacher zu <rs type="place" ref="#st_lorenzen">Lorenzen</rs></p>
                <table rend="rules">
                   <row>
                      <cell>2 kupferne Schisselen fol. 8 dt.</cell>
@@ -12568,7 +12568,7 @@
                      </cell>
                   </row>
                </table>
-               <p>Winkler zu Saalen</p>
+               <p>Winkler zu <rs type="place" ref="#saalen">Saalen</rs></p>
                <table rend="rules">
                   <row>
                      <cell>1 Truchen dt.</cell>
@@ -12581,7 +12581,7 @@
                      <cell>3 x</cell>
                   </row>
                </table>
-               <p>Garber in Pflaurenz</p>
+               <p>Garber in <rs type="place" ref="#pflaurenz">Pflaurenz</rs></p>
                <table rend="rules">
                   <row>
                      <cell>1 Streicher etc. dt.</cell>
@@ -12888,7 +12888,7 @@
                      <cell>31 x</cell>
                   </row>
                </table>
-               <p>Bedienter v. Herr Dechant zu Bruneck</p>
+               <p>Bedienter v. Herr Dechant zu <rs type="place" ref="#brunegg">Bruneck</rs></p>
                <table rend="rules">
                   <row>
                      <cell>2 Hemat Knöpfler, dt.</cell>
@@ -13737,7 +13737,7 @@
                   </row>
                </table>
                <p>[11r]</p>
-               <p>Fischer in Pflaurenz</p>
+               <p>Fischer in <rs type="place" ref="#pflaurenz">Pflaurenz</rs></p>
                <table rend="rules">
                   <row>
                      <cell>2 schlechte Leilacher dt.</cell>
@@ -13812,7 +13812,7 @@
                   </row>
                </table>
                <p>[11v]</p>
-               <p>Titl. Herr Pfarrer zu Gais</p>
+               <p>Titl. Herr Pfarrer zu <rs type="place" ref="#gais">Gais</rs></p>
                <table rend="rules">
                   <row>
                      <cell>Fir 1 Werchschuch dt.</cell>

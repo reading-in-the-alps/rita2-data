@@ -608,7 +608,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#armamentarium_ecclesiastium">Armamentarium Ecclesiastium P. Ubaldi Stueber</rs> per
+                     <rs type="bibl" ref="#p_ubaldi_stueber_armamentarium_ecclesiastium">Armamentarium Ecclesiastium P. Ubaldi Stueber</rs> per
                   </cell>
                   <cell>
                      12 x
@@ -616,7 +616,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#exterminium_acediae">Exterminium Acediae P. Francisci Neymayr</rs>
+                     <rs type="bibl" ref="#p_francisci_neymayr_exterminium_acediae">Exterminium Acediae P. Francisci Neymayr</rs>
                   </cell>
                   <cell>
                      15 x

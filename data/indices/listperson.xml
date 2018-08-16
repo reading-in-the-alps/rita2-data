@@ -1797,6 +1797,19 @@
                </persName>
                <note type="function">Bäck zu <rs type="place" ref="#ollang">Ollang</rs></note>
             </person>
+            <person xml:id="mutschlechner_simon">
+               <persName>
+                  <forename>Simon</forename>
+                  <surname>Mutschlechner</surname>
+               </persName>
+            </person>
+            <person xml:id="grueber_hans">
+               <persName>
+                  <forename>Hans</forename>
+                  <surname>Grueber</surname>
+               </persName>
+               <note type="function">Erschpämer zu Moos</note>
+            </person>
          </listPerson>
       </body>
    </text>
