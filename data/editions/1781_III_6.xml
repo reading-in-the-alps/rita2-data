@@ -69,6 +69,9 @@
             </xi:include>
          </p>
       </encodingDesc>
+      <revisionDesc>
+         <change notBefore="2018-08-07" who="#kirnbauer_martin" status="draft">reading-in-the-alps/rita2-data/issues/1</change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
