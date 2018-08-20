@@ -316,6 +316,13 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3168860</idno>
             </place>
+            <place xml:id="aehrn">
+               <placeName>Valle Aurina</placeName>
+               <location>
+                  <geo decls="#LatLng">46.99623 11.97988</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/6536019</idno>
+            </place>
          </listPlace>
       </body>
    </text>
