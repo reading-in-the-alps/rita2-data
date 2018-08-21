@@ -323,6 +323,20 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/6536019</idno>
             </place>
+            <place xml:id="stoerzing">
+               <placeName>Vipiteno</placeName>
+               <location>
+                  <geo decls="#LatLng">46.897321 11.431832</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3164065</idno>
+            </place>
+            <place xml:id="kiens">
+               <placeName>Chienes</placeName>
+               <location>
+                  <geo decls="#LatLng">46.806667 11.836667</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3178820</idno>
+            </place>
          </listPlace>
       </body>
    </text>

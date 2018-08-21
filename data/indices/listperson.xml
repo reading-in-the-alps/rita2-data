@@ -1647,6 +1647,7 @@
                   <forename>Joseph</forename>
                   <surname>Tratter</surname>
                </persName>
+               <note type="function">Kapplan</note>
             </person>
             <person xml:id="plank_ursula">
                <persName>
@@ -1967,7 +1968,7 @@
                   <forename>Maria Veronica</forename>
                   <surname>Klinger</surname>
                </persName>
-               <note type="function">gebohrne Erlacherin</note>
+               <note type="family">gebohrne Erlacherin</note>
             </person>
             <person xml:id="klinger_johann_niclaus">
                <persName>
@@ -2075,6 +2076,163 @@
                   <forename>Maria Anna</forename>
                   <surname>von Eiberg</surname>
                </persName>
+            </person>
+            <person xml:id="hueber_christian">
+               <persName>
+                  <forename>Christian</forename>
+                  <surname>Hueber</surname>
+               </persName>
+               <note type="function">Mesner</note>
+            </person>
+            <person xml:id="tratter_maria">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Tratter</surname>
+               </persName>
+               <note type="family">verwittwete Pifraderin</note>
+            </person>
+            <person xml:id="tratter_balthasar">
+               <persName>
+                  <forename>Balthasar</forename>
+                  <surname>Tratter</surname>
+               </persName>
+               <note type="function">Cooperator zu <rs type="place" ref="#latzfons">Latzfons</rs></note>
+            </person>
+            <person xml:id="peintner_georg">
+               <persName>
+                  <forename>Georg</forename>
+                  <surname>Peintner</surname>
+               </persName>
+               <note type="function">Kachler Würth</note>
+            </person>
+            <person xml:id="tratter_veit">
+               <persName>
+                  <forename>Veit</forename>
+                  <surname>Tratter</surname>
+               </persName>
+               <note type="function">Weisgärbermeister zu <rs type="place" ref="#stoerzing">Störzing</rs></note>
+            </person>
+            <person xml:id="tratter_ursula">
+               <persName>
+                  <forename>Ursula</forename>
+                  <surname>Tratter</surname>
+               </persName>
+            </person>
+            <person xml:id="tratter_katharina">
+               <persName>
+                  <forename>Katharina</forename>
+                  <surname>Tratter</surname>
+               </persName>
+            </person>
+            <person xml:id="harrasser_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Harrasser</surname>
+               </persName>
+               <note type="function">Mühlermeister</note>
+            </person>
+            <person xml:id="pifrader_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Pifrader</surname>
+               </persName>
+            </person>
+            <person xml:id="felser_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Felser</surname>
+               </persName>
+            </person>
+            <person xml:id="lechner_anna">
+               <persName>
+                  <forename>Anna</forename>
+                  <surname>Lechner</surname>
+               </persName>
+            </person>
+            <person xml:id="tratter_maria_2">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Tratter</surname>
+               </persName>
+               <note type="family">gebohrne Kammererin, Mutter des Erblassers <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs></note>
+            </person>
+            <person xml:id="tratter_margaretha">
+               <persName>
+                  <forename>Margaretha</forename>
+                  <surname>Tratter</surname>
+               </persName>
+               <note type="family">gebohrnen Mayrin</note>
+            </person>
+            <person xml:id="herrnegger_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Herrnegger</surname>
+               </persName>
+               <note type="function">Schneidermeister zu <rs type="place" ref="#soneburg">Sonneburg</rs></note>
+            </person>
+            <person xml:id="kammerer_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Kammerer</surname>
+               </persName>
+               <note type="function">Grienbacher zu Kiens</note>
+            </person>
+            <person xml:id="tratter_anna">
+               <persName>
+                  <forename>Anna</forename>
+                  <surname>Tratter</surname>
+               </persName>
+               <note type="family">gebohrne Ofnerin, Ehefrau von <rs type="person" ref="#tratter_veit">Veit Tratter</rs></note>
+            </person>
+            <person xml:id="pifrader_paul">
+               <persName>
+                  <forename>Paul</forename>
+                  <surname>Pifrader</surname>
+               </persName>
+            </person>
+            <person xml:id="unterwolfsgrueber_sebastian">
+               <persName>
+                  <forename>Sebastian</forename>
+                  <surname>Unterwolfsgrueber</surname>
+               </persName>
+            </person>
+            <person xml:id="rainer_peter_paul">
+               <persName>
+                  <forename>Peter Paul</forename>
+                  <surname>Rainer</surname>
+               </persName>
+            </person>
+            <person xml:id="peintner_anna">
+               <persName>
+                  <forename>Anna</forename>
+                  <surname>Peintner</surname>
+               </persName>
+            </person>
+            <person xml:id="hofer_georg">
+               <persName>
+                  <forename>Georg</forename>
+                  <surname>Hofer</surname>
+               </persName>
+               <note type="function">Stadtmetzer in <rs type="place" ref="#brunegg">Bruneck</rs></note>
+            </person>
+            <person xml:id="tratter_bartlmae">
+               <persName>
+                  <forename>Bartlmä</forename>
+                  <surname>Tratter</surname>
+               </persName>
+            </person>
+            <person xml:id="pifrader_peter">
+               <persName>
+                  <forename>Peter</forename>
+                  <surname>Pifrader</surname>
+               </persName>
+            </person>
+            <person xml:id="mutz_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Mutz</surname>
+               </persName>
+               <note type="function">Baader in <rs type="place" ref="#brunegg">Bruneck</rs></note>
             </person>
          </listPerson>
       </body>
