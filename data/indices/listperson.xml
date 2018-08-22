@@ -153,10 +153,10 @@
                <note type="family">Zweite Ehefrau von <rs type="person" ref="#stainer_christoph"
                      >Christoph Stainer, fallweise als Mariä Schaller bezeichnet</rs></note>
             </person>
-            <person xml:id="joseph_ferdinand">
+            <person xml:id="ferdinand_joseph">
                <persName>
-                  <forename>Ferdinand</forename>
-                  <surname>Joseph</surname>
+                  <forename>Ferdinand Joseph</forename>
+                  <surname></surname>
                </persName>
                <note type="function">Bisch zu Hyschopl</note>
             </person>
@@ -384,7 +384,7 @@
                   <forename>Marx</forename>
                   <surname>Schwarzrockh</surname>
                </persName>
-               <note type="function">Zeuge, Portenwirckher</note>
+               <note type="function">Portenwirckher</note>
             </person>
             <person xml:id="lunz_christian">
                <persName>
@@ -433,22 +433,10 @@
                   <surname>Mayrhofer</surname>
                </persName>
             </person>
-            <person xml:id="caepellen_lauretae">
-               <persName>
-                  <forename>Lauretä</forename>
-                  <surname>Cäpellen</surname>
-               </persName>
-            </person>
             <person xml:id="pirchner_aennae">
                <persName>
                   <forename>Ännä</forename>
                   <surname>Pirchner</surname>
-               </persName>
-            </person>
-            <person xml:id="de_lalezi_francisco">
-               <persName>
-                  <forename>Francisco</forename>
-                  <surname>de Lalezi</surname>
                </persName>
             </person>
             <person xml:id="hinterseer_johanes">
@@ -533,7 +521,7 @@
                   <forename>Johan Geörg</forename>
                   <surname>Muz</surname>
                </persName>
-               <note type="function">Parbierer</note>
+               <note type="function">Parbierer und Baader in <rs type="place" ref="#brunegg">Bruneck</rs></note>
             </person>
             <person xml:id="stieger_michael">
                <persName>
@@ -566,11 +554,12 @@
                <note type="function">Wirth an der Sonen zu <rs type="place" ref="#st_lorenzen">St.
                      Lorenzen</rs></note>
             </person>
-            <person xml:id="renzler_pinter_joseph">
+            <person xml:id="renzler_joseph">
                <persName>
                   <forename>Joseph</forename>
-                  <surname>Renzler Pinter</surname>
+                  <surname>Renzler</surname>
                </persName>
+               <note type="function">Pinter zu <rs type="place" ref="#soneburg">Soneburg</rs></note>   
             </person>
             <person xml:id="luzin_hellenae_theresiae">
                <persName>
@@ -682,12 +671,6 @@
                   <surname>Hebenstreit, von Glurnhör</surname>
                </persName>
             </person>
-            <person xml:id="hueber_nidermayr_joseph">
-               <persName>
-                  <forename>Joseph</forename>
-                  <surname>Hueber Nidermayr zu Dietenhaimb</surname>
-               </persName>
-            </person>
             <person xml:id="danauer_johann_joseph_ciriaen">
                <persName>
                   <forename>Johann Joseph Ciriän</forename>
@@ -760,31 +743,11 @@
                <note type="family">Bruder von <rs type="person" ref="#manucredo_marcus_aurelii"
                      >Marcus Aurelii Manucredo</rs></note>
             </person>
-            <person xml:id="cappellani_">
-               <persName>
-                  <forename/>
-                  <surname>Cappellani</surname>
-               </persName>
-            </person>
             <person xml:id="pifrader_maria_johanes">
                <persName>
                   <forename>Maria Johanes</forename>
                   <surname>Pifraders zu Rofereidt</surname>
                </persName>
-            </person>
-            <person xml:id="_theresia">
-               <persName>
-                  <forename>Theresia</forename>
-                  <surname/>
-               </persName>
-               <note>vermutlich Cappellani</note>
-            </person>
-            <person xml:id="_annae">
-               <persName>
-                  <forename>Annä</forename>
-                  <surname/>
-               </persName>
-               <note>vermutlich Cappellani</note>
             </person>
             <person xml:id="manucredo_leonardi_joachimi">
                <persName>
@@ -869,6 +832,7 @@
                   <forename>Jacob</forename>
                   <surname>Dämb</surname>
                </persName>
+               <note type="function">Pixenmacher</note>
             </person>
             <person xml:id="manucredo_jacob_andree">
                <persName>
@@ -1841,6 +1805,7 @@
                   <forename>Joseph</forename>
                   <surname>Hueber</surname>
                </persName>
+               <note type="function">Nidermayr zu <rs type="place" ref="#dietenheim">Dietenhaimb</rs></note>
             </person>
             <person xml:id="stocker_antoni">
                <persName>
@@ -2226,12 +2191,18 @@
                   <surname>Pifrader</surname>
                </persName>
             </person>
-            <person xml:id="mutz_johann">
+            <person xml:id="lechner_georg">
                <persName>
-                  <forename>Johann</forename>
-                  <surname>Mutz</surname>
+                  <forename>Georg</forename>
+                  <surname>Lechner</surname>
                </persName>
-               <note type="function">Baader in <rs type="place" ref="#brunegg">Bruneck</rs></note>
+               <note type="function">Priester, und Localcaplan zu <rs type="place" ref="#dietenheim">Diethenheim</rs></note>
+            </person>
+            <person xml:id="puell_maria_theresia">
+               <persName>
+                  <forename>Maria Theresia</forename>
+                  <surname>Puell</surname>
+               </persName>
             </person>
          </listPerson>
       </body>

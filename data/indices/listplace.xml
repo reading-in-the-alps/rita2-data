@@ -336,6 +336,13 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3178820</idno>
             </place>
+            <place xml:id="naudersberg">
+               <placeName>Naudersberg</placeName>
+               <location>
+                  <geo decls="#LatLng">46.88859 10.50126</geo>
+               </location>
+               <idno type="GEONAMES"></idno>
+            </place>
          </listPlace>
       </body>
    </text>
