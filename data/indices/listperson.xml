@@ -1789,6 +1789,7 @@
                   <forename>Johann Stephann</forename>
                   <surname>Steinburger</surname>
                </persName>
+               <note type="function">Landrichter der Herrschaft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelsburg</rs></note>
             </person>
             <person xml:id="hueber_joseph">
                <persName>
@@ -1796,6 +1797,13 @@
                   <surname>Hueber</surname>
                </persName>
                <note type="function">Nidermayr zu <rs type="place" ref="#dietenheim">Dietenhaimb</rs></note>
+            </person>
+            <person xml:id="hueber_joseph_2">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Hueber</surname>
+               </persName>
+               <note type="function">Winckler und Gerichts Ausschuss zu <rs type="place" ref="#saalen">Saalen</rs></note>
             </person>
             <person xml:id="stocker_antoni">
                <persName>
@@ -1813,7 +1821,7 @@
             <person xml:id="taesser_maria">
                <persName>
                   <forename>Maria</forename>
-                  <surname>Taesser</surname>
+                  <surname>Tässer</surname>
                </persName>
             </person>
             <person xml:id="stocker_maria">
@@ -2143,12 +2151,14 @@
                   <forename>Paul</forename>
                   <surname>Pifrader</surname>
                </persName>
+               <note type="function">Bartlmayr</note>
             </person>
             <person xml:id="unterwolfsgrueber_sebastian">
                <persName>
                   <forename>Sebastian</forename>
                   <surname>Unterwolfsgrueber</surname>
                </persName>
+               <note type="function">Raderbaur</note>
             </person>
             <person xml:id="rainer_peter_paul">
                <persName>
