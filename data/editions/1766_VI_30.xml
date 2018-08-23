@@ -83,7 +83,7 @@
             <p>Weillend Herrn <rs type="person" ref="#sigmayr_andree">Andree Sigmayr</rs> gewester Cooperatore alhier seel.</p>
             <p>[Aktenvermerk:] Exped.</p>
             <p>Actum in Pfarrwidum zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>, den <date when="1766-06-30">30isten Juny änno 1766</date>.</p>
-            <p>Vor Ihro Hochwürden und Gnaden, dem hochedl gebohrn Herrn Herrn <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingram, zu Liebenrain und Fragburg</rs>, Tyrolischen Herrn und Landtmann, S.S. Theol. Dri. hochfürstlich <rs type="place" ref="#brixen">Brixnerisch</rs> wirckhlichen Consistorial Rath, auch Dächand und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunegg</rs>, dann dem wohl edlgebohrn gestreng und hochgelehrten Herrn <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignäti Englmohr von Aufkhirchen zu Mohregg</rs>, beeden rechten Lit. ooe. Regimendts Advocaten, auch Pfleger und Landtrichtern der Herrschaft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>.</p>
+            <p>Vor Ihro Hochwürden und Gnaden, dem hochedl gebohrn Herrn Herrn <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingram, zu Liebenrain und Fragburg</rs>, Tyrolischen Herrn und Landtmann, S.S. Theol. Dri. hochfürstlich Brixnerisch wirckhlichen Consistorial Rath, auch Dächand und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunegg</rs>, dann dem wohl edlgebohrn gestreng und hochgelehrten Herrn <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignäti Englmohr von Aufkhirchen zu Mohregg</rs>, beeden rechten Lit. ooe. Regimendts Advocaten, auch Pfleger und Landtrichtern der Herrschaft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>.</p>
             <p>Zugegen des wohl edlen Herrn <rs type="person" ref="#marchner_franz_michael">Franz Michael Marchner</rs> Amtgericht- und Commission Schreiber zu <rs type="place" ref="#brunegg">Brunegg</rs>, und des Herrn <rs type="person" ref="#kerschpaember_johan">Johann Kerschpaumer</rs> Landtgerichtschreiber der Herrschafft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>.</p>
             <p>Nachdeme Gott dem Allmechtigen abermahlen gefahlen, seinen Allerheiligisten Willen zu vollziechen, und andurch weylande dem wohl ehrwürdig edlen und wohlgelehrten Herrn <rs type="person" ref="#sigmayr_andree">Andreas Sigmayr</rs> gewesten Cooperatore alhier zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs> nach aufgestandener langwirigen Leibs <hi rend="strikethrough">k</hi> Indisposition, und all vorhero empfangenen Hochheiligen Sacramenten von diser zergenglichen Welt<hi rend="Fußnotenanker">
                   <note>
@@ -997,7 +997,7 @@
                   <cell>1 f 0 x</cell>
                </row>
                <row>
-                  <cell>Deto Dem <rs type="person" ref="#rungger_gregori">Gregori Rungger</rs> Yhnsprugger Pothen, wegen herein gefiehrten Mobilien, und yber ain Tag gethaner Zuewarthung</cell>
+                  <cell>Deto Dem <rs type="person" ref="#rungger_gregori">Gregori Rungger</rs> <rs type="place" ref="#yhnsprugg">Yhnsprugger</rs> Pothen, wegen herein gefiehrten Mobilien, und yber ain Tag gethaner Zuewarthung</cell>
                   <cell>2 f 30 x</cell>
                </row>
                <row>
@@ -1027,7 +1027,7 @@
                </row>
                <row>
                   <cell>
-                     Deto Dem Herrn <rs type="person" ref="#haslmayr_">Haslmayr</rs> zu Yhnsprugg wegen yberschickhten und lesen gelassenen Zeitungen
+                     Deto Dem Herrn <rs type="person" ref="#haslmayr_">Haslmayr</rs> zu <rs type="place" ref="#yhnsprugg">Yhnsprugg</rs> wegen yberschickhten und lesen gelassenen Zeitungen
                   </cell>
                   <cell>
                     3 f 45 x

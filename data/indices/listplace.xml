@@ -159,13 +159,6 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3164169</idno>
             </place>
-            <place xml:id="stockh">
-               <placeName>Stockh</placeName>
-               <location>
-                  <geo decls="#LatLng">46.86507 11.94753</geo>
-               </location>
-               <idno type="GEONAMES"></idno>
-            </place>
             <place xml:id="oberwiellenpach">
                <placeName>Oberwielenpach</placeName>
                <location>

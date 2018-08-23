@@ -652,6 +652,7 @@
                   <forename>Johan Antonien</forename>
                   <surname>Steeger</surname>
                </persName>
+               <note type="function">Schreiberei Verwahnter zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>.</note>
             </person>
             <person xml:id="stockher_maria_ursula">
                <persName>
@@ -973,7 +974,7 @@
                   <forename>Andree</forename>
                   <surname>Pifrader</surname>
                </persName>
-               <note type="function">Prantlechner</note>
+               <note type="function">Prantlechner zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs></note>
             </person>
             <person xml:id="stainer_blaesi">
                <persName>
@@ -1061,6 +1062,7 @@
                   <forename>Joseph</forename>
                   <surname>Mayr</surname>
                </persName>
+               <note type="function">Mayr in <rs type="place" ref="#oberwiellenpach">Oberwiellenpach</rs></note>
             </person>
             <person xml:id="khlettenhamber_aennae">
                <persName>
@@ -1121,14 +1123,6 @@
                </persName>
                <note type="function">Schmidt, Schneidermeister zu <rs type="place" ref="#st_georgen">St. Georgen</rs></note>
             </person>
-            <person xml:id="mutio_georg">
-               <persName>
-                  <forename>Georg</forename>
-                  <surname>Mutio</surname>
-               </persName>
-               <note type="function">Parbierer zu <rs type="place" ref="#brunegg"
-                  >Brunögg</rs></note>
-            </person>
             <person xml:id="auracher_johann_joseph">
                <persName>
                   <forename>Johann Joseph</forename>
@@ -1149,14 +1143,14 @@
                   <forename>Joseph</forename>
                   <surname>Preindl</surname>
                </persName>
-               <note type="function">Kupferschmidt</note>
+               <note type="function">Kupferschmidt zu <rs type="place" ref="#brunegg">Brunögg</rs></note>
             </person>
             <person xml:id="sigmayr_andree">
                <persName>
                   <forename>Andree</forename>
                   <surname>Sigmayr</surname>
                </persName>
-               <note type="function">Cooperatore</note>
+               <note type="function">Cooperatore zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs></note>
             </person>
             <person xml:id="sigmayr_bartlmee">
                <persName>
