@@ -83,7 +83,7 @@
             <p>Weillende Herrn <rs type="person" ref="#jais_celestin_johan">Celestin Johan Jais</rs> gewester Cooperatore alhier seel.</p>
             <p>[Aktenvermerk:] Exped. 2 [mal]</p>
             <p>Actum in Pfarr Widumb zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>, den <date when="1771-04-17">17ten April anno 1771</date>.</p>
-            <p>Vor Ihro Hochwirden und Gnaden dem hochwirdig hochedl gebohrn und hochgelehrten Herrn Herrn <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingramb von Liebenrain und Fragburg</rs>, S.S. Theol. Dri. Tyrollischen Herrn und Landtman, hochfirstlich <rs type="place" ref="#brixen">Brixnerrischen</rs> wirckhlichen Consistorial Rath, auch Dechant und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunegg</rs>, als gnedig verordneten Commissario</p>
+            <p>Vor Ihro Hochwirden und Gnaden dem hochwirdig hochedl gebohrn und hochgelehrten Herrn Herrn <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingramb von Liebenrain und Fragburg</rs>, S.S. Theol. Dri. Tyrollischen Herrn und Landtman, hochfirstlich Brixnerrischen wirckhlichen Consistorial Rath, auch Dechant und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunegg</rs>, als gnedig verordneten Commissario</p>
             <p>Und dem wohledel gebohrn gestreng und hochgelehrten Herrn <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Innocenz Englmohr, von Aufkhirchen zu Mohregg</rs>, Pfeger und Landtrichtern, der Herrschafft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>,</p>
             <p>Zugegen des wohledlen Herrn <rs type="person" ref="#marchner_franz_michael">Franz Michael Marchner</rs> geistlicher Commission und Ambtgerichtschreibern zu <rs type="place" ref="#brunegg">Brunegg</rs>, und des <rs type="person" ref="#kerschpaember_johan">Johann Kerschpämber</rs> Landtgerichtschreibers zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>, der Herrschaft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>.</p>
             <p>Demnach Gott dem Allmechtigen abermahlen beliebt, seinen allerheilligisten Willen zu volziechen, und andurch weillende dem wohlehrwirdig</p>
@@ -938,7 +938,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Ain <rs type="place" ref="#salzburg">Salzburger</rs> und <rs type="place" ref="#brixen">Brixner</rs> Dugaten pr</cell>
+                  <cell>Ain Salzburger und Brixner Dugaten pr</cell>
                   <cell>8 f 40 x</cell>
                </row>
                <row>
@@ -1115,11 +1115,11 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>No 4: Dem <rs type="person" ref="#vogl_">Herrn Doctor Vogl</rs> zu <rs type="place" ref="#brunegg">Brunegg</rs> inhalt Schein vor gemachten Visiten und ausstendiger Bestallung</cell>
+                  <cell>No 4: Dem Herrn Doctor <rs type="person" ref="#vogl_">Vogl</rs> zu <rs type="place" ref="#brunegg">Brunegg</rs> inhalt Schein vor gemachten Visiten und ausstendiger Bestallung</cell>
                   <cell>8 f 20 x</cell>
                </row>
                <row>
-                  <cell>Ingleichen den <rs type="person" ref="#vestner_">Herrn Doctor Vestner</rs> daselbs</cell>
+                  <cell>Ingleichen den Herrn Doctor <rs type="person" ref="#vestner_">Vestner</rs> daselbs</cell>
                   <cell>1 f 0 x</cell>
                </row>
                <row>
@@ -1168,7 +1168,7 @@
                   <cell>53 x</cell>
                </row>
                <row>
-                  <cell>No 13: Den <rs type="person" ref="#epacher_jacob">Jacob Epacher</rs> Uhrmacher zu Brunegg willen reparierter Sackh Uhr</cell>
+                  <cell>No 13: Den <rs type="person" ref="#epacher_jacob">Jacob Epacher</rs> Uhrmacher zu <rs type="place" ref="#brunegg">Brunegg</rs> willen reparierter Sackh Uhr</cell>
                   <cell>1 f 20 x</cell>
                </row>
                <row>
@@ -1197,7 +1197,7 @@
                   <cell>3 f 30 x</cell>
                </row>
                <row>
-                  <cell>Den geistlichen <rs type="person" ref="#pasler_">Herrn Pasler</rs> vor zwo gelesnen Heiligen Messen</cell>
+                  <cell>Den geistlichen Herrn Pasler vor zwo gelesnen Heiligen Messen</cell>
                   <cell>1 f 0 x</cell>
                </row>
                <row>

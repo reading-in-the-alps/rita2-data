@@ -202,13 +202,6 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/2775307</idno>
             </place>
-            <place xml:id="salzburg">
-               <placeName>Salzburg</placeName>
-               <location>
-                  <geo decls="#LatLng">47.79941 13.04399</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/2766824</idno>
-            </place>
             <place xml:id="lienz">
                <placeName>Lienz</placeName>
                <location>

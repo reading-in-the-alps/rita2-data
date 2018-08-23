@@ -83,9 +83,9 @@
             <p>Weillende Herrn <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> gewesten Beneficiaten zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs> seel.</p>
             <p>[Aktenvermerk:] Exped. 1 [mal]</p>
             <p>Actum <rs type="place" ref="#st_georgen">Sanct Georgen</rs> in der Caplaney Behausung, den <date when="1773-12-17">17</date> und <date when="1773-12-18">18sten December, anno 1773</date>.</p>
-            <p>Vor Ihro Hochwürden, und Gnaden, dem wohl gebohrnen Herrn <rs type="person" ref="#ingramb_joseph_mathias">Herrn Joseph Mathias Igramb zu Liebenrain, und Fragburg</rs>, Tyrolischen Herren und Landman, S.S. Theol. Dri. hochfürstlich Brixnerisch würcklichen Consistorial Rath, auch Dochand und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunegg</rs>. Dann dem wohl edlgebohrnen, gestrengen, und hochgelehrten <rs type="person" ref="#englmohr_joseph_ignaeti">Herrn Joseph Innocenz Englmohr, von Aufkirchen, zu Mohregg</rs>, Pfleger, und Landtrichtern der Herrschafft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelsburg</rs>.</p>
-            <p>Zugegen des wohl edlen <rs type="person" ref="#marchner_franz_michael">Herrn Franz Michaelen Marchner</rs> Amtgericht- und Comissionschreiber zu <rs type="place" ref="#brunegg">Brunegg</rs>. Und des fürnemmen <rs type="person" ref="#mitterhofer_hanns">Hannsen Mitterhofer</rs> Würth, und Gastgebens auch Gerichts Ausschus allda zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs> Landgerichts <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelsburg</rs> sössig, als Beysizern, und Taxatores.</p>
-            <p>Nachdeme Gott dem Allmächtigen abermalen beliebet, seinen allerheiligisten Willen zu vollziechen, und andurch weylande dem wohlehrwürdigen edlen und wohlgelehrten <rs type="person" ref="#gasser_joseph">Herrn Joseph Gasser</rs> gewesten Beneficiaten zu <rs type="place" ref="#st_georgen">St. Georgen</rs> von diesen Zeitlichen zu dem Ewigen abzufordern, und zweifls ohne zu sich in die ewig himlische Freüd und Glickseligkeit an- und aufzunemmen, Gott gnad der Seelen, hat man von Seiten der gnädig geistlichen Commission, und weltlichen Obrigkeit etc. nicht ermanglet, also gleich die Secretur anzelegen, und seinen ainen</p>
+            <p>Vor Ihro Hochwürden, und Gnaden, dem wohl gebohrnen Herrn Herrn <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Igramb zu Liebenrain, und Fragburg</rs>, Tyrolischen Herren und Landman, S.S. Theol. Dri. hochfürstlich Brixnerisch würcklichen Consistorial Rath, auch Dochand und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunegg</rs>. Dann dem wohl edlgebohrnen, gestrengen, und hochgelehrten Herrn <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Innocenz Englmohr, von Aufkirchen, zu Mohregg</rs>, Pfleger, und Landtrichtern der Herrschafft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelsburg</rs>.</p>
+            <p>Zugegen des wohl edlen Herrn <rs type="person" ref="#marchner_franz_michael">Franz Michaelen Marchner</rs> Amtgericht- und Comissionschreiber zu <rs type="place" ref="#brunegg">Brunegg</rs>. Und des fürnemmen <rs type="person" ref="#mitterhofer_hanns">Hannsen Mitterhofer</rs> Würth, und Gastgebens auch Gerichts Ausschus allda zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs> Landgerichts <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelsburg</rs> sössig, als Beysizern, und Taxatores.</p>
+            <p>Nachdeme Gott dem Allmächtigen abermalen beliebet, seinen allerheiligisten Willen zu vollziechen, und andurch weylande dem wohlehrwürdigen edlen und wohlgelehrten Herrn <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> gewesten Beneficiaten zu <rs type="place" ref="#st_georgen">St. Georgen</rs> von diesen Zeitlichen zu dem Ewigen abzufordern, und zweifls ohne zu sich in die ewig himlische Freüd und Glickseligkeit an- und aufzunemmen, Gott gnad der Seelen, hat man von Seiten der gnädig geistlichen Commission, und weltlichen Obrigkeit etc. nicht ermanglet, also gleich die Secretur anzelegen, und seinen ainen</p>
             <p>
                <pb n="117v"/>
             </p>
@@ -1759,7 +1759,7 @@
                   <cell>3 f 30 x</cell>
                </row>
                <row>
-                  <cell>Der Mathes Tratter hat auch an Stipendien bezahlt 10 f, von welchen aber der Maria Thalackererin zu Ergänzung ihres dem Herren Ableiber in Behalt gegebenen Geld zahlt worden, 9 f 48 x, Rest also noch an Stipendien auszuwerffen, <hi rend="strikethrough">pr</hi>
+                  <cell>Der <rs type="person" ref="#tratter_mathes">Mathes Tratter</rs> hat auch an Stipendien bezahlt 10 f, von welchen aber der <rs type="person" ref="#thaler_mariae">Maria Thalackererin</rs> zu Ergänzung ihres dem Herren Ableiber in Behalt gegebenen Geld zahlt worden, 9 f 48 x, Rest also noch an Stipendien auszuwerffen, <hi rend="strikethrough">pr</hi>
                   </cell>
                   <cell>12 x</cell>
                </row>
@@ -1867,11 +1867,11 @@
                   <cell/>
                </row>
                <row>
-                  <cell>Wie in des Herren Ableibers Aufschreibung zu ersehen, seind noch 89 Heilige Messen, und darunter 3 auf der Porkirchen zu Gais zu lesen ausständig, hierfür zu 30 und respective 24 x ausgesezt wirdet</cell>
+                  <cell>Wie in des Herren Ableibers Aufschreibung zu ersehen, seind noch 89 Heilige Messen, und darunter 3 auf der Porkirchen zu <rs type="place" ref="#gais">Gais</rs> zu lesen ausständig, hierfür zu 30 und respective 24 x ausgesezt wirdet</cell>
                   <cell>35 f 54 x</cell>
                </row>
                <row>
-                  <cell>Der <rs type="lercher_catharina">Catharina Lercherin</rs> Krankenwartherin in Spittal zu <rs type="place" ref="#brixen">Brixen</rs> um geliehenen Geld samt 13 f 36 x hiezue gesezter Verzinsung von 17 Jahren</cell>
+                  <cell>Der <rs type="person" ref="#lercher_catharina">Catharina Lercherin</rs> Krankenwartherin in Spittal zu <rs type="place" ref="#brixen">Brixen</rs> um geliehenen Geld samt 13 f 36 x hiezue gesezter Verzinsung von 17 Jahren</cell>
                   <cell>36 f 36 x</cell>
                </row>
                <row>
@@ -2132,7 +2132,7 @@
                   <pb n="179r"/>
                </p>
                <p>eigen angefallene, und zugemitlte Erbs Gebührnuss samt was dabey berühret, verabgefolget werden könne.</p>
-               <p>Den <date when="1787-07-18">18ten July 1787</date> hat derselbe, da er sich schon etliche Jahr in <rs type="place" ref="#naudersberg">Naudersberg</rs> verehelichet, und mitlst eines Hauss Ankaufs ansessig gemachet, seinem Stiefvater anvor <rs type="place" ref="#brunegg">Brunegger</rs> Hafnermeister zu <rs type="place" ref="#brixen">Brixen</rs> zu Erhebung dieser Erbschaft, worzu er wegen so langer Abwesenheit des Jacob Gasser eine Caution einzustellen nicht beursachet seyn werde, den Gewalt abgeben.</p>
+               <p>Den <date when="1787-07-18">18ten July 1787</date> hat derselbe, da er sich schon etliche Jahr in <rs type="place" ref="#naudersberg">Naudersberg</rs> verehelichet, und mitlst eines Hauss Ankaufs ansessig gemachet, seinem Stiefvater anvor <rs type="place" ref="#brunegg">Brunegger</rs> Hafnermeister zu <rs type="place" ref="#brixen">Brixen</rs> zu Erhebung dieser Erbschaft, worzu er wegen so langer Abwesenheit des <rs type="person" ref="#gasser_jacob">Jacob Gasser</rs> eine Caution einzustellen nicht beursachet seyn werde, den Gewalt abgeben.</p>
                <p>Verwichenes Monat November, und December 1787 ist er <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs>, und zwar erstmals mit seinen Stiefvater, letzterhand aber allein dieser Ursachen halber anhero beygekommen, eben darumen hat sich derselbe auch vorgestern zu titl. Herrn Pfleger zu Altrasen in Meynung, dieser seye von denen Befreünden in <rs type="place" ref="#sterzing">Sterzing</rs> begwältiget, begeben, aber ohnverrichter Sachen wiederumen zurück gekommen; dessentwegen auf dessen Ansuchen unter heüntigen Dato ein Promotoriale nacher Alträsen ausgefertiget, unterdessen aber das sich dermalen zeigende Erbs Quantum einsmals, so viel möglich, in folgende Richtigkeit gebracht worden.</p>
                <p>
                   <pb n="179v"/>

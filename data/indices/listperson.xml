@@ -931,6 +931,7 @@
                   <forename>Hanns</forename>
                   <surname>Mitterhofer</surname>
                </persName>
+               <note type="function">Würth</note>
             </person>
             <person xml:id="kessler_geoerg">
                <persName>
@@ -1389,7 +1390,7 @@
                   <forename>Gottlieb</forename>
                   <surname>Paldauf</surname>
                </persName>
-               <note type="function">Burger, Parbierer und Cramers</note>
+               <note type="function">Burger, Parbierer und Cramer</note>
             </person>
             <person xml:id="hartmann_">
                <persName>
@@ -1469,12 +1470,6 @@
                   <surname>Starckh</surname>
                </persName>
             </person>
-            <person xml:id="pasler_">
-               <persName>
-                  <forename></forename>
-                  <surname>Pasler</surname>
-               </persName>
-            </person>
             <person xml:id="prass_ursula">
                <persName>
                   <forename>Ursula</forename>
@@ -1523,7 +1518,7 @@
             <person xml:id="niedergaetscher_">
                <persName>
                   <forename></forename>
-                  <surname>Niedergaetscher</surname>
+                  <surname>Niedergätscher</surname>
                </persName>
             </person>
             <person xml:id="lercher_catharina">
@@ -1611,6 +1606,7 @@
                   <forename>Ursula</forename>
                   <surname>Plank</surname>
                </persName>
+               <note type="family">gebohrene Mut</note>
             </person>
             <person xml:id="salcher_jakob_vallentin">
                <persName>
@@ -1633,10 +1629,10 @@
                </persName>
                <note type="function">Schreiber</note>
             </person>
-            <person xml:id="zoeggele_anton">
+            <person xml:id="zoeggeler_anton">
                <persName>
                   <forename>Anton</forename>
-                  <surname>Zöggele</surname>
+                  <surname>Zöggeler</surname>
                </persName>
                <note type="function">Stifft Sonnenburgischen Caplan und Beneficiaten bey <rs type="place" ref="#st_martin">St. Martin</rs></note>
             </person>
