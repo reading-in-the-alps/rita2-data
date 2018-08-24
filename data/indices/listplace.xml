@@ -329,6 +329,22 @@
                </location>
                <idno type="GEONAMES"></idno>
             </place>
+            <place xml:id="muehlbach">
+               <placeName>Rio di Pusteria</placeName>
+               <placeName type="alt">Mühlbach</placeName>
+               <placeName type="alt">Mihlwach</placeName>
+               <location>
+                  <geo decls="#LatLng">46.8 11.666667</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3169345</idno>
+            </place>
+            <place xml:id="stephansdorf">
+               <placeName>Santo Stefano</placeName>
+               <location>
+                  <geo decls="#LatLng">46.783333 11.9</geo>
+               </location>
+               <idno type="GEONAMES"></idno>
+            </place>
          </listPlace>
       </body>
    </text>

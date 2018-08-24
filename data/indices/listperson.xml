@@ -2204,6 +2204,132 @@
                   <surname>Puell</surname>
                </persName>
             </person>
+            <person xml:id="lechner_johan_babtist">
+               <persName>
+                  <forename>Johan Babtist</forename>
+                  <surname>Lechner</surname>
+               </persName>
+               <note type="function">Bruder von <rs type="person" ref="#lechner_georg">Georg Lechner</rs></note>
+            </person>
+            <person xml:id="burger_gertraud">
+               <persName>
+                  <forename>Gertraud</forename>
+                  <surname>Burger</surname>
+               </persName>
+            </person>
+            <person xml:id="weisel_vincenz">
+               <persName>
+                  <forename>Vincenz</forename>
+                  <surname>Weisel</surname>
+               </persName>
+            </person>
+            <person xml:id="weingartner_helena_maria">
+               <persName>
+                  <forename>Helena Maria</forename>
+                  <surname>Weingartner</surname>
+               </persName>
+            </person>
+            <person xml:id="strasser_johan">
+               <persName>
+                  <forename>Johan</forename>
+                  <surname>Strasser</surname>
+               </persName>
+               <note type="function">Schneidermeister, und Messner zu <rs type="place" ref="#dietenheim">Diethenheim</rs></note>
+            </person>
+            <person xml:id="pallauf_gottlieb_johann">
+               <persName>
+                  <forename>Gottlieb Johann</forename>
+                  <surname>Pallauf</surname>
+               </persName>
+               <note type="function">Chyrurgus m.p.</note>
+            </person>
+            <person xml:id="von_hebenstreit_johan_aloys">
+               <persName>
+                  <forename>Johan Aloys</forename>
+                  <surname>von Hebenstreit</surname>
+               </persName>
+            </person>
+            <person xml:id="von_hebenstreit_johann_nepomuck">
+               <persName>
+                  <forename>Johann Nepomuck</forename>
+                  <surname>von Hebenstreit</surname>
+               </persName>
+            </person>
+            <person xml:id="rogen_johann_michael">
+               <persName>
+                  <forename>Johann Michael</forename>
+                  <surname>Rogen</surname>
+               </persName>
+            </person>
+            <person xml:id="schenach_franz">
+               <persName>
+                  <forename>Franz</forename>
+                  <surname>Schenach</surname>
+               </persName>
+               <note type="function">Oberschreiber zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
+            </person>
+            <person xml:id="von_groebner_joseph_anton">
+               <persName>
+                  <forename>Joseph Anton</forename>
+                  <surname>von Gröbner</surname>
+               </persName>
+               <note type="function">Gubernial Rath</note>
+            </person>
+            <person xml:id="renzler_maria">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Renzler</surname>
+               </persName>
+               <note type="family">Verwittwe Mitterhoferin</note>
+               <note type="function">Mayrin zu Grastain zu <rs type="place" ref="#st_martin">St. Martin</rs></note>
+            </person>
+            <person xml:id="von_batig_">
+               <persName>
+                  <forename></forename>
+                  <surname>von Batig</surname>
+               </persName>
+               <note type="function">Kreis Schul Komisär</note>
+            </person>
+            <person xml:id="planer_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Planer</surname>
+               </persName>
+               <note type="function">Auer Miller in <rs type="place" ref="#muehlbach">Mihlbächl</rs></note>
+            </person>
+            <person xml:id="hueber_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Hueber</surname>
+               </persName>
+               <note type="function">Jorglmihler in <rs type="place" ref="#muehlbach">Mihlbächl</rs></note>
+            </person>
+            <person xml:id="niedermayr_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Niedermayr</surname>
+               </persName>
+               <note type="function">Pichler zu <rs type="place" ref="#stephansdorf">Stephansdorf</rs></note>
+            </person>
+            <person xml:id="lechner_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Lechner</surname>
+               </persName>
+               <note type="function">Wolleschlager</note>
+            </person>
+            <person xml:id="mutschlechner_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Mutschlechner</surname>
+               </persName>
+            </person>
+            <person xml:id="von_gall_">
+               <persName>
+                  <forename></forename>
+                  <surname>von Gall</surname>
+               </persName>
+            </person>
          </listPerson>
       </body>
    </text>

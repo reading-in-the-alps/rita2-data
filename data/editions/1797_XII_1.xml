@@ -38,7 +38,7 @@
                </msContents>
                <history>
                   <origin notBefore="1797-12-01">
-                     <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                     <rs type="place" ref="#dietenheim">Dietenheim</rs>
                   </origin>
                </history>
             </msDesc>
@@ -60,6 +60,13 @@
                   <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
                </fallback>
             </xi:include>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+                        href="../indices/listbibl.xml"
+                        xpointer="listbibl">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">
+                  <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
+               </fallback>
+            </xi:include>
          </p>
       </encodingDesc>
    </teiHeader>
@@ -70,18 +77,18 @@
                <pb n="208r"/>
             </p>
             <p>In Namen der allerheiligsten Dreyfaltigkeit Gottes Vaters, des Sohns und des Heiligen Geistes Amen.</p>
-            <p>Nachdem ich <rs type="person" ref="#lechner_georg">Georg Lechner</rs> Priester, und Localcaplan zu <rs type="place" ref="#dietenheim">Diethenheim</rs>, in meinem zimlich hochen Alter, innier mit Kranckheiten von Gott heimgesuchet werde, so habe mich entschlossen folgende meine leze Willens Mainung zu verfassen, und zu erklären. Zum Bericht zeuge an, dass ich kein ererbtes Vermögen habe, was ich aber gesohnen, und erübriget, bestehet in weniger Baarschaft, etwas Silber Geschmeid, <hi rend="bold">Birchern</hi>, gewise Mobilien, und Haus Rath, wie auch 100 f sage hundert Gulden anligendes Capital. Hirzu ist mein ungezweifelter einziger Erb (ab intestato) mein leiblicher Bruder Johan Babtist Lechner, ledigen Stands, für welchen ich aber eine weltliche Obrigkeit bitte für diesen armseligen Menschen der seiner nicht fächig ist, und das wenige Vermögen selbs nicht besorgen kann, eine gute sorgfältige Vorsorge zu treffen. Schulden hinaus habe keine, verlange aber das von diesen meinen Vermögen folgende Legata genauist sollen praestiert werden.</p>
+            <p>Nachdem ich <rs type="person" ref="#lechner_georg">Georg Lechner</rs> Priester, und Localcaplan zu <rs type="place" ref="#dietenheim">Diethenheim</rs>, in meinem zimlich hochen Alter, innier mit Kranckheiten von Gott heimgesuchet werde, so habe mich entschlossen folgende meine leze Willens Mainung zu verfassen, und zu erklären. Zum Bericht zeuge an, dass ich kein ererbtes Vermögen habe, was ich aber gesohnen, und erübriget, bestehet in weniger Baarschaft, etwas Silber Geschmeid, <hi rend="bold">Birchern</hi>, gewise Mobilien, und Haus Rath, wie auch 100 f sage hundert Gulden anligendes Capital. Hirzu ist mein ungezweifelter einziger Erb (ab intestato) mein leiblicher Bruder <rs type="person" ref="#lechner_johan_babtist">Johan Babtist Lechner</rs>, ledigen Stands, für welchen ich aber eine weltliche Obrigkeit bitte für diesen armseligen Menschen der seiner nicht fächig ist, und das wenige Vermögen selbs nicht besorgen kann, eine gute sorgfältige Vorsorge zu treffen. Schulden hinaus habe keine, verlange aber das von diesen meinen Vermögen folgende Legata genauist sollen praestiert werden.</p>
             <p>1mo verlange auf mein Absterben die <hi rend="strikethrough">Gott</hi> Bestatnis meines Körpers auf eine für einen Priester anständige Weise mit 6 Ämtern und einen Jahrtag.</p>
-            <p>2do sollen für meine abgeschidene Seele um 50 f sage fünfzig Gulden Heilige Messen gelessen werden eine a 30 x, wovon die Helfte dennen P. P. Cappucinern in Bruneck, die Helfte aber andern Priestern zur baldigen Abfertigung ohne Verweilung sollen gegeben werden.</p>
+            <p>2do sollen für meine abgeschidene Seele um 50 f sage fünfzig Gulden Heilige Messen gelessen werden eine a 30 x, wovon die Helfte dennen P. P. Cappucinern in <rs type="place" ref="#brunegg">Bruneck</rs>, die Helfte aber andern Priestern zur baldigen Abfertigung ohne Verweilung sollen gegeben werden.</p>
             <p>
                <pb n="208v"/>
             </p>
-            <p>3tio schencke denen P. P. Cappucinern in Bruneck für geleistete Dienste, und gehabte Mühe Almosen dreysig Gulden.</p>
-            <p>4to: Denen Frauen Ursulinern in Bruneck zechen Gulden.</p>
-            <p>5to: Denen Armen zu Diethenheim, und Luns zechen Gulden wovon aber den alten Muz einen armen Mann in Diethenheim ein Species Thaler alein zu geben ist.</p>
-            <p>6to: Meiner Dienst Magdt Gertraud Burgerin in Rücksicht ihrer treu geleisteten Dienste, und besonders in meinen schon lang währigen Unbeslichkeiten geleisteten Liebe, vermache hundert Gulden, und den ganzen Lohn des laufenden Jahrs, samt den Gewandkasten.</p>
-            <p>7timo: Den armen Weisel Vincenz, welchen ich bisher in meinen Widum uns Erbarmnis behalten habe, verschaffe zu Erlehrnung einer Handthierung, weil er doch zum Studieren nicht scheinet tauglich zu sein dreysig Gulden, welches Geld aber nicht in den Händen der Mutter sollen gegeben werden. Soll er aber vor Erlehrnung einer Handthierung sterben so sollen diese dreysig Gulden für mein Seelen Heil mit Heiligen Messen verwendet werden.</p>
-            <p>Octavo: Der löblichen St. Jacobs Kirchen in Diethenheim schencke mein ligendes Kriskindlein, die 4 Piramider mit Gold Schneid Arbeit geziehret, die 4 grösseren, und 8 kleinern saubern Buschen Stöck</p>
+            <p>3tio schencke denen P. P. Cappucinern in <rs type="place" ref="#brunegg">Bruneck</rs> für geleistete Dienste, und gehabte Mühe Almosen dreysig Gulden.</p>
+            <p>4to: Denen Frauen Ursulinern in <rs type="place" ref="#brunegg">Bruneck</rs> zechen Gulden.</p>
+            <p>5to: Denen Armen zu <rs type="place" ref="#dietenheim">Diethenheim</rs>, und Luns zechen Gulden wovon aber den alten Muz einen armen Mann in <rs type="place" ref="#dietenheim">Diethenheim</rs> ein Species Thaler alein zu geben ist.</p>
+            <p>6to: Meiner Dienst Magdt <rs type="person" ref="#burger_gertraud">Gertraud Burgerin</rs> in Rücksicht ihrer treu geleisteten Dienste, und besonders in meinen schon lang währigen Unbeslichkeiten geleisteten Liebe, vermache hundert Gulden, und den ganzen Lohn des laufenden Jahrs, samt den Gewandkasten.</p>
+            <p>7timo: Den armen <rs type="person" ref="#weisel_vincenz">Weisel Vincenz</rs>, welchen ich bisher in meinen Widum uns Erbarmnis behalten habe, verschaffe zu Erlehrnung einer Handthierung, weil er doch zum Studieren nicht scheinet tauglich zu sein dreysig Gulden, welches Geld aber nicht in den Händen der Mutter sollen gegeben werden. Soll er aber vor Erlehrnung einer Handthierung sterben so sollen diese dreysig Gulden für mein Seelen Heil mit Heiligen Messen verwendet werden.</p>
+            <p>Octavo: Der löblichen St. Jacobs Kirchen in <rs type="place" ref="#dietenheim">Diethenheim</rs> schencke mein ligendes Kriskindlein, die 4 Piramider mit Gold Schneid Arbeit geziehret, die 4 grösseren, und 8 kleinern saubern Buschen Stöck</p>
             <p>
                <pb n="209r"/>
             </p>
@@ -90,41 +97,41 @@
                      <hi rend="italic">Baldachin.</hi>
                   </p>
                </note>, doch mit deme dass man es fleisig, und sorgfältig aufbevehret.</p>
-            <p>9no: Den Weingartner zu Mihlwach vernher zu einen Angedencken die von Wachs gemachte Heilige Dreyfaltigkeit.</p>
-            <p>10mo: Der Helena Maria Weingartnerin, seiner Tochter, schencke zwey Species Thaller.</p>
-            <p>11mo: Zum Exekutor dieses Testaments ernehne den ehrsamen Johan Strasser Messner zu Diethenheim, welcher bemühet sein soll meinen Willen möglichst zu erfühlen, und mein ausständiges Vermögen zu samlen, für welches ihm vier Species Thaller vermache, besondere Ausgaben bey diesen Geschäfte kann er auch besonders von meinen Vermögen fordern, dieses ist nur für seine Bemühung.</p>
-            <p>Dieses ist mein lezter Wille zur Ehre Gottes, und zum Heil meiner armen Seele, wozu mich hier eigenhändig unterschreibe, und mein Bettschaft beydrucke. Diethenheim den 1ten December 1797.</p>
-            <p>[eigenhändige Unterschrift und Siegel:] Georg Lechner Kaplan allda.</p>
-            <p>[Siegel und eigenhändige Unterschrift:] Gottlieb Johann Pallauf Chyrurgus m.p. als Zeig</p>
-            <p>[Siegel und eigenhändige Unterschrift:] Johan Aloys v. Hebenstreit als gebetener Gezeug.</p>
-            <p>[eigenhändige Unterschrift und Siegel:] Ich bezeige mit Betschafft und Unterschrifft das dises der leste Wilen und Meinung des Briesters Herrn Georg Lechner Localcaplan zu Dietenheim etc. wie obsteht ist. Johann Strasser</p>
+            <p>9no: Den Weingartner zu <rs type="place" ref="#muehlbach">Mihlwach</rs> vernher zu einen Angedencken die von Wachs gemachte Heilige Dreyfaltigkeit.</p>
+            <p>10mo: Der <rs type="person" ref="#weingartner_helena_maria">Helena Maria Weingartnerin</rs>, seiner Tochter, schencke zwey Species Thaller.</p>
+            <p>11mo: Zum Exekutor dieses Testaments ernehne den ehrsamen <rs type="person" ref="#strasser_johan">Johan Strasser</rs> Messner zu <rs type="place" ref="#dietenheim">Diethenheim</rs>, welcher bemühet sein soll meinen Willen möglichst zu erfühlen, und mein ausständiges Vermögen zu samlen, für welches ihm vier Species Thaller vermache, besondere Ausgaben bey diesen Geschäfte kann er auch besonders von meinen Vermögen fordern, dieses ist nur für seine Bemühung.</p>
+            <p>Dieses ist mein lezter Wille zur Ehre Gottes, und zum Heil meiner armen Seele, wozu mich hier eigenhändig unterschreibe, und mein Bettschaft beydrucke. <rs type="place" ref="#dietenheim">Diethenheim</rs> den <date when="1797-12-01">1ten December 1797</date>.</p>
+            <p>[eigenhändige Unterschrift und Siegel:] <rs type="person" ref="#lechner_georg">Georg Lechner</rs> Kaplan allda.</p>
+            <p>[Siegel und eigenhändige Unterschrift:] <rs type="person" ref="#pallauf_gottlieb_johann">Gottlieb Johann Pallauf</rs> Chyrurgus m.p. als Zeig</p>
+            <p>[Siegel und eigenhändige Unterschrift:] <rs type="person" ref="#von_hebenstreit_johan_aloys">Johan Aloys v. Hebenstreit</rs> als gebetener Gezeug.</p>
+            <p>[eigenhändige Unterschrift und Siegel:] Ich bezeige mit Betschafft und Unterschrifft das dises der leste Wilen und Meinung des Briesters Herrn <rs type="person" ref="#lechner_georg">Georg Lechner</rs> Localcaplan zu <rs type="place" ref="#dietenheim">Dietenheim</rs> etc. wie obsteht ist. <rs type="person" ref="#strasser_johan">Johann Strasser</rs></p>
             <p>
                <pb n="209v"/>
             </p>
-            <p>[Rubrum:] Testament von Priester Georg Lechner Localcaplan in Diethenheim, 1797.</p>
+            <p>[Rubrum:] Testament von Priester <rs type="person" ref="#lechner_georg">Georg Lechner</rs> Localcaplan in <rs type="place" ref="#dietenheim">Diethenheim</rs>, 1797.</p>
             <p>
                <pb n="210r"/>
             </p>
-            <p>Actum Diettenheim in dem k.k. Lokal Kaplaney Widum den 26t. December 1797</p>
-            <p>Aus Verordnung loblicher Landgerichtsobrigkeit der Herrschaft St. Michaelsburg</p>
+            <p>Actum <rs type="place" ref="#dietenheim">Diettenheim</rs> in dem k.k. Lokal Kaplaney Widum den <date when="1797-12-26">26t. December 1797</date></p>
+            <p>Aus Verordnung loblicher Landgerichtsobrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs></p>
             <p>In Gegenwart</p>
-            <p>von Seite der hochwürdigen Geistlichkeit Ihro Hochwürden Herr Johann Nepomuck von Hebenstreit als von dem hochwürdigen Herrn Dechent zu Bruneck Abgeordneter,</p>
-            <p>von Seite des Gerichts Herr Johann Michael Rogen Ausschuss zu Diettenheim, Franz Schenach Oberschreiber zu St. Lorenzen Landgerichts Michaelsburg.</p>
+            <p>von Seite der hochwürdigen Geistlichkeit Ihro Hochwürden Herr <rs type="person" ref="#von_hebenstreit_johann_nepomuck">Johann Nepomuck von Hebenstreit</rs> als von dem hochwürdigen Herrn Dechent zu <rs type="place" ref="#brunegg">Bruneck</rs> Abgeordneter,</p>
+            <p>von Seite des Gerichts Herr <rs type="person" ref="#rogen_johann_michael">Johann Michael Rogen</rs> Ausschuss zu <rs type="place" ref="#dietenheim">Diettenheim</rs>, <rs type="person" ref="#schenach_franz">Franz Schenach</rs> Oberschreiber zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> Landgerichts <rs type="place" ref="#saenct_michaelspurg">Michaelsburg</rs>.</p>
             <p>
                <pb n="210v"/>
             </p>
-            <p>Nachdem auf beschehner Todtfalls Anzeige des hochwürdigen Herrn Lokalkaplan allda Georg Lechner die Vorbenannten zur Vornehmung der Sperre abgeordneten Deputirten sich anhero begeben, so hat man vor allen des Herrn Ableibers Schriften durchsuchet, und wurden diejenigen, so unmittelbar in die Seelsorge einschlagen, dem deputirten hochwürdigen Herrn von Hebenstreit eingehändiget, nemlich:</p>
+            <p>Nachdem auf beschehner Todtfalls Anzeige des hochwürdigen Herrn Lokalkaplan allda <rs type="person" ref="#lechner_georg">Georg Lechner</rs> die Vorbenannten zur Vornehmung der Sperre abgeordneten Deputirten sich anhero begeben, so hat man vor allen des Herrn Ableibers Schriften durchsuchet, und wurden diejenigen, so unmittelbar in die Seelsorge einschlagen, dem deputirten hochwürdigen Herrn <rs type="person" ref="#von_hebenstreit_johann_nepomuck">von Hebenstreit</rs> eingehändiget, nemlich:</p>
             <p>
-               <hi rend="bold">Das Taufbuch.</hi>
+               Das Taufbuch.
             </p>
             <p>
-               <hi rend="bold">Ein Kalender von Jahr 1797 worin zerschiedene Seelsorgs Geschäft aufgezeichnet.</hi>
+               Ein Kalender von Jahr 1797 worin zerschiedene Seelsorgs Geschäft aufgezeichnet.
             </p>
             <p>
-               <hi rend="bold">Ebenso 2 Aufschreibbüchlen mit eben diesen Inhalt.</hi>
+               Ebenso 2 Aufschreibbüchlen mit eben diesen Inhalt.
             </p>
             <p>
-               <hi rend="bold">2 zusamengebundene Paqueter Schriften ebenfalls in Seelsorgs Angelegenheiten.</hi>
+               2 zusamengebundene Paqueter Schriften ebenfalls in Seelsorgs Angelegenheiten.
             </p>
             <p>
                <hi rend="strikethrough">Ein Puschen Schlüssel zum Kirchmarkt, derglechen auch</hi>
@@ -132,7 +139,7 @@
             <p>
                <pb n="211r"/>
             </p>
-            <p>Nebst obigen, wurde in des Herrn Ableibers <hi rend="bold">Schreibpult</hi> auch vorgefunden eine von denselben untern 1ten dies errichtete, von denselben selbst unterschriebene und gefertigts Testament. Dieses hat der obrigkeitlich deputirte Oberschreiber Franz Schenach als eine Zulage zu gegenwärtigen Protokoll erhoben.</p>
+            <p>Nebst obigen, wurde in des Herrn Ableibers <hi rend="bold">Schreibpult</hi> auch vorgefunden eine von denselben untern 1ten dies errichtete, von denselben selbst unterschriebene und gefertigts Testament. Dieses hat der obrigkeitlich deputirte Oberschreiber <rs type="person" ref="#schenach_franz">Franz Schenach</rs> als eine Zulage zu gegenwärtigen Protokoll erhoben.</p>
             <p>Die <hi rend="bold">ubrigen Schriften</hi> werden in dem <hi rend="bold">Schreibpulte</hi> gelassen, dieses gesperrt und das gerichtliche Sigill <hi rend="strikethrough">Sperr</hi> daran <hi rend="strikethrough">angeleget</hi> darauf gedruckt.</p>
             <p>Eben so wurde auch das Zimmer worinn sich die <hi rend="bold">Pibliotheck</hi> des Herrn Ableibers und ein gespertes Kasten befindet, gesperrt, und das obrigkeitliche Insigl auf das Schloss aufgedruckt.</p>
             <p>Weiters hat man in einen anderen Zimmer einen Kasten eröffnet, und folgende Baarschaft erfunden:</p>
@@ -174,47 +181,47 @@
                   <cell>217 f 6 x</cell>
                </row>
             </table>
-            <p>Weiters war ein lederner Seckl vorhanden, die darin befindliche Baarschaft wurde von darumen nicht beschrieben, weilen solche vermug einer von dem Herrn Ableiber beygelegten Aufschreibung dessen Bruder Johann Lechner gehörig seyn solle.</p>
+            <p>Weiters war ein lederner Seckl vorhanden, die darin befindliche Baarschaft wurde von darumen nicht beschrieben, weilen solche vermug einer von dem Herrn Ableiber beygelegten Aufschreibung dessen Bruder <rs type="person" ref="#lechner_johan_babtist">Johann Lechner</rs> gehörig seyn solle.</p>
             <p>Indessen wurde ein so andere Baarschaft wiederum in den Kasten geleget, derselbe gesperrt</p>
             <p>
                <pb n="212r"/>
             </p>
             <p>und gleichfalls das obrigkeitliche Insigl auf das Schloss aufgedrückt.</p>
             <p>Die Schlüssel von dem gesperreten Zimer, dem <hi rend="bold">Schreibpult</hi>, und den Kasten worin die Baarschaft sich befindet, wurden zu Gerichts Handen genommen.</p>
-            <p>Übrigens wurde der Jungfrau Häusserin Gerdrauth Burgerin die Erinnerung gemacht, die anderweiten Verlassenschaftssachen einsmals getreu, und fleisig zu besorgen, und könne sich dieselbe bey sich ereignenden Anständen an den Herrn Ausschus Herrn Rogen, oder an die Obrigkeit wenden. Anbey wird es wegen Verwaltung des Hauswesens um so weniger Anstände finden, als der Bruder des Herrn Ableibers Johann</p>
+            <p>Übrigens wurde der Jungfrau Häusserin <rs type="person" ref="#burger_gertraud">Gerdrauth Burgerin</rs> die Erinnerung gemacht, die anderweiten Verlassenschaftssachen einsmals getreu, und fleisig zu besorgen, und könne sich dieselbe bey sich ereignenden Anständen an den Herrn Ausschus Herrn <rs type="person" ref="#rogen_johann_michael">Rogen</rs>, oder an die Obrigkeit wenden. Anbey wird es wegen Verwaltung des Hauswesens um so weniger Anstände finden, als der Bruder des Herrn Ableibers <rs type="person" ref="#lechner_johan_babtist">Johann</rs></p>
             <p>
                <pb n="212v"/>
             </p>
-            <p>Lechner als sich einzig meldender Erbe sich eben auch dermalen allda in den Lokal Kaplaney Widum einfindet.</p>
+            <p><rs type="person" ref="#lechner_johan_babtist">Lechner</rs> als sich einzig meldender Erbe sich eben auch dermalen allda in den Lokal Kaplaney Widum einfindet.</p>
             <p>Zur Bestettigung dessen folget die allseitige Fertigung des Protokolls.</p>
-            <p>[eigenhändige Unterschrift:] Johann Nepomuck v. Hebenstreit Priester</p>
-            <p>[eigenhändige Unterschrift:] Johann Michael Rogen m.p.</p>
-            <p>[eigenhändige Unterschrift:] Franz Schenach m.p. Oberschreiber.</p>
+            <p>[eigenhändige Unterschrift:] <rs type="person" ref="#von_hebenstreit_johann_nepomuck">Johann Nepomuck v. Hebenstreit</rs> Priester</p>
+            <p>[eigenhändige Unterschrift:] <rs type="person" ref="#rogen_johann_michael">Johann Michael Rogen</rs> m.p.</p>
+            <p>[eigenhändige Unterschrift:] <rs type="person" ref="#schenach_franz">Franz Schenach</rs> m.p. Oberschreiber.</p>
             <p>
                <pb n="213v"/>
             </p>
             <p>[Rubrum:] Sperr Protokoll</p>
-            <p>So auf Absterben des hochwürdigen Herrn Georg Lechner k.k. Lokalkaplaney zu Diettenhein, in den Kapplaney Wiedum instehend errichtet worden.</p>
+            <p>So auf Absterben des hochwürdigen Herrn <rs type="person" ref="#lechner_georg">Georg Lechner</rs> k.k. Lokalkaplaney zu <rs type="place" ref="#dietenheim">Diettenhein</rs>, in den Kapplaney Wiedum instehend errichtet worden.</p>
             <p>
                <pb n="214r"/>
             </p>
-            <p>Actum Dietenheim in dem Lokal Widum den 19ten Jänner 1798.</p>
-            <p>Vor loblicher Landgerichts Obrigkeit der Herrschaft St. Michaelsburg.</p>
-            <p>Zugegen Herr Johann Michael Rogen Gerichts Ausschus zu Dietenheim, und Johann Strasser Mesner daselbs.</p>
-            <p>Den 25ten December abgewichnen Jahrs verableibte der hochehrwirdige Herr Georg Lechner gewester Beneficiat des aufgelassenen Stifts Soneburg zu St. Martin, und Lokalkaplan zu Dietenheim. Auf beschehene Anzeüge solchen Todtfals wurde,<note>
+            <p>Actum <rs type="place" ref="#dietenheim">Dietenheim</rs> in dem Lokal Widum den <date when="1798-01-19">19ten Jänner 1798</date>.</p>
+            <p>Vor loblicher Landgerichts Obrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>.</p>
+            <p>Zugegen Herr <rs type="person" ref="#rogen_johann_michael">Johann Michael Rogen</rs> Gerichts Ausschus zu <rs type="place" ref="#dietenheim">Dietenheim</rs>, und <rs type="person" ref="#strasser_johan">Johann Strasser</rs> Mesner daselbs.</p>
+            <p>Den <date when="1797-12-25">25ten December abgewichnen Jahrs</date> verableibte der hochehrwirdige Herr <rs type="person" ref="#lechner_georg">Georg Lechner</rs> gewester Beneficiat des aufgelassenen Stifts Soneburg zu <rs type="place" ref="#st_martin">St. Martin</rs>, und Lokalkaplan zu <rs type="place" ref="#dietenheim">Dietenheim</rs>. Auf beschehene Anzeüge solchen Todtfals wurde,<note>
                   <p rend="footnote text"> 
                      <hi rend="italic">Streichung strichliert unter der Zeile.</hi>
                   </p>
-               </note> wurde gleich den 26ten December darauf die Gerichts und Landes gebräuchige Sperr an denen benötigten Orthen ex offo angelegt und darüber ein sonderbares Protokoll verfasset. Es wurde auch bey Anlegung der Spörr ein von Herrn Ableiber unterschriben und geförtigtes Testament wobey sich auch die Gezeügen unterzeichneten, und die Signeter darunter stölten, erfunden.</p>
-            <p>Herr Ableiber hinterliese nur einen einzigen eheleiblichen Bruder Johann</p>
+            </note> wurde gleich den <date when="1797-12-26">26ten December darauf</date> die Gerichts und Landes gebräuchige Sperr an denen benötigten Orthen ex offo angelegt und darüber ein sonderbares Protokoll verfasset. Es wurde auch bey Anlegung der Spörr ein von Herrn Ableiber unterschriben und geförtigtes Testament wobey sich auch die Gezeügen unterzeichneten, und die Signeter darunter stölten, erfunden.</p>
+            <p>Herr Ableiber hinterliese nur einen einzigen eheleiblichen Bruder <rs type="person" ref="#lechner_johan_babtist">Johann</rs></p>
             <p>
                <pb n="214v"/>
             </p>
-            <p>Babtista Lechner, den er auch zu sich genomen, und unterhielte, weil der selbe nicht im Stande war, sich selbst das Brod zu verdienen. Zu einen Vertröter und Kuratore desselben, liese sich titl. etc. Herr Gubernial Rath Joseph Anton v. Gröbner gebrauchen.</p>
-            <p>Da dan der Universal Erb mit einen Kuratore versechen, so wurde des Herrn Ableibers untern 1ten December 1797 errichte Testament der Ordnung gemas erwitteret.</p>
+            <p><rs type="person" ref="#lechner_johan_babtist">Babtista Lechner</rs>, den er auch zu sich genomen, und unterhielte, weil der selbe nicht im Stande war, sich selbst das Brod zu verdienen. Zu einen Vertröter und Kuratore desselben, liese sich titl. etc. Herr Gubernial Rath <rs type="person" ref="#von_groebner_joseph_anton">Joseph Anton v. Gröbner</rs> gebrauchen.</p>
+            <p>Da dan der Universal Erb mit einen Kuratore versechen, so wurde des Herrn Ableibers untern <date when="1797-12-01">1ten December 1797</date> errichte Testament der Ordnung gemas erwitteret.</p>
             <p>Facta Publicatione</p>
-            <p>Titl. der Johan Babtista Lechnerische Herr Herr Kurator bedanket sich willen Eröfnung des Testaments, und bittet seinen Curanden darbey zu manutenieren, und mit der Inventur fürzuschreiten.</p>
-            <p>Weil dann das Beneficium von St. Martin nach Dietenheim tranverieret worden ist, und Herr Kaplan sel. auch die Rechten von dem aufgelassnen Stift bezohen hat, als wurde wegen allenfalls habenden Einflus des aufgelassnen Stifts titl. Herr Rentamtmann und Hof Richter zu Soneburg von Gaun hierzu fürgeladen, so auch beygekomen, dahero wurde nach recognosciert und unbedencklich befundener Secretur geschriten zu folgender</p>
+            <p>Titl. der <rs type="person" ref="#lechner_johan_babtist">Johan Babtista Lechnerische</rs> Herr Herr Kurator bedanket sich willen Eröfnung des Testaments, und bittet seinen Curanden darbey zu manutenieren, und mit der Inventur fürzuschreiten.</p>
+            <p>Weil dann das Beneficium von <rs type="place" ref="#st_martin">St. Martin</rs> nach <rs type="place" ref="#dietenheim">Dietenheim</rs> tranverieret worden ist, und Herr Kaplan sel. auch die Rechten von dem aufgelassnen Stift bezohen hat, als wurde wegen allenfalls habenden Einflus des aufgelassnen Stifts titl. Herr Rentamtmann und Hof Richter zu <rs type="place" ref="#soneburg">Soneburg</rs> von Gaun hierzu fürgeladen, so auch beygekomen, dahero wurde nach recognosciert und unbedencklich befundener Secretur geschriten zu folgender</p>
             <p>Inventur</p>
             <p>Und zwar anfänglich in dem</p>
             <p>
@@ -231,7 +238,7 @@
                   <cell>15 x</cell>
                </row>
                <row>
-                  <cell>Ein <hi rend="bold" xml:space="preserve">Schreib Buld </hi>mit gewichster Leinwath samt Schlos und Band</cell>
+                  <cell>Ein <hi xml:space="preserve">Schreib Buld </hi>mit gewichster Leinwath samt Schlos und Band</cell>
                   <cell>24 x</cell>
                </row>
                <row>
@@ -252,30 +259,30 @@
                </row>
                <row>
                   <cell>
-                     <hi rend="bold" xml:space="preserve">2 Pappier Scharen </hi>
+                     <hi xml:space="preserve">2 Pappier Scharen </hi>
                      <note>
                         <p rend="footnote text">
                            <hi rend="superscript">-3</hi> 
                            <hi rend="italic">Nachträglich geschrieben.</hi>
                         </p>
                      </note>
-                     <hi rend="bold">und 1 Lennier</hi>
+                     und 1 Lennier
                      <hi rend="superscript">3</hi>
                   </cell>
                   <cell>
-                     <hi rend="bold">18</hi>
+                     18
                      <note>
                         <p rend="footnote text"> 8 <hi rend="italic">korrigiert aus</hi> 5.</p>
                      </note>
-                     <hi rend="bold" xml:space="preserve"> x</hi>
+                     <hi xml:space="preserve"> x</hi>
                   </cell>
                </row>
                <row>
                   <cell>
-                     <hi rend="bold">2 Födermesserlen</hi>
+                     2 Födermesserlen
                   </cell>
                   <cell>
-                     <hi rend="bold">10 x</hi>
+                     10 x
                   </cell>
                </row>
                <row>
@@ -1060,7 +1067,7 @@
                      <hi rend="superscript">-17</hi> 
                      <hi rend="italic">Gesamte Zeile am linken Rand nachgetragen.</hi>
                   </p>
-               </note>Den 25ten Janner 1797<hi rend="superscript">17,</hi>
+               </note>Den <date when="1797-01-25">25ten Janner 1797</date><hi rend="superscript">17,</hi>
                <note>
                   <p rend="footnote text"> 
                      <hi rend="italic" xml:space="preserve">Jahr stimmt nicht, sollte wohl </hi>1798<hi rend="italic" xml:space="preserve"> sein.</hi>
@@ -1890,14 +1897,14 @@
                   <cell>190 f 18½ x</cell>
                </row>
             </table>
-            <p>Actum et continuatum Dietenheim den 3ten February 1798.</p>
+            <p>Actum et continuatum <rs type="place" ref="#dietenheim">Dietenheim</rs> den <date when="1798-02-03">3ten February 1798</date>.</p>
             <p>Coram ut supra</p>
             <p>Zugegen [Name oder Verweis fehlt]</p>
-            <p>Auf dato wurde zu Ergänzung des hochehrwirdigen Herrn Ableibers Georg Lechners zeitliche Habseligkeit auf vorhero beschehenes Anlangen die Tagsatzung grosgunstig anberaumet, und weil titl. etc. Herr Herr Gubernial Rath von Gröbner sich nur für den bledsinigen Universal Erb und Bruder des Herrn Ableibers Johann Lechner zur Inventur als</p>
+            <p>Auf dato wurde zu Ergänzung des hochehrwirdigen Herrn Ableibers <rs type="person" ref="#lechner_georg">Georg Lechners</rs> zeitliche Habseligkeit auf vorhero beschehenes Anlangen die Tagsatzung grosgunstig anberaumet, und weil titl. etc. Herr Herr Gubernial Rath <rs type="person" ref="#von_groebner_joseph_anton">von Gröbner</rs> sich nur für den bledsinigen Universal Erb und Bruder des Herrn Ableibers <rs type="person" ref="#lechner_johan_babtist">Johann Lechner</rs> zur Inventur als</p>
             <p>
                <pb n="226r"/>
             </p>
-            <p>Vetröter [sic!] gebrauchen gelassen, als wurde deme zu einen Kuratore Obrigkeit verstriket der wohlehrsame Johann Strasser Schneidermeister, und Mesner in Dietenheim.</p>
+            <p>Vetröter [sic!] gebrauchen gelassen, als wurde deme zu einen Kuratore Obrigkeit verstriket der wohlehrsame <rs type="person" ref="#strasser_johan">Johann Strasser</rs> Schneidermeister, und Mesner in <rs type="place" ref="#dietenheim">Dietenheim</rs>.</p>
             <p>Nach so beschehener Verpflichtung wurde sofort eingetragen das</p>
             <p>Vermögen</p>
             <table rend="rules">
@@ -1917,7 +1924,7 @@
             <p>Hauptvermögen</p>
             <table rend="rules">
                <row>
-                  <cell>Maria Renzlerin Verwittwe Mitterhoferin Mayrin zu Grastain zu St. Martin ist laut Privat Schuld Schein de dato St. Laurenzen 6ten Janner 1789 schuldig Kapital</cell>
+                  <cell><rs type="person" ref="#renzler_maria">Maria Renzlerin Verwittwe Mitterhoferin</rs> Mayrin zu Grastain zu <rs type="place" ref="#st_martin">St. Martin</rs> ist laut Privat Schuld Schein de dato <rs type="place" ref="#st_lorenzen">St. Laurenzen</rs> <date when="1789-01-06">6ten Janner 1789</date> schuldig Kapital</cell>
                   <cell>100 f 0 x</cell>
                </row>
                <row>
@@ -1984,7 +1991,7 @@
             <p>An Bachtzins von Haus und Gütteren</p>
             <table rend="rules">
                <row>
-                  <cell>Titl. Herr Kreis Schul Komisär v. Batig ist wegen genossnen Kapplanei Haus zu St. Martin an Mietzins Ratum herein und zwar von bis zum Todt von ganzen Jahr 33 f, <note>
+                  <cell>Titl. Herr Kreis Schul Komisär <rs type="person" ref="#von_batig_">v. Batig</rs> ist wegen genossnen Kapplanei Haus zu <rs type="place" ref="#st_martin">St. Martin</rs> an Mietzins Ratum herein und zwar von bis zum Todt von ganzen Jahr 33 f, <note>
                         <p rend="footnote text">
                            <hi rend="superscript">-39</hi> 
                            <hi rend="italic">Von anderer Hand geschrieben.</hi>
@@ -1994,7 +2001,7 @@
                   <cell/>
                </row>
                <row>
-                  <cell>Der Mayrhof Innerhofer zu Gasteig zu St. Martin ist nun willen des ihm zum</cell>
+                  <cell>Der Mayrhof Innerhofer zu Gasteig zu <rs type="place" ref="#st_martin">St. Martin</rs> ist nun willen des ihm zum</cell>
                   <cell/>
                </row>
             </table>
@@ -2007,19 +2014,19 @@
                   <cell>76 f 0 x</cell>
                </row>
                <row>
-                  <cell>Der Tschan Miller in Pflaurenz giebt wegen des zum Bstand innen habenden Rein Acker ob der Ree Leite jahrlich Bstand Zins</cell>
+                  <cell>Der Tschan Miller in <rs type="place" ref="#pflaurenz">Pflaurenz</rs> giebt wegen des zum Bstand innen habenden Rein Acker ob der Ree Leite jahrlich Bstand Zins</cell>
                   <cell>22 f 0 x</cell>
                </row>
                <row>
-                  <cell>Johann Planer Auer Miller in Mihlbächl zahlt an detto wegen zum Bstand innenhabenden Ackers ausser den Portenhof</cell>
+                  <cell><rs type="person" ref="#planer_johann">Johann Planer</rs> Auer Miller in <rs type="place" ref="#muehlbach">Mihlbächl</rs> zahlt an detto wegen zum Bstand innenhabenden Ackers ausser den Portenhof</cell>
                   <cell>10 f 0 x</cell>
                </row>
                <row>
-                  <cell>Johann Hueber Jorglmihler in Mihlbächl zahlt an detto wegen eines Ackers zu Stöcklstain</cell>
+                  <cell><rs type="person" ref="#hueber_johann">Johann Hueber</rs> Jorglmihler in <rs type="place" ref="#muehlbach">Mihlbächl</rs> zahlt an detto wegen eines Ackers zu Stöcklstain</cell>
                   <cell>18 f 0 x</cell>
                </row>
                <row>
-                  <cell>Joseph Niedermayr Pichler zu Stephansdorf zahlt an detto um willen <hi rend="strikethrough">f</hi> 4 Äcker wovon 2 auf der Speken, 1ner auf den Bruna Moos und einer bey der Auslueger Weyde das Schäufele genant.</cell>
+                  <cell><rs type="person" ref="#niedermayr_joseph">Joseph Niedermayr</rs> Pichler zu <rs type="place" ref="#stephansdorf">Stephansdorf</rs> zahlt an detto um willen <hi rend="strikethrough">f</hi> 4 Äcker wovon 2 auf der Speken, 1ner auf den Bruna Moos und einer bey der Auslueger Weyde das Schäufele genant.</cell>
                   <cell>35 f 38 x</cell>
                </row>
             </table>
@@ -2036,7 +2043,7 @@
                   <cell>15 f 0 x</cell>
                </row>
                <row>
-                  <cell>Johann Lechner Wolleschlager daselbs von einen Angerl nächst der Kirche bey St. Martin und das Ängerl bey dem Beneficiaten Haus</cell>
+                  <cell><rs type="person" ref="#lechner_johann">Johann Lechner</rs> Wolleschlager daselbs von einen Angerl nächst der Kirche bey <rs type="place" ref="#st_martin">St. Martin</rs> und das Ängerl bey dem Beneficiaten Haus</cell>
                   <cell>28 f 0 x</cell>
                </row>
             </table>
@@ -2049,7 +2056,7 @@
             <p>
                <pb n="228v"/>
             </p>
-            <p>stälten Kurator Strasser zur getreyen, und richtigen Betreibung gegen deme übergeben, das solche seiner Zeit getreylich dem Universal Erb verrechnet, und sodann zum Vermögen refundieret werden, worauf auch die Posten von dem Köfelegut zu St. Martin in Mihlbächl, und zwar von dem dermaligen Häuslerischen Eheleithen daselbs mit jährlich betrofenden 3 Stär Roggen einschlüsslich von Jahr 1787 (von welcher Zeit der jetztige Häusler Johann Mutschlechner nicht mehr bezahlet) begrifen ist; welche Posten vielmehr titl. Herr v. Gall in Brunegg zu bezahlen die Verbündlichkeit haben därfte, weil urspringlich dieser Abgabe an das Stift Soneburg auf wohlselben beruhete, und erst in der Zeitfolge von wohl selben einem jeweiligen Köfeler in Mihlbächl gegen Geschweigung wohl seines zu beziehenden Grundtzinses dieser Abgabe an das Stift mitlst mündlichen, oder stilschweigenden Einverständnus auferladen wurde, westwegen diese, und</p>
+            <p>stälten Kurator <rs type="person" ref="#strasser_johan">Strasser</rs> zur getreyen, und richtigen Betreibung gegen deme übergeben, das solche seiner Zeit getreylich dem Universal Erb verrechnet, und sodann zum Vermögen refundieret werden, worauf auch die Posten von dem Köfelegut zu <rs type="place" ref="#st_martin">St. Martin</rs> in <rs type="place" ref="#muehlbach">Mihlbächl</rs>, und zwar von dem dermaligen Häuslerischen Eheleithen daselbs mit jährlich betrofenden 3 Stär Roggen einschlüsslich von Jahr 1787 (von welcher Zeit der jetztige Häusler <rs type="person" ref="#mutschlechner_johann">Johann Mutschlechner</rs> nicht mehr bezahlet) begrifen ist; welche Posten vielmehr titl. Herr <rs type="person" ref="#von_gall_">v. Gall</rs> in <rs type="place" ref="#brunegg">Brunegg</rs> zu bezahlen die Verbündlichkeit haben därfte, weil urspringlich dieser Abgabe an das Stift Soneburg auf wohlselben beruhete, und erst in der Zeitfolge von wohl selben einem jeweiligen Köfeler in <rs type="place" ref="#muehlbach">Mihlbächl</rs> gegen Geschweigung wohl seines zu beziehenden Grundtzinses dieser Abgabe an das Stift mitlst mündlichen, oder stilschweigenden Einverständnus auferladen wurde, westwegen diese, und</p>
             <p>
                <pb n="229r"/>
             </p>
@@ -2078,7 +2085,7 @@
                   <cell>12 f 0 x</cell>
                </row>
                <row>
-                  <cell>Weiters hat Herr Ableiber zu Lesung Heiliger Messen zur Helfte denen P. Capucinern in Brunegg, zur anderen Helfte aber anderweiten Priestern legieret pr Mess à 30 x</cell>
+                  <cell>Weiters hat Herr Ableiber zu Lesung Heiliger Messen zur Helfte denen P. Capucinern in <rs type="place" ref="#brunegg">Brunegg</rs>, zur anderen Helfte aber anderweiten Priestern legieret pr Mess à 30 x</cell>
                   <cell>50 f 0 x</cell>
                </row>
                <row>
@@ -2086,11 +2093,11 @@
                   <cell>30 f 0 x</cell>
                </row>
                <row>
-                  <cell>Denen Frauen Ursulinerkloster zu Brunegg per modus eines Allmosen</cell>
+                  <cell>Denen Frauen Ursulinerkloster zu <rs type="place" ref="#brunegg">Brunegg</rs> per modus eines Allmosen</cell>
                   <cell>10 f 0 x</cell>
                </row>
                <row>
-                  <cell>Denen Armen der Gemeinde Dietenheim und Luns an Allmosen</cell>
+                  <cell>Denen Armen der Gemeinde <rs type="place" ref="#dietenheim">Dietenheim</rs> und Luns an Allmosen</cell>
                   <cell>10 f 0 x</cell>
                </row>
                <row>
@@ -2103,7 +2110,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Der Denstmagt, und Häuserin des Herrn Ableibers Jungfrau Gerdraut Burgerin wegen ihren threü geleisteten Densten, und in der Kranckheit erwiesener Liebe und Aufwartung Kapitals Legat</cell>
+                  <cell>Der Denstmagt, und Häuserin des Herrn Ableibers Jungfrau <rs type="person" ref="#burger_gertraud">Gerdraut Burgerin</rs> wegen ihren threü geleisteten Densten, und in der Kranckheit erwiesener Liebe und Aufwartung Kapitals Legat</cell>
                   <cell>100 f 0 x</cell>
                </row>
                <row>
@@ -2115,7 +2122,7 @@
                   <cell>30 f 0 x</cell>
                </row>
                <row>
-                  <cell>Der loblichen St. Jacobs Kirche in Dietenheim (bei welcher Herr Ableiber die Seelsorge ausgeübet) wurde vermacht das liegende Kristkindl, die 4 mit Goldschneid Arbeith gezierten Piramiden die 4 grösseren und 8 kleinere Buschen Stöcke, dann der gebluemte Paltekin.</cell>
+                  <cell>Der loblichen St. Jacobs Kirche in <rs type="place" ref="#dietenheim">Dietenheim</rs> (bei welcher Herr Ableiber die Seelsorge ausgeübet) wurde vermacht das liegende Kristkindl, die 4 mit Goldschneid Arbeith gezierten Piramiden die 4 grösseren und 8 kleinere Buschen Stöcke, dann der gebluemte Paltekin.</cell>
                   <cell/>
                </row>
                <row>
@@ -2132,15 +2139,15 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Dem Vetter Weingartner zu Milbach wurde die von Wax gemachte Heilige Dreyfaltigkeit Tafl vermacht, gleichwie nun aber diese in keiner inventarischen Beschreibung gebracht, sondern in natura verabgefolget wird, so wird auch diesfalls nichts pr Abzug gebracht pr Bht.</cell>
+                  <cell>Dem Vetter Weingartner zu <rs type="place" ref="#muehlbach">Milbach</rs> wurde die von Wax gemachte Heilige Dreyfaltigkeit Tafl vermacht, gleichwie nun aber diese in keiner inventarischen Beschreibung gebracht, sondern in natura verabgefolget wird, so wird auch diesfalls nichts pr Abzug gebracht pr Bht.</cell>
                   <cell/>
                </row>
                <row>
-                  <cell>Der Baas Hellena Wingartnerin zu Milbach, als ein vetterlichs Angedenken 2 Spezies Thaller a 2 f 6 x</cell>
+                  <cell>Der Baas <rs type="person" ref="#weingartner_helena_maria">Hellena Wingartnerin</rs> zu <rs type="place" ref="#muehlbach">Milbach</rs>, als ein vetterlichs Angedenken 2 Spezies Thaller a 2 f 6 x</cell>
                   <cell>4 f 12 x</cell>
                </row>
                <row>
-                  <cell>Und entlich dem Johann Strasser Mesner und Schneidermeister wegen Mühe als eingesetzten Testaments Executor 4 Spezies Thaller à 2 f 6 x</cell>
+                  <cell>Und entlich dem <rs type="person" ref="#strasser_johan">Johann Strasser</rs> Mesner und Schneidermeister wegen Mühe als eingesetzten Testaments Executor 4 Spezies Thaller à 2 f 6 x</cell>
                   <cell>
                      <p>8 f 24 x<note>
                            <p rend="footnote text"> 
@@ -2185,7 +2192,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Welch diese Post den Johann Strasser Mesner zu vergüten komt, weil er die dahin einschlagenden und specificierten Konti entweder baar bezahlet, oder aber konftig die Verbündlichkeit hat, solche ganz aus eigenen Baar abzuführen pr Bht.</cell>
+                  <cell>Welch diese Post den <rs type="person" ref="#strasser_johan">Johann Strasser</rs> Mesner zu vergüten komt, weil er die dahin einschlagenden und specificierten Konti entweder baar bezahlet, oder aber konftig die Verbündlichkeit hat, solche ganz aus eigenen Baar abzuführen pr Bht.</cell>
                   <cell/>
                </row>
                <row>
@@ -2196,7 +2203,7 @@
                   </cell>
                </row>
                <row>
-                  <cell>Dem Herrn Gottlieb Pallauf Chirurgus in St. Laurenzen laut Konto an abgegebenen Medicamenten und gemachten Visiten</cell>
+                  <cell>Dem Herrn <rs type="person" ref="#pallauf_gottlieb_johann">Gottlieb Pallauf</rs> Chirurgus in <rs type="place" ref="#st_laurenzen">St. Laurenzen</rs> laut Konto an abgegebenen Medicamenten und gemachten Visiten</cell>
                   <cell>26 f 22 x</cell>
                </row>
                <row>
@@ -2242,7 +2249,7 @@
                   <cell>1 f 48 x</cell>
                </row>
             </table>
-            <p>Welche diese sowohl Legat, als anderweiten Abzüg und specificierten Konti Johann Strasser theils aus eigenen bezahlt, theils für die Zukonft zu bezahlen, und Red und Antworth zu geben die Verbündlichkeit hat.</p>
+            <p>Welche diese sowohl Legat, als anderweiten Abzüg und specificierten Konti <rs type="person" ref="#strasser_johan">Johann Strasser</rs> theils aus eigenen bezahlt, theils für die Zukonft zu bezahlen, und Red und Antworth zu geben die Verbündlichkeit hat.</p>
             <table rend="rules">
                <row>
                   <cell>Summa <hi rend="strikethrough">der</hi> aller<note>
@@ -2270,33 +2277,33 @@
                   </cell>
                </row>
             </table>
-            <p>Nach solcher Ergänzung dann, wird hiemit vorstehendes Vermögen den verhandenen einzigen Bruder Johann Lechner unter Karatel des ob eingefierten Johann Strasers zum wirklichen Eigenthum gegendeme hiemit gerichtlich eingeraumt und überantwortet, das selber auch allen hievor eingekomenen Passirer in Sonderheit aber denen Legaten behorige Red und Antworth geben, und</p>
+            <p>Nach solcher Ergänzung dann, wird hiemit vorstehendes Vermögen den verhandenen einzigen Bruder <rs type="person" ref="#lechner_johann">Johann Lechner</rs> unter Karatel des ob eingefierten <rs type="person" ref="#strasser_johan">Johann Strasers</rs> zum wirklichen Eigenthum gegendeme hiemit gerichtlich eingeraumt und überantwortet, das selber auch allen hievor eingekomenen Passirer in Sonderheit aber denen Legaten behorige Red und Antworth geben, und</p>
             <p>
                <pb n="232r"/>
             </p>
             <p>die baare Tilgung derselben, soferne es nicht schon geschehen sich sorgföltig unter Vermögens Verpfändung angelegen zu halten habe.</p>
-            <p>In ein so anderen Anbetracht, und vorzüglich dass erbnemender Johann Lechner als ein bledsiniges Subject sich mit den<note>
+            <p>In ein so anderen Anbetracht, und vorzüglich dass erbnemender <rs type="person" ref="#lechner_johann">Johann Lechner</rs> als ein bledsiniges Subject sich mit den<note>
                   <p rend="footnote text"> 
                      <hi rend="italic">-er-Kürzung gestrichen.</hi>
                   </p>
-               </note> vorbeschribenen Mobiliar Vermögen gewes seines Zustandes nicht oder wenig behelfen würde, glaubt man von Seite Ihro Gnaden titl. Herrn Herrn Gubernial Rath Joseph<note>
+            </note> vorbeschribenen Mobiliar Vermögen gewes seines Zustandes nicht oder wenig behelfen würde, glaubt man von Seite Ihro Gnaden titl. Herrn Herrn Gubernial Rath <rs type="person" ref="#von_groebner_joseph_anton">Joseph</rs><note>
                   <p rend="footnote text"> 
                      <hi rend="italic">Über der Zeile geschrieben.</hi>
                   </p>
-               </note> Anton v. Gräbner, und des verpflichten Kurators Strasers um das Vermögen des erbnemenden Principalen einichen theils zu vermehren, und amdurch der Verderbungs Gefahr der verhandenen Mobilien vorzubringen, eine ordentliche gerichtliche Mobiliar Versteigerung zu veranlassen nötig zu seyn. In welche Ansinung das Gericht um soviel weniger einzuwilligen ein Bedenken trägt als dadurch der Activ Stand dieses Universal Erb sowohl beträchtlich vermehret, und überhaupts das Wohl desselben beforderet werden dürfte.</p>
+            </note> <rs type="person" ref="#von_groebner_joseph_anton">Anton v. Gräbner</rs>, und des verpflichten Kurators <rs type="person" ref="#strasser_johan">Strasers</rs> um das Vermögen des erbnemenden Principalen einichen theils zu vermehren, und amdurch der Verderbungs Gefahr der verhandenen Mobilien vorzubringen, eine ordentliche gerichtliche Mobiliar Versteigerung zu veranlassen nötig zu seyn. In welche Ansinung das Gericht um soviel weniger einzuwilligen ein Bedenken trägt als dadurch der Activ Stand dieses Universal Erb sowohl beträchtlich vermehret, und überhaupts das Wohl desselben beforderet werden dürfte.</p>
             <p>
                <pb n="232v"/>
             </p>
-            <p>Zu Bestettigung gegenwärtigen Vorgangs, und Vermögens Ergänzung wurde von Seite titl. Herrn Herrn Gubernial Rath v. Gröbner etc. sowohl als des verpflichten Kurators principalis nomine gegenwärtiges Protokol eigenhändig unterschriben, und von letzteren überdis hierwegen loblicher Landgerichts Obrigkeit das Handgelibt erstattet.</p>
-            <p>[eigenhändige Unterschrift:] Joseph Anton v. Grebmer m.p. k.k. Gubernial Rath als lediglich ad hunc actum von den blödsennigen Johann Lechner erbettener Beystand</p>
-            <p>Actum <hi rend="strikethrough">St. L</hi> Diettenheim den 31t Merz 1798</p>
-            <p>Vor loblicher Landgerichts Obrigkeit der Herrschaft St. Michaelsburg.</p>
-            <p>Zugegen Herrn Johann Michael Rogen Ausschuß und Johann Strasser als verpflichter Kurator.</p>
-            <p>Nach einsmal vorhin gepflogener Vermiegens Ergänzung und Entwurf hat sich die Obrigkeit zu ein so anderen Ende nacher Diettenhaim verfüget, um einen endlichen Vermögens Entwurf zu formiren, und das gesamte Vermögen des Johann Lechner seiner Anweltläufigkeit wegen dem</p>
+            <p>Zu Bestettigung gegenwärtigen Vorgangs, und Vermögens Ergänzung wurde von Seite titl. Herrn Herrn Gubernial Rath <rs type="person" ref="#von_groebner_joseph_anton">v. Gröbner</rs> etc. sowohl als des verpflichten Kurators principalis nomine gegenwärtiges Protokol eigenhändig unterschriben, und von letzteren überdis hierwegen loblicher Landgerichts Obrigkeit das Handgelibt erstattet.</p>
+            <p>[eigenhändige Unterschrift:] <rs type="person" ref="#von_groebner_joseph_anton">Joseph Anton v. Grebmer</rs> m.p. k.k. Gubernial Rath als lediglich ad hunc actum von den blödsennigen <rs type="person" ref="#lechner_johann">Johann Lechner</rs> erbettener Beystand</p>
+            <p>Actum <hi rend="strikethrough">St. L</hi> <rs type="place" ref="#dietenheim">Diettenheim</rs> den <date when="1798-03-31">31t Merz 1798</date></p>
+            <p>Vor loblicher Landgerichts Obrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>.</p>
+            <p>Zugegen Herrn <rs type="person" ref="#rogen_johann_michael">Johann Michael Rogen</rs> Ausschuß und <rs type="person" ref="#strasser_johan">Johann Strasser</rs> als verpflichter Kurator.</p>
+            <p>Nach einsmal vorhin gepflogener Vermiegens Ergänzung und Entwurf hat sich die Obrigkeit zu ein so anderen Ende nacher Diettenhaim verfüget, um einen endlichen Vermögens Entwurf zu formiren, und das gesamte Vermögen des <rs type="person" ref="#lechner_johann">Johann Lechner</rs> seiner Anweltläufigkeit wegen dem</p>
             <p>
                <pb n="233r"/>
             </p>
-            <p>obrigkeitlich verpflichten Kurator Johann Strasser zur guten Gebarung und zweckmessiger Verpflegung seines Principalen zu übergeben.</p>
+            <p>obrigkeitlich verpflichten Kurator <rs type="person" ref="#strasser_johann">Johann Strasser</rs> zur guten Gebarung und zweckmessiger Verpflegung seines Principalen zu übergeben.</p>
             <p>Wesstwegen dann geschritten wird zur nachstehenden</p>
             <p>Vermögens-Recapitulation</p>
             <table rend="rules">
@@ -2311,7 +2318,7 @@
                   <cell>231 f 6 x</cell>
                </row>
                <row>
-                  <cell>An Hauptvermögen hat Erbnehmer ererbet bey Maria Renzlerin verwittibte Mitterhoferin Mayrin zu Grasstein</cell>
+                  <cell>An Hauptvermögen hat Erbnehmer ererbet bey <rs type="person" ref="#renzler_maria">Maria Renzlerin verwittibte Mitterhoferin</rs> Mayrin zu Grasstein</cell>
                   <cell>100 f 0 x</cell>
                </row>
                <row>
@@ -2333,11 +2340,11 @@
                         <p rend="footnote text"> 
                            <hi rend="italic">Wechsel der Hand.</hi>
                         </p>
-                     </note>Die Abzüg betragen <hi rend="strikethrough">die</hi>, wie solche vorher einkommen, und theils mitlst sbezifischer Aufschreibung von deme Kurator Johann Strasser vorgelegt worden sind in Summa</cell>
+                     </note>Die Abzüg betragen <hi rend="strikethrough">die</hi>, wie solche vorher einkommen, und theils mitlst sbezifischer Aufschreibung von deme Kurator <rs type="person" ref="#strasser_johan">Johann Strasser</rs> vorgelegt worden sind in Summa</cell>
                   <cell>710 f 54 x</cell>
                </row>
                <row>
-                  <cell>Hievor kammen ihme Strasser baar zu vergütten 396 f 10 x hingegen hat selber in mehrerer Posten an Baarschaft empfanngen, und an einigen Schüldelen herein eingenommen 64 f 14½ x folglich kammte selben noch von der Erbs Masse baar zu vergütten drey hundert ein und dreysig Gulden, 56½ x id est</cell>
+                  <cell>Hievor kammen ihme <rs type="person" ref="#strasser_johan">Strasser</rs> baar zu vergütten 396 f 10 x hingegen hat selber in mehrerer Posten an Baarschaft empfanngen, und an einigen Schüldelen herein eingenommen 64 f 14½ x folglich kammte selben noch von der Erbs Masse baar zu vergütten drey hundert ein und dreysig Gulden, 56½ x id est</cell>
                   <cell>331 f 56½ x<note>
                         <p rend="footnote text"> 
                            <hi rend="italic">Entweder ist die Barvergütung um 1 x zu niedrig oder seine Einnahmen oder die Restvergütung um 1 x zu hoch.</hi>
@@ -2351,11 +2358,11 @@
                <pb n="234r"/>
             </p>
             <p>jederzeit gern zahlungwegen behörig Red, und Antworth zu geben habe, und jenes was selber nicht schon bereits abgezahlet, seinerzeit und ehemöglist tilgen solle.</p>
-            <p>Hieher kommt aber ausgeschieden die unter den Abzügen eingekommene Legats Post der Gerdrauth Purgerin pr 100 f, welche hinnach selber mitelst Schulds Abtrettung jener von der Maria Renzlerin verwittweter Mayrin v. Grasstein zu St. Martin vergüttet<note>
+            <p>Hieher kommt aber ausgeschieden die unter den Abzügen eingekommene Legats Post der <rs type="person" ref="#burger_gertraud">Gerdrauth Purgerin</rs> pr 100 f, welche hinnach selber mitelst Schulds Abtrettung jener von der <rs type="person" ref="#renzler_maria">Maria Renzlerin verwittweter Mayrin</rs> v. Grasstein zu <rs type="place" ref="#st_martin">St. Martin</rs> vergüttet<note>
                   <p rend="footnote text"> v- <hi rend="italic">korrigiert aus</hi> f-.</p>
                </note> werden können, und mögen.</p>
             <p>Weiters kammen auch auszuscheiden die unter den Abzügen eingekommenen Gerichts Taxen pr 84 f 0 x, welche aus der Baarschaft des Ableibers an Gehörde abgerichtet worden sind.</p>
-            <p>Nicht minder ist die der löblichen Kirche zu Diettenheim testamentsweis zugedachte Legat Post in <hi rend="strikethrough">mat</hi> natura</p>
+            <p>Nicht minder ist die der löblichen Kirche zu <rs type="place" ref="#dietenheim">Diettenheim</rs> testamentsweis zugedachte Legat Post in <hi rend="strikethrough">mat</hi> natura</p>
             <p>
                <pb n="234v"/>
             </p>
@@ -2369,11 +2376,11 @@
             <p>Recapitulation</p>
             <table rend="rules">
                <row>
-                  <cell>Titl. Herr Partlmä v. Höberstreith ist laut Schuldbrief de dato Dietenheim den 1ten März 1798 kapitalisch nun willen eines baaren Anlechens herein schuldig</cell>
+                  <cell>Titl. Herr Partlmä v. Höberstreith ist laut Schuldbrief de dato <rs type="place" ref="#dietenheim">Dietenheim</rs> den <date when="1798-03-01">1ten März 1798</date> kapitalisch nun willen eines baaren Anlechens herein schuldig</cell>
                   <cell>876 f 0 x</cell>
                </row>
                <row>
-                  <cell>Der Überrest der Baarschaft wurde theils der voreingeführten Johann Strasser zu Abtillgung einiger Schüldelen <hi rend="strikethrough">herein</hi> hinaus behändiget, und solche mit ihm wie vor ersichtlich sonderbar in Betröf seiner An-</cell>
+                  <cell>Der Überrest der Baarschaft wurde theils der voreingeführten <rs type="person" ref="#strasser_johan">Johann Strasser</rs> zu Abtillgung einiger Schüldelen <hi rend="strikethrough">herein</hi> hinaus behändiget, und solche mit ihm wie vor ersichtlich sonderbar in Betröf seiner An-</cell>
                   <cell/>
                </row>
             </table>
@@ -2386,7 +2393,7 @@
                   <cell/>
                </row>
                <row>
-                  <cell>Endlich hat der Universaal Erb Johann Lechner laut Schuldbrief de dato St. Vigili in Ennenberg den 20ten September 1780 extra, und nicht als ein Herr brüderlich Georg Lechnerisches Erb an Kapital zu ersuchen</cell>
+                  <cell>Endlich hat der Universaal Erb <rs type="person" ref="#lechner_johann">Johann Lechner</rs> laut Schuldbrief de dato St. Vigili in Ennenberg den 20ten September 1780 extra, und nicht als ein Herr brüderlich Georg Lechnerisches Erb an Kapital zu ersuchen</cell>
                   <cell>300 f 0 x</cell>
                </row>
                <row>
