@@ -2336,6 +2336,105 @@
                   <surname>Schenach</surname>
                </persName>
             </person>
+            <person xml:id="luser_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Luser</surname>
+               </persName>
+               <note type="function">Tischler</note>
+            </person>
+            <person xml:id="strasser_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Strasser</surname>
+               </persName>
+            </person>
+            <person xml:id="bergmann_jakob">
+               <persName>
+                  <forename>Jakob</forename>
+                  <surname>Bergmann</surname>
+               </persName>
+               <note type="function">Adlerwürth</note>
+            </person>
+            <person xml:id="pruggnaller_anton">
+               <persName>
+                  <forename>Anton</forename>
+                  <surname>Pruggnaller</surname>
+               </persName>
+            </person>
+            <person xml:id="gruber_anton">
+               <persName>
+                  <forename>Anton</forename>
+                  <surname>Gruber</surname>
+               </persName>
+            </person>
+            <person xml:id="primus_josef">
+               <persName>
+                  <forename>Josef</forename>
+                  <surname>Primus</surname>
+               </persName>
+            </person>
+            <person xml:id="primus_jakob">
+               <persName>
+                  <forename>Jakob</forename>
+                  <surname>Primus</surname>
+               </persName>
+               <note type="function">Schuhmacher</note>
+            </person>
+            <person xml:id="niedermayr_agnes">
+               <persName>
+                  <forename>Agnes</forename>
+                  <surname>Niedermayr</surname>
+               </persName>
+            </person>
+            <person xml:id="mutschlechner_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Mutschlechner</surname>
+               </persName>
+            </person>
+            <person xml:id="gasteiger_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Gasteiger</surname>
+               </persName>
+            </person>
+            <person xml:id="aschbacher_andre">
+               <persName>
+                  <forename>Andre</forename>
+                  <surname>Aschbacher</surname>
+               </persName>
+            </person>
+            <person xml:id="rautter_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Rautter</surname>
+               </persName>
+            </person>
+            <person xml:id="wenser_maria">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Wenser</surname>
+               </persName>
+            </person>
+            <person xml:id="oberhammerer_andrae">
+               <persName>
+                  <forename>Andrä</forename>
+                  <surname>Oberhammerer</surname>
+               </persName>
+            </person>
+            <person xml:id="thaler_michael">
+               <persName>
+                  <forename>Michael</forename>
+                  <surname>Thaler</surname>
+               </persName>
+            </person>
+            <person xml:id="hausstetter_anton">
+               <persName>
+                  <forename>Anton</forename>
+                  <surname>Hausstetter</surname>
+               </persName>
+            </person>
          </listPerson>
       </body>
    </text>

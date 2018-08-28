@@ -345,6 +345,48 @@
                </location>
                <idno type="GEONAMES"></idno>
             </place>
+            <place xml:id="taufers">
+               <placeName>Tubre</placeName>
+               <location>
+                  <geo decls="#LatLng">46.65 10.466667</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3165124</idno>
+            </place>
+            <place xml:id="grasstein">
+               <placeName>Le Cave</placeName>
+               <location>
+                  <geo decls="#LatLng">46.819 11.535</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3174954</idno>
+            </place>
+            <place xml:id="gasteig">
+               <placeName>Gasteig</placeName>
+               <location>
+                  <geo decls="#LatLng">46.866667 11.3</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3180015</idno>
+            </place>
+            <place xml:id="moos">
+               <placeName>Moso</placeName>
+               <location>
+                  <geo decls="#LatLng">46.833333 11.166667</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3172526</idno>
+            </place>
+            <place xml:id="layen">
+               <placeName>Laion</placeName>
+               <location>
+                  <geo decls="#LatLng">46.60809 11.56559</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3175236</idno>
+            </place>
+            <place xml:id="cronburg">
+               <placeName>Cronburg</placeName>
+               <location>
+                  <geo decls="#LatLng">47.17659 10.62567</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/2773391</idno>
+            </place>
          </listPlace>
       </body>
    </text>

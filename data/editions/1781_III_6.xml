@@ -10387,7 +10387,7 @@
                      <cell>8f 46 x</cell>
                   </row>
                   <row>
-                     <cell><rs type="person" ref="#grueber_hans">Hans Grueber</rs> Erschpämer zu Moos 6 Stär Gersten à 50 x</cell>
+                     <cell><rs type="person" ref="#grueber_hans">Hans Grueber</rs> Erschpämer zu <rs type="place" ref="#moos">Moos</rs> 6 Stär Gersten à 50 x</cell>
                      <cell>5 f 0 x</cell>
                   </row>
                   <row>
@@ -10395,7 +10395,7 @@
                      <cell>4 x</cell>
                   </row>
                   <row>
-                     <cell>Weidacher zu Moos</cell>
+                     <cell>Weidacher zu <rs type="place" ref="#moos">Moos</rs></cell>
                      <cell>12 x</cell>
                   </row>
                   <row>
@@ -10516,7 +10516,7 @@
                      <cell>18 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Mathias Mitterhofer Mayr zu Grasstain</cell>
+                     <cell>Mathias Mitterhofer Mayr zu <rs type="place" ref="#grasstein">Grasstain</rs></cell>
                      <cell>11 f 0 x</cell>
                   </row>
                   <row>
@@ -11359,7 +11359,7 @@
                      <cell>8 x</cell>
                   </row>
                </table>
-               <p>Peter Mayr zu Grasstain</p>
+               <p>Peter Mayr zu <rs type="place" ref="#grasstein">Grasstain</rs></p>
                <table rend="rules">
                   <row>
                      <cell>1 Bettstatt dt.</cell>
@@ -13200,7 +13200,7 @@
                      <cell>15 x</cell>
                   </row>
                </table>
-               <p>Wolleschager Sohn zu Moos</p>
+               <p>Wolleschager Sohn zu <rs type="place" ref="#moos">Moos</rs></p>
                <table rend="rules">
                   <row>
                      <cell>Messer, und 1 Haspl Spindl dt.</cell>
