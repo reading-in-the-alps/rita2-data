@@ -2523,6 +2523,90 @@
                   <surname>Wiser</surname>
                </persName>
             </person>
+            <person xml:id="zeiler_christoph">
+               <persName>
+                  <forename>Christoph</forename>
+                  <surname>Zeiler</surname>
+               </persName>
+               <note type="function">Landrichter der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs></note>
+            </person>
+            <person xml:id="mayr_jakob">
+               <persName>
+                  <forename>Jakob</forename>
+                  <surname>Mayr</surname>
+               </persName>
+               <note type="function">Graspeintner</note>
+            </person>
+            <person xml:id="hueber_jakob">
+               <persName>
+                  <forename>Jakob</forename>
+                  <surname>Hueber</surname>
+               </persName>
+               <note type="function">Beneficiat zu <rs type="place" ref="#saalen">Saalen</rs> Landgerichts <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs></note>
+            </person>
+            <person xml:id="hueber_michael">
+               <persName>
+                  <forename>Michael</forename>
+                  <surname>Hueber</surname>
+               </persName>
+               <note type="function">Perlbaur am Sand Landgerichts <rs type="place" ref="#taufers">Taufers</rs></note>
+            </person>
+            <person xml:id="auer_maria">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Auer</surname>
+               </persName>
+               <note type="family">Ehefrau von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs>, Mutter von <rs type="person" ref="#hueber_johann_2">Johann</rs>, <rs type="person" ref="#hueber_joseph_3">Joseph</rs>, <rs type="person" ref="#hueber_martin_2">Martin</rs>, und <rs type="person" ref="#hueber_mathes_2">Mathias Hueber</rs> Hueber</note>
+            </person>
+            <person xml:id="hueber_johann_2">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Hueber</surname>
+               </persName>
+               <note type="function">Würth zu <rs type="place" ref="#saalen">Saalen</rs></note>
+               <note type="family">Sohn von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs></note>
+            </person>
+            <person xml:id="hueber_joseph_3">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Hueber</surname>
+               </persName>
+               <note type="family">Sohn von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs></note>
+            </person>
+            <person xml:id="hueber_martin_2">
+               <persName>
+                  <forename>Martin</forename>
+                  <surname>Hueber</surname>
+               </persName>
+               <note type="family">Sohn von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs></note>
+            </person>
+            <person xml:id="forer_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Forer</surname>
+               </persName>
+               <note type="function">Perlbauer am Sand ersagten Landgerichts <rs type="place" ref="#taufers">Taufers</rs></note>
+            </person>
+            <person xml:id="steger_georg">
+               <persName>
+                  <forename>Georg</forename>
+                  <surname>Steger</surname>
+               </persName>
+               <note type="function">Würth und Gastgeb zu <rs type="place" ref="#st_lorenzen">St. Laurenzen</rs></note>
+            </person>
+            <person xml:id="mayr_katharina">
+               <persName>
+                  <forename>Katharina</forename>
+                  <surname>Mayr</surname>
+               </persName>
+            </person>
+            <person xml:id="hueber_mathes_2">
+               <persName>
+                  <forename>Mathes</forename>
+                  <surname>Hueber</surname>
+               </persName>
+               <note type="family">Sohn von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs></note>
+            </person>
          </listPerson>
       </body>
    </text>
