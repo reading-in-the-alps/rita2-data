@@ -1184,13 +1184,7 @@
                </persName>
                <note type="function">Würth und Gastgebin in Marckht <rs type="place" ref="st_lorenzen">Sanct Lorenzen</rs></note>
             </person>
-            <person xml:id="nidergoetscher_">
-               <persName>
-                  <forename/>
-                  <surname>Nidergötscher</surname>
-               </persName>
-            </person>
-            <person xml:id="vogl_">
+           <person xml:id="vogl_">
                <persName>
                   <forename/>
                   <surname>Vogl</surname>
@@ -1227,18 +1221,6 @@
                <persName>
                   <forename>Franz</forename>
                   <surname>de Paula Penz</surname>
-               </persName>
-            </person>
-            <person xml:id="haslmayr_">
-               <persName>
-                  <forename/>
-                  <surname>Haslmayr</surname>
-               </persName>
-            </person>
-            <person xml:id="steyrer_">
-               <persName>
-                  <forename/>
-                  <surname>Steyrer</surname>
                </persName>
             </person>
             <person xml:id="steeger_joseph">
@@ -1392,13 +1374,6 @@
                </persName>
                <note type="function">Burger, Parbierer und Cramer</note>
             </person>
-            <person xml:id="hartmann_">
-               <persName>
-                  <forename></forename>
-                  <surname>Hartmann</surname>
-               </persName>
-               <note type="function">Freyherr von Enzenperg</note>
-            </person>
             <person xml:id="jais_felix">
                <persName>
                   <forename>Felix</forename>
@@ -1514,12 +1489,6 @@
                <persName>
                   <forename>Michael</forename>
                   <surname>Mutschlechner</surname>
-               </persName>
-            </person>
-            <person xml:id="niedergaetscher_">
-               <persName>
-                  <forename></forename>
-                  <surname>Niedergätscher</surname>
                </persName>
             </person>
             <person xml:id="lercher_catharina">
@@ -2606,6 +2575,27 @@
                   <surname>Hueber</surname>
                </persName>
                <note type="family">Sohn von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs> und <rs type="person" ref="#auer_maria">Maria Auer</rs></note>
+            </person>
+            <person xml:id="stainer_mariae_3">
+               <persName>
+                  <forename>Mariä</forename>
+                  <surname>Stainer</surname>
+               </persName>
+               <note type="family">Ehewirthin von <rs type="person" ref="#lercher_georg">Georg Lercher</rs></note>
+            </person>
+            <person xml:id="lercher_georg">
+               <persName>
+                  <forename>Georg</forename>
+                  <surname>Lercher</surname>
+               </persName>
+               <note type="function">Gatterer auf den Tesslperg Ambt Gerichts <rs type="place" ref="#brunegg">Brunögg</rs></note>
+            </person>
+            <person xml:id="von_hoeberstreith_partlmae">
+               <persName>
+                  <forename>Partlmä</forename>
+                  <surname>von Höberstreith</surname>
+               </persName>
+               <note type="function">Gatterer auf den Tesslperg Ambt Gerichts <rs type="place" ref="#brunegg">Brunögg</rs></note>
             </person>
          </listPerson>
       </body>

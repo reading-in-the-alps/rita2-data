@@ -2379,7 +2379,7 @@
             <p>Recapitulation</p>
             <table rend="rules">
                <row>
-                  <cell>Titl. Herr Partlmä v. Höberstreith ist laut Schuldbrief de dato <rs type="place" ref="#dietenheim">Dietenheim</rs> den <date when="1798-03-01">1ten März 1798</date> kapitalisch nun willen eines baaren Anlechens herein schuldig</cell>
+                  <cell>Titl. Herr <rs type="person" ref="#von_hoeberstreith_partlmae">Partlmä v. Höberstreith</rs> ist laut Schuldbrief de dato <rs type="place" ref="#dietenheim">Dietenheim</rs> den <date when="1798-03-01">1ten März 1798</date> kapitalisch nun willen eines baaren Anlechens herein schuldig</cell>
                   <cell>876 f 0 x</cell>
                </row>
                <row>
