@@ -2303,7 +2303,7 @@
             <p>
                <pb n="233r"/>
             </p>
-            <p>obrigkeitlich verpflichten Kurator <rs type="person" ref="#strasser_johann">Johann Strasser</rs> zur guten Gebarung und zweckmessiger Verpflegung seines Principalen zu übergeben.</p>
+            <p>obrigkeitlich verpflichten Kurator <rs type="person" ref="#strasser_johan">Johann Strasser</rs> zur guten Gebarung und zweckmessiger Verpflegung seines Principalen zu übergeben.</p>
             <p>Wesstwegen dann geschritten wird zur nachstehenden</p>
             <p>Vermögens-Recapitulation</p>
             <table rend="rules">
@@ -2393,15 +2393,15 @@
                   <cell/>
                </row>
                <row>
-                  <cell>Endlich hat der Universaal Erb <rs type="person" ref="#lechner_johann">Johann Lechner</rs> laut Schuldbrief de dato St. Vigili in Ennenberg den 20ten September 1780 extra, und nicht als ein Herr brüderlich Georg Lechnerisches Erb an Kapital zu ersuchen</cell>
+                  <cell>Endlich hat der Universaal Erb <rs type="person" ref="#lechner_johann">Johann Lechner</rs> laut Schuldbrief de dato <rs type="place" ref="#st_vigili">St. Vigili</rs> <rs type="place" ref="#ennenberg">Ennenberg</rs> den <date when="1780-09-20">20ten September 1780</date> extra, und nicht als ein Herr brüderlich <rs type="person" ref="#lechner_georg">Georg Lechnerisches</rs> Erb an Kapital zu ersuchen</cell>
                   <cell>300 f 0 x</cell>
                </row>
                <row>
-                  <cell>Macht was der anweltläufige Johann Lechner an dermahligen Erb und senstigen <hi rend="strikethrough">Erb bes</hi> Vermögen besitzet</cell>
+                  <cell>Macht was der anweltläufige <rs type="person" ref="#lechner_johann">Johann Lechner</rs> an dermahligen Erb und senstigen <hi rend="strikethrough">Erb bes</hi> Vermögen besitzet</cell>
                   <cell>1176 f 0 x</cell>
                </row>
                <row>
-                  <cell>Die Kapitalspost der Maria Renzlerin verwittweten Mayrin zu Grosstein pr 100 f kann hiemit der Gerdrauth Purgerin zur Befridigung an ihren Legat eigenthumlich eingeraumt und übergeben werden, westwegen solch Kapitals Post nicht mehr anher pr Vermögen getragen wird.</cell>
+                  <cell>Die Kapitalspost der <rs type="person" ref="#renzler_maria">Maria Renzlerin verwittweten Mayrin</rs> zu <rs type="place" ref="#grasstein">Grosstein</rs> pr 100 f kann hiemit der <rs type="person" ref="#burger_gertraud">Gerdrauth Purgerin</rs> zur Befridigung an ihren Legat eigenthumlich eingeraumt und übergeben werden, westwegen solch Kapitals Post nicht mehr anher pr Vermögen getragen wird.</cell>
                   <cell/>
                </row>
             </table>
@@ -2410,7 +2410,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Wie vor ersichtlich hat der Kurator Johann Strasser wegen bestrittenen oder noch zu bezahlenten voreingekommenen Legat oder anderweiten Abzügen an der Erbs Masse zu fordern</cell>
+                  <cell>Wie vor ersichtlich hat der Kurator <rs type="person" ref="#strasser_johan">Johann Strasser</rs> wegen bestrittenen oder noch zu bezahlenten voreingekommenen Legat oder anderweiten Abzügen an der Erbs Masse zu fordern</cell>
                   <cell>331 f 56½ x</cell>
                </row>
             </table>
@@ -2421,31 +2421,31 @@
                </note>, raser denn hinaus fallenden Überrest pr 108 f 21½<note>
                   <p rend="footnote text"> ½ <hi rend="italic">über der Zeile geschrieben.</hi>
                   </p>
-               </note> x dem Universall Erb Johann Lechner unter Verpfändung seines ganz und völligen Vermögens entweder baar hinaus zu bezahlen <hi rend="strikethrough">o</hi> oder aber zu 3½ pro cento zu verzinsen habe.</p>
+               </note> x dem Universall Erb <rs type="person" ref="#lechner_johann">Johann Lechner</rs> unter Verpfändung seines ganz und völligen Vermögens entweder baar hinaus zu bezahlen <hi rend="strikethrough">o</hi> oder aber zu 3½ pro cento zu verzinsen habe.</p>
             <p>Wo es sich hingegen von selbs versteht</p>
             <p>
                <pb n="236r"/>
             </p>
-            <p>das er Strasser wegen seiner besondern Mühewaltung, und mehrfeltiger Zeitversäumnis auch seinerzeit <hi rend="strikethrough">bey</hi> einen billichen Ersatz von seinem respektiven Pupillen Johann Lechner zu ersechen habe.</p>
-            <p>Schlüsslichen werden ihme Johann Strasser als oberkeitlich verpflichtem Kurator dato auch die betreffenden Schulds Obligationen seines <hi rend="strikethrough">W</hi> Mündels übergeben und selben eine gute und getreüe Obsorg, und Gebahrung seines Vermögens anempfohlen.</p>
-            <p>Westwegen zur Bestättigung alles dessen <hi rend="strikethrough">er</hi> er Johann Strasser für sich und nomine seines Mündls löblicher Landgerichts Obrigkeit das geziemmende Hand Gelübt erstattet und sich überdies ad Prottocollum unterschrieben hat.</p>
-            <p>[eigenhändige Unterschrift:] Zeügen Herr Franz und Joseph<note>
+            <p>das er <rs type="person" ref="#strasser_johan">Strasser</rs> wegen seiner besondern Mühewaltung, und mehrfeltiger Zeitversäumnis auch seinerzeit <hi rend="strikethrough">bey</hi> einen billichen Ersatz von seinem respektiven Pupillen <rs type="person" ref="#lechner_johann">Johann Lechner</rs> zu ersechen habe.</p>
+            <p>Schlüsslichen werden ihme <rs type="person" ref="#strasser_johan">Johann Strasser</rs> als oberkeitlich verpflichtem Kurator dato auch die betreffenden Schulds Obligationen seines <hi rend="strikethrough">W</hi> Mündels übergeben und selben eine gute und getreüe Obsorg, und Gebahrung seines Vermögens anempfohlen.</p>
+            <p>Westwegen zur Bestättigung alles dessen <hi rend="strikethrough">er</hi> er <rs type="person" ref="#strasser_johan">Johann Strasser</rs> für sich und nomine seines Mündls löblicher Landgerichts Obrigkeit das geziemmende Hand Gelübt erstattet und sich überdies ad Prottocollum unterschrieben hat.</p>
+            <p>[eigenhändige Unterschrift:] Zeügen Herr <rs type="person" ref="#schenach_franz">Franz</rs> und <rs type="person" ref="#schenach_joseph">Joseph</rs><note>
                   <p rend="footnote text"> J- <hi rend="italic">korrigiert aus</hi> S-.</p>
-               </note> Schenach bey der Land Gerichtsschreibrey allda</p>
-            <p>[eigenhändige Unterschrift:] Johann Strasser</p>
+               </note> <rs type="person" ref="#schenach_joseph">Schenach</rs> bey der Land Gerichtsschreibrey allda</p>
+            <p>[eigenhändige Unterschrift:] <rs type="person" ref="#strasser_johan">Johann Strasser</rs></p>
             <p>
                <pb n="237v"/>
             </p>
             <p>[Rubrum:] 1798</p>
             <p>Inventarium, und Erbs Immission</p>
-            <p>So auf erfolgtes Verableiben des hochehrwirdigen Herrn Georg Lechner gewesten Local Kaplan zu Dietenheim vorgenomen, und an den Universal Erben und Bruder des Herrn Ableibers Johann Lechner beschehen.</p>
+            <p>So auf erfolgtes Verableiben des hochehrwirdigen Herrn <rs type="person" ref="#lechner_georg">Georg Lechner</rs> gewesten Local Kaplan zu <rs type="place" ref="#dietenheim">Dietenheim</rs> vorgenomen, und an den Universal Erben und Bruder des Herrn Ableibers <rs type="person" ref="#lechner_johann">Johann Lechner</rs> beschehen.</p>
             <p>[Kanzleivermerk:] Exped. 1 Abschrift v. der Inventur, und Handlung.</p>
             <p>
                <pb n="238r"/>
             </p>
-            <p>Actum Dietenheim in dem Lokal Widum den 23 et 24ten Februar 1798</p>
-            <p>Vor loblicher Landgerichts Oberkeit der Herrschaft St. Michaelsburg.</p>
-            <p>Als den 19ten Jänner d. J. auf Hinscheiden des hochehrwirdigen Herrn Georg Lechners gewesten Localkaplan zu Dietenheim die Inventur, und den 3ten d. M. die Vermögens Ergänzung vor sich gegangen, und weil des Herrn Ableibers einzig hinterlassene eheleibliche Bruder Johann Lechner in bledsinigen Stand sich befündet, so wurde mit Einflus desselben verpflichten Kurator des wohlgeachten Johann Strassers Schneidermeister und Mesner daselbs zu Dietenheim die Verliebung getroffen, zum Nutzen des Universal Erben die Inventurs Stüke licitando zu verwenden, dahero wurde die Tagsatzung von einem Tag zum anderen auf <hi rend="strikethrough">Ober</hi> dato obrigkeitlich anberaumet.</p>
+            <p>Actum <rs type="place" ref="#dietenheim">Dietenheim</rs> in dem Lokal Widum den <date notBefore="1798-02-23" notAfter="1798-02-24">23 et 24ten Februar 1798</date></p>
+            <p>Vor loblicher Landgerichts Oberkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>.</p>
+            <p>Als den <date when="1798-01-19">19ten Jänner d. J.</date> auf Hinscheiden des hochehrwirdigen Herrn <rs type="person" ref="#lechner_georg">Georg Lechners</rs> gewesten Localkaplan zu <rs type="place" ref="#dietenheim">Dietenheim</rs> die Inventur, und den 3ten d. M. die Vermögens Ergänzung vor sich gegangen, und weil des Herrn Ableibers einzig hinterlassene eheleibliche Bruder <rs type="person" ref="#lechner_johann">Johann Lechner</rs> in bledsinigen Stand sich befündet, so wurde mit Einflus desselben verpflichten Kurator des wohlgeachten <rs type="person" ref="#strasser_johan">Johann Strassers</rs> Schneidermeister und Mesner daselbs zu <rs type="place" ref="#dietenheim">Dietenheim</rs> die Verliebung getroffen, zum Nutzen des Universal Erben die Inventurs Stüke licitando zu verwenden, dahero wurde die Tagsatzung von einem Tag zum anderen auf <hi rend="strikethrough">Ober</hi> dato obrigkeitlich anberaumet.</p>
             <p>
                <pb n="238v"/>
             </p>
