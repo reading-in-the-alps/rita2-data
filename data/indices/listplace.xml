@@ -401,6 +401,20 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3173977</idno>
             </place>
+            <place xml:id="scheneck">
+               <placeName>Schöneck</placeName>
+               <location>
+                  <geo decls="#LatLng">46.818917 11.850953</geo>
+               </location>
+               <idno type="GEONAMES"></idno>
+            </place>
+            <place xml:id="roveredo">
+               <placeName>Roveredo</placeName>
+               <location>
+                  <geo decls="#LatLng">45.883333 11.05</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3168854</idno>
+            </place>
          </listPlace>
       </body>
    </text>

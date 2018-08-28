@@ -1456,6 +1456,7 @@
                   <forename>Franz</forename>
                   <surname>Mayr</surname>
                </persName>
+               <note type="function">Weeber, Schneidermeister</note>
             </person>
             <person xml:id="epacher_jacob">
                <persName>
@@ -2433,6 +2434,93 @@
                <persName>
                   <forename>Anton</forename>
                   <surname>Hausstetter</surname>
+               </persName>
+            </person>
+            <person xml:id="mayr_thomas">
+               <persName>
+                  <forename>Thomas</forename>
+                  <surname>Mayr</surname>
+               </persName>
+            </person>
+            <person xml:id="latzi_peter_paul">
+               <persName>
+                  <forename>Peter Paul</forename>
+                  <surname>Latzi</surname>
+               </persName>
+               <note type="function">m.p. Landrichter</note>
+            </person>
+            <person xml:id="dam_franz">
+               <persName>
+                  <forename>Franz</forename>
+                  <surname>Dam</surname>
+               </persName>
+               <note type="function">Bichsenmachermeister zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
+            </person>
+            <person xml:id="manucredo_johann_jakob">
+               <persName>
+                  <forename>Johann Jakob</forename>
+                  <surname>Manucredo</surname>
+               </persName>
+               <note type="function">Stadt et Landgerichts Anwald m.p.</note>
+            </person>
+            <person xml:id="plaickner_anton">
+               <persName>
+                  <forename>Anton</forename>
+                  <surname>Plaickner</surname>
+               </persName>
+               <note type="function">Weisgärbermeister in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
+            </person>
+            <person xml:id="christinell_michael">
+               <persName>
+                  <forename>Michael</forename>
+                  <surname>Christinell</surname>
+               </persName>
+               <note type="function">Burgermeister</note>
+            </person>
+            <person xml:id="manucredo_anna">
+               <persName>
+                  <forename>Anna</forename>
+                  <surname>Manucredo</surname>
+               </persName>
+               <note type="function">Frau von <rs type="person" ref="#mitscha_michael">Michael Mitscha</rs></note>
+            </person>
+            <person xml:id="mitscha_michael">
+               <persName>
+                  <forename>Michael</forename>
+                  <surname>Mitscha</surname>
+               </persName>
+               <note type="function">Weissgarbermeister zu <rs type="place" ref="#roveredo">Roveredo</rs></note>
+            </person>
+            <person xml:id="mitscha_maria">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Mitscha</surname>
+               </persName>
+               <note type="family">Tochter von <rs type="person" ref="#manucredo_anna">Anna Manucredo</rs> und <rs type="person" ref="#mitscha_maria">Maria Mitscha</rs></note>
+            </person>
+            <person xml:id="salcher_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Salcher</surname>
+               </persName>
+               <note type="function">Kameraladministrator</note>
+            </person>
+            <person xml:id="wachtler_marcus">
+               <persName>
+                  <forename>Marcus</forename>
+                  <surname>Wachtler</surname>
+               </persName>
+            </person>
+            <person xml:id="mayr_anton">
+               <persName>
+                  <forename>Anton</forename>
+                  <surname>Mayr</surname>
+               </persName>
+            </person>
+            <person xml:id="wiser_veit">
+               <persName>
+                  <forename>Veit</forename>
+                  <surname>Wiser</surname>
                </persName>
             </person>
          </listPerson>
