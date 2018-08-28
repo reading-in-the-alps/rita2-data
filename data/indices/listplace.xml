@@ -387,6 +387,20 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/2773391</idno>
             </place>
+            <place xml:id="st_vigili">
+               <placeName>San Vigilio di Marebbe</placeName>
+               <location>
+                  <geo decls="#LatLng">46.69884 11.93104</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/8643247</idno>
+            </place>
+            <place xml:id="ennenberg">
+               <placeName>Marebbe</placeName>
+               <location>
+                  <geo decls="#LatLng">46.7 11.933333</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/3173977</idno>
+            </place>
          </listPlace>
       </body>
    </text>

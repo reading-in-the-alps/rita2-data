@@ -69,6 +69,9 @@
             </xi:include>
          </p>
       </encodingDesc>
+      <revisionDesc>
+         <change notBefore="2018-08-24" notAfter="2018-08-28" who="#kirnbauer_martin" status="done">reading-in-the-alps/rita2-data/issues/1</change>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -2203,7 +2206,7 @@
                   </cell>
                </row>
                <row>
-                  <cell>Dem Herrn <rs type="person" ref="#pallauf_gottlieb_johann">Gottlieb Pallauf</rs> Chirurgus in <rs type="place" ref="#st_laurenzen">St. Laurenzen</rs> laut Konto an abgegebenen Medicamenten und gemachten Visiten</cell>
+                  <cell>Dem Herrn <rs type="person" ref="#pallauf_gottlieb_johann">Gottlieb Pallauf</rs> Chirurgus in <rs type="place" ref="#st_lorenzen">St. Laurenzen</rs> laut Konto an abgegebenen Medicamenten und gemachten Visiten</cell>
                   <cell>26 f 22 x</cell>
                </row>
                <row>
