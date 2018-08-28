@@ -2564,21 +2564,21 @@
                   <surname>Hueber</surname>
                </persName>
                <note type="function">Würth zu <rs type="place" ref="#saalen">Saalen</rs></note>
-               <note type="family">Sohn von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs></note>
+               <note type="family">Sohn von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs> und <rs type="person" ref="#auer_maria">Maria Auer</rs></note>
             </person>
             <person xml:id="hueber_joseph_3">
                <persName>
                   <forename>Joseph</forename>
                   <surname>Hueber</surname>
                </persName>
-               <note type="family">Sohn von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs></note>
+               <note type="family">Sohn von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs> und <rs type="person" ref="#auer_maria">Maria Auer</rs></note>
             </person>
             <person xml:id="hueber_martin_2">
                <persName>
                   <forename>Martin</forename>
                   <surname>Hueber</surname>
                </persName>
-               <note type="family">Sohn von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs></note>
+               <note type="family">Sohn von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs> und <rs type="person" ref="#auer_maria">Maria Auer</rs></note>
             </person>
             <person xml:id="forer_johann">
                <persName>
@@ -2605,7 +2605,7 @@
                   <forename>Mathes</forename>
                   <surname>Hueber</surname>
                </persName>
-               <note type="family">Sohn von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs></note>
+               <note type="family">Sohn von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs> und <rs type="person" ref="#auer_maria">Maria Auer</rs></note>
             </person>
          </listPerson>
       </body>

@@ -214,7 +214,7 @@
                   <cell>334 f 45¾ x</cell>
                </row>
                <row>
-                  <cell>Davon gebührt ein Drittel der Lorreto Kirchen zu Saalen</cell>
+                  <cell>Davon gebührt ein Drittel der Lorreto Kirchen zu <rs type="place" ref="#saalen">Saalen</rs></cell>
                   <cell>111 f 35¼ x</cell>
                </row>
                <row>
@@ -234,7 +234,7 @@
                <pb n="562v"/>
             </p>
             <p>Anweisung.</p>
-            <p>Die Kirche zu Saalen wird mit ihren vorentworfenen Antheil pr 111 f 35¼ x bey <rs type="person" ref="#forer_johann">Johann Forer</rs> Perlbauer am Sand Landgerichts <rs type="place" ref="#taufers">Taufers</rs> aus dessen zum Vermögen schuldigen 300 f Kapital in alten Furpfandsrechten hiemit angewiesen.</p>
+            <p>Die Kirche zu <rs type="place" ref="#saalen">Saalen</rs> wird mit ihren vorentworfenen Antheil pr 111 f 35¼ x bey <rs type="person" ref="#forer_johann">Johann Forer</rs> Perlbauer am Sand Landgerichts <rs type="place" ref="#taufers">Taufers</rs> aus dessen zum Vermögen schuldigen 300 f Kapital in alten Furpfandsrechten hiemit angewiesen.</p>
             <p>Eine gleiche Anweisung erhaltet hiemit auch<note>
                   <p rend="footnote text"> 
                      <hi rend="italic">Über der Zeile eingefügt.</hi>
