@@ -415,6 +415,27 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3168854</idno>
             </place>
+            <place xml:id="sillian">
+               <placeName>Sillian</placeName>
+               <location>
+                  <geo decls="#LatLng">46.7475 12.4175</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/2765044</idno>
+            </place>
+            <place xml:id="oberfellach">
+               <placeName>Oberfellach</placeName>
+               <location>
+                  <geo decls="#LatLng"></geo>
+               </location>
+               <idno type="GEONAMES"></idno>
+            </place>
+            <place xml:id="thurn">
+               <placeName>Thurn</placeName>
+               <location>
+                  <geo decls="#LatLng">46.680769 11.893309</geo>
+               </location>
+               <idno type="GEONAMES"></idno>
+            </place>
          </listPlace>
       </body>
    </text>

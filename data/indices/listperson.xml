@@ -1727,6 +1727,12 @@
                </persName>
                <note type="function">Erschpämer zu Moos</note>
             </person>
+            <person xml:id="pranter_martin">
+               <persName>
+                  <forename>Martin</forename>
+                  <surname>Pranter</surname>
+               </persName>
+            </person>
             <person xml:id="stocker_franz_xaver">
                <persName>
                   <forename>Franz Xaver</forename>
@@ -1853,7 +1859,7 @@
                   <forename>Ignatz Josef</forename>
                   <surname>von Leys</surname>
                </persName>
-               <note type="function">Landgerichtschreiber</note>
+               <note type="function">Landgerichtschreiber zu <rs type="place" ref="st_lorenzen">St. Lorenzen</rs></note>
             </person>
             <person xml:id="erlacher_maria_theresia">
                <persName>
@@ -2331,6 +2337,7 @@
                   <forename>Anton</forename>
                   <surname>Pruggnaller</surname>
                </persName>
+               <note type="function">Ammts Diener zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </person>
             <person xml:id="gruber_anton">
                <persName>
@@ -2596,6 +2603,333 @@
                   <surname>von Höberstreith</surname>
                </persName>
                <note type="function">Gatterer auf den Tesslperg Ambt Gerichts <rs type="place" ref="#brunegg">Brunögg</rs></note>
+            </person>
+            <person xml:id="steger_leopold">
+               <persName>
+                  <forename>Leopold</forename>
+                  <surname>Steger</surname>
+               </persName>
+               <note type="family">Ehewirthin von <rs type="person" ref="#lercher_georg">Georg Lercher</rs></note>
+            </person>
+            <person xml:id="stauder_mathias">
+               <persName>
+                  <forename>Mathias</forename>
+                  <surname>Stauder</surname>
+               </persName>
+            </person>
+            <person xml:id="feltone_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Feltone</surname>
+               </persName>
+            </person>
+            <person xml:id="tinkhauser_theresia">
+               <persName>
+                  <forename>Theresia</forename>
+                  <surname>Tinkhauser</surname>
+               </persName>
+            </person>
+            <person xml:id="pergmann_jakob">
+               <persName>
+                  <forename>Jakob</forename>
+                  <surname>Pergmann</surname>
+               </persName>
+            </person>
+            <person xml:id="unterweger_jakob">
+               <persName>
+                  <forename>Jakob</forename>
+                  <surname>Unterweger</surname>
+               </persName>
+            </person>
+            <person xml:id="steger_joseph_markus">
+               <persName>
+                  <forename>Joseph Markus</forename>
+                  <surname>Steger</surname>
+               </persName>
+            </person>
+            <person xml:id="hueber_maria_magdalena">
+               <persName>
+                  <forename>Maria Magdalena</forename>
+                  <surname>Hueber</surname>
+               </persName>
+            </person>
+            <person xml:id="steger_joseph_felix">
+               <persName>
+                  <forename>Joseph Felix</forename>
+                  <surname>Steger</surname>
+               </persName>
+            </person>
+            <person xml:id="kerschbaumer_maria">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Kerschbaumer</surname>
+               </persName>
+            </person>
+            <person xml:id="steger_maria">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Steger</surname>
+               </persName>
+            </person>
+            <person xml:id="lunz_felix">
+               <persName>
+                  <forename>Felix</forename>
+                  <surname>Lunz</surname>
+               </persName>
+               <note type="function">Consistorial Advacat, und Fiskalamtsverwalter zu <rs type="place" ref="#brixen">Brixen</rs> Herrschaft</note>
+            </person>
+            <person xml:id="steger_peter_paul">
+               <persName>
+                  <forename>Peter Paul</forename>
+                  <surname>Steger</surname>
+               </persName>
+            </person>
+            <person xml:id="steger_jakob">
+               <persName>
+                  <forename>Jakob</forename>
+                  <surname>Steger</surname>
+               </persName>
+               <note type="function">Cooperator zu <rs type="place" ref="#sillian">Sillian</rs></note>
+            </person>
+            <person xml:id="steger_magdalena">
+               <persName>
+                  <forename>Magdalena</forename>
+                  <surname>Steger</surname>
+               </persName>
+            </person>
+            <person xml:id="steger_johann_anton">
+               <persName>
+                  <forename>Johann Anton</forename>
+                  <surname>Steger</surname>
+               </persName>
+            </person>
+            <person xml:id="gasteiger_catharina">
+               <persName>
+                  <forename>Catharina</forename>
+                  <surname>Gasteiger</surname>
+               </persName>
+            </person>
+            <person xml:id="steger_franz">
+               <persName>
+                  <forename>Franz</forename>
+                  <surname>Steger</surname>
+               </persName>
+               <note type="function">Cooperator zu <rs type="place" ref="#sillian">Sillian</rs></note>
+            </person>
+            <person xml:id="salcher_johann_nepomuk">
+               <persName>
+                  <forename>Johann Nepomuk</forename>
+                  <surname>Salcher</surname>
+               </persName>
+               <note type="function">Religionsfond Advocat</note>
+            </person>
+            <person xml:id="pernlachner_anna">
+               <persName>
+                  <forename>Anna</forename>
+                  <surname>Pernlachner</surname>
+               </persName>
+            </person>
+            <person xml:id="obkircher_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Obkircher</surname>
+               </persName>
+            </person>
+            <person xml:id="steger_karl">
+               <persName>
+                  <forename>Karl</forename>
+                  <surname>Steger</surname>
+               </persName>
+            </person>
+            <person xml:id="kletenhamer_anna">
+               <persName>
+                  <forename>Anna</forename>
+                  <surname>Kletenhamer</surname>
+               </persName>
+            </person>
+            <person xml:id="steger_anna">
+               <persName>
+                  <forename>Anna</forename>
+                  <surname>Steger</surname>
+               </persName>
+            </person>
+            <person xml:id="rindler_anton">
+               <persName>
+                  <forename>Anton</forename>
+                  <surname>Rindler</surname>
+               </persName>
+               <note type="function">Wurth und Gastgeb zu <rs type="place" ref="#sillian">Sillian</rs></note>
+            </person>
+            <person xml:id="kletenhamer_michael">
+               <persName>
+                  <forename>Michael</forename>
+                  <surname>Kletenhamer</surname>
+               </persName>
+            </person>
+            <person xml:id="von_kerschbaumer_anton">
+               <persName>
+                  <forename>Anton</forename>
+                  <surname>von Kerschbaumer</surname>
+               </persName>
+            </person>
+            <person xml:id="von_kerschbaumer_maria_elisabet">
+               <persName>
+                  <forename>Maria Elisabet</forename>
+                  <surname>von Kerschbaumer</surname>
+               </persName>
+            </person>
+            <person xml:id="von_leys_leopold">
+               <persName>
+                  <forename>Leopold</forename>
+                  <surname>von Leys</surname>
+               </persName>
+            </person>
+            <person xml:id="von_leys_elisabeth">
+               <persName>
+                  <forename>Elisabeth</forename>
+                  <surname>von Leys</surname>
+               </persName>
+            </person>
+            <person xml:id="von_leys_hellene">
+               <persName>
+                  <forename>Hellene</forename>
+                  <surname>von Leys</surname>
+               </persName>
+            </person>
+            <person xml:id="von_leys_cresentia">
+               <persName>
+                  <forename>Cresentia</forename>
+                  <surname>von Leys</surname>
+               </persName>
+            </person>
+            <person xml:id="von_kerschbaumer_magdalena">
+               <persName>
+                  <forename>Magdalena</forename>
+                  <surname>von Kerschbaumer</surname>
+               </persName>
+            </person>
+            <person xml:id="von_kerschbaumer_maria_anna">
+               <persName>
+                  <forename>Maria Anna</forename>
+                  <surname>von Kerschbaumer</surname>
+               </persName>
+            </person>
+            <person xml:id="von_kerschbaumer_maria_josepha">
+               <persName>
+                  <forename>Maria Josepha</forename>
+                  <surname>von Kerschbaumer</surname>
+               </persName>
+            </person>
+            <person xml:id="von_kerschbaumer_agnes">
+               <persName>
+                  <forename>Agnes</forename>
+                  <surname>von Kerschbaumer</surname>
+               </persName>
+            </person>
+            <person xml:id="mayr_agnes">
+               <persName>
+                  <forename>Agnes</forename>
+                  <surname>Mayr</surname>
+               </persName>
+            </person>
+            <person xml:id="wachtler_georg">
+               <persName>
+                  <forename>Georg</forename>
+                  <surname>Wachtler</surname>
+               </persName>
+            </person>
+            <person xml:id="von_elzenbaum_joseph_martin">
+               <persName>
+                  <forename>Joseph Martin</forename>
+                  <surname>von Elzenbaum</surname>
+               </persName>
+            </person>
+            <person xml:id="zingerl_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Zingerl</surname>
+               </persName>
+            </person>
+            <person xml:id="agreiter_domenig">
+               <persName>
+                  <forename>Domenig</forename>
+                  <surname>Agreiter</surname>
+               </persName>
+               <note type="function">Mayr zu Söck</note>
+            </person>
+            <person xml:id="agreiter_christian">
+               <persName>
+                  <forename>Christian</forename>
+                  <surname>Agreiter</surname>
+               </persName>
+            </person>
+            <person xml:id="oberkircher_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Oberkircher</surname>
+               </persName>
+               <note type="function">Bürger des Raths, und Handlsmann, in der Stadt <rs type="place" ref="#lienz">Lienz</rs></note>
+            </person>
+            <person xml:id="steger_helena">
+               <persName>
+                  <forename>Helena</forename>
+                  <surname>Steger</surname>
+               </persName>
+            </person>
+            <person xml:id="haring_ignatz">
+               <persName>
+                  <forename>Ignatz</forename>
+                  <surname>Haring</surname>
+               </persName>
+            </person>
+            <person xml:id="haring_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Haring</surname>
+               </persName>
+            </person>
+            <person xml:id="bichler_lorenz">
+               <persName>
+                  <forename>Lorenz</forename>
+                  <surname>Bichler</surname>
+               </persName>
+            </person>
+            <person xml:id="tauschs_anton">
+               <persName>
+                  <forename>Anton</forename>
+                  <surname>Tauschs</surname>
+               </persName>
+            </person>
+            <person xml:id="von_mayer_joseph_kajetan">
+               <persName>
+                  <forename>Joseph Kajetan</forename>
+                  <surname>von Mayer</surname>
+               </persName>
+            </person>
+            <person xml:id="lunz_maeriae_tereesie">
+               <persName>
+                  <forename>Märiä Tereesie</forename>
+                  <surname>Lunz</surname>
+               </persName>
+               <note type="family">gebohrne Steger</note>
+            </person>
+            <person xml:id="kletenhamer_johann_michael">
+               <persName>
+                  <forename>Johann Michael</forename>
+                  <surname>Kletenhamer</surname>
+               </persName>
+            </person>
+            <person xml:id="pernlachner_franz">
+               <persName>
+                  <forename>Franz</forename>
+                  <surname>Pernlachner</surname>
+               </persName>
+            </person>
+            <person xml:id="kuttner_innocenz">
+               <persName>
+                  <forename>Innocenz</forename>
+                  <surname>Kuttner</surname>
+               </persName>
             </person>
          </listPerson>
       </body>
