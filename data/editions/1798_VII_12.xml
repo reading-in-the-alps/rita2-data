@@ -1202,7 +1202,7 @@
                   <row>
                      <cell>118</cell>
                      <cell>24½ Elln farbenes Tuech a 27 x</cell>
-                     <cell><rs type="person" ref="#primus_josef">Joseph Primus</rs></cell>
+                     <cell><rs type="person" ref="#primus_joseph">Joseph Primus</rs></cell>
                      <cell>11 f 1½ x</cell>
                      <cell>
                         <p>
@@ -1383,7 +1383,7 @@
                   <row>
                      <cell>135</cell>
                      <cell>1 Mösser Psteck Fueteral 13 Baar Mösser und Gabl womit die Hälfte mit Steinbock die Hälfte mit silberen Häfter beschlagen a 1 f 17 x</cell>
-                     <cell><rs type="person" ref="#primus_josef">Joseph Primus</rs></cell>
+                     <cell><rs type="person" ref="#primus_joseph">Joseph Primus</rs></cell>
                      <cell>13 f 0 x</cell>
                      <cell>16 f 43 x dt.</cell>
                   </row>
@@ -1451,7 +1451,7 @@
                   <row>
                      <cell>141</cell>
                      <cell>8 zinnene Schüssl wögen 23¾ Pf. a 30 x</cell>
-                     <cell>Joseph Primus<note>
+                     <cell><rs type="person" ref="#primus_joseph">Joseph Primus</rs><note>
                            <p rend="footnote text"> 
                               <hi rend="italic" xml:space="preserve">Darüber nochmals </hi>Joseph Primus<hi rend="italic" xml:space="preserve"> geschrieben und gestrichen.</hi>
                            </p>
@@ -1473,7 +1473,7 @@
                            <p rend="footnote text"> 30 <hi rend="italic">vermutlich versehentlich nicht gestrichen,</hi> 48 <hi rend="italic">über der Zeile geschrieben.</hi>
                            </p>
                         </note> x</cell>
-                     <cell>Joseph Primus</cell>
+                     <cell><rs type="person" ref="#primus_joseph">Joseph Primus</rs></cell>
                      <cell>9 f 0 x<note>
                            <p rend="footnote text"> 
                               <hi rend="italic">Betrag stimmt für den Wert 30 x pro Pfund.</hi>
@@ -1836,7 +1836,7 @@
                   <row>
                      <cell>174</cell>
                      <cell>2 Stren Zwirn 2 Stren Garn 1 Strenn Tacht wögt</cell>
-                     <cell><rs type="person" ref="#primus_josef">Joseph Primus</rs> dt.</cell>
+                     <cell><rs type="person" ref="#primus_joseph">Joseph Primus</rs> dt.</cell>
                      <cell>1 f 12 x</cell>
                      <cell>1 f 50 x</cell>
                   </row>
@@ -2412,7 +2412,7 @@
                   <row>
                      <cell>131</cell>
                      <cell cols="3">1 groses Schloss und 2 Schnalln</cell>
-                     <cell cols="3">Herr Auricher zu Bruneck dt.</cell>
+                     <cell cols="3">Herr Auricher zu <rs type="place" ref="#brunegg">Bruneck</rs> dt.</cell>
                      <cell cols="3">18 x</cell>
                      <cell>31 x</cell>
                   </row>
@@ -2642,7 +2642,7 @@
                      <cell>34 f 58 x</cell>
                   </row>
                   <row>
-                     <cell>Dt. Herr Franz Pernlachner und ausgetheilt.</cell>
+                     <cell>Dt. Herr <rs type="person" ref="#pernlachner_franz">Franz Pernlachner</rs> und ausgetheilt.</cell>
                      <cell/>
                   </row>
                   <row>
@@ -2670,14 +2670,14 @@
                </p>
                <p>Cooperator zu <rs type="place" ref="#sillian">Sillian</rs>, Pater Theowald Exfranziscaner im Gerichts Kals exponiert, <hi rend="strikethrough">Frau</hi> diese 2 geistlichen Herrn werden von Herrn <rs type="person" ref="#salcher_johann_nepomuk">Johann Nepomuk Salcher</rs> Religionsfond Advocat allda vertretten, dann Frau <rs type="person" ref="#pernlachner_anna">Anna verehelichte Pernlachnerin</rs> allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>, Frau Hellena bey Herrn Häring Portenmacher zu <rs type="place" ref="#lienz">Lienz</rs> beed seel. erzeugt, und zuruckgelassene Sohn Johann, annoch minderjahrig und ist zum heutigen Ackt von dessen Vormund Herrn <rs type="person" ref="#obkircher_johann">Johann Obkircher</rs> obgesagter Herr <rs type="person" ref="#salcher_johann_nepomuk">Johann Nepomuk Salcher</rs> bevollmächtigt.</p>
                <p>IV: Herr <rs type="person" ref="#steger_karl">Karl Steger</rs> bey Frau <rs type="person" ref="#kletenhamer_anna">Anna Kletenhamerin</rs> beeder seel. erzeugte Frau Tochter <rs type="person" ref="#steger_anna">Anna Stegerin</rs> welche bereits auch verstorben, und mit Herrn <rs type="person" ref="#rindler_anton">Anton Rindler</rs>, Wurth und Gastgeb zu <rs type="place" ref="#sillian">Sillian</rs> 5 Kinder zuruckgelassen hat namens Joseph, Anton, Anna, Maria, Katharina wofur Herr <rs type="person" ref="#kletenhamer_michael">Michael Kletenhamer</rs> Gerhab und zur heutigen Vertrettung oftgemelter Herr <rs type="person" ref="#salcher_johann">Johann Salcher</rs> begwältiget ist.</p>
-               <p>V: Frau <rs type="person" ref="#steger_maria">Maria Stegerin</rs> mit titl. Herrn <rs type="person" ref="#kerschpaember_johan">Johann v. Kerschbaumer</rs> gewesten Landgerichtschreiber der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> ehelich erzeugte 6<note>
+               <p>V: Frau <rs type="person" ref="#steger_maria_2">Maria Stegerin</rs> mit titl. Herrn <rs type="person" ref="#kerschpaember_johan">Johann v. Kerschbaumer</rs> gewesten Landgerichtschreiber der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> ehelich erzeugte 6<note>
                      <p rend="footnote text"> 
                         <hi rend="italic">Korrigiert aus</hi> 7.</p>
                   </note> Kinder namens titl. Herr</p>
                <p>
                   <pb n="662v"/>
                </p>
-               <p><rs type="person" ref="#von_kerschbaumer_anton">Anton v. Kerschbaumer</rs> Pfleger und Landrichter der Herrschaft Falkenstein zu <rs type="place" ref="#oberfellach">Oberfellach</rs>, Frau <rs type="person" ref="#von_kerschbaumer_maria_elisabet">Maria Elisabet</rs>, <hi rend="strikethrough">bey</hi> mit titl. Herrn <rs type="person" ref="#von_leys_ignatz_josef">Ignatz Joseph v. Leys</rs> Pfleger und Landgerichtschreiber allda zu <rs type="place" ref="st_lorenzen">St. Lorenzen</rs> in Band der Ehe erzeugte 4 Kinder namens Herr <rs type="person" ref="#von_leys_leopold">Leopold</rs>, dann die Freulen<note>
+               <p><rs type="person" ref="#von_kerschbaumer_anton">Anton v. Kerschbaumer</rs> Pfleger und Landrichter der Herrschaft Falkenstein zu <rs type="place" ref="#oberfellach">Oberfellach</rs>, Frau <rs type="person" ref="#von_kerschbaumer_maria_elisabet">Maria Elisabet</rs>, <hi rend="strikethrough">bey</hi> mit titl. Herrn <rs type="person" ref="#von_leys_ignatz_josef">Ignatz Joseph v. Leys</rs> Pfleger und Landgerichtschreiber allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> in Band der Ehe erzeugte 4 Kinder namens Herr <rs type="person" ref="#von_leys_leopold">Leopold</rs>, dann die Freulen<note>
                      <p rend="footnote text"> F- <hi rend="italic">korrigiert aus</hi> H-.</p>
                </note> <rs type="person" ref="#von_leys_elisabeth">Elisabeth</rs>, <rs type="person" ref="#von_leys_hellene">Hellene</rs> und <rs type="person" ref="#von_leys_cresentia">Cresentia v. Leys</rs>, wofur dessen Herr Vater Gerhab ist, dann die Freulen <rs type="person" ref="#von_kerschbaumer_magdalena">Magdalena</rs>, <rs type="person" ref="#von_kerschbaumer_maria_anna">Maria Anna</rs>, <rs type="person" ref="#von_kerschbaumer_maria_josepha">Maria Josepha</rs>, und <rs type="person" ref="#von_kerschbaumer_agnes">Agnes v. Kerschbaumer</rs> alle allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>. Dieser ganze Hauptstollen wird von ebengesagten titl. Herrn Pfleger <rs type="person" ref="#von_leys_ignatz_josef">v. Leys</rs> dato vertretten.</p>
                <p>Vor allen wird bemerket, dass bey Durchsuchung der Verlassenschaftsschriften ein Aufsatz eines Testaments so zwar von Herrn Erblasser unterschrieben, und gesiglt, der Inhalt aber von einer fremden Hand geschrieben, und uberhaupt an vorgeschriebenen Förmlichkeiten mangelhaft ist, in die Hande gekommen, da aber dessen Inhalt theils von keinem Belange, theils von denen Herrn Erben in Rucksicht der frommen Vermög aus eigenen Antriebe bereits vollzogen worden</p>
@@ -3263,7 +3263,7 @@
                   </note> Sollte aber hohen Orts diese Anweisung nicht angenommen werden, so werden die Erben solche Kapitalien auf nächst Sonnewenden aufbenden, und mit diesen Geld sodann die gedachte Heilige Kreitz Kirche baar befriedigen.</p>
                <table rend="rules">
                   <row>
-                     <cell>Die Frau <rs type="person" ref="#pernlechner_anna">Anna Stegerin verehelichte Pernlechnerin</rs> hat unter dem dritten</cell>
+                     <cell>Die Frau <rs type="person" ref="#pernlachner_anna">Anna Stegerin verehelichte Pernlechnerin</rs> hat unter dem dritten</cell>
                      <cell/>
                   </row>
                </table>
@@ -3381,7 +3381,7 @@
                   </row>
                   <row>
                      <cell>
-                        <hi rend="strikethrough">Wird hirmit verwiesen bey den Frau <rs type="person" ref="#pernlechner_anna">Anna Stegerin verehelichten Pernlachnerin</rs> pr</hi>
+                        <hi rend="strikethrough">Wird hirmit verwiesen bey den Frau <rs type="person" ref="#pernlachner_anna">Anna Stegerin verehelichten Pernlachnerin</rs> pr</hi>
                      </cell>
                      <cell>
                         <hi rend="strikethrough">78f 29 x</hi>

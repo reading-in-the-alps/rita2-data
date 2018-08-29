@@ -2345,9 +2345,9 @@
                   <surname>Gruber</surname>
                </persName>
             </person>
-            <person xml:id="primus_josef">
+            <person xml:id="primus_joseph">
                <persName>
-                  <forename>Josef</forename>
+                  <forename>Joseph</forename>
                   <surname>Primus</surname>
                </persName>
             </person>
@@ -2602,14 +2602,12 @@
                   <forename>Partlmä</forename>
                   <surname>von Höberstreith</surname>
                </persName>
-               <note type="function">Gatterer auf den Tesslperg Ambt Gerichts <rs type="place" ref="#brunegg">Brunögg</rs></note>
             </person>
             <person xml:id="steger_leopold">
                <persName>
                   <forename>Leopold</forename>
                   <surname>Steger</surname>
                </persName>
-               <note type="family">Ehewirthin von <rs type="person" ref="#lercher_georg">Georg Lercher</rs></note>
             </person>
             <person xml:id="stauder_mathias">
                <persName>
@@ -2652,12 +2650,14 @@
                   <forename>Maria Magdalena</forename>
                   <surname>Hueber</surname>
                </persName>
+               <note type="family">Ehefrau von <rs type="person" ref="#steger_joseph_markus">Joseph Markus Steger</rs></note>
             </person>
             <person xml:id="steger_joseph_felix">
                <persName>
                   <forename>Joseph Felix</forename>
                   <surname>Steger</surname>
                </persName>
+               <note type="family">Sohn von <rs type="person" ref="#steger_joseph_markus">Joseph Markus Steger</rs> und <rs type="person" ref="#hueber_maria_magdalena">Maria Magdalena Hueber</rs></note>
             </person>
             <person xml:id="kerschbaumer_maria">
                <persName>
@@ -2670,6 +2670,15 @@
                   <forename>Maria</forename>
                   <surname>Steger</surname>
                </persName>
+               <note type="family">Tochter von <rs type="person" ref="#steger_joseph_felix">Joseph Felix Steger</rs> und <rs type="person" ref="#kerschbaumer_maria">Maria Kerschbaumer</rs></note>
+            </person>
+            <person xml:id="steger_maria_2">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Steger</surname>
+               </persName>
+               <note type="family">Tochter von <rs type="person" ref="#steger_joseph_markus">Joseph Markus Steger</rs> und <rs type="person" ref="#hueber_maria_magdalena">Maria Magdalena Hueber</rs></note>
+               <note type="family">Frau von <rs type="person" ref="#kerschpaember_johan">Johann von Kerschbaumer</rs></note>
             </person>
             <person xml:id="lunz_felix">
                <persName>
@@ -2683,6 +2692,7 @@
                   <forename>Peter Paul</forename>
                   <surname>Steger</surname>
                </persName>
+               <note type="family">Sohn von <rs type="person" ref="#steger_joseph_markus">Joseph Markus Steger</rs> und <rs type="person" ref="#hueber_maria_magdalena">Maria Magdalena Hueber</rs></note>
             </person>
             <person xml:id="steger_jakob">
                <persName>
@@ -2690,24 +2700,28 @@
                   <surname>Steger</surname>
                </persName>
                <note type="function">Cooperator zu <rs type="place" ref="#sillian">Sillian</rs></note>
+               <note type="family">Sohn von <rs type="person" ref="#steger_peter_paul">Peter Paul Steger</rs> und <rs type="person" ref="#holzer_anna_maria">Anna Holzer</rs></note>
             </person>
             <person xml:id="steger_magdalena">
                <persName>
                   <forename>Magdalena</forename>
                   <surname>Steger</surname>
                </persName>
+               <note type="family">Tochter von <rs type="person" ref="#steger_peter_paul">Peter Paul Steger</rs> und <rs type="person" ref="#holzer_anna_maria">Anna Holzer</rs></note>
             </person>
             <person xml:id="steger_johann_anton">
                <persName>
                   <forename>Johann Anton</forename>
                   <surname>Steger</surname>
                </persName>
+               <note type="family">Sohn von <rs type="person" ref="#steger_joseph_markus">Joseph Markus Steger</rs> und <rs type="person" ref="#hueber_maria_magdalena">Maria Magdalena Hueber</rs></note>
             </person>
             <person xml:id="gasteiger_catharina">
                <persName>
                   <forename>Catharina</forename>
                   <surname>Gasteiger</surname>
                </persName>
+               <note type="family">Ehefrau von <rs type="steger_johann_anton">Johann Anton Steger</rs></note>
             </person>
             <person xml:id="steger_franz">
                <persName>
@@ -2715,6 +2729,7 @@
                   <surname>Steger</surname>
                </persName>
                <note type="function">Cooperator zu <rs type="place" ref="#sillian">Sillian</rs></note>
+               <note type="family">Sohn von <rs type="steger_johann_anton">Johann Anton Steger</rs> und <rs type="person" ref="#gasteiger_catharina">Catharina Gasteiger</rs></note>
             </person>
             <person xml:id="salcher_johann_nepomuk">
                <persName>
@@ -2728,6 +2743,7 @@
                   <forename>Anna</forename>
                   <surname>Pernlachner</surname>
                </persName>
+               <note type="family">Tochter von <rs type="steger_johann_anton">Johann Anton Steger</rs> und <rs type="person" ref="#gasteiger_catharina">Catharina Gasteiger</rs></note>
             </person>
             <person xml:id="obkircher_johann">
                <persName>
@@ -2740,18 +2756,21 @@
                   <forename>Karl</forename>
                   <surname>Steger</surname>
                </persName>
+               <note type="family">Sohn von <rs type="person" ref="#steger_joseph_markus">Joseph Markus Steger</rs> und <rs type="person" ref="#hueber_maria_magdalena">Maria Magdalena Hueber</rs></note>
             </person>
             <person xml:id="kletenhamer_anna">
                <persName>
                   <forename>Anna</forename>
                   <surname>Kletenhamer</surname>
                </persName>
+               <note type="family">Frau von <rs type="person" ref="#steger_karl">Karl Steger</rs></note>
             </person>
             <person xml:id="steger_anna">
                <persName>
                   <forename>Anna</forename>
                   <surname>Steger</surname>
                </persName>
+               <note type="family">Tochter von <rs type="person" ref="#steger_karl">Karl Steger</rs> und <rs type="person" ref="#kletenhamer_anna">Anna Kletenhamer</rs></note>
             </person>
             <person xml:id="rindler_anton">
                <persName>
@@ -2771,60 +2790,71 @@
                   <forename>Anton</forename>
                   <surname>von Kerschbaumer</surname>
                </persName>
+               <note type="family">Sohn von <rs type="person" ref="#steger_maria_2">Maria Steger</rs> und <rs type="person" ref="#von_kerschbaumer_anton">Anton von Kerschbaumer</rs></note>
             </person>
             <person xml:id="von_kerschbaumer_maria_elisabet">
                <persName>
                   <forename>Maria Elisabet</forename>
                   <surname>von Kerschbaumer</surname>
                </persName>
+               <note type="family">Tochter von <rs type="person" ref="#steger_maria_2">Maria Steger</rs> und <rs type="person" ref="#von_kerschbaumer_anton">Anton von Kerschbaumer</rs></note>
+               <note type="family">Frau von <rs type="person" ref="#von_leys_ignatz_josef">Ignatz Josef von Leys</rs></note>
             </person>
             <person xml:id="von_leys_leopold">
                <persName>
                   <forename>Leopold</forename>
                   <surname>von Leys</surname>
                </persName>
+               <note type="family">Sohn von <rs type="person" ref="#von_leys_ignatz_josef">Ignatz Josef von Leys</rs> und <rs type="person" ref="#von_kerschbaumer_maria_elisabet">Maria Elisabet von Kerschbaumer</rs></note>
             </person>
             <person xml:id="von_leys_elisabeth">
                <persName>
                   <forename>Elisabeth</forename>
                   <surname>von Leys</surname>
                </persName>
+               <note type="family">Tochter von <rs type="person" ref="#von_leys_ignatz_josef">Ignatz Josef von Leys</rs> und <rs type="person" ref="#von_kerschbaumer_maria_elisabet">Maria Elisabet von Kerschbaumer</rs></note>
             </person>
             <person xml:id="von_leys_hellene">
                <persName>
                   <forename>Hellene</forename>
                   <surname>von Leys</surname>
                </persName>
+               <note type="family">Tochter von <rs type="person" ref="#von_leys_ignatz_josef">Ignatz Josef von Leys</rs> und <rs type="person" ref="#von_kerschbaumer_maria_elisabet">Maria Elisabet von Kerschbaumer</rs></note>
             </person>
             <person xml:id="von_leys_cresentia">
                <persName>
                   <forename>Cresentia</forename>
                   <surname>von Leys</surname>
                </persName>
+               <note type="family">Tochter von <rs type="person" ref="#von_leys_ignatz_josef">Ignatz Josef von Leys</rs> und <rs type="person" ref="#von_kerschbaumer_maria_elisabet">Maria Elisabet von Kerschbaumer</rs></note>
             </person>
             <person xml:id="von_kerschbaumer_magdalena">
                <persName>
                   <forename>Magdalena</forename>
                   <surname>von Kerschbaumer</surname>
                </persName>
+               <note type="family">Tochter von <rs type="person" ref="#steger_maria_2">Maria Steger</rs> und <rs type="person" ref="#von_kerschbaumer_anton">Anton von Kerschbaumer</rs></note>
             </person>
             <person xml:id="von_kerschbaumer_maria_anna">
                <persName>
                   <forename>Maria Anna</forename>
                   <surname>von Kerschbaumer</surname>
                </persName>
+               <note type="family">Tochter von <rs type="person" ref="#steger_maria_2">Maria Steger</rs> und <rs type="person" ref="#von_kerschbaumer_anton">Anton von Kerschbaumer</rs></note>
             </person>
             <person xml:id="von_kerschbaumer_maria_josepha">
                <persName>
                   <forename>Maria Josepha</forename>
                   <surname>von Kerschbaumer</surname>
                </persName>
+               <note type="family">Tochter von <rs type="person" ref="#steger_maria_2">Maria Steger</rs> und <rs type="person" ref="#von_kerschbaumer_anton">Anton von Kerschbaumer</rs></note>
             </person>
             <person xml:id="von_kerschbaumer_agnes">
                <persName>
                   <forename>Agnes</forename>
                   <surname>von Kerschbaumer</surname>
                </persName>
+               <note type="family">Tochter von <rs type="person" ref="#steger_maria_2">Maria Steger</rs> und <rs type="person" ref="#von_kerschbaumer_anton">Anton von Kerschbaumer</rs></note>
             </person>
             <person xml:id="mayr_agnes">
                <persName>
@@ -2875,6 +2905,7 @@
                   <forename>Helena</forename>
                   <surname>Steger</surname>
                </persName>
+               <note type="family">Tochter von <rs type="steger_johann_anton">Johann Anton Steger</rs> und <rs type="person" ref="#gasteiger_catharina">Catharina Gasteiger</rs></note>
             </person>
             <person xml:id="haring_ignatz">
                <persName>
