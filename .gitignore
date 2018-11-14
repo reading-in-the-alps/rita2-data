@@ -1,3 +1,4 @@
 # Word temporary
 ~$*.doc*
 /data/temp/*.html
+/word/temp-dir-for-ant

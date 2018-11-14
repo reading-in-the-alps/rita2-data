@@ -30,7 +30,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus from="669v / 670r" to="668r"/>
+                     <locus from="669v" to="668r"/>
                      <note>
                         <rs type="skos" ref="#inventar">Inventar</rs>
                      </note>
@@ -44,31 +44,6 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc>
-         <p>
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-                        href="../indices/listperson.xml"
-                        xpointer="listperson">
-               <fallback xmlns="http://www.w3.org/2001/XInclude">
-                  <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
-               </fallback>
-            </xi:include>
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-                        href="../indices/listplace.xml"
-                        xpointer="listplace">
-               <fallback xmlns="http://www.w3.org/2001/XInclude">
-                  <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
-               </fallback>
-            </xi:include>
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-                        href="../indices/listbibl.xml"
-                        xpointer="listbibl">
-               <fallback xmlns="http://www.w3.org/2001/XInclude">
-                  <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
-               </fallback>
-            </xi:include>
-         </p>
-      </encodingDesc>
       <revisionDesc>
          <change notBefore="2018-08-28" notAfter="2018-08-28" who="#kirnbauer_martin" status="done">reading-in-the-alps/rita2-data/issues/1</change>
       </revisionDesc>
