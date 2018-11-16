@@ -82,7 +82,7 @@
             </person>
             <person xml:id="stainer_jacob">
                <persName>
-                  <forename>Jacob</forename>
+                  <forename>Jakob</forename>
                   <surname>Stainer</surname>
                </persName>
                <note type="family">Vater von <rs type="person" ref="#stainer_sebastian">Sebastian
@@ -585,7 +585,7 @@
                   <surname>Renzler</surname>
                </persName>
                <note type="function">Pinter zu <rs type="place" ref="#soneburg">Soneburg</rs>
-                    </note>   
+                    </note>
             </person>
             <person xml:id="luzin_hellenae_theresiae">
                <persName>
