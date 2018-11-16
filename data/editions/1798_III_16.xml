@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -62,12 +63,14 @@
                <p>3tio: Hat Kaufer und Meistbieter die auf dieser Verwendung haftende Oblagen und Beschwerden erstmals für das Jahr 1798 selbst zu bestreiten, und sich auch</p>
                <p>4to: Nach den bestehenden allerhöchsten Vorschriften mit den erforderlichen Vermögensdrittel auszuweisen. Wie dann schlüßlich und</p>
                <p>5to: die Abtilgung des Licitations Kaufschillings theils auf Überbündung der Kapitalsschulden theils baarer Abstoßung des Überrestes zu Tilgung der Current Schulden gemeint ist.</p>
-               <p>Gegeben zu <rs type="place" ref="#st_lorenzen">St. Laurenzen</rs> den <date when="1797-09-01">1ten September 1797</date></p>
+               <p>Gegeben zu <rs type="place" ref="#st_lorenzen">St. Laurenzen</rs> den <date when="1797-09-01">1ten September 1797</date>
+                    </p>
                <p>[Siegel und eigenhändige Unterschrift:] <rs type="person" ref="#latzi_peter_paul">Peter Paul Latzi</rs> m.p. Landrichter.</p>
                <p>
                   <pb n="667r"/>
                </p>
-               <p>Actum <rs type="place" ref="#st_lorenzen">St. Laurenzen</rs> den <date when="1797-09-21">21ten September 1797</date></p>
+               <p>Actum <rs type="place" ref="#st_lorenzen">St. Laurenzen</rs> den <date when="1797-09-21">21ten September 1797</date>
+                    </p>
                <p>Vor loblicher Landgerichts Obrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> titl. Herr <rs type="person" ref="#latzi_peter_paul">Peter Paul Latzi</rs>.</p>
                <p>Actuante <rs type="person" ref="#schenach_franz">Franz Schennach</rs> bey der Landgerichtschreiberey allda.</p>
                <p>[Marginalzuschreibung:]<note>
@@ -78,7 +81,8 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>Edicte der Obrigkeit <rs type="place" ref="#scheneck">Schönnek</rs></cell>
+                     <cell>Edicte der Obrigkeit <rs type="place" ref="#scheneck">Schönnek</rs>
+                            </cell>
                      <cell>1 f 43 x</cell>
                   </row>
                   <row>
@@ -149,7 +153,8 @@
                   <pb n="668r"/>
                </p>
                <p>Zur Bekräftigung dessen hat sich derselbe allda ad protocollum eigenhändig unterschrieben.</p>
-               <p>[eigenhändige Unterschrift:] <rs type="person" ref="#dam_franz">Franz Däm</rs></p>
+               <p>[eigenhändige Unterschrift:] <rs type="person" ref="#dam_franz">Franz Däm</rs>
+                    </p>
             </div>
             <div>
                <p>
@@ -167,11 +172,13 @@
                   <pb n="358bv"/>
                </p>
                <p>
-                  <hi rend="strikethrough">Herrn Herrn</hi> <rs type="person" ref="#plaickner_anton"></rs>Anton Plaickner burgerlichen Weisgärbermeistern in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></p>
+                  <hi rend="strikethrough">Herrn Herrn</hi> <rs type="person" ref="#plaickner_anton"/>Anton Plaickner burgerlichen Weisgärbermeistern in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </p>
                <p>
                   <pb n="349r"/>
                </p>
-               <p>Actum <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> den <date when="1798-03-16">16. März 1798</date></p>
+               <p>Actum <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> den <date when="1798-03-16">16. März 1798</date>
+                    </p>
                <p>Aus Verordnung loblicher Landgerichts Obrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>.</p>
                <p>Zugegen Herr <rs type="person" ref="#christinell_michael">Michael Christinell</rs> Burgermeister als Taxator.</p>
                <p>Des Priester Herrn <rs type="person" ref="#manucredo_antany_sebastian">Anton Sebastian Manucredo</rs> allda seel.</p>
@@ -743,7 +750,8 @@
                   <pb n="362v"/>
                </p>
                <p>[Rubrum:] 1798</p>
-               <p>Weilend des hochehrwurdigen Priester Herrn <rs type="person" ref="#manucredo_antany_sebastian">Anton Sebastian Manucredo</rs> allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></p>
+               <p>Weilend des hochehrwurdigen Priester Herrn <rs type="person" ref="#manucredo_antany_sebastian">Anton Sebastian Manucredo</rs> allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </p>
                <p>Erbstheilung</p>
                <p>[Kanzleivermerk:] Exped.</p>
                <p>
@@ -811,13 +819,15 @@
                         <hi rend="superscript">-9</hi> 
                         <hi rend="italic">Am linken Rand nachgetragen.</hi>
                      </p>
-               </note>allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs><hi rend="superscript">9</hi> begwältiget.</p>
+               </note>allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                        <hi rend="superscript">9</hi> begwältiget.</p>
                <p>Und die Frau <rs type="person" ref="#manucredo_anna">Anna Manucredo</rs> verehelichte Mitscha hat zu selchen Ende die Vertrettung ihrer hier befindlichen Jungfrau Tochter <rs type="person" ref="#mitscha_maria">Maria Mitscha</rs> aufgetragen, diese hendlt mit gebetener Assistenz des Herrn <note>
                      <p rend="footnote text">
                         <hi rend="superscript">-10</hi> 
                         <hi rend="italic">Am linken Rand nachgetragen.</hi>
                      </p>
-               </note><rs type="person" ref="#mayr_thomas">Thomas Mayr</rs> Burger allda<hi rend="superscript">10</hi>.</p>
+               </note>
+                        <rs type="person" ref="#mayr_thomas">Thomas Mayr</rs> Burger allda<hi rend="superscript">10</hi>.</p>
                <p>Auf derenselben Anlangen wurde demnach amgestern laut sonderbaren Protokolls die Inventur vorgenommen, auf dato aber zur wurklichen Vermogens Ergänzung die Tagsatzung bestimmet; wobey auch dieselben rechtens erschienen sind.</p>
                <p>Nach Anbringen der Jungfrau <rs type="person" ref="#mitscha_maria">Maria Mitschin</rs> solle Herr Ableiber dem Herrn <rs type="person" ref="#dam_franz">Franz Dam</rs> burgerlicher Bichsenmachermeister, und Herrn <rs type="person" ref="#mayr_thomas">Thomas Mayr</rs> auch Burger allda vor seinen Ableiben</p>
                <p>
@@ -832,12 +842,16 @@
                <p>seinen Geschwisterten folgende Erbtheile zuflüsen.</p>
                <p>Dem Herrn Bruder <rs type="person" ref="#manucredo_johann_jakob">Johann Manucredo</rs> in <rs type="place" ref="#sterzing">Sterzing</rs> 50 f, der Frau Schwester <rs type="person" ref="#manucredo_anna">Anna verehlichte Mitscha</rs> 100 f, und der Jungfrauen Baas nemlich seiner Häuserin <note>
                      <p rend="footnote text">
-                        <hi rend="superscript">-11</hi> <rs type="person" ref="#mitscha_maria">Maria Mitscha</rs><hi rend="italic" xml:space="preserve"> am linken Rand nachgetragen.</hi>
+                        <hi rend="superscript">-11</hi> <rs type="person" ref="#mitscha_maria">Maria Mitscha</rs>
+                                <hi rend="italic" xml:space="preserve"> am linken Rand nachgetragen.</hi>
                      </p>
-               </note><rs type="person" ref="#mitscha_maria">Maria Mitscha</rs><hi rend="superscript">11</hi> als eine Erkenntlichkeit für ihre getreue Haushaltung und fleissige Aufwartung ein Legat pr 25 f.</p>
+               </note>
+                        <rs type="person" ref="#mitscha_maria">Maria Mitscha</rs>
+                        <hi rend="superscript">11</hi> als eine Erkenntlichkeit für ihre getreue Haushaltung und fleissige Aufwartung ein Legat pr 25 f.</p>
                <p>Was demnach über solche bestimmte Erbs- und Legatsgebuhren noch ubrig verbleiben würde, solle zu Lesenlassung Heiliger Messen verwendet werden.</p>
                <p>Zur Bestettigung dieser ihrer Aussagen haben Deponenten nach dem Ablesen loblicher Landgerichts Obrigkeit das Handanloben erstattet.</p>
-               <p>Es meldet auch die Jungfrau <hi rend="strikethrough">Anna</hi> <rs type="person" ref="#mitscha_maria">Maria</rs><note>
+               <p>Es meldet auch die Jungfrau <hi rend="strikethrough">Anna</hi> <rs type="person" ref="#mitscha_maria">Maria</rs>
+                        <note>
                      <p rend="footnote text"> 
                         <hi rend="italic">Über der Zeile korrigiert.</hi>
                      </p>
@@ -878,7 +892,8 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell><rs type="person" ref="#manucredo_antany_sebastian">Manukredo</rs> als Verkaufern, dann Herrn <rs type="person" ref="#dam_franz">Franz Dam</rs> burgerlichen Bichsenmachermeister allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> als Kaufern einer Behausung allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> vorgenommen worden, ist Kaufer Herr <rs type="person" ref="#dam_franz">Franz Dam</rs> dem Herrn Ableiber Kaufschillingsrest schuldig verblieben</cell>
+                     <cell>
+                                <rs type="person" ref="#manucredo_antany_sebastian">Manukredo</rs> als Verkaufern, dann Herrn <rs type="person" ref="#dam_franz">Franz Dam</rs> burgerlichen Bichsenmachermeister allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> als Kaufern einer Behausung allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> vorgenommen worden, ist Kaufer Herr <rs type="person" ref="#dam_franz">Franz Dam</rs> dem Herrn Ableiber Kaufschillingsrest schuldig verblieben</cell>
                      <cell>
                         <p>
                            <hi rend="strikethrough">600 f 16 x</hi>
@@ -972,7 +987,8 @@
                      <cell>18 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Macht demnach was die Jungfrau <rs type="person" ref="#mitscha_maria">Maria</rs><note>
+                     <cell>Macht demnach was die Jungfrau <rs type="person" ref="#mitscha_maria">Maria</rs>
+                                <note>
                            <p rend="footnote text"> 
                               <hi rend="italic">Korrigiert aus</hi> Anna.</p>
                      </note> <rs type="person" ref="#mitscha_maria">Mitscha</rs> an Abzugen zu bezahlen übernommen, und selbst zu fodern hat</cell>
@@ -996,7 +1012,8 @@
                      <cell>25 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Der Jungfrau <rs type="person" ref="#mitscha_maria">Maria</rs><note>
+                     <cell>Der Jungfrau <rs type="person" ref="#mitscha_maria">Maria</rs>
+                                <note>
                            <p rend="footnote text"> M- <hi rend="italic">korrigiert aus begonnenem</hi> vo-</p>
                      </note> <rs type="person" ref="#mitscha_maria">Mitscha</rs> will der Herr Manucredische Vertretter <rs type="person" ref="#plaickner_anton">Anton Plaikner</rs>, das zugedachte Legat verbilligen mit</cell>
                      <cell>25 f 0 x</cell>
@@ -1011,7 +1028,8 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell><rs type="person" ref="#dam_franz">Franz Dam</rs> vorgestreckt mithin kommen solche demselben allda zu ersetzen id est</cell>
+                     <cell>
+                                <rs type="person" ref="#dam_franz">Franz Dam</rs> vorgestreckt mithin kommen solche demselben allda zu ersetzen id est</cell>
                      <cell>11 f 41 x</cell>
                   </row>
                   <row>
@@ -1119,15 +1137,18 @@
                      <cell/>
                   </row>
                   <row>
-                     <cell>Dem Herrn <rs type="person" ref="#manucredo_johann_jakob">Johann Manucredo</rs> Anwald zu <rs type="place" ref="#sterzing">Sterzing</rs></cell>
+                     <cell>Dem Herrn <rs type="person" ref="#manucredo_johann_jakob">Johann Manucredo</rs> Anwald zu <rs type="place" ref="#sterzing">Sterzing</rs>
+                            </cell>
                      <cell>161 f 50½ x</cell>
                   </row>
                   <row>
-                     <cell>Der Frau <rs type="person" ref="#manucredo_anna">Anna Mitscha</rs> zu <rs type="place" ref="#roveredo">Roveredo</rs></cell>
+                     <cell>Der Frau <rs type="person" ref="#manucredo_anna">Anna Mitscha</rs> zu <rs type="place" ref="#roveredo">Roveredo</rs>
+                            </cell>
                      <cell>161 f 50½ x</cell>
                   </row>
                   <row>
-                     <cell>Der Jungfrau <rs type="person" ref="#mitscha_maria">Maria Mitscha</rs></cell>
+                     <cell>Der Jungfrau <rs type="person" ref="#mitscha_maria">Maria Mitscha</rs>
+                            </cell>
                      <cell>139 f 38 x</cell>
                   </row>
                   <row>

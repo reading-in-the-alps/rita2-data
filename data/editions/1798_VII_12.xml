@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -125,7 +126,8 @@
                      <cell>20 x</cell>
                      <cell>M.<note>
                            <p rend="footnote text"> 
-                              <hi rend="italic"><rs type="person" ref="#pranter_martin">Martin Pranter</rs>, vgl. Posten Nr. 91.</hi>
+                              <hi rend="italic">
+                                            <rs type="person" ref="#pranter_martin">Martin Pranter</rs>, vgl. Posten Nr. 91.</hi>
                            </p>
                         </note> Pranter dt. 19 x</cell>
                      <cell/>
@@ -875,7 +877,8 @@
                   <row>
                      <cell>86</cell>
                      <cell>1 Höb Eisen wögt 8 Pfundt</cell>
-                     <cell><rs type="person" ref="#dam_franz">Franz Damm</rs> dt.</cell>
+                     <cell>
+                                <rs type="person" ref="#dam_franz">Franz Damm</rs> dt.</cell>
                      <cell>36 x</cell>
                      <cell>48 x</cell>
                   </row>
@@ -932,7 +935,8 @@
                   <row>
                      <cell>91</cell>
                      <cell>1 griener und 2 braune Krieg mit zinnern Lücker</cell>
-                     <cell><rs type="person" ref="#pranter_martin">Martin Pranter</rs> dt.</cell>
+                     <cell>
+                                <rs type="person" ref="#pranter_martin">Martin Pranter</rs> dt.</cell>
                      <cell>24 x</cell>
                      <cell>44 x</cell>
                   </row>
@@ -967,7 +971,8 @@
                   <row>
                      <cell>96</cell>
                      <cell>3 mit Löder eingefassene Flaschen</cell>
-                     <cell><rs type="person" ref="#stauder_mathias">Mathias Stauder</rs> dt.</cell>
+                     <cell>
+                                <rs type="person" ref="#stauder_mathias">Mathias Stauder</rs> dt.</cell>
                      <cell>14 x</cell>
                      <cell>26 x</cell>
                   </row>
@@ -1170,14 +1175,17 @@
                      <cell>117</cell>
                      <cell>
                         <hi rend="strikethrough">24½ Elln</hi> 9 Elln rupfenes Tuech a 24 x</cell>
-                     <cell><rs type="person" ref="#stauder_mathias">Mathias Stauder</rs> dt.</cell>
+                     <cell>
+                                <rs type="person" ref="#stauder_mathias">Mathias Stauder</rs> dt.</cell>
                      <cell>3 f 36 x</cell>
                      <cell>3 f 54 x</cell>
                   </row>
                   <row>
                      <cell>118</cell>
                      <cell>24½ Elln farbenes Tuech a 27 x</cell>
-                     <cell><rs type="person" ref="#primus_joseph">Joseph Primus</rs></cell>
+                     <cell>
+                                <rs type="person" ref="#primus_joseph">Joseph Primus</rs>
+                            </cell>
                      <cell>11 f 1½ x</cell>
                      <cell>
                         <p>
@@ -1238,7 +1246,8 @@
                   <row>
                      <cell>123</cell>
                      <cell>5 neü rupfene Hanttücher a 18 x</cell>
-                     <cell><rs type="person" ref="#pranter_martin">Martin Pranter</rs> dt.</cell>
+                     <cell>
+                                <rs type="person" ref="#pranter_martin">Martin Pranter</rs> dt.</cell>
                      <cell>1 f 30 x</cell>
                      <cell>1 f 38 x<note>
                            <p rend="footnote text"> 
@@ -1275,7 +1284,8 @@
                   <row>
                      <cell>127</cell>
                      <cell>2 rupfene Tischtücher</cell>
-                     <cell><rs type="person" ref="#primus_jakob">Jakob Primus</rs> dt.</cell>
+                     <cell>
+                                <rs type="person" ref="#primus_jakob">Jakob Primus</rs> dt.</cell>
                      <cell>42 x</cell>
                      <cell>40 x</cell>
                   </row>
@@ -1358,7 +1368,9 @@
                   <row>
                      <cell>135</cell>
                      <cell>1 Mösser Psteck Fueteral 13 Baar Mösser und Gabl womit die Hälfte mit Steinbock die Hälfte mit silberen Häfter beschlagen a 1 f 17 x</cell>
-                     <cell><rs type="person" ref="#primus_joseph">Joseph Primus</rs></cell>
+                     <cell>
+                                <rs type="person" ref="#primus_joseph">Joseph Primus</rs>
+                            </cell>
                      <cell>13 f 0 x</cell>
                      <cell>16 f 43 x dt.</cell>
                   </row>
@@ -1390,7 +1402,8 @@
                            <p rend="footnote text"> 20 <hi rend="italic">vermutlich versehentlich nicht gestrichen,</hi> 31 <hi rend="italic">über der Zeile geschrieben.</hi>
                            </p>
                         </note> x</cell>
-                     <cell><rs type="person" ref="#feltone_johann">Johann Feltone</rs> dt.</cell>
+                     <cell>
+                                <rs type="person" ref="#feltone_johann">Johann Feltone</rs> dt.</cell>
                      <cell>2 f 5 x</cell>
                      <cell>3 f 14 x</cell>
                   </row>
@@ -1426,7 +1439,9 @@
                   <row>
                      <cell>141</cell>
                      <cell>8 zinnene Schüssl wögen 23¾ Pf. a 30 x</cell>
-                     <cell><rs type="person" ref="#primus_joseph">Joseph Primus</rs><note>
+                     <cell>
+                                <rs type="person" ref="#primus_joseph">Joseph Primus</rs>
+                                <note>
                            <p rend="footnote text"> 
                               <hi rend="italic" xml:space="preserve">Darüber nochmals </hi>Joseph Primus<hi rend="italic" xml:space="preserve"> geschrieben und gestrichen.</hi>
                            </p>
@@ -1448,7 +1463,9 @@
                            <p rend="footnote text"> 30 <hi rend="italic">vermutlich versehentlich nicht gestrichen,</hi> 48 <hi rend="italic">über der Zeile geschrieben.</hi>
                            </p>
                         </note> x</cell>
-                     <cell><rs type="person" ref="#primus_joseph">Joseph Primus</rs></cell>
+                     <cell>
+                                <rs type="person" ref="#primus_joseph">Joseph Primus</rs>
+                            </cell>
                      <cell>9 f 0 x<note>
                            <p rend="footnote text"> 
                               <hi rend="italic">Betrag stimmt für den Wert 30 x pro Pfund.</hi>
@@ -1463,7 +1480,9 @@
                            <p rend="footnote text"> 28 <hi rend="italic">vermutlich versehentlich nicht gestrichen,</hi> 37 <hi rend="italic">über der Zeile geschrieben.</hi>
                            </p>
                         </note> x</cell>
-                     <cell><rs type="person" ref="#feltone_johann">Johann Feltone</rs></cell>
+                     <cell>
+                                <rs type="person" ref="#feltone_johann">Johann Feltone</rs>
+                            </cell>
                      <cell>2 f 49 x<note>
                            <p rend="footnote text"> 
                               <hi rend="italic">Betrag ist falsch, wäre 3 f 9 x für 28 x pro Pfund, 4 f 9¾ x für 37 x pro Pfund.</hi>
@@ -1713,7 +1732,8 @@
                   <row>
                      <cell>166</cell>
                      <cell>4 silberfarb angestrichene Stüel</cell>
-                     <cell><rs type="person" ref="#tinkhauser_theresia">Theresia Tinkhauserin</rs> dt.</cell>
+                     <cell>
+                                <rs type="person" ref="#tinkhauser_theresia">Theresia Tinkhauserin</rs> dt.</cell>
                      <cell>40 x</cell>
                      <cell>1 f 24 x</cell>
                   </row>
@@ -1744,7 +1764,9 @@
                   <row>
                      <cell>170</cell>
                      <cell>1 roth angestrichene Gewanth Truhen</cell>
-                     <cell><rs type="person" ref="#pergmann_jakob">Jakob Pergnan</rs><note>
+                     <cell>
+                                <rs type="person" ref="#pergmann_jakob">Jakob Pergnan</rs>
+                                <note>
                            <p rend="footnote text"> 
                               <hi rend="italic">Irrig für</hi> Pergmann.</p>
                         </note>
@@ -1783,7 +1805,8 @@
                      <cell>172</cell>
                      <cell>31 Spueln darauf 19 Pf. harbenes Gadn a 45 x</cell>
                      <cell>
-                        <p><rs type="person" ref="#tinkhauser_theresia">Theresia Tinkhauserin</rs> dt.</p>
+                        <p>
+                                    <rs type="person" ref="#tinkhauser_theresia">Theresia Tinkhauserin</rs> dt.</p>
                         <p>
                            <hi rend="strikethrough">Herr Unterweger</hi>
                         </p>
@@ -1811,7 +1834,8 @@
                   <row>
                      <cell>174</cell>
                      <cell>2 Stren Zwirn 2 Stren Garn 1 Strenn Tacht wögt</cell>
-                     <cell><rs type="person" ref="#primus_joseph">Joseph Primus</rs> dt.</cell>
+                     <cell>
+                                <rs type="person" ref="#primus_joseph">Joseph Primus</rs> dt.</cell>
                      <cell>1 f 12 x</cell>
                      <cell>1 f 50 x</cell>
                   </row>
@@ -1877,7 +1901,9 @@
                   <row>
                      <cell>182</cell>
                      <cell>1 Schreibbuld</cell>
-                     <cell><rs type="person" ref="#primus_jakob">Jakob Primus</rs></cell>
+                     <cell>
+                                <rs type="person" ref="#primus_jakob">Jakob Primus</rs>
+                            </cell>
                      <cell>20 x</cell>
                      <cell>30 x</cell>
                   </row>
@@ -1891,7 +1917,8 @@
                   <row>
                      <cell>183</cell>
                      <cell>1 blechener Schreibzeüg 1 blechenes Lutherl</cell>
-                     <cell><rs type="person" ref="#primus_jakob">Jakob Primus</rs> dt.</cell>
+                     <cell>
+                                <rs type="person" ref="#primus_jakob">Jakob Primus</rs> dt.</cell>
                      <cell>12 x</cell>
                      <cell>9 x</cell>
                   </row>
@@ -1941,7 +1968,8 @@
                   <row>
                      <cell>187</cell>
                      <cell>1 Überböth mit innern Kitzer Fehlen und auser blau köllischen Ziechen samt 1 Bolster so mit innern Zwilch und ausern gelben getruckten Ziechen auch 1 Kis mit innern kitzfehlenen und ausern weis harbenen Ziechen wögt 21 Pfundt a 24 x</cell>
-                     <cell><rs type="person" ref="#pergmann_jakob">Jakob Pergmann</rs> dt.</cell>
+                     <cell>
+                                <rs type="person" ref="#pergmann_jakob">Jakob Pergmann</rs> dt.</cell>
                      <cell>8 f 24 x</cell>
                      <cell>12 f 36<note>
                            <p rend="footnote text"> 
@@ -1975,7 +2003,8 @@
                   <row>
                      <cell>190</cell>
                      <cell>1 Überboth sammt der Polster und 1 Kis mit innern Parchet und ausern köllnischen Ziechen wögt 20 Pfundt a 20 x</cell>
-                     <cell><rs type="person" ref="#tinkhauser_theresia">Theresia Tinkhauserin</rs> dt.</cell>
+                     <cell>
+                                <rs type="person" ref="#tinkhauser_theresia">Theresia Tinkhauserin</rs> dt.</cell>
                      <cell>6 f 40 x</cell>
                      <cell>15 f 48 x</cell>
                   </row>
@@ -2016,7 +2045,8 @@
                   <row>
                      <cell>194</cell>
                      <cell cols="2">2 Blumen Stöck Taflen</cell>
-                     <cell><rs type="person" ref="#pergmann_jakob">Jakob Pergmann</rs> dt.</cell>
+                     <cell>
+                                <rs type="person" ref="#pergmann_jakob">Jakob Pergmann</rs> dt.</cell>
                      <cell>10 x</cell>
                      <cell>18 x</cell>
                   </row>
@@ -2030,7 +2060,8 @@
                   <row>
                      <cell>196</cell>
                      <cell cols="2">1 Fexier Spiegl</cell>
-                     <cell><rs type="person" ref="#pergmann_jakob">Jakob Pergmann</rs> dt.</cell>
+                     <cell>
+                                <rs type="person" ref="#pergmann_jakob">Jakob Pergmann</rs> dt.</cell>
                      <cell>10 x</cell>
                      <cell>36 x</cell>
                   </row>
@@ -2044,7 +2075,8 @@
                   <row>
                      <cell>198</cell>
                      <cell cols="2">2 halbrunde Tischlen</cell>
-                     <cell><rs type="person" ref="#dam_franz">Franz Damm</rs> dt.</cell>
+                     <cell>
+                                <rs type="person" ref="#dam_franz">Franz Damm</rs> dt.</cell>
                      <cell>30 x</cell>
                      <cell>1 f 36 x</cell>
                   </row>
@@ -2310,7 +2342,8 @@
                   <row>
                      <cell>126</cell>
                      <cell>1 Mutter Gottes Bild</cell>
-                     <cell cols="2"><rs type="person" ref="#tinkhauser_theresia">Theresia Tinkauserin</rs> dt.</cell>
+                     <cell cols="2">
+                                <rs type="person" ref="#tinkhauser_theresia">Theresia Tinkauserin</rs> dt.</cell>
                      <cell cols="3">
                         <hi rend="strikethrough">6 f</hi> 6 x</cell>
                      <cell>34 x</cell>
@@ -2488,7 +2521,9 @@
                   </row>
                   <row>
                      <cell>1 Maria Hilf Tafl </cell>
-                     <cell><rs type="person" ref="#wiser_veit">Vedt Wisser</rs></cell>
+                     <cell>
+                                <rs type="person" ref="#wiser_veit">Vedt Wisser</rs>
+                            </cell>
                      <cell>2 f 30 x dt.</cell>
                   </row>
                   <row>
@@ -2631,7 +2666,8 @@
                   <pb n="661v"/>
                </p>
                <p>Es erganget nammlich</p>
-               <p>Herr <rs type="person" ref="#steger_joseph_markus">Joseph Markus Steger</rs></p>
+               <p>Herr <rs type="person" ref="#steger_joseph_markus">Joseph Markus Steger</rs>
+                    </p>
                <p>gewester Landgerichtschreiber der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> bey dessen gehabten Ehefrau <rs type="person" ref="#hueber_maria_magdalena">Maria Magdalena Hueberin</rs> nebst den Herrn Erblasser folgende 5 Kinder:</p>
                <p>I. Herr <rs type="person" ref="#steger_joseph_felix">Joseph Felix Steger</rs> bey Frau <rs type="person" ref="#kerschbaumer_maria">Maria Kerschbaumerin</rs> beed seel. in Band der Ehe erzeugte, und uber die ledigen Stands verstorbene noch bey Leben zuruckgelassene Tochter Frau <rs type="person" ref="#steger_maria">Maria Stegerin</rs> mit<note>
                      <p rend="footnote text"> 
@@ -2639,7 +2675,8 @@
                      </p>
                </note> titl. Heren Dr. <rs type="person" ref="#lunz_felix">Felix Lunz</rs> Consistorial Advacat, und Fiskalamtsverwalter zu <rs type="place" ref="#brixen">Brixen</rs> Herrschaft. Diese wird von <rs type="person" ref="#pruggnaller_anton">Anton Pruggnaller</rs> allda laut vorgelegter Vollmacht vertretten.</p>
                <p>II. Herr <rs type="person" ref="#steger_peter_paul">Peter Paul Steger</rs> bey Frau <rs type="person" ref="#holzer_anna_maria">Anna Holzer</rs> in Band der Ehe erzeugte, und zuruckgelassene 2 Kinder Herr <rs type="person" ref="#steger_jakob">Jakob</rs> dermalen Cooperator zu <rs type="place" ref="#sillian">Sillian</rs>, und Jungfrau <rs type="person" ref="#steger_magdalena">Magdalena Stegerin</rs> allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>, welche beede grossjährig, und von Herr Innocenz Kuttner k.k. Kreisamts Kanzeler daselbst gewalthablich vertretten werden.</p>
-               <p>III. Herr <rs type="person" ref="#steger_johann_anton">Johann Anton Steger</rs> bey Frau <rs type="person" ref="#gasteiger_catharina">Catharina Gasteigerin</rs> ehelich erzeugte 4 Kinder und respective deren Descendeten, als Herrn <rs type="person" ref="#steger_franz">Franz Steger</rs></p>
+               <p>III. Herr <rs type="person" ref="#steger_johann_anton">Johann Anton Steger</rs> bey Frau <rs type="person" ref="#gasteiger_catharina">Catharina Gasteigerin</rs> ehelich erzeugte 4 Kinder und respective deren Descendeten, als Herrn <rs type="person" ref="#steger_franz">Franz Steger</rs>
+                    </p>
                <p>
                   <pb n="662r"/>
                </p>
@@ -2652,7 +2689,8 @@
                <p>
                   <pb n="662v"/>
                </p>
-               <p><rs type="person" ref="#von_kerschbaumer_anton">Anton v. Kerschbaumer</rs> Pfleger und Landrichter der Herrschaft Falkenstein zu <rs type="place" ref="#oberfellach">Oberfellach</rs>, Frau <rs type="person" ref="#von_kerschbaumer_maria_elisabet">Maria Elisabet</rs>, <hi rend="strikethrough">bey</hi> mit titl. Herrn <rs type="person" ref="#von_leys_ignatz_josef">Ignatz Joseph v. Leys</rs> Pfleger und Landgerichtschreiber allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> in Band der Ehe erzeugte 4 Kinder namens Herr <rs type="person" ref="#von_leys_leopold">Leopold</rs>, dann die Freulen<note>
+               <p>
+                        <rs type="person" ref="#von_kerschbaumer_anton">Anton v. Kerschbaumer</rs> Pfleger und Landrichter der Herrschaft Falkenstein zu <rs type="place" ref="#oberfellach">Oberfellach</rs>, Frau <rs type="person" ref="#von_kerschbaumer_maria_elisabet">Maria Elisabet</rs>, <hi rend="strikethrough">bey</hi> mit titl. Herrn <rs type="person" ref="#von_leys_ignatz_josef">Ignatz Joseph v. Leys</rs> Pfleger und Landgerichtschreiber allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> in Band der Ehe erzeugte 4 Kinder namens Herr <rs type="person" ref="#von_leys_leopold">Leopold</rs>, dann die Freulen<note>
                      <p rend="footnote text"> F- <hi rend="italic">korrigiert aus</hi> H-.</p>
                </note> <rs type="person" ref="#von_leys_elisabeth">Elisabeth</rs>, <rs type="person" ref="#von_leys_hellene">Hellene</rs> und <rs type="person" ref="#von_leys_cresentia">Cresentia v. Leys</rs>, wofur dessen Herr Vater Gerhab ist, dann die Freulen <rs type="person" ref="#von_kerschbaumer_magdalena">Magdalena</rs>, <rs type="person" ref="#von_kerschbaumer_maria_anna">Maria Anna</rs>, <rs type="person" ref="#von_kerschbaumer_maria_josepha">Maria Josepha</rs>, und <rs type="person" ref="#von_kerschbaumer_agnes">Agnes v. Kerschbaumer</rs> alle allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>. Dieser ganze Hauptstollen wird von ebengesagten titl. Herrn Pfleger <rs type="person" ref="#von_leys_ignatz_josef">v. Leys</rs> dato vertretten.</p>
                <p>Vor allen wird bemerket, dass bey Durchsuchung der Verlassenschaftsschriften ein Aufsatz eines Testaments so zwar von Herrn Erblasser unterschrieben, und gesiglt, der Inhalt aber von einer fremden Hand geschrieben, und uberhaupt an vorgeschriebenen Förmlichkeiten mangelhaft ist, in die Hande gekommen, da aber dessen Inhalt theils von keinem Belange, theils von denen Herrn Erben in Rucksicht der frommen Vermög aus eigenen Antriebe bereits vollzogen worden</p>
@@ -2775,7 +2813,8 @@
                      <cell/>
                   </row>
                   <row>
-                     <cell><rs type="person" ref="#wiser_veit">Veit Wieser</rs> allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> Bestandzins von den vorbeschrieben Äcker fur die heurige Benutzung</cell>
+                     <cell>
+                                <rs type="person" ref="#wiser_veit">Veit Wieser</rs> allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> Bestandzins von den vorbeschrieben Äcker fur die heurige Benutzung</cell>
                      <cell>13 f 0 x</cell>
                   </row>
                   <row>
@@ -2917,7 +2956,8 @@
                      <cell>18 f 23 x</cell>
                   </row>
                   <row>
-                     <cell>Herr Chyrurgo <rs type="person" ref="#pallauf_gottlieb_johann">Gottlieb Pallauf</rs></cell>
+                     <cell>Herr Chyrurgo <rs type="person" ref="#pallauf_gottlieb_johann">Gottlieb Pallauf</rs>
+                            </cell>
                      <cell>2 f 46 x</cell>
                   </row>
                   <row>
@@ -2933,7 +2973,8 @@
                      <cell>7 f 43 x</cell>
                   </row>
                   <row>
-                     <cell>Deto dem <rs type="person" ref="#pruggnaller_anton">Anton Prugnaller</rs><note>
+                     <cell>Deto dem <rs type="person" ref="#pruggnaller_anton">Anton Prugnaller</rs>
+                                <note>
                            <p rend="footnote text"> 
                               <hi rend="italic">Am linken Rand nachgetragen.</hi>
                            </p>
@@ -2942,7 +2983,8 @@
                      <cell/>
                   </row>
                   <row>
-                     <cell>Ingleichen auch an solcher Zinsbetreffnis dem 2tn Hauptstollen nemmlich der Jungfrau <rs type="person" ref="#steger_magdalena">Magdalena Stegerin</rs>, und deroselbe geistliche Herr Bruder <rs type="person" ref="#steger_jakob">Jakob Steger</rs></cell>
+                     <cell>Ingleichen auch an solcher Zinsbetreffnis dem 2tn Hauptstollen nemmlich der Jungfrau <rs type="person" ref="#steger_magdalena">Magdalena Stegerin</rs>, und deroselbe geistliche Herr Bruder <rs type="person" ref="#steger_jakob">Jakob Steger</rs>
+                            </cell>
                      <cell>6 f 56<note>
                            <p rend="footnote text"> 6 <hi rend="italic">korrigiert aus</hi> 0.</p>
                         </note> x</cell>
@@ -3034,11 +3076,7 @@
                   <pb n="667av + 667ar"/>
                </p>
                <figure>
-                  <graphic n="1001"
-                           width="17.00036111111111cm"
-                           height="14.017625cm"
-                           url="media/image1.jpg"
-                           rend="inline"/>
+                  <graphic n="1001" width="17.00036111111111cm" height="14.017625cm" url="media/image1.jpg" rend="inline"/>
                </figure>
             </div>
             <div>
@@ -3049,15 +3087,18 @@
                <p>
                   <pb n="667b1r"/>
                </p>
-               <p>Actum Stadt <rs type="place" ref="#lienz">Lienz</rs> den <date when="1798-08-04">4ten August 1798</date></p>
+               <p>Actum Stadt <rs type="place" ref="#lienz">Lienz</rs> den <date when="1798-08-04">4ten August 1798</date>
+                    </p>
                <p>Vor löblicheren Stadtgerichts Verwaltung.</p>
                <p>Erscheint Herr <rs type="person" ref="#oberkircher_johann">Johann Oberkircher</rs> Bürger des Raths, und Handlsmann, allda in der Stadt <rs type="place" ref="#lienz">Lienz</rs>, als obrigkeitlich verpflichter Vormund des Herrn <rs type="person" ref="#haring_ignatz">Ignatz Haringisch</rs> aus Frau <rs type="person" ref="#steger_helena">Helena Stegerischer</rs> Ehe verhanden minderjährigen Söhnl <rs type="person" ref="#haring_johann">Johann Haring</rs>, und ertheillet dem Herrn <rs type="person" ref="#salcher_johann">Johann Salcher</rs> Gerichts Procuratore zu <rs type="place" ref="#st_lorenzen">St. Laurenzen</rs> cum consuetis juris clausulis, ratis, gratis, indemnitatis, substitutionis, et sub hypothecca bonorum hirmit und in Kraft dies dergestalten den vollkomenen Gewalt, das erwähnter Herr <rs type="person" ref="#salcher_johann">Salcher</rs> bey der auf den 16ten d. M. anberaumten Verhandlungs Tagfarth der dortselbs verstorbenen Herren Beneficiaten zum Heiligen Kreutz Priester <rs type="person" ref="#steger_leopold">Leopold Steger</rs>, als gewest eheleiblichen Herrn Bruder seines Curanden <rs type="person" ref="#haring_johann">Johann Harings</rs>, Frau Muetter Hellena Stege-</p>
                <p>
                   <pb n="667b1v"/>
                </p>
-               <p><rs type="person" ref="#steger_helena">rin</rs>, anstatt und im Namen desselben, vor Gericht erscheinen, ihn vertretten, die Verlassenschafts Abhandlung nach Gutbefinden begnehmigen, und solche Verlassenschafts Sache gänzlichen austragen, wie auch die Erbs Betrefnis für ihm Haring empfangen, hierfür quittieren, allenfals auch die iura cessa abtretten, und ueberhaupts, all dasjenige vorkehren soll, könne, und möge, was der status causa erfordert, und zu welcher Haring in den Rechten gestellet ist.</p>
+               <p>
+                        <rs type="person" ref="#steger_helena">rin</rs>, anstatt und im Namen desselben, vor Gericht erscheinen, ihn vertretten, die Verlassenschafts Abhandlung nach Gutbefinden begnehmigen, und solche Verlassenschafts Sache gänzlichen austragen, wie auch die Erbs Betrefnis für ihm Haring empfangen, hierfür quittieren, allenfals auch die iura cessa abtretten, und ueberhaupts, all dasjenige vorkehren soll, könne, und möge, was der status causa erfordert, und zu welcher Haring in den Rechten gestellet ist.</p>
                <p>Woraufhin zu Bekräftigung nach dem Ablesen Herr Curator im Namen löblicher Stadtgerichts Verwaltung etc. an den Stadtschreiber das gewöhnliche Handglübd praestieret, und das Protocoll eigenhändig unterschrieben hat.</p>
-               <p><rs type="person" ref="#oberkircher_johann">Johann Oberkircher</rs>,</p>
+               <p>
+                        <rs type="person" ref="#oberkircher_johann">Johann Oberkircher</rs>,</p>
                <p>zu Gezeugen gegenwarth Herrn <rs type="person" ref="#bichler_lorenz">Lorenz Bichler</rs>, und <rs type="person" ref="#tauschs_anton">Anton Tauschs</rs>.</p>
                <p>
                   <pb n="667b2r"/>
@@ -3080,15 +3121,19 @@
                      </p>
                </note> substitutionis et hypoteca bonorum etc. <rs type="place" ref="#brixen">Brixen</rs> den <date when="1798-05-02">2ten May 1798</date>.</p>
                <p>[Siegel und eigenhändige Unterschriften:]</p>
-               <p><rs type="person" ref="#lunz_maeriae_tereesie">Märiä Tereesie Lunzin gebohrne Stegerin</rs></p>
+               <p>
+                        <rs type="person" ref="#lunz_maeriae_tereesie">Märiä Tereesie Lunzin gebohrne Stegerin</rs>
+                    </p>
                <p>deto <rs type="person" ref="#lunz_felix">Felix Urbanus Lunz</rs> als Eheherr und billichster Anweiser</p>
                <p>
                   <pb n="667d1r"/>
                </p>
                <p>Gewalt</p>
                <p>Für Herrn <rs type="person" ref="#salcher_johann">Johann Salcher</rs> k.k. Kreisamtspraktikanten zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>, kraft welchem derselbe bey der am 16ten dies vorgehenden Abhandlung des verstorbenen Herrn Benefiziat zum Heiligen Kreuz <rs type="person" ref="#steger_leopold">Leopold Stegers</rs> meine Gerhabschaftsmündel, nämlich die in Vorstellung der Mutter <rs type="person" ref="#steger_anna">Anna gebohrenen Stegerin</rs> bey <rs type="person" ref="#rindler_anton">Anton Rindler</rs> zu <rs type="place" ref="#sillian">Sillian</rs> erzeugten, und als Miterben einschreitende Kinder, anstatt meiner vertretten und besorgen möge.</p>
-               <p>Klettenheim den <date when="1798-08-12">12ten August 1798</date></p>
-               <p><rs type="person" ref="#kletenhamer_johann_michael">Johann Michael Klettenhamer</rs> als verpflichter Gerhab obiger Kinder</p>
+               <p>Klettenheim den <date when="1798-08-12">12ten August 1798</date>
+                    </p>
+               <p>
+                        <rs type="person" ref="#kletenhamer_johann_michael">Johann Michael Klettenhamer</rs> als verpflichter Gerhab obiger Kinder</p>
             </div>
             <div>
                <p>
@@ -3124,7 +3169,8 @@
                      <cell>45 x</cell>
                   </row>
                   <row>
-                     <cell>Weiters Grundzins Ausstand der loblichen Pfarrkirche in <rs type="place" ref="#ennenberg">Ennenberg</rs></cell>
+                     <cell>Weiters Grundzins Ausstand der loblichen Pfarrkirche in <rs type="place" ref="#ennenberg">Ennenberg</rs>
+                            </cell>
                      <cell>18 x</cell>
                   </row>
                   <row>
@@ -3188,7 +3234,8 @@
                      <cell>80 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Und in der Nachtheilung dem Herrn <rs type="person" ref="#steger_peter_paul">Peter Paul Stegerischen</rs> Herrn Sohn <rs type="person" ref="#steger_jakob">Jakob Steger</rs> Cooperator zu [<rs type="place" ref="#sillian">Sillian</rs><note>
+                     <cell>Und in der Nachtheilung dem Herrn <rs type="person" ref="#steger_peter_paul">Peter Paul Stegerischen</rs> Herrn Sohn <rs type="person" ref="#steger_jakob">Jakob Steger</rs> Cooperator zu [<rs type="place" ref="#sillian">Sillian</rs>
+                                <note>
                            <p rend="footnote text"> 
                               <hi rend="italic">Ort fehlt.</hi>
                            </p>
@@ -3438,16 +3485,19 @@
                <p>Zur Bekräftigung dessen haben nach dem Ablesen die in <hi rend="strikethrough">ersten</hi> Eingange von 16ten August eingekommene Herrn Ers [sic!] Interessenten und Vertretter gegenwärtiges Erbstheilungs Protokoll eigenhändig unterschrieben.</p>
                <p>[eigenhändige Unterschrift:] <rs type="person" ref="#salcher_johann_nepomuk">Johann Nepomuk Salcher</rs> m.p. Gewalthaber ut in actis.</p>
                <p>[eigenhändige Unterschrift:] <rs type="person" ref="#von_leys_ignatz_josef">Ignaz Joseph Leys</rs> m.p. als Vertreter des 5ten Haupt- und Afterstoll</p>
-               <p>[eigenhändige Unterschrift:] <rs type="person" ref="#kuttner_innocenz">Innocenz Kutter</rs><note>
+               <p>[eigenhändige Unterschrift:] <rs type="person" ref="#kuttner_innocenz">Innocenz Kutter</rs>
+                        <note>
                      <p rend="footnote text"> 
                         <hi rend="italic">Auf fol. 661v</hi> Innocenz Kuttner.</p>
                   </note> m.p. als Gewalthaber ut intus</p>
-               <p>[eigenhändige Unterschrift:] <rs type="person" ref="#pernlachner_franz">Franz Bernlachner</rs></p>
+               <p>[eigenhändige Unterschrift:] <rs type="person" ref="#pernlachner_franz">Franz Bernlachner</rs>
+                    </p>
                <p>[eigenhändige Unterschrift:] Maria Anna<note>
                      <p rend="footnote text"> 
                         <hi rend="italic" xml:space="preserve">Bei </hi>-n-<hi rend="italic" xml:space="preserve"> ein Schaft zuwenig.</hi>
                      </p>
-               </note> <rs type="person" ref="#pernlachner_anna">Stegerin verehlichte Bernlachner</rs></p>
+               </note> <rs type="person" ref="#pernlachner_anna">Stegerin verehlichte Bernlachner</rs>
+                    </p>
                <p>[eigenhändige Unterschrift:] <rs type="person" ref="#pruggnaller_anton">Anton Pruggnaller</rs> als Vertretter des 1ten Haubt Stollen</p>
                <p>
                   <pb n="674v"/>

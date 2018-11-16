@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -46,23 +47,17 @@
       </fileDesc>
       <encodingDesc>
          <p>
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-                        href="../indices/listperson.xml"
-                        xpointer="listperson">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listperson.xml" xpointer="listperson">
                <fallback xmlns="http://www.w3.org/2001/XInclude">
                   <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
                </fallback>
             </xi:include>
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-                        href="../indices/listplace.xml"
-                        xpointer="listplace">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listplace.xml" xpointer="listplace">
                <fallback xmlns="http://www.w3.org/2001/XInclude">
                   <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
                </fallback>
             </xi:include>
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-                        href="../indices/listbibl.xml"
-                        xpointer="listbibl">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../indices/listbibl.xml" xpointer="listbibl">
                <fallback xmlns="http://www.w3.org/2001/XInclude">
                   <p xmlns="http://www.tei-c.org/ns/1.0">File to include couldn't be found</p>
                </fallback>
@@ -85,16 +80,23 @@
                <pb n="24av"/>
             </p>
             <p>wie ob stehet hiemit all erforderlichen Gewalth, dan daran vollziecht derselbe unseren Willen und Mainung, und wür verbleiben demselben anbey wohl zuegethann. Geben in Consistorio zu <rs type="place" ref="#brixen">Brixen</rs>, den <date when="1761-07-23">23. July 1761</date>.</p>
-            <p><rs type="person" ref="#graf_zu_lodron_dumbherr">Sebastian Graf zu Lodron Dumbherr</rs></p>
+            <p>
+                    <rs type="person" ref="#graf_zu_lodron_dumbherr">Sebastian Graf zu Lodron Dumbherr</rs>
+                </p>
             <p>undt geystlicher Rath m.p.</p>
-            <p><rs type="person" ref="#tangl_georg">Georg Tangl</rs></p>
+            <p>
+                    <rs type="person" ref="#tangl_georg">Georg Tangl</rs>
+                </p>
             <p>Secret. Eulicus m.p.</p>
             <p>
                <pb n="24bv"/>
             </p>
             <p>[Briefadresse:] Dem ehrwürdig edlen hochgelehrten <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingramb von Liebenrain und Fragburg</rs>, fürstlich Brixnerischer wirckhlichen Consistorial Rath, auch Dechand und Pfarrern zu <rs type="place" ref="#brunegg">Brunegg</rs>, unseren besonders lieben Freundt und Herrn.</p>
-            <p><rs type="place" ref="#brunegg">Brunegg</rs></p>
-            <p>[Rubrum:] <date when="1761-07-23">23 July 1761</date></p>
+            <p>
+                    <rs type="place" ref="#brunegg">Brunegg</rs>
+                </p>
+            <p>[Rubrum:] <date when="1761-07-23">23 July 1761</date>
+                </p>
             <p>Commissionsbefehl zur Abhandlung des gewesten Beneficiaten zu <rs type="place" ref="#st_georgen">St. Jörgen</rs> Priester <rs type="person" ref="#fezl_christoph">Christoph Fezl</rs> Verlassenschafts</p>
             <p>Praes. den 31ten detto</p>
             <p>[Titelblatt]</p>
@@ -111,13 +113,15 @@
                   <p rend="footnote text"> 
                      <hi rend="italic">Über der Zeile eingefügt.</hi>
                   </p>
-            </note> <date when="1761-08-10">Tag Manaths Augusti änno sibenzechenhundert ainundsechzig</date></p>
+            </note> <date when="1761-08-10">Tag Manaths Augusti änno sibenzechenhundert ainundsechzig</date>
+                </p>
             <p>Vor Ihro Hochwirden, und Gnaden dem hochwirdig, hochedlgebohrnen Herren Herren <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingramb von Liebenrain, unnd Fragwurg</rs> tyrollischen Herren, unnd Landtmann, hochfirstlich Brixnerisch wirckhlichen Consistorial Rath, auch Dechandt, unnd Pfarrherrn zu <rs type="place" ref="#brunegg">Brunögg</rs> als vermig vorgewisen, unnd allda ad acta registrierten gnedigen Commissions Befelch gnedig verordneten Commissario</p>
             <p>Und dem wohledlgebohrn gestreng unnd hochgelehrten Herren <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignäti Englmohr von Aufkhirchen zu Mohrögg</rs> beeder Rechten Lit. oo. Regiments</p>
             <p>
                <pb n="1v"/>
             </p>
-            <p>Advocaten, auch Pfleger, unnd Landtrichteren der Herrschafft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs></p>
+            <p>Advocaten, auch Pfleger, unnd Landtrichteren der Herrschafft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelspurg</rs>
+                </p>
             <p>Zugegen des wohledlen Herren <rs type="person" ref="#marchner_franz_michael">Franz Michel Marchner</rs> Ambtgerichtschreiberen zu <rs type="place" ref="#brunegg">Brunögg</rs>, umd<note>
                   <p rend="footnote text"> 
                      <hi rend="italic">Irrig für</hi> und.</p>
@@ -541,7 +545,8 @@
             <p>
                <pb n="10v"/>
             </p>
-            <p><rs type="place" ref="#uttenheim">haimb</rs> zum Ansiz Stockh zu lifern, unnd zu antworthen in guetten Gelt funfzig Khreizer, in Getraidt Roggen sechs und Gersten auch 6 Stär Luttacher Ambt Maas, guets saubers wohl gefirmets Korn, zu Weisath ain Kiz, dreissig Ayr, unnd zwo Hennen, alles rechten Grundt, und Herren Zins, dargegen hat man hierein zu haben, ain halb Stär Gersten, unnd sechs Khreizer Hilf Zinsl, so titl. Herr <rs type="person" ref="#sell_franz_joseph">Franz Joseph Sell</rs> Forstmaister in Pusterthall von zwoen Äckherlen negst ob der Mihlfehrlichen zugeben schuldig ist.</p>
+            <p>
+                    <rs type="place" ref="#uttenheim">haimb</rs> zum Ansiz Stockh zu lifern, unnd zu antworthen in guetten Gelt funfzig Khreizer, in Getraidt Roggen sechs und Gersten auch 6 Stär Luttacher Ambt Maas, guets saubers wohl gefirmets Korn, zu Weisath ain Kiz, dreissig Ayr, unnd zwo Hennen, alles rechten Grundt, und Herren Zins, dargegen hat man hierein zu haben, ain halb Stär Gersten, unnd sechs Khreizer Hilf Zinsl, so titl. Herr <rs type="person" ref="#sell_franz_joseph">Franz Joseph Sell</rs> Forstmaister in Pusterthall von zwoen Äckherlen negst ob der Mihlfehrlichen zugeben schuldig ist.</p>
             <table rend="rules">
                <row>
                   <cell>Vellich dise hievor beschribne Prugger Stuckh, unnd Hilf Zinsl Herr Ableiber seeligen von des <rs type="person" ref="#wanger_peter">Petern Wanger</rs> gewesten Khachlers seeligen Herren, unnd Gelteren inhalt Khaufs Abredt von anderten, und <date when="1760-04-16">sechzechenden Äprill änno sibenzechenhundert sechzig</date> als gewester Mitgelter kheiflichen an sich gebracht hat, in Tax per aintaus-</cell>
@@ -581,7 +586,8 @@
                   <cell>8 f 0 x</cell>
                </row>
                <row>
-                  <cell><rs type="person" ref="#stainer_blaesi">Bläsi Stainer</rs> qua Gerhab der <rs type="person" ref="#stainer_andree">Andree Stainer</rs> Frisch Hueberischen zurugg gelassenen Kinderen zu Neinheiseren Gerichts Alträsen ist auf Ybergeben der <rs type="person" ref="#stainer_mariae">Maria Stainerin</rs> <rs type="person" ref="#lercher_georg">Georgen Lercher</rs> Gatterers auf den Tesslperg Ambt Gerichts <rs type="place" ref="#brunegg">Brunögg</rs> Ehewirthin vermig obrigkheitlicher Ybergab de däto Räsen <date when="1743-05-01">ersten May sibenzechenhundert dreiundt vierzig</date> der Frauen Maria Pa-</cell>
+                  <cell>
+                            <rs type="person" ref="#stainer_blaesi">Bläsi Stainer</rs> qua Gerhab der <rs type="person" ref="#stainer_andree">Andree Stainer</rs> Frisch Hueberischen zurugg gelassenen Kinderen zu Neinheiseren Gerichts Alträsen ist auf Ybergeben der <rs type="person" ref="#stainer_mariae">Maria Stainerin</rs> <rs type="person" ref="#lercher_georg">Georgen Lercher</rs> Gatterers auf den Tesslperg Ambt Gerichts <rs type="place" ref="#brunegg">Brunögg</rs> Ehewirthin vermig obrigkheitlicher Ybergab de däto Räsen <date when="1743-05-01">ersten May sibenzechenhundert dreiundt vierzig</date> der Frauen Maria Pa-</cell>
                   <cell/>
                </row>
             </table>
@@ -590,7 +596,8 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell><rs type="person" ref="#pacher_maria">cherin</rs> seeligen zwohundert neinundtneinzig Gulden neinundtfunfzig Khreizer Capitall schuldig worden, welliche nunmehro auf deren Ableiber auf Ihren Herren Sohn, als dissahligen Erblasser erblichen gekhomben id est mit</cell>
+                  <cell>
+                            <rs type="person" ref="#pacher_maria">cherin</rs> seeligen zwohundert neinundtneinzig Gulden neinundtfunfzig Khreizer Capitall schuldig worden, welliche nunmehro auf deren Ableiber auf Ihren Herren Sohn, als dissahligen Erblasser erblichen gekhomben id est mit</cell>
                   <cell>299 f 59 x</cell>
                </row>
                <row>
@@ -614,7 +621,8 @@
                   <cell>1 f 29 x</cell>
                </row>
                <row>
-                  <cell><rs type="person" ref="#techterle_mathies">Mathies Techterle</rs> Huefschmidt in Mitterthall Antholz sessig, solle auch aus Ybergeben der <rs type="person" ref="#techterle_simon">Simon Techterlischen</rs> Kinderen, und Geschwistrigeten inhalt Ybergab, Quittung und Schultbrief de däto Äntholz <date when="1745-12-22">zwo undtzwainzigisten December änno sibenzechenhundert finf undtvierzig</date> Capitall zwohundert <hi rend="strikethrough">Gulden</hi> funfzig Gulden, so Herr Ableiber seeligen von dessen Frauen Muetter Maria</cell>
+                  <cell>
+                            <rs type="person" ref="#techterle_mathies">Mathies Techterle</rs> Huefschmidt in Mitterthall Antholz sessig, solle auch aus Ybergeben der <rs type="person" ref="#techterle_simon">Simon Techterlischen</rs> Kinderen, und Geschwistrigeten inhalt Ybergab, Quittung und Schultbrief de däto Äntholz <date when="1745-12-22">zwo undtzwainzigisten December änno sibenzechenhundert finf undtvierzig</date> Capitall zwohundert <hi rend="strikethrough">Gulden</hi> funfzig Gulden, so Herr Ableiber seeligen von dessen Frauen Muetter Maria</cell>
                   <cell/>
                </row>
             </table>
@@ -623,7 +631,8 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell><rs type="person" ref="#pacher_maria">Pacherin</rs> seeligen erörbt id est mit</cell>
+                  <cell>
+                            <rs type="person" ref="#pacher_maria">Pacherin</rs> seeligen erörbt id est mit</cell>
                   <cell>250 f 0 x</cell>
                </row>
                <row>
@@ -635,7 +644,9 @@
                   <cell>20 f 0 x</cell>
                </row>
                <row>
-                  <cell><rs type="person" ref="#mayr_martin">Martin Mayr</rs>, unnd sein Ehewirthin <rs type="person" ref="#unterweger_maria">Maria Unterwegerin</rs> als Inhabere der halben Kalten Hauser Hueber zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#mayr_martin">Martin Mayr</rs>, unnd sein Ehewirthin <rs type="person" ref="#unterweger_maria">Maria Unterwegerin</rs> als Inhabere der halben Kalten Hauser Hueber zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs>
+                        </cell>
                   <cell/>
                </row>
             </table>
@@ -845,7 +856,8 @@
                <row>
                   <cell>
                      <p>Wegen erkhaufften Prugger Stuckh ist Herr Ableiber noch volgende Capitallien yberpendenermasser zu bezahlen schuldig,</p>
-                     <p>Als dem loblichen <rs type="place" ref="#st_georgen">Sanct Georgen</rs></p>
+                     <p>Als dem loblichen <rs type="place" ref="#st_georgen">Sanct Georgen</rs>
+                            </p>
                   </cell>
                   <cell/>
                </row>
@@ -934,15 +946,18 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell><rs type="person" ref="#prugger_franz">Franzen Prugger</rs> Jäger unnd Vischer alhier umb abgeben Visch finf Gulden vier Khreizer sage</cell>
+                  <cell>
+                            <rs type="person" ref="#prugger_franz">Franzen Prugger</rs> Jäger unnd Vischer alhier umb abgeben Visch finf Gulden vier Khreizer sage</cell>
                   <cell>5 f 4 x</cell>
                </row>
                <row>
-                  <cell><rs type="person" ref="#pfeiffhofer_gregori">Gregori Pfeiffhofer</rs> Miller zu Steegen umb abgebnen Getraidt finf Gulden, nein Khreizer sage</cell>
+                  <cell>
+                            <rs type="person" ref="#pfeiffhofer_gregori">Gregori Pfeiffhofer</rs> Miller zu Steegen umb abgebnen Getraidt finf Gulden, nein Khreizer sage</cell>
                   <cell>5 f 9 x</cell>
                </row>
                <row>
-                  <cell><rs type="person" ref="#eppacher_martin">Martin Eppacher</rs> Schmidt alhier sibenundtfunfzig Khreizer sage</cell>
+                  <cell>
+                            <rs type="person" ref="#eppacher_martin">Martin Eppacher</rs> Schmidt alhier sibenundtfunfzig Khreizer sage</cell>
                   <cell>57 x</cell>
                </row>
                <row>
@@ -1051,7 +1066,8 @@
             <p>
                <pb n="23v"/>
             </p>
-            <p><rs type="person" ref="#fezl_joseph_wolfgang">Joseph Wolfgang Fezl</rs> eingeraumbten Schulden herein inerhalb drei Jahren von verwichen Sanebenten angeraith, was in Verlust geheen, oder derselbe sollich nit einbringlich machen khenen, hette der abwesige Herr Brueder <rs type="person" ref="#fezl_johannes">Johannes Fezl</rs> aus sollichen Verlurst hiemit bedingtermassen ebenfahls die Helffte zu patieren, inzwischen aber</p>
+            <p>
+                    <rs type="person" ref="#fezl_joseph_wolfgang">Joseph Wolfgang Fezl</rs> eingeraumbten Schulden herein inerhalb drei Jahren von verwichen Sanebenten angeraith, was in Verlust geheen, oder derselbe sollich nit einbringlich machen khenen, hette der abwesige Herr Brueder <rs type="person" ref="#fezl_johannes">Johannes Fezl</rs> aus sollichen Verlurst hiemit bedingtermassen ebenfahls die Helffte zu patieren, inzwischen aber</p>
             <p>Sibendens dessen bestelter Vertretter <rs type="person" ref="#valtiner_peter">Peter Valtiner</rs> in Obligenheit haben solle, ihme Herren <rs type="person" ref="#fezl_joseph_wolfgang">Joseph Wolfgang Fezl</rs> zu Eintreibung und Habhafftwerdung gemelter Schulden herein bestmöglichist an Handen zu geheen.</p>
             <p>Schliesslichen verbleibt aum die Schulden hinaus, unnd zu bezahlen habenden Herren briederlichen Erbs, umd<note>
                   <p rend="footnote text"> 

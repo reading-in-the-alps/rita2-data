@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -69,7 +70,8 @@
             <p>
                <pb n="73r"/>
             </p>
-            <p>Güetter und Vermigen angesessen were, so ist man von Seiten der weltlichen Obrigkheit gezwungen gewesen, die Sach hochloblicher ooe. Regierung umbstentlich einzuberichten und hoch die selbe in Unterthenigkheit zu belangen, das die Vermigens Abhandlung disen foro albo Herr Ableiber seel. verstorben, zueerkhent werden mechte, und gleichwie auch ein solches von dorthen aus vermig den untern 15ten Märti anno diß eingangenen hochgnedigen Befelch beschechen, mit den weitter befelchlichen Auftrag, das alle derley Verabhandlung vorgenomben werden sollen, wo der Todtfahl ervolgt, und <hi rend="strikethrough">welches</hi> sohin in Namen und anstatt der drei verhandenen Erbs Interessenten als des Herrn Ableibers seel. eheleiblich baidtpendigen Brueder <rs type="person" ref="#jais_joseph">Joseph Jais</rs> seiner Profession ain Pilthauer, dan des auch verstorbenen Brueder <rs type="person" ref="#jais_johan_michael">Johan Michael Jais</rs> bei <rs type="person" ref="#holzer_anna_maria">Anna Maria Holzerin</rs> in Ehepandt ainzig erzeigten Sohn <rs type="person" ref="#jais_joseph">Joseph Jais</rs>, und der Schwester <rs type="person" ref="#jais_catharina">Catharina Jaisin</rs> <rs type="person" ref="#posch_johan">Johan Posch</rs><note>
+            <p>Güetter und Vermigen angesessen were, so ist man von Seiten der weltlichen Obrigkheit gezwungen gewesen, die Sach hochloblicher ooe. Regierung umbstentlich einzuberichten und hoch die selbe in Unterthenigkheit zu belangen, das die Vermigens Abhandlung disen foro albo Herr Ableiber seel. verstorben, zueerkhent werden mechte, und gleichwie auch ein solches von dorthen aus vermig den untern 15ten Märti anno diß eingangenen hochgnedigen Befelch beschechen, mit den weitter befelchlichen Auftrag, das alle derley Verabhandlung vorgenomben werden sollen, wo der Todtfahl ervolgt, und <hi rend="strikethrough">welches</hi> sohin in Namen und anstatt der drei verhandenen Erbs Interessenten als des Herrn Ableibers seel. eheleiblich baidtpendigen Brueder <rs type="person" ref="#jais_joseph">Joseph Jais</rs> seiner Profession ain Pilthauer, dan des auch verstorbenen Brueder <rs type="person" ref="#jais_johan_michael">Johan Michael Jais</rs> bei <rs type="person" ref="#holzer_anna_maria">Anna Maria Holzerin</rs> in Ehepandt ainzig erzeigten Sohn <rs type="person" ref="#jais_joseph">Joseph Jais</rs>, und der Schwester <rs type="person" ref="#jais_catharina">Catharina Jaisin</rs> <rs type="person" ref="#posch_johan">Johan Posch</rs>
+                    <note>
                   <p rend="footnote text"> 
                      <hi rend="italic">Über der Zeile eingefügt.</hi>
                   </p>
@@ -976,7 +978,8 @@
                   <cell>8 f 18 x</cell>
                </row>
                <row>
-                  <cell>Vermig einer weitteren Privat Schuldtbekhantnus von <date when="1768-01-20">20isten Jenner anno 1768</date></cell>
+                  <cell>Vermig einer weitteren Privat Schuldtbekhantnus von <date when="1768-01-20">20isten Jenner anno 1768</date>
+                        </cell>
                   <cell/>
                </row>
             </table>
@@ -1106,7 +1109,8 @@
                   <cell>11 f 48 x</cell>
                </row>
                <row>
-                  <cell>Den <rs type="person" ref="#unterlechner_michael">Michael Unterlechner</rs> Arzt zu <rs type="place" ref="#steegen">Steegen</rs></cell>
+                  <cell>Den <rs type="person" ref="#unterlechner_michael">Michael Unterlechner</rs> Arzt zu <rs type="place" ref="#steegen">Steegen</rs>
+                        </cell>
                   <cell>1 f 3 x</cell>
                </row>
                <row>

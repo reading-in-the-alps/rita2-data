@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -54,7 +55,8 @@
             <p>
                <pb n="477r"/>
             </p>
-            <p>Actum <rs type="place" ref="#st_georgen">St. Georgen</rs> den <date when="1792-11-13">13. November 1792</date></p>
+            <p>Actum <rs type="place" ref="#st_georgen">St. Georgen</rs> den <date when="1792-11-13">13. November 1792</date>
+                </p>
             <p>Vor loblicher Landgerichts Obrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>.</p>
             <p>
                <note>
@@ -88,7 +90,8 @@
             <p>
                <pb n="479r"/>
             </p>
-            <p>Actum <rs type="place" ref="#st_georgen">St. Georgen</rs> in der Kapplaney Behausung den <date when="1792-11-13">13ten November 1792</date></p>
+            <p>Actum <rs type="place" ref="#st_georgen">St. Georgen</rs> in der Kapplaney Behausung den <date when="1792-11-13">13ten November 1792</date>
+                </p>
             <p>Vor loblicher Landgerichts Obrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>.</p>
             <p>Zugegen des wohl geachten <rs type="person" ref="#harrasser_joseph">Joseph Harrasser</rs> Mühlermeisters, und Landgerichts Ausschus allda als zugezohenen Taxatore, und Beysitzer.</p>
             <p>[Marginalzuschreibung:]<note>
@@ -574,7 +577,8 @@
             <p>
                <pb n="484v"/>
             </p>
-            <p>Continuatum <rs type="place" ref="#st_georgen">St. Georgen</rs> den <date when="1792-11-14">14ten November 1792</date></p>
+            <p>Continuatum <rs type="place" ref="#st_georgen">St. Georgen</rs> den <date when="1792-11-14">14ten November 1792</date>
+                </p>
             <p>Vor und zugegen ut ante.</p>
             <p>Wurde in praesentia partium weiters fürgefahren mit der Mobilien Beschreibung und zwar in der</p>
             <p>Stuben Kammer</p>
@@ -1022,7 +1026,8 @@
             <p>
                <pb n="488v"/>
             </p>
-            <p>Continuatum <rs type="place" ref="#st_georgen">St. Georgen</rs> den <date when="1792-11-15">15ten November 1792</date></p>
+            <p>Continuatum <rs type="place" ref="#st_georgen">St. Georgen</rs> den <date when="1792-11-15">15ten November 1792</date>
+                </p>
             <p>Vor und zugegen ut supra.</p>
             <p>Ist man mit der würklichen Ergänzung in Gegenwart, wie einkommen, weiters fürgeschritten, und bestehet in folgenden das</p>
             <p>Vermögen.</p>
@@ -1056,7 +1061,8 @@
                   <cell/>
                </row>
                <row>
-                  <cell><rs type="person" ref="#steeger_joseph">Joseph Steeger</rs> Häuslmayr allda bekennt mitlst an die lobliche Landgerichts Obrigkeit erstatteten Hand Anloben allher schuldig zu seyn Darlehen</cell>
+                  <cell>
+                            <rs type="person" ref="#steeger_joseph">Joseph Steeger</rs> Häuslmayr allda bekennt mitlst an die lobliche Landgerichts Obrigkeit erstatteten Hand Anloben allher schuldig zu seyn Darlehen</cell>
                   <cell>350 f 0 x</cell>
                </row>
                <row>
@@ -1073,7 +1079,8 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell><rs type="person" ref="#herrnegger_johann">Johann Herrnegger</rs> Schneidermeister zu <rs type="place" ref="#soneburg">Sonneburg</rs> ist vermög dato mit selben beschehener Abrechnung noch entlich schuldig verblieben</cell>
+                  <cell>
+                            <rs type="person" ref="#herrnegger_johann">Johann Herrnegger</rs> Schneidermeister zu <rs type="place" ref="#soneburg">Sonneburg</rs> ist vermög dato mit selben beschehener Abrechnung noch entlich schuldig verblieben</cell>
                   <cell>22 f 47 x</cell>
                </row>
             </table>
@@ -1094,7 +1101,8 @@
                <pb n="490v"/>
             </p>
             <p>Auskunft mit deme eröffnet, es seyen ihre, nämlich die <rs type="person" ref="#tratter_veit">Veit Tratterische</rs> Kinder zum mütterlichen, und respective ändlich <rs type="person" ref="#tratter_maria_2">Maria Kammererischen</rs> Vermögen eben nur wegen der Grienbacherischen Ochsen Schuld 400 f zum Vermögen zu conferiren schuldig gewesen, weilen sie ansonst nur 350 f zu conferiren gehabt hätten, hingegen hätte in der ändlich <rs type="person" ref="#tratter_maria_2">Maria Kammererischen</rs> Abhandlung solche 50 f wiederum pr Schuld hinaus eingetragen werden sollen; Um aber dieses zu verhüten, und keine Irrung zu machen, habe sich der geistliche Herr Bruder <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> seel. in das Mittel geleget, und diese Schuld alleinig zu entgelten übernommen. Bey so angebrachter Beschafenheit wurde der Frau <rs type="person" ref="#tratter_anna">Anna verwittweten Tratterin</rs> Glauben beygemessen, mithin die <rs type="person" ref="#tratter_veit">Veit Tratterische</rs> Kinder von dieser Ansprache entlediget.</p>
-            <p><rs type="person" ref="#tratter_mathes">Mathias Tratter</rs> ein Tratter Sohn allda hat von Herrn Ableiber zu Anfangs Monat September 40 f zu Anlechen empfangen, mit der Kreide findet man noch diese Schuld aufgeschrieben, dieser entschuldiget sich aber diese 40 f in kurzer Zeit wiederum zurück gezahlet zu haben, Bedenkhen scheinet aber doch die Sach von darumen zu seyn, weilen dieses Geld nicht zu erfinden, und die Kreiden Note noch unausgelöscht ist, es kommet also noch auf dieses an, obe der <rs type="person" ref="#tratter_mathes">Mathias Tratter</rs> noch weiters auf seinen Vorgeben beharren werde pr Bericht.</p>
+            <p>
+                    <rs type="person" ref="#tratter_mathes">Mathias Tratter</rs> ein Tratter Sohn allda hat von Herrn Ableiber zu Anfangs Monat September 40 f zu Anlechen empfangen, mit der Kreide findet man noch diese Schuld aufgeschrieben, dieser entschuldiget sich aber diese 40 f in kurzer Zeit wiederum zurück gezahlet zu haben, Bedenkhen scheinet aber doch die Sach von darumen zu seyn, weilen dieses Geld nicht zu erfinden, und die Kreiden Note noch unausgelöscht ist, es kommet also noch auf dieses an, obe der <rs type="person" ref="#tratter_mathes">Mathias Tratter</rs> noch weiters auf seinen Vorgeben beharren werde pr Bericht.</p>
             <p>
                <pb n="491r"/>
             </p>
@@ -1118,7 +1126,8 @@
                </note> Keselanger einschlüsslich der 1791ten Benutzung dem Herrn Erblasser zugeeignet, und hieran noch einige Restanten sich befinden, als werden solche allda zum Vermögen beschrieben, und ist noch ausständig</p>
             <table rend="rules">
                <row>
-                  <cell><rs type="person" ref="#pifrader_paul">Paul Pifrader</rs> Bartlmayr von dem 1791ten Nutzen</cell>
+                  <cell>
+                            <rs type="person" ref="#pifrader_paul">Paul Pifrader</rs> Bartlmayr von dem 1791ten Nutzen</cell>
                   <cell>8 f 0 x</cell>
                </row>
                <row>
@@ -1300,7 +1309,8 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Für die <rs type="person" ref="#herrnegger_johann">Johann Herrneggerische</rs> Übergab hat die <rs type="person" ref="#tratter_veit">Veit</rs><note>
+                  <cell>Für die <rs type="person" ref="#herrnegger_johann">Johann Herrneggerische</rs> Übergab hat die <rs type="person" ref="#tratter_veit">Veit</rs>
+                            <note>
                         <p rend="footnote text"> V <hi rend="italic" xml:space="preserve">korrigiert aus </hi>J.</p>
                   </note> <rs type="person" ref="#tratter_veit">Tratterische</rs> Wittib <rs type="person" ref="#tratter_anna">Anna gebohrne Ofnerin</rs> in <rs type="place" ref="#brunegg">Bruneck</rs> ausgeleget</cell>
                   <cell>1 f 27 x</cell>
@@ -1393,7 +1403,8 @@
                            <hi rend="superscript">-30</hi> 
                            <hi rend="italic">Am linken Rand nachgetragen.</hi>
                         </p>
-                     </note>Dem <rs type="person" ref="#hofer_georg">Georg Hofer</rs> Stadtmetzer in <rs type="place" ref="#brunegg">Bruneck</rs></cell>
+                     </note>Dem <rs type="person" ref="#hofer_georg">Georg Hofer</rs> Stadtmetzer in <rs type="place" ref="#brunegg">Bruneck</rs>
+                        </cell>
                   <cell>4 f 24 x</cell>
                </row>
                <row>
@@ -1428,7 +1439,8 @@
                <pb n="495v"/>
             </p>
             <p>gewendet werde. Um aber einer loblichen Landgerichts Obrigkeit wegen Bestimmung der Erbgelder, und der ad pias causas gemeinten Legaten das behörige anhanden zu geben, weise die schon öfters allegirt mütterliche <rs type="person" ref="#tratter_maria_2">Maria Kammererische</rs> Abhandlung, und zugleich vorige Vermögens Ergänzung, das abgeleibter Herr Bruder am mütterlichen Erb 628 f 37 x überkommen habe; Von seinen Vater <rs type="person" ref="#tratter_mathes">Mathias Tratter</rs> aber habe das Erb, über was Herr Bruder sel. in studiis verbrauchet, 400 f noch betroffen. Ohngeachtet nun der Bruder <rs type="person" ref="#tratter_mathes">Mathias Tratter</rs> solch väterlich entliches Erb, weilen nämlich kein Abhandlungsbrief verhanden, nur mit 330 f ansaget, und ohngeachtet allererst die Frag wäre, obe was Herr Bruder sel. in studiis verbrauchet, und deme von väterlichen Erb abzezchn [sic!] worden, nicht doch auch zum ganzen väterlichen Erb hinzuzusetzen, mithin dieses auf 600 f zu berechnen wäre, so haben doch die Erbs Interessenten und Vertrettern das väter- und mütterliche Erb überhaupts auf 1000 f geachtet, und zur Vertheillung fest gesetzet.</p>
-            <p>Es verbleiben demenach gemäs des geistlichen Herrn brüderlichen Willens, welchen nicht nur allein der <rs type="person" ref="#hueber_christian">Christian Hueber</rs></p>
+            <p>Es verbleiben demenach gemäs des geistlichen Herrn brüderlichen Willens, welchen nicht nur allein der <rs type="person" ref="#hueber_christian">Christian Hueber</rs>
+                </p>
             <p>
                <pb n="496r"/>
             </p>
@@ -1461,7 +1473,8 @@
                   <cell>5 f 0 x</cell>
                </row>
                <row>
-                  <cell>Dann entlich denen Armen zu <rs type="place" ref="#st_georgen">St. Georgen</rs></cell>
+                  <cell>Dann entlich denen Armen zu <rs type="place" ref="#st_georgen">St. Georgen</rs>
+                        </cell>
                   <cell/>
                </row>
             </table>
@@ -1642,7 +1655,8 @@
                   <cell>10 f 30 x</cell>
                </row>
                <row>
-                  <cell>Bey <rs type="person" ref="#herrnegger_johann">Johann Herrnegger</rs> Schneidermeister zu <rs type="place" ref="#soneburg">Sonneburg</rs></cell>
+                  <cell>Bey <rs type="person" ref="#herrnegger_johann">Johann Herrnegger</rs> Schneidermeister zu <rs type="place" ref="#soneburg">Sonneburg</rs>
+                        </cell>
                   <cell>22 f 47 x</cell>
                </row>
                <row>
@@ -1684,7 +1698,8 @@
                   <cell>2 f 0 x</cell>
                </row>
                <row>
-                  <cell>Dem geistlichen Herrn <rs type="person" ref="#rainer_peter_paul">Peter Paul Rainer</rs> zu <rs type="person" ref="#brunegg">Bruneck</rs></cell>
+                  <cell>Dem geistlichen Herrn <rs type="person" ref="#rainer_peter_paul">Peter Paul Rainer</rs> zu <rs type="person" ref="#brunegg">Bruneck</rs>
+                        </cell>
                   <cell>3 f 36 x</cell>
                </row>
                <row>
@@ -1692,7 +1707,8 @@
                   <cell>1 f 12 x</cell>
                </row>
                <row>
-                  <cell>In die Stadt Appoteck zu <rs type="person" ref="#brunegg">Bruneck</rs></cell>
+                  <cell>In die Stadt Appoteck zu <rs type="person" ref="#brunegg">Bruneck</rs>
+                        </cell>
                   <cell>2 f 0 x</cell>
                </row>
                <row>
@@ -1708,7 +1724,8 @@
                   <cell>49 f 26 x</cell>
                </row>
                <row>
-                  <cell>Herrn Grienbacher zu <rs type="place" ref="#kiens">Kiens</rs></cell>
+                  <cell>Herrn Grienbacher zu <rs type="place" ref="#kiens">Kiens</rs>
+                        </cell>
                   <cell>39 f 0 x</cell>
                </row>
                <row>
@@ -1749,7 +1766,8 @@
                   <cell>2 f 0 x</cell>
                </row>
                <row>
-                  <cell>Seiner Mutter <rs type="person" ref="#tratter_maria">Maria verwittweten Pifraderin</rs></cell>
+                  <cell>Seiner Mutter <rs type="person" ref="#tratter_maria">Maria verwittweten Pifraderin</rs>
+                        </cell>
                   <cell>45 x</cell>
                </row>
                <row>

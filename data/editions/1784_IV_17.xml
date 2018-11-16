@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -62,7 +63,8 @@
                      <hi rend="italic">Über der Zeile eingefügt.</hi>
                   </p>
                </note> angewendet werden sollen.</p>
-            <p>3tio: Gleichwie ich Endes geförtigter verschieden Geschwistrigt habe, und meine baidbändige Schwester <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Erlacherin</rs> schon mehrer als zu genugen in Leben von mir empfangen, und überdas auch das bessere mütterliche Vermögen an sich gezochen hat, zugleich ich aber auch von meinen liebsten Herrn Bruder <rs type="person" ref="#gassmayr_joseph">Joseph</rs>, und der Jungfrau Schwester <rs type="person" ref="#gassmayr_maria_notburga">Nothburg</rs> wahrhaft vätterliche Verpflegung genossen, dafür ich nicht instand bin satsam zu dankhen, und nur den Allmächtigen inständig bitte, das er selben sie an mir erwiesnen Liebe reichlich vergelten wolle, und zu der Frau Schwester <rs type="person" ref="#von_aschauer_maria_agnes">Agnes</rs><note>
+            <p>3tio: Gleichwie ich Endes geförtigter verschieden Geschwistrigt habe, und meine baidbändige Schwester <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Erlacherin</rs> schon mehrer als zu genugen in Leben von mir empfangen, und überdas auch das bessere mütterliche Vermögen an sich gezochen hat, zugleich ich aber auch von meinen liebsten Herrn Bruder <rs type="person" ref="#gassmayr_joseph">Joseph</rs>, und der Jungfrau Schwester <rs type="person" ref="#gassmayr_maria_notburga">Nothburg</rs> wahrhaft vätterliche Verpflegung genossen, dafür ich nicht instand bin satsam zu dankhen, und nur den Allmächtigen inständig bitte, das er selben sie an mir erwiesnen Liebe reichlich vergelten wolle, und zu der Frau Schwester <rs type="person" ref="#von_aschauer_maria_agnes">Agnes</rs>
+                    <note>
                   <p rend="footnote text"> 
                      <hi rend="italic">Über der Zeile eingefügt.</hi>
                   </p>
@@ -78,7 +80,8 @@
                   <p rend="footnote text"> 
                      <hi rend="italic">Über der Zeile eingefügt.</hi>
                   </p>
-            </note>drey liebsten<hi rend="superscript">4</hi> Geschwistrigten, als nemlich der Frauen Schwester <rs type="person" ref="#von_aschauer_maria_agnes">Maria Agnes v. Aschauer</rs>, Herrn Bruder Joseph Candidus, und der Jungfrauen Schwester <rs type="person" ref="#gassmayr_maria_notburga">Maria Notburga</rs> das restierende übrige Vermögen sicher und ruhig zukommen, also zwar, das, wenn ein oder das andere von diesen drey liebsten Geschwistrigten, so Gott gnädig verhütten wolle, vor mainen annoch das Zeitliche seegnen solle, so solle dieser Antheill des Abgelebten unter die übrig in Leben verbleibende Geschwistrigte (es wäre dann der Fall das die Frau Schwester <rs type="person" ref="#von_aschauer_maria_agnes">v. Aschauer</rs> abgienge, so solle jederzeit anstatt ihr ihre Kinder insgesamt den Antheill an sich zu ziechen berechtiget seyn) zu gleichen Theilen zukommen, und wenn auch nur eins übrig bleibt, so soll selbes die ganze nur mögliche Vermachtnus an sich ziechen mögen. Schlüsslichen soferne dieses obige nicht als ein Testament ihre Kräften beyhälte, so solle solches als ein Codicill und mein Lezter Willen angesechen werden. Zu Bekräftigung dessen mich auch eigenhändig unterschreibe und mein Petschaft furdrukhe. <rs type="place" ref="#innsprugg">Innsprugg</rs> den <date when="1784-04-17">17ten Apprill 1784</date></p>
+            </note>drey liebsten<hi rend="superscript">4</hi> Geschwistrigten, als nemlich der Frauen Schwester <rs type="person" ref="#von_aschauer_maria_agnes">Maria Agnes v. Aschauer</rs>, Herrn Bruder Joseph Candidus, und der Jungfrauen Schwester <rs type="person" ref="#gassmayr_maria_notburga">Maria Notburga</rs> das restierende übrige Vermögen sicher und ruhig zukommen, also zwar, das, wenn ein oder das andere von diesen drey liebsten Geschwistrigten, so Gott gnädig verhütten wolle, vor mainen annoch das Zeitliche seegnen solle, so solle dieser Antheill des Abgelebten unter die übrig in Leben verbleibende Geschwistrigte (es wäre dann der Fall das die Frau Schwester <rs type="person" ref="#von_aschauer_maria_agnes">v. Aschauer</rs> abgienge, so solle jederzeit anstatt ihr ihre Kinder insgesamt den Antheill an sich zu ziechen berechtiget seyn) zu gleichen Theilen zukommen, und wenn auch nur eins übrig bleibt, so soll selbes die ganze nur mögliche Vermachtnus an sich ziechen mögen. Schlüsslichen soferne dieses obige nicht als ein Testament ihre Kräften beyhälte, so solle solches als ein Codicill und mein Lezter Willen angesechen werden. Zu Bekräftigung dessen mich auch eigenhändig unterschreibe und mein Petschaft furdrukhe. <rs type="place" ref="#innsbruck">Innsprugg</rs> den <date when="1784-04-17">17ten Apprill 1784</date>
+                </p>
             <p>[Siegel und eigenhändige Unterschrift:] <rs type="person" ref="#gassmayr_antoni_ignati">Antoni Ignati Gassmayr</rs> Priester manu propria</p>
             <p>
                <pb n="417v"/>
@@ -88,11 +91,14 @@
                <pb n="426v"/>
             </p>
             <p>[Siegel und eigenhändige Unterschrift:] <rs type="person" ref="#erlacher_johann_martin">Johann Martin Erlacher</rs> propria Kays.-Königl. Waldamts Practicant</p>
-            <p>[Siegel und eigenhändige Unterschrift:] <rs type="person" ref="#von_sonvicis_joseph_ignaz">Joseph Ignaz v. Sonvicis</rs> propria als Curator der in östl. Pohlen zu <rs type="place" ref="#lemberg">Lemberg</rs> befindlichen Jungfrau <rs type="person" ref="#gassmayr_maria_notburga">Notburg Erlachin</rs></p>
+            <p>[Siegel und eigenhändige Unterschrift:] <rs type="person" ref="#von_sonvicis_joseph_ignaz">Joseph Ignaz v. Sonvicis</rs> propria als Curator der in östl. Pohlen zu <rs type="place" ref="#lemberg">Lemberg</rs> befindlichen Jungfrau <rs type="person" ref="#gassmayr_maria_notburga">Notburg Erlachin</rs>
+                </p>
             <p>[Siegel und eigenhändige Unterschrift:] <rs type="person" ref="#klinger_maria_veronica">Maria Veronica Klinglerin</rs> gebohrne Erlacherin</p>
             <p>[Siegel und eigenhändige Unterschrift:] <rs type="person" ref="#klinger_johann_niclaus">Johann Niclaus Klingler</rs> propria als Ehevogt billichster Anweiser.</p>
-            <p>[Siegel und eigenhändige Unterschrift:] <rs type="person" ref="#erlacher_anna_theresia">Anna Thereßia Erlacherin</rs></p>
-            <p>[Siegel und eigenhändige Unterschrift:] <rs type="person" ref="#erlacher_maria_catharina">Maria Cathrina Erlacherin</rs></p>
+            <p>[Siegel und eigenhändige Unterschrift:] <rs type="person" ref="#erlacher_anna_theresia">Anna Thereßia Erlacherin</rs>
+                </p>
+            <p>[Siegel und eigenhändige Unterschrift:] <rs type="person" ref="#erlacher_maria_catharina">Maria Cathrina Erlacherin</rs>
+                </p>
             <p>[Siegel und eigenhändige Unterschrift:] <rs type="person" ref="#eysankh_von_marienfels_ignati_benedict">Ignati Benedict Eysankh von Marienfels</rs> propria als hochverpflichter Anweiser.</p>
             <p>
                <pb n="414r"/>
@@ -104,9 +110,13 @@
                      <hi rend="italic">Über der Zeile eingefügt.</hi>
                   </p>
             </note> die betreffenden Theile aushändigen solle. Wir gewärtigen auch seiner Zeit nebst einer vidimirten Abschrift von den geführten Abhandlungsakten den behörigen Bericht, und verbleiben anbey dem Herrn wohl beygethan. Gegeben in Consistorio zu <rs type="place" ref="#brixen">Brixen</rs> den <date when="1784-05-24">24ten May 1784</date>.</p>
-            <p><rs type="person" ref="#taxis_felix">Felix Taxis</rs></p>
+            <p>
+                    <rs type="person" ref="#taxis_felix">Felix Taxis</rs>
+                </p>
             <p>Praesident m.p.</p>
-            <p><rs type="person" ref="#pirchstaller_johann_baptist">Johann Baptist Pirchstaller</rs></p>
+            <p>
+                    <rs type="person" ref="#pirchstaller_johann_baptist">Johann Baptist Pirchstaller</rs>
+                </p>
             <p>Secret. m.p.</p>
             <p>[Taxvermerk:] Taxa 1 f 12 x</p>
             <p>
@@ -114,7 +124,8 @@
             </p>
             <p>[Aktenvermerk:] Lit A.</p>
             <p>[Briefadresse:] Dem ehrwürdigen, edlen, und hochgelehrten <rs type="person" ref="#von_lutz_zu_gwelfenstein_kaspar_sebastian">Kaspar Sebastian v. Lutz zu Gwelfenstein</rs>, protonotario apostolica, fürstlich Brixnerisch wirklich geistlichen Rath, auch Dechant, und Pfarrer zu <rs type="place" ref="#brunegg">Bruneck</rs>, unserm besonders lieben Freund, und Herrn.</p>
-            <p><rs type="place" ref="#brunegg">Bruneck</rs>.</p>
+            <p>
+                    <rs type="place" ref="#brunegg">Bruneck</rs>.</p>
             <p>
                <pb n="425v"/>
             </p>
@@ -125,7 +136,8 @@
             <p>
                <pb n="418r"/>
             </p>
-            <p>Actum <rs type="place" ref="#st_lorenzen">St. Laurenzen</rs> in den Pfarr Hof den <date when="1784-06-19">19ten Juni 1784</date></p>
+            <p>Actum <rs type="place" ref="#st_lorenzen">St. Laurenzen</rs> in den Pfarr Hof den <date when="1784-06-19">19ten Juni 1784</date>
+                </p>
             <p>Vor</p>
             <table rend="rules">
                <row>
@@ -225,7 +237,7 @@
             <p>
                <pb n="418v"/>
             </p>
-            <p>zumahlen auch eine gewisse testamentarische Verordnung vor seiner anhero Reis von <rs type="place" ref="#innsprugg">Insbruck</rs> aufgerichtet haben solle, und eben darum bereits an gästert an eine hochverordnet hochgeistliche Commission etc. und an die Landgerichts Obrigkeit das schriftliche Ersuchen von Seite der in solchem Testament benamsten Herrn Partheien gestöllet worden, eben am dato mit der Erweiterung dieses Testaments behörig für zu gehen, so wurde nicht nur allein zu dem Ende, sondern auch was weiters in dieser Abhandlungs Sache vorzunemen die Anstalt gnädig und respective großgünstig verwilliget, und seye man bereit vorläufig die Herrn Erbs Nemmern, und wer weiters interessieret hierüber zu vernemen.</p>
+            <p>zumahlen auch eine gewisse testamentarische Verordnung vor seiner anhero Reis von <rs type="place" ref="#innsbruck">Insbruck</rs> aufgerichtet haben solle, und eben darum bereits an gästert an eine hochverordnet hochgeistliche Commission etc. und an die Landgerichts Obrigkeit das schriftliche Ersuchen von Seite der in solchem Testament benamsten Herrn Partheien gestöllet worden, eben am dato mit der Erweiterung dieses Testaments behörig für zu gehen, so wurde nicht nur allein zu dem Ende, sondern auch was weiters in dieser Abhandlungs Sache vorzunemen die Anstalt gnädig und respective großgünstig verwilliget, und seye man bereit vorläufig die Herrn Erbs Nemmern, und wer weiters interessieret hierüber zu vernemen.</p>
             <p>Auf solch gnadig commissionalischen und Land Gerichts obrigkeitlich Vortrag haben Seiner Hochwirden Herr Pfarrer <rs type="person" ref="#gassmayr_joseph">Josef Gaßmayr</rs>, dan die Jungfrau Schwester <rs type="person" ref="#gassmayr_maria_notburga">Nothwurga Gaßmayrin</rs> in dato verpflichter Anweisschaft titl. Herr <rs type="person" ref="#von_elzenbaum_johann_rudolph">Johan <hi rend="strikethrough">Rupd</hi> Rudolph v. Elzenbaum</rs> daselbs, nichtweniger vor erst wohlgedacht titl. Herr <rs type="person" ref="#von_elzenbaum_johann_rudolph">von Elzenbaum</rs> in gewalthäblichen Nam der Frau Schwester <rs type="person" ref="#von_aschauer_maria_agnes">Maria Agnes Gasmayrin</rs> des wohledel gebohrn Herrn <rs type="person" ref="#von_aschauer_franz_carl">Franz Carl v. Aschauer</rs> v. Achen-</p>
             <p>
                <pb n="419r"/>
@@ -507,13 +519,15 @@
             <p>2 Jungfrau <rs type="person" ref="#gassmayr_maria_notburga">Nothwurga</rs>.</p>
             <p>3 Frau Maria Faronicä Herr <rs type="person" ref="#klinger_johann_niclaus">Johann Niclaus Klingler</rs> k. k. Bergschreiberen zu <rs type="place" ref="#schwaz">Schwatz</rs> Ehegatin.</p>
             <p>4 Jungfrau <rs type="person" ref="#erlacher_anna_theresia">Anna Theresia</rs>, und</p>
-            <p>5 Jungfrau <rs type="person" ref="#erlacher_maria_catharina">Maria Catharina v. Erlach</rs></p>
+            <p>5 Jungfrau <rs type="person" ref="#erlacher_maria_catharina">Maria Catharina v. Erlach</rs>
+                </p>
             <p>Welch diese 5 Erbstollen, wievor gedacht Herr <rs type="person" ref="#salcher_jakob_vallentin">Jacob Salcher</rs> vertritet,</p>
             <p>Weters erzeügt vor wohlgedachter Herr <rs type="person" ref="#gassmayr_johan_anton">Johan Anton Gaßmayr</rs> bey seiner 2[ten] gehabten Ehefrau <rs type="person" ref="#von_wagner_maria_ursula">Maria <hi rend="strikethrough">Anna</hi> Ursula gebohnen [sic!] v. Wagner</rs>.</p>
             <p>3: Eine Tochter Frau <rs type="person" ref="#von_aschauer_maria_agnes">Agnes verwittwe von Aschauer</rs> und</p>
             <p>Bey seiner letzt gehabten Ehefrau <rs type="person" ref="#von_eiberg_maria_anna">Maria Anna gebohrene v. Eiberg</rs> noch 2 Descendenten</p>
             <p>4: Seiner hochwirdigen dem aldaigen Herrn Pfarrer <rs type="person" ref="#gassmayr_joseph">Josef Canditus Gaßmayr</rs> und</p>
-            <p>5tens Jungfrau <rs type="person" ref="#gassmayr_maria_notburga">Nothburga Gaßmayrin</rs></p>
+            <p>5tens Jungfrau <rs type="person" ref="#gassmayr_maria_notburga">Nothburga Gaßmayrin</rs>
+                </p>
             <p>Welche wie einkomen in Anweiserschaft titl. Herr <rs type="person" ref="#von_elzenbaum_johann_rudolph">v. Elzenbaum</rs>, welcher zugleich die verwittwe Frau <rs type="person" ref="#von_aschauer_maria_agnes">v. Aschauer</rs> zugegen handlet.</p>
             <p>
                <pb n="424r"/>
@@ -558,10 +572,15 @@
                <pb n="425r"/>
             </p>
             <p>zu Bekräftigung sich alda eigenhandig alda Act Protocolls unterschriben.</p>
-            <p><rs type="person" ref="#salcher_jakob_vallentin">Jakob Valentin Salcher</rs> als gewalthaber ut in actis.</p>
-            <p><rs type="person" ref="#gassmayr_maria_notburga">Maria Nothburgä Gassmayrin</rs></p>
-            <p><rs type="person" ref="#von_elzenbaum_johann_rudolph">Johann Joseph Rudolph v. Elzenpaum</rs> m.p. als Anweiser und Gwalthaber etc.</p>
-            <p><rs type="person" ref="#gassmayr_joseph">Joseph Candidus Gassmayr</rs> Pfarrer zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> m.p.</p>
+            <p>
+                    <rs type="person" ref="#salcher_jakob_vallentin">Jakob Valentin Salcher</rs> als gewalthaber ut in actis.</p>
+            <p>
+                    <rs type="person" ref="#gassmayr_maria_notburga">Maria Nothburgä Gassmayrin</rs>
+                </p>
+            <p>
+                    <rs type="person" ref="#von_elzenbaum_johann_rudolph">Johann Joseph Rudolph v. Elzenpaum</rs> m.p. als Anweiser und Gwalthaber etc.</p>
+            <p>
+                    <rs type="person" ref="#gassmayr_joseph">Joseph Candidus Gassmayr</rs> Pfarrer zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> m.p.</p>
          </div>
       </body>
    </text>

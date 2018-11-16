@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -3337,7 +3338,8 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>Ain Contrave des Herrn Ableibers Herrn Vöter Joseph Heleiter gewest Graf Welspergischen Beneficiaten zu <rs type="place" ref="#brunegg">Bruneck</rs></cell>
+                     <cell>Ain Contrave des Herrn Ableibers Herrn Vöter Joseph Heleiter gewest Graf Welspergischen Beneficiaten zu <rs type="place" ref="#brunegg">Bruneck</rs>
+                            </cell>
                      <cell>24 x</cell>
                   </row>
                   <row>
@@ -3457,7 +3459,8 @@
                   </row>
                </table>
                <p>In praesentia des wohl edlen Herren <rs type="person" ref="#gassmeyr_johann_franz">Johann Franz Gassmeyr</rs> hochfürstlich Brixnerischen Commission, und Amtschreiberes zu <rs type="place" ref="#brunegg">Brunegg</rs> als von hoch geistlicher Commission etc. zugezochenen,</p>
-               <p>Und des <hi rend="strikethrough">wohl edlgebohrnen Herrn <rs type="person" ref="#turneretscher_johann_joseph">Johann Joseph Turneretscher</rs> Hof- und Urbäry Amtmanns alda</hi> Amtschreiber <rs type="person" ref="#salcher_jakob_vallentin">Jakob Valentin Salchers</rs></p>
+               <p>Und des <hi rend="strikethrough">wohl edlgebohrnen Herrn <rs type="person" ref="#turneretscher_johann_joseph">Johann Joseph Turneretscher</rs> Hof- und Urbäry Amtmanns alda</hi> Amtschreiber <rs type="person" ref="#salcher_jakob_vallentin">Jakob Valentin Salchers</rs>
+                    </p>
                <p>[1v]</p>
                <p>als von Seite der weltlichen Commission etc. zuegezochenen Beysassen.</p>
                <p>Actuante die Sonnenburgische Hofgerichtschreiberey.</p>
@@ -3502,7 +3505,8 @@
                         <hi rend="superscript">-25</hi> 
                         <hi rend="italic">Auf der linken Seite eingefügt.</hi>
                      </p>
-                  </note>Gegenwarth des commissionalisch bestelten Vertretter titl. Herr Hof Amtman <rs type="person" ref="#turneretscher_johann_joseph">Johann Joseph Turneretschers</rs><hi rend="superscript">25</hi> vorgenommen worden dise</p>
+                  </note>Gegenwarth des commissionalisch bestelten Vertretter titl. Herr Hof Amtman <rs type="person" ref="#turneretscher_johann_joseph">Johann Joseph Turneretschers</rs>
+                        <hi rend="superscript">25</hi> vorgenommen worden dise</p>
                <p>Inventur</p>
                <p>In der untern Stuben</p>
                <table rend="rules">
@@ -5643,7 +5647,8 @@
                      <cell>30 x</cell>
                   </row>
                   <row>
-                     <cell><rs type="person" ref="#niderbacher_hans">Hans Niderbacher</rs> 1 f 30 x</cell>
+                     <cell>
+                                <rs type="person" ref="#niderbacher_hans">Hans Niderbacher</rs> 1 f 30 x</cell>
                      <cell>1 schwarzer Gewant Kasten mit Schloss und Banden <note>
                            <p rend="footnote text">
                               <hi rend="superscript">-98</hi> 
@@ -7263,7 +7268,8 @@
                   </row>
                   <row>
                      <cell/>
-                     <cell>1 Contrave des Herrn Ableibers Herrn Vötern <rs type="person" ref="#heleiter_joseph">Joseph Heleiter</rs> gewest Graf Welspergischen Beneficiaten zu <rs type="place" ref="#brunegg">Bruneck</rs></cell>
+                     <cell>1 Contrave des Herrn Ableibers Herrn Vötern <rs type="person" ref="#heleiter_joseph">Joseph Heleiter</rs> gewest Graf Welspergischen Beneficiaten zu <rs type="place" ref="#brunegg">Bruneck</rs>
+                            </cell>
                      <cell>24 x</cell>
                   </row>
                   <row>
@@ -7713,7 +7719,8 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_schwarz_imperii_princeps_ecclesiasticus">Imperii Prineps [sic!]<hi xml:space="preserve"> Ecclesiasticus P. Schwarz</hi></rs> französischer Bund.
+                        <rs type="bibl" ref="#p_schwarz_imperii_princeps_ecclesiasticus">Imperii Prineps [sic!]<hi xml:space="preserve"> Ecclesiasticus P. Schwarz</hi>
+                                </rs> französischer Bund.
                      </cell>
                   </row>
                   <row>
@@ -10354,15 +10361,18 @@
                      <cell>32 x</cell>
                   </row>
                   <row>
-                     <cell><rs type="person" ref="#mutschlechner_simon">Simon Mutschlechnerische</rs> Verlassenschafft zu Lothen</cell>
+                     <cell>
+                                <rs type="person" ref="#mutschlechner_simon">Simon Mutschlechnerische</rs> Verlassenschafft zu Lothen</cell>
                      <cell>18¾ x</cell>
                   </row>
                   <row>
-                     <cell><rs type="person" ref="#nideregger_hanns">Hanns Nideregger</rs> Bäck zu <rs type="place" ref="#ollang">Ollang</rs> 10 Stär Roggen à 52 x thutt 8 f 40 x und in Geldt 6 x zusamen</cell>
+                     <cell>
+                                <rs type="person" ref="#nideregger_hanns">Hanns Nideregger</rs> Bäck zu <rs type="place" ref="#ollang">Ollang</rs> 10 Stär Roggen à 52 x thutt 8 f 40 x und in Geldt 6 x zusamen</cell>
                      <cell>8f 46 x</cell>
                   </row>
                   <row>
-                     <cell><rs type="person" ref="#grueber_hans">Hans Grueber</rs> Erschpämer zu <rs type="place" ref="#moos">Moos</rs> 6 Stär Gersten à 50 x</cell>
+                     <cell>
+                                <rs type="person" ref="#grueber_hans">Hans Grueber</rs> Erschpämer zu <rs type="place" ref="#moos">Moos</rs> 6 Stär Gersten à 50 x</cell>
                      <cell>5 f 0 x</cell>
                   </row>
                   <row>
@@ -10370,7 +10380,8 @@
                      <cell>4 x</cell>
                   </row>
                   <row>
-                     <cell>Weidacher zu <rs type="place" ref="#moos">Moos</rs></cell>
+                     <cell>Weidacher zu <rs type="place" ref="#moos">Moos</rs>
+                            </cell>
                      <cell>12 x</cell>
                   </row>
                   <row>
@@ -10491,7 +10502,8 @@
                      <cell>18 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Mathias Mitterhofer Mayr zu <rs type="place" ref="#grasstein">Grasstain</rs></cell>
+                     <cell>Mathias Mitterhofer Mayr zu <rs type="place" ref="#grasstein">Grasstain</rs>
+                            </cell>
                      <cell>11 f 0 x</cell>
                   </row>
                   <row>
@@ -11334,7 +11346,8 @@
                      <cell>8 x</cell>
                   </row>
                </table>
-               <p>Peter Mayr zu <rs type="place" ref="#grasstein">Grasstain</rs></p>
+               <p>Peter Mayr zu <rs type="place" ref="#grasstein">Grasstain</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>1 Bettstatt dt.</cell>
@@ -11375,7 +11388,8 @@
                      <cell>5 x</cell>
                   </row>
                </table>
-               <p>Rader zu <rs type="place" ref="#brunegg">Bruneck</rs></p>
+               <p>Rader zu <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>Unterschidliche Bilder dt.</cell>
@@ -11441,7 +11455,8 @@
                   </row>
                </table>
                <p>[3r]</p>
-               <p>Frau Gerichtsscheiberin zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></p>
+               <p>Frau Gerichtsscheiberin zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>1 Korb, fol. 5, dt.</cell>
@@ -11629,7 +11644,8 @@
                      <cell>38 f 14 x</cell>
                   </row>
                </table>
-               <p>Klampperer zu <rs type="place" ref="#st_martin">St. Martin</rs></p>
+               <p>Klampperer zu <rs type="place" ref="#st_martin">St. Martin</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>1 Becher wigt 8 Loth à 1 f 4 x dt.</cell>
@@ -11769,7 +11785,8 @@
                      <cell>5 f 6 x</cell>
                   </row>
                </table>
-               <p>Herr Supernumerario zu <rs type="place" ref="#gais">Gais</rs></p>
+               <p>Herr Supernumerario zu <rs type="place" ref="#gais">Gais</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>1 Sackuhr dt.</cell>
@@ -11837,7 +11854,8 @@
                      <cell/>
                   </row>
                </table>
-               <p>Ziller zu <rs type="place" ref="#st_lorenzen">Lorenzen</rs></p>
+               <p>Ziller zu <rs type="place" ref="#st_lorenzen">Lorenzen</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>1 Ziller Hut und deto Hosen dt.</cell>
@@ -11924,7 +11942,8 @@
                      <cell>21 x</cell>
                   </row>
                </table>
-               <p>Luck Beck zu <rs type="place" ref="#brunegg">Bruneck</rs></p>
+               <p>Luck Beck zu <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>2 Spin Räder fol. 7 dt.</cell>
@@ -12036,7 +12055,8 @@
                      <cell>14 x</cell>
                   </row>
                </table>
-               <p>Herr Bixenmacher zu <rs type="place" ref="#st_lorenzen">Lorenzen</rs></p>
+               <p>Herr Bixenmacher zu <rs type="place" ref="#st_lorenzen">Lorenzen</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>2 kupferne Schisselen fol. 8 dt.</cell>
@@ -12546,7 +12566,8 @@
                      </cell>
                   </row>
                </table>
-               <p>Winkler zu <rs type="place" ref="#saalen">Saalen</rs></p>
+               <p>Winkler zu <rs type="place" ref="#saalen">Saalen</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>1 Truchen dt.</cell>
@@ -12559,7 +12580,8 @@
                      <cell>3 x</cell>
                   </row>
                </table>
-               <p>Garber in <rs type="place" ref="#pflaurenz">Pflaurenz</rs></p>
+               <p>Garber in <rs type="place" ref="#pflaurenz">Pflaurenz</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>1 Streicher etc. dt.</cell>
@@ -12866,7 +12888,8 @@
                      <cell>31 x</cell>
                   </row>
                </table>
-               <p>Bedienter v. Herr Dechant zu <rs type="place" ref="#brunegg">Bruneck</rs></p>
+               <p>Bedienter v. Herr Dechant zu <rs type="place" ref="#brunegg">Bruneck</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>2 Hemat Knöpfler, dt.</cell>
@@ -13175,7 +13198,8 @@
                      <cell>15 x</cell>
                   </row>
                </table>
-               <p>Wolleschager Sohn zu <rs type="place" ref="#moos">Moos</rs></p>
+               <p>Wolleschager Sohn zu <rs type="place" ref="#moos">Moos</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>Messer, und 1 Haspl Spindl dt.</cell>
@@ -13715,7 +13739,8 @@
                   </row>
                </table>
                <p>[11r]</p>
-               <p>Fischer in <rs type="place" ref="#pflaurenz">Pflaurenz</rs></p>
+               <p>Fischer in <rs type="place" ref="#pflaurenz">Pflaurenz</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>2 schlechte Leilacher dt.</cell>
@@ -13790,7 +13815,8 @@
                   </row>
                </table>
                <p>[11v]</p>
-               <p>Titl. Herr Pfarrer zu <rs type="place" ref="#gais">Gais</rs></p>
+               <p>Titl. Herr Pfarrer zu <rs type="place" ref="#gais">Gais</rs>
+                    </p>
                <table rend="rules">
                   <row>
                      <cell>Fir 1 Werchschuch dt.</cell>

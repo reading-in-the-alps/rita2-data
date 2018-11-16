@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -89,7 +90,9 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell><rs type="person" ref="#forer_johann">Forer</rs> jetztigen Perlbauer am Sand ersagten Landgerichts <rs type="place" ref="#taufers">Taufers</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#forer_johann">Forer</rs> jetztigen Perlbauer am Sand ersagten Landgerichts <rs type="place" ref="#taufers">Taufers</rs>
+                        </cell>
                   <cell>300 f 0 x</cell>
                </row>
                <row>
@@ -136,7 +139,8 @@
             <p>Abzüge</p>
             <table rend="rules">
                <row>
-                  <cell>Funeral Conto dem loblichen Pfarrwidum allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></cell>
+                  <cell>Funeral Conto dem loblichen Pfarrwidum allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
+                        </cell>
                   <cell>19 f 33 x</cell>
                </row>
                <row>
@@ -169,7 +173,8 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Und von der Mutter <rs type="person" ref="#mayr_katharina">Katharina Mayrin</rs></cell>
+                  <cell>Und von der Mutter <rs type="person" ref="#mayr_katharina">Katharina Mayrin</rs>
+                        </cell>
                   <cell>140 f 0 x</cell>
                </row>
                <row>
@@ -189,7 +194,8 @@
                   <cell>334 f 45¾ x</cell>
                </row>
                <row>
-                  <cell>Davon gebührt ein Drittel der Lorreto Kirchen zu <rs type="place" ref="#saalen">Saalen</rs></cell>
+                  <cell>Davon gebührt ein Drittel der Lorreto Kirchen zu <rs type="place" ref="#saalen">Saalen</rs>
+                        </cell>
                   <cell>111 f 35¼ x</cell>
                </row>
                <row>

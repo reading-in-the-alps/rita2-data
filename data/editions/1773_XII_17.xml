@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -1879,7 +1880,8 @@
                   <cell>1 f 19 x</cell>
                </row>
                <row>
-                  <cell>Dem Herren Äppoteker zu <rs type="place" ref="#iniching">Iniching</rs></cell>
+                  <cell>Dem Herren Äppoteker zu <rs type="place" ref="#iniching">Iniching</rs>
+                        </cell>
                   <cell>1 f 57 x</cell>
                </row>
                <row>
@@ -1887,7 +1889,8 @@
                   <cell>8 f 52 x</cell>
                </row>
                <row>
-                  <cell>Dem <rs type="person" ref="#perffler_johann">Johann Perffler</rs> Materalisten zu <rs type="place" ref="#dietenheim">Dietenhaim</rs></cell>
+                  <cell>Dem <rs type="person" ref="#perffler_johann">Johann Perffler</rs> Materalisten zu <rs type="place" ref="#dietenheim">Dietenhaim</rs>
+                        </cell>
                   <cell>27 x</cell>
                </row>
                <row>
@@ -2215,7 +2218,8 @@
                      <cell>15 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Wiederumen den <date when="1787-12-16">16ten December 1787</date></cell>
+                     <cell>Wiederumen den <date when="1787-12-16">16ten December 1787</date>
+                            </cell>
                      <cell>12 f 0 x</cell>
                   </row>
                   <row>
@@ -2259,7 +2263,8 @@
                <p>
                   <pb n="182v"/>
                </p>
-               <p><rs type="person" ref="#salcher_jakob_vallentin">Salcher</rs> bestättiget. Allein <hi rend="strikethrough">das</hi> die Haubtfrag nur ist von <rs type="person" ref="#gasser_jacob">Jakob Gasser</rs>, und zur gegenwärtigen Erbschaft als angeblich nur gewunenes Vermögen ein ainbändiger Bruder als nächster in<note>
+               <p>
+                        <rs type="person" ref="#salcher_jakob_vallentin">Salcher</rs> bestättiget. Allein <hi rend="strikethrough">das</hi> die Haubtfrag nur ist von <rs type="person" ref="#gasser_jacob">Jakob Gasser</rs>, und zur gegenwärtigen Erbschaft als angeblich nur gewunenes Vermögen ein ainbändiger Bruder als nächster in<note>
                      <p rend="footnote text"> 
                         <hi rend="italic">Zusammengeschriebenes</hi> nächster in <hi rend="italic">durch Strich getrennt.</hi>
                      </p>

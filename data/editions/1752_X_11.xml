@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -1462,7 +1463,8 @@
                      <hi rend="superscript">-18</hi> 
                      <hi rend="italic">Auf der linken Seite eingefügt.</hi>
                   </p>
-            </note>Caplan zu <rs type="place" ref="#cronburg">Cronburg</rs><hi rend="superscript">18</hi>, den Mädl so bey den Herrn Ableiber in der Cost gewösen, hierfir beyzutragen versprochen, und die bey ihme Herrn Wachtler zu empfangen angewisen hat, Rest deme noch,	12 f 0 x</p>
+            </note>Caplan zu <rs type="place" ref="#cronburg">Cronburg</rs>
+                    <hi rend="superscript">18</hi>, den Mädl so bey den Herrn Ableiber in der Cost gewösen, hierfir beyzutragen versprochen, und die bey ihme Herrn Wachtler zu empfangen angewisen hat, Rest deme noch,	12 f 0 x</p>
             <p>Den <rs type="person" ref="#unterstainer_antany">Antany Unterstainer</rs> Schuester zu <rs type="place" ref="#soneburg">Soneburg</rs>,	1 f 0 x</p>
             <p>Der Funeralconto betrefft sambt</p>
             <p>Latus	18 f 14 x</p>

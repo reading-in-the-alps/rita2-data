@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -379,7 +380,8 @@
                 <bibl xml:id="p_foresti_historische_welt_karten">P. Foresti Historische Welt Karten</bibl>
                 <bibl xml:id="p_franck_manuale_theologicum">Manuale Theologicum P. Franck</bibl>
                 <bibl xml:id="p_francis_hefler_concionator">P. Francis Hefler Concionator</bibl>
-                <bibl xml:id="p_francis_neymayr">P. Francis Neymayr</bibl><bibl xml:id="p_francisci_fegebe_quaestiones_practicae">P. Francisci Fegebe Quaestiones Practicae</bibl>
+                <bibl xml:id="p_francis_neymayr">P. Francis Neymayr</bibl>
+                <bibl xml:id="p_francisci_fegebe_quaestiones_practicae">P. Francisci Fegebe Quaestiones Practicae</bibl>
                 <bibl xml:id="p_francisci_nepren_considerationes_christ">P. Francisci Nepren Considerationes Christ.</bibl>
                 <bibl xml:id="p_francisci_neymayr_exterminium_acediae">Exterminium Acediae P. Francisci Neymayr</bibl>
                 <bibl xml:id="p_francisci_neymayr_idea_rethorices">P. Francisci Neymayr Idea Rethorices</bibl>

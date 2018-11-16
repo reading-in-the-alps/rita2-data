@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -82,7 +83,8 @@
             <p>[eigenhändige Unterschrift und Siegel:] <rs type="person" ref="#lechner_georg">Georg Lechner</rs> Kaplan allda.</p>
             <p>[Siegel und eigenhändige Unterschrift:] <rs type="person" ref="#pallauf_gottlieb_johann">Gottlieb Johann Pallauf</rs> Chyrurgus m.p. als Zeig</p>
             <p>[Siegel und eigenhändige Unterschrift:] <rs type="person" ref="#von_hebenstreit_johan_aloys">Johan Aloys v. Hebenstreit</rs> als gebetener Gezeug.</p>
-            <p>[eigenhändige Unterschrift und Siegel:] Ich bezeige mit Betschafft und Unterschrifft das dises der leste Wilen und Meinung des Briesters Herrn <rs type="person" ref="#lechner_georg">Georg Lechner</rs> Localcaplan zu <rs type="place" ref="#dietenheim">Dietenheim</rs> etc. wie obsteht ist. <rs type="person" ref="#strasser_johan">Johann Strasser</rs></p>
+            <p>[eigenhändige Unterschrift und Siegel:] Ich bezeige mit Betschafft und Unterschrifft das dises der leste Wilen und Meinung des Briesters Herrn <rs type="person" ref="#lechner_georg">Georg Lechner</rs> Localcaplan zu <rs type="place" ref="#dietenheim">Dietenheim</rs> etc. wie obsteht ist. <rs type="person" ref="#strasser_johan">Johann Strasser</rs>
+                </p>
             <p>
                <pb n="209v"/>
             </p>
@@ -90,8 +92,10 @@
             <p>
                <pb n="210r"/>
             </p>
-            <p>Actum <rs type="place" ref="#dietenheim">Diettenheim</rs> in dem k.k. Lokal Kaplaney Widum den <date when="1797-12-26">26t. December 1797</date></p>
-            <p>Aus Verordnung loblicher Landgerichtsobrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs></p>
+            <p>Actum <rs type="place" ref="#dietenheim">Diettenheim</rs> in dem k.k. Lokal Kaplaney Widum den <date when="1797-12-26">26t. December 1797</date>
+                </p>
+            <p>Aus Verordnung loblicher Landgerichtsobrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>
+                </p>
             <p>In Gegenwart</p>
             <p>von Seite der hochwürdigen Geistlichkeit Ihro Hochwürden Herr <rs type="person" ref="#von_hebenstreit_johann_nepomuck">Johann Nepomuck von Hebenstreit</rs> als von dem hochwürdigen Herrn Dechent zu <rs type="place" ref="#brunegg">Bruneck</rs> Abgeordneter,</p>
             <p>von Seite des Gerichts Herr <rs type="person" ref="#rogen_johann_michael">Johann Michael Rogen</rs> Ausschuss zu <rs type="place" ref="#dietenheim">Diettenheim</rs>, <rs type="person" ref="#schenach_franz">Franz Schenach</rs> Oberschreiber zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> Landgerichts <rs type="place" ref="#saenct_michaelspurg">Michaelsburg</rs>.</p>
@@ -170,7 +174,8 @@
             <p>
                <pb n="212v"/>
             </p>
-            <p><rs type="person" ref="#lechner_johan_babtist">Lechner</rs> als sich einzig meldender Erbe sich eben auch dermalen allda in den Lokal Kaplaney Widum einfindet.</p>
+            <p>
+                    <rs type="person" ref="#lechner_johan_babtist">Lechner</rs> als sich einzig meldender Erbe sich eben auch dermalen allda in den Lokal Kaplaney Widum einfindet.</p>
             <p>Zur Bestettigung dessen folget die allseitige Fertigung des Protokolls.</p>
             <p>[eigenhändige Unterschrift:] <rs type="person" ref="#von_hebenstreit_johann_nepomuck">Johann Nepomuck v. Hebenstreit</rs> Priester</p>
             <p>[eigenhändige Unterschrift:] <rs type="person" ref="#rogen_johann_michael">Johann Michael Rogen</rs> m.p.</p>
@@ -195,7 +200,8 @@
             <p>
                <pb n="214v"/>
             </p>
-            <p><rs type="person" ref="#lechner_johan_babtist">Babtista Lechner</rs>, den er auch zu sich genomen, und unterhielte, weil der selbe nicht im Stande war, sich selbst das Brod zu verdienen. Zu einen Vertröter und Kuratore desselben, liese sich titl. etc. Herr Gubernial Rath <rs type="person" ref="#von_groebner_joseph_anton">Joseph Anton v. Gröbner</rs> gebrauchen.</p>
+            <p>
+                    <rs type="person" ref="#lechner_johan_babtist">Babtista Lechner</rs>, den er auch zu sich genomen, und unterhielte, weil der selbe nicht im Stande war, sich selbst das Brod zu verdienen. Zu einen Vertröter und Kuratore desselben, liese sich titl. etc. Herr Gubernial Rath <rs type="person" ref="#von_groebner_joseph_anton">Joseph Anton v. Gröbner</rs> gebrauchen.</p>
             <p>Da dan der Universal Erb mit einen Kuratore versechen, so wurde des Herrn Ableibers untern <date when="1797-12-01">1ten December 1797</date> errichte Testament der Ordnung gemas erwitteret.</p>
             <p>Facta Publicatione</p>
             <p>Titl. der <rs type="person" ref="#lechner_johan_babtist">Johan Babtista Lechnerische</rs> Herr Herr Kurator bedanket sich willen Eröfnung des Testaments, und bittet seinen Curanden darbey zu manutenieren, und mit der Inventur fürzuschreiten.</p>
@@ -1045,7 +1051,8 @@
                      <hi rend="superscript">-17</hi> 
                      <hi rend="italic">Gesamte Zeile am linken Rand nachgetragen.</hi>
                   </p>
-               </note>Den <date when="1797-01-25">25ten Janner 1797</date><hi rend="superscript">17,</hi>
+               </note>Den <date when="1797-01-25">25ten Janner 1797</date>
+                    <hi rend="superscript">17,</hi>
                <note>
                   <p rend="footnote text"> 
                      <hi rend="italic" xml:space="preserve">Jahr stimmt nicht, sollte wohl </hi>1798<hi rend="italic" xml:space="preserve"> sein.</hi>
@@ -1902,7 +1909,8 @@
             <p>Hauptvermögen</p>
             <table rend="rules">
                <row>
-                  <cell><rs type="person" ref="#renzler_maria">Maria Renzlerin Verwittwe Mitterhoferin</rs> Mayrin zu Grastain zu <rs type="place" ref="#st_martin">St. Martin</rs> ist laut Privat Schuld Schein de dato <rs type="place" ref="#st_lorenzen">St. Laurenzen</rs> <date when="1789-01-06">6ten Janner 1789</date> schuldig Kapital</cell>
+                  <cell>
+                            <rs type="person" ref="#renzler_maria">Maria Renzlerin Verwittwe Mitterhoferin</rs> Mayrin zu Grastain zu <rs type="place" ref="#st_martin">St. Martin</rs> ist laut Privat Schuld Schein de dato <rs type="place" ref="#st_lorenzen">St. Laurenzen</rs> <date when="1789-01-06">6ten Janner 1789</date> schuldig Kapital</cell>
                   <cell>100 f 0 x</cell>
                </row>
                <row>
@@ -1996,15 +2004,18 @@
                   <cell>22 f 0 x</cell>
                </row>
                <row>
-                  <cell><rs type="person" ref="#planer_johann">Johann Planer</rs> Auer Miller in <rs type="place" ref="#muehlbach">Mihlbächl</rs> zahlt an detto wegen zum Bstand innenhabenden Ackers ausser den Portenhof</cell>
+                  <cell>
+                            <rs type="person" ref="#planer_johann">Johann Planer</rs> Auer Miller in <rs type="place" ref="#muehlbach">Mihlbächl</rs> zahlt an detto wegen zum Bstand innenhabenden Ackers ausser den Portenhof</cell>
                   <cell>10 f 0 x</cell>
                </row>
                <row>
-                  <cell><rs type="person" ref="#hueber_johann">Johann Hueber</rs> Jorglmihler in <rs type="place" ref="#muehlbach">Mihlbächl</rs> zahlt an detto wegen eines Ackers zu Stöcklstain</cell>
+                  <cell>
+                            <rs type="person" ref="#hueber_johann">Johann Hueber</rs> Jorglmihler in <rs type="place" ref="#muehlbach">Mihlbächl</rs> zahlt an detto wegen eines Ackers zu Stöcklstain</cell>
                   <cell>18 f 0 x</cell>
                </row>
                <row>
-                  <cell><rs type="person" ref="#niedermayr_joseph">Joseph Niedermayr</rs> Pichler zu <rs type="place" ref="#stephansdorf">Stephansdorf</rs> zahlt an detto um willen <hi rend="strikethrough">f</hi> 4 Äcker wovon 2 auf der Speken, 1ner auf den Bruna Moos und einer bey der Auslueger Weyde das Schäufele genant.</cell>
+                  <cell>
+                            <rs type="person" ref="#niedermayr_joseph">Joseph Niedermayr</rs> Pichler zu <rs type="place" ref="#stephansdorf">Stephansdorf</rs> zahlt an detto um willen <hi rend="strikethrough">f</hi> 4 Äcker wovon 2 auf der Speken, 1ner auf den Bruna Moos und einer bey der Auslueger Weyde das Schäufele genant.</cell>
                   <cell>35 f 38 x</cell>
                </row>
             </table>
@@ -2021,7 +2032,8 @@
                   <cell>15 f 0 x</cell>
                </row>
                <row>
-                  <cell><rs type="person" ref="#lechner_johann">Johann Lechner</rs> Wolleschlager daselbs von einen Angerl nächst der Kirche bey <rs type="place" ref="#st_martin">St. Martin</rs> und das Ängerl bey dem Beneficiaten Haus</cell>
+                  <cell>
+                            <rs type="person" ref="#lechner_johann">Johann Lechner</rs> Wolleschlager daselbs von einen Angerl nächst der Kirche bey <rs type="place" ref="#st_martin">St. Martin</rs> und das Ängerl bey dem Beneficiaten Haus</cell>
                   <cell>28 f 0 x</cell>
                </row>
             </table>
@@ -2264,7 +2276,8 @@
                   <p rend="footnote text"> 
                      <hi rend="italic">-er-Kürzung gestrichen.</hi>
                   </p>
-            </note> vorbeschribenen Mobiliar Vermögen gewes seines Zustandes nicht oder wenig behelfen würde, glaubt man von Seite Ihro Gnaden titl. Herrn Herrn Gubernial Rath <rs type="person" ref="#von_groebner_joseph_anton">Joseph</rs><note>
+            </note> vorbeschribenen Mobiliar Vermögen gewes seines Zustandes nicht oder wenig behelfen würde, glaubt man von Seite Ihro Gnaden titl. Herrn Herrn Gubernial Rath <rs type="person" ref="#von_groebner_joseph_anton">Joseph</rs>
+                    <note>
                   <p rend="footnote text"> 
                      <hi rend="italic">Über der Zeile geschrieben.</hi>
                   </p>
@@ -2274,7 +2287,8 @@
             </p>
             <p>Zu Bestettigung gegenwärtigen Vorgangs, und Vermögens Ergänzung wurde von Seite titl. Herrn Herrn Gubernial Rath <rs type="person" ref="#von_groebner_joseph_anton">v. Gröbner</rs> etc. sowohl als des verpflichten Kurators principalis nomine gegenwärtiges Protokol eigenhändig unterschriben, und von letzteren überdis hierwegen loblicher Landgerichts Obrigkeit das Handgelibt erstattet.</p>
             <p>[eigenhändige Unterschrift:] <rs type="person" ref="#von_groebner_joseph_anton">Joseph Anton v. Grebmer</rs> m.p. k.k. Gubernial Rath als lediglich ad hunc actum von den blödsennigen <rs type="person" ref="#lechner_johann">Johann Lechner</rs> erbettener Beystand</p>
-            <p>Actum <hi rend="strikethrough">St. L</hi> <rs type="place" ref="#dietenheim">Diettenheim</rs> den <date when="1798-03-31">31t Merz 1798</date></p>
+            <p>Actum <hi rend="strikethrough">St. L</hi> <rs type="place" ref="#dietenheim">Diettenheim</rs> den <date when="1798-03-31">31t Merz 1798</date>
+                </p>
             <p>Vor loblicher Landgerichts Obrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>.</p>
             <p>Zugegen Herrn <rs type="person" ref="#rogen_johann_michael">Johann Michael Rogen</rs> Ausschuß und <rs type="person" ref="#strasser_johan">Johann Strasser</rs> als verpflichter Kurator.</p>
             <p>Nach einsmal vorhin gepflogener Vermiegens Ergänzung und Entwurf hat sich die Obrigkeit zu ein so anderen Ende nacher Diettenhaim verfüget, um einen endlichen Vermögens Entwurf zu formiren, und das gesamte Vermögen des <rs type="person" ref="#lechner_johann">Johann Lechner</rs> seiner Anweltläufigkeit wegen dem</p>
@@ -2296,7 +2310,8 @@
                   <cell>231 f 6 x</cell>
                </row>
                <row>
-                  <cell>An Hauptvermögen hat Erbnehmer ererbet bey <rs type="person" ref="#renzler_maria">Maria Renzlerin verwittibte Mitterhoferin</rs> Mayrin zu <rs type="place" ref="#grasstein">Grasstein</rs></cell>
+                  <cell>An Hauptvermögen hat Erbnehmer ererbet bey <rs type="person" ref="#renzler_maria">Maria Renzlerin verwittibte Mitterhoferin</rs> Mayrin zu <rs type="place" ref="#grasstein">Grasstein</rs>
+                        </cell>
                   <cell>100 f 0 x</cell>
                </row>
                <row>
@@ -2407,10 +2422,12 @@
             <p>das er <rs type="person" ref="#strasser_johan">Strasser</rs> wegen seiner besondern Mühewaltung, und mehrfeltiger Zeitversäumnis auch seinerzeit <hi rend="strikethrough">bey</hi> einen billichen Ersatz von seinem respektiven Pupillen <rs type="person" ref="#lechner_johann">Johann Lechner</rs> zu ersechen habe.</p>
             <p>Schlüsslichen werden ihme <rs type="person" ref="#strasser_johan">Johann Strasser</rs> als oberkeitlich verpflichtem Kurator dato auch die betreffenden Schulds Obligationen seines <hi rend="strikethrough">W</hi> Mündels übergeben und selben eine gute und getreüe Obsorg, und Gebahrung seines Vermögens anempfohlen.</p>
             <p>Westwegen zur Bestättigung alles dessen <hi rend="strikethrough">er</hi> er <rs type="person" ref="#strasser_johan">Johann Strasser</rs> für sich und nomine seines Mündls löblicher Landgerichts Obrigkeit das geziemmende Hand Gelübt erstattet und sich überdies ad Prottocollum unterschrieben hat.</p>
-            <p>[eigenhändige Unterschrift:] Zeügen Herr <rs type="person" ref="#schenach_franz">Franz</rs> und <rs type="person" ref="#schenach_joseph">Joseph</rs><note>
+            <p>[eigenhändige Unterschrift:] Zeügen Herr <rs type="person" ref="#schenach_franz">Franz</rs> und <rs type="person" ref="#schenach_joseph">Joseph</rs>
+                    <note>
                   <p rend="footnote text"> J- <hi rend="italic">korrigiert aus</hi> S-.</p>
                </note> <rs type="person" ref="#schenach_joseph">Schenach</rs> bey der Land Gerichtsschreibrey allda</p>
-            <p>[eigenhändige Unterschrift:] <rs type="person" ref="#strasser_johan">Johann Strasser</rs></p>
+            <p>[eigenhändige Unterschrift:] <rs type="person" ref="#strasser_johan">Johann Strasser</rs>
+                </p>
             <p>
                <pb n="237v"/>
             </p>
@@ -2421,7 +2438,8 @@
             <p>
                <pb n="238r"/>
             </p>
-            <p>Actum <rs type="place" ref="#dietenheim">Dietenheim</rs> in dem Lokal Widum den <date notBefore="1798-02-23" notAfter="1798-02-24">23 et 24ten Februar 1798</date></p>
+            <p>Actum <rs type="place" ref="#dietenheim">Dietenheim</rs> in dem Lokal Widum den <date notBefore="1798-02-23" notAfter="1798-02-24">23 et 24ten Februar 1798</date>
+                </p>
             <p>Vor loblicher Landgerichts Oberkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>.</p>
             <p>Als den <date when="1798-01-19">19ten Jänner d. J.</date> auf Hinscheiden des hochehrwirdigen Herrn <rs type="person" ref="#lechner_georg">Georg Lechners</rs> gewesten Localkaplan zu <rs type="place" ref="#dietenheim">Dietenheim</rs> die Inventur, und den 3ten d. M. die Vermögens Ergänzung vor sich gegangen, und weil des Herrn Ableibers einzig hinterlassene eheleibliche Bruder <rs type="person" ref="#lechner_johann">Johann Lechner</rs> in bledsinigen Stand sich befündet, so wurde mit Einflus desselben verpflichten Kurator des wohlgeachten <rs type="person" ref="#strasser_johan">Johann Strassers</rs> Schneidermeister und Mesner daselbs zu <rs type="place" ref="#dietenheim">Dietenheim</rs> die Verliebung getroffen, zum Nutzen des Universal Erben die Inventurs Stüke licitando zu verwenden, dahero wurde die Tagsatzung von einem Tag zum anderen auf <hi rend="strikethrough">Ober</hi> dato obrigkeitlich anberaumet.</p>
             <p>
@@ -2563,14 +2581,16 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#luser_joseph">Joseph Luser</rs> Tischler</cell>
+                  <cell>
+                            <rs type="person" ref="#luser_joseph">Joseph Luser</rs> Tischler</cell>
                   <cell>3 stainene Masskrüeg mit zinenen Lükern à 6 x</cell>
                   <cell>18 x</cell>
                   <cell>48 x</cell>
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Herr Pfleger zu <rs type="place" ref="#gais">Gais</rs></cell>
+                  <cell>Herr Pfleger zu <rs type="place" ref="#gais">Gais</rs>
+                        </cell>
                   <cell>2 detto Seitl Krieglen à 3 x</cell>
                   <cell>6 x</cell>
                   <cell>32 x</cell>
@@ -2619,7 +2639,9 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#strasser_joseph">Joseph Strasser</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#strasser_joseph">Joseph Strasser</rs>
+                        </cell>
                   <cell>2 Eisene, und 1<note>
                         <p rend="footnote text"> 
                            <hi rend="italic">Korrigiert aus</hi> 2.</p>
@@ -2629,14 +2651,16 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Herr Pfleger zu <rs type="place" ref="#gais">Gais</rs></cell>
+                  <cell>Herr Pfleger zu <rs type="place" ref="#gais">Gais</rs>
+                        </cell>
                   <cell>1 Schislwag zicht auf der schweren Seite 30¼ Pfund</cell>
                   <cell>15 x</cell>
                   <cell>1 f 3 x</cell>
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#bergmann_jakob">Jakob Bergmann</rs> Adlerwürth</cell>
+                  <cell>
+                            <rs type="person" ref="#bergmann_jakob">Jakob Bergmann</rs> Adlerwürth</cell>
                   <cell>1 <hi rend="strikethrough">Schnölwage</hi> Schalwag</cell>
                   <cell>
                      <hi rend="strikethrough">18</hi> 18 <hi rend="strikethrough">8</hi> x</cell>
@@ -2644,14 +2668,18 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#pruggnaller_anton">Anton Pruggnaller</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#pruggnaller_anton">Anton Pruggnaller</rs>
+                        </cell>
                   <cell>1 blöchene Lutere</cell>
                   <cell>4 x</cell>
                   <cell>27 x</cell>
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#gruber_anton">Anton Gruber</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#gruber_anton">Anton Gruber</rs>
+                        </cell>
                   <cell>1 detto Nachtampele</cell>
                   <cell>3 x</cell>
                   <cell>18 x</cell>
@@ -2693,7 +2721,8 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Titl. Herr Gubernialrat <rs type="person" ref="#von_groebner_joseph_anton">v. Grebner</rs></cell>
+                  <cell>Titl. Herr Gubernialrat <rs type="person" ref="#von_groebner_joseph_anton">v. Grebner</rs>
+                        </cell>
                   <cell>1 detto Blöch, wägt 2½ Pfund à 20 x</cell>
                   <cell>50 x</cell>
                   <cell>1 f 44 x</cell>
@@ -2782,7 +2811,8 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Tit. Herr Gubernialrat <rs type="person" ref="#von_groebner_joseph_anton">v. Grebner</rs></cell>
+                  <cell>Tit. Herr Gubernialrat <rs type="person" ref="#von_groebner_joseph_anton">v. Grebner</rs>
+                        </cell>
                   <cell>1 runder, und 2<note>
                         <p rend="footnote text"> 
                            <hi rend="italic">Korrigiert aus</hi> 1.</p>
@@ -2806,7 +2836,9 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#strasser_johan">Johann Strasser</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#strasser_johan">Johann Strasser</rs>
+                        </cell>
                   <cell>1 Eisen Pfan, 1<note>
                         <p rend="footnote text"> 
                            <hi rend="italic">Korrigiert aus</hi> 2.</p>
@@ -2870,7 +2902,8 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Titl. Herr Gubernialrat <rs type="person" ref="#von_groebner_joseph_anton">v. Grebner</rs></cell>
+                  <cell>Titl. Herr Gubernialrat <rs type="person" ref="#von_groebner_joseph_anton">v. Grebner</rs>
+                        </cell>
                   <cell>1 blochener Spritzer</cell>
                   <cell>48 x</cell>
                   <cell>1 f 3 x</cell>
@@ -2884,7 +2917,8 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Herr Dr. <rs type="person" ref="#vogl_">v. Vogl</rs></cell>
+                  <cell>Herr Dr. <rs type="person" ref="#vogl_">v. Vogl</rs>
+                        </cell>
                   <cell>1 Seil die Wesch aufzuhängen</cell>
                   <cell>10 x</cell>
                   <cell>15 x</cell>
@@ -2974,14 +3008,17 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#primus_joseph">Josef Primus</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#primus_joseph">Josef Primus</rs>
+                        </cell>
                   <cell>2 Stingl Gläslen</cell>
                   <cell>2 x</cell>
                   <cell>8 x</cell>
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Herr Dr. <rs type="person" ref="#vogl_">v. Vogl</rs></cell>
+                  <cell>Herr Dr. <rs type="person" ref="#vogl_">v. Vogl</rs>
+                        </cell>
                   <cell>3 Karfinlen, 1 Essig und Oel Glas, 1 Orin Glas</cell>
                   <cell>7 x</cell>
                   <cell>42 x</cell>
@@ -3002,7 +3039,8 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Herr Dechent zu <rs type="place" ref="#brunegg">Bruneck</rs></cell>
+                  <cell>Herr Dechent zu <rs type="place" ref="#brunegg">Bruneck</rs>
+                        </cell>
                   <cell>3 detto Suppen Schallen, und 3 ungleiche Schiselen</cell>
                   <cell>24 x</cell>
                   <cell>1 f 6 x</cell>
@@ -3016,7 +3054,8 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Herr Pfleger zu <rs type="place" ref="#gais">Gais</rs></cell>
+                  <cell>Herr Pfleger zu <rs type="place" ref="#gais">Gais</rs>
+                        </cell>
                   <cell>6 zinnene Theller wägen 6¾ Pfund a 30 x</cell>
                   <cell>3 f 22½ x</cell>
                   <cell>6 f 3 x</cell>
@@ -3042,7 +3081,8 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Herr Pfleger zu <rs type="place" ref="#gais">Gais</rs></cell>
+                  <cell>Herr Pfleger zu <rs type="place" ref="#gais">Gais</rs>
+                        </cell>
                   <cell>12 Thaler</cell>
                   <cell>
                      <note>
@@ -3078,7 +3118,8 @@
                      <p>
                         <hi rend="strikethrough">deto</hi>
                      </p>
-                     <p>Herr Pfleger zu <rs type="place" ref="#gais">Gais</rs></p>
+                     <p>Herr Pfleger zu <rs type="place" ref="#gais">Gais</rs>
+                            </p>
                   </cell>
                   <cell>1 detto Wärm Theller wägt 3½ Pfund à 18 x</cell>
                   <cell>1 f 3 x</cell>
@@ -3114,7 +3155,9 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#primus_jakob">Jakob Primus</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#primus_jakob">Jakob Primus</rs>
+                        </cell>
                   <cell>1 zinene Kristier Spritze</cell>
                   <cell>2 f 0 x</cell>
                   <cell>6 f 0 x</cell>
@@ -3170,7 +3213,9 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#luser_joseph">Josef Luser</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#luser_joseph">Josef Luser</rs>
+                        </cell>
                   <cell>1 silberfarbes Tischl samt Schublad, mit einer Welsberger Döke</cell>
                   <cell>30 x</cell>
                   <cell>1 f 12 x</cell>
@@ -3198,21 +3243,25 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#primus_jakob">Jakob Primus</rs> Schuhmacher</cell>
+                  <cell>
+                            <rs type="person" ref="#primus_jakob">Jakob Primus</rs> Schuhmacher</cell>
                   <cell>1 Perspectiv mit 4 Züg</cell>
                   <cell>36 x</cell>
                   <cell>54 x</cell>
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>titl. Herr <rs type="person" ref="#von_leys_ignatz_josef">v. Leys</rs></cell>
+                  <cell>titl. Herr <rs type="person" ref="#von_leys_ignatz_josef">v. Leys</rs>
+                        </cell>
                   <cell>1 Kampas</cell>
                   <cell>3 x</cell>
                   <cell>18 x</cell>
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#strasser_johan">Johann Strasser</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#strasser_johan">Johann Strasser</rs>
+                        </cell>
                   <cell>1 Gold Wägl</cell>
                   <cell>18 x</cell>
                   <cell>21 x</cell>
@@ -3233,7 +3282,8 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>titl. Herr Gubernial Rath <rs type="person" ref="#von_groebner_joseph_anton">v. Grebner</rs></cell>
+                  <cell>titl. Herr Gubernial Rath <rs type="person" ref="#von_groebner_joseph_anton">v. Grebner</rs>
+                        </cell>
                   <cell>2 Zahnstirer Bichslen</cell>
                   <cell>12 x</cell>
                   <cell>36 x</cell>
@@ -3247,7 +3297,8 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Herr Fruhmesser zu <rs type="place" ref="#st_lorenzen">Lorenzen</rs></cell>
+                  <cell>Herr Fruhmesser zu <rs type="place" ref="#st_lorenzen">Lorenzen</rs>
+                        </cell>
                   <cell>1 mösingene Repetier Uhr samt dem Kasten</cell>
                   <cell>8 x</cell>
                   <cell>20 x</cell>
@@ -3261,14 +3312,17 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Frau <rs type="person" ref="#niedermayr_agnes">Agnes Niedermayrin</rs></cell>
+                  <cell>Frau <rs type="person" ref="#niedermayr_agnes">Agnes Niedermayrin</rs>
+                        </cell>
                   <cell>2 glöserene Täfelen</cell>
                   <cell>18 x</cell>
                   <cell>36 x</cell>
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#primus_jakob">Jakob Primus</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#primus_jakob">Jakob Primus</rs>
+                        </cell>
                   <cell>2 Täfelen mit schwarz angestrichen Ramen</cell>
                   <cell>18 x</cell>
                   <cell>45 x</cell>
@@ -3289,7 +3343,9 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#strasser_johan">Johann Strasser</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#strasser_johan">Johann Strasser</rs>
+                        </cell>
                   <cell>7 Teses mit geförbten Rämlen à 10 x</cell>
                   <cell>1 f 10 x</cell>
                   <cell>3 f 20 x</cell>
@@ -3316,7 +3372,9 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#strasser_johan">Johann Strasser</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#strasser_johan">Johann Strasser</rs>
+                        </cell>
                   <cell>6 blaue Sessl à 20 x</cell>
                   <cell>2 f 0 x</cell>
                   <cell>8 f 36 x</cell>
@@ -3415,7 +3473,9 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#strasser_johan">Johann Strasser</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#strasser_johan">Johann Strasser</rs>
+                        </cell>
                   <cell>1 schwarz zeigener mit Bölz gefüterten Rock</cell>
                   <cell>2 f 30 x</cell>
                   <cell>3 f 40 x</cell>
@@ -3490,7 +3550,9 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#primus_joseph">Joseph Primus</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#primus_joseph">Joseph Primus</rs>
+                        </cell>
                   <cell>23 blaue Priester Krägelen</cell>
                   <cell>23 x</cell>
                   <cell>37 x</cell>
@@ -3504,7 +3566,9 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#pruggnaller_anton">Anton Bruggnaller</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#pruggnaller_anton">Anton Bruggnaller</rs>
+                        </cell>
                   <cell>6 Ohren Häublen a 4 x</cell>
                   <cell>24 x</cell>
                   <cell>42 x</cell>
@@ -3521,7 +3585,9 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#strasser_johan">Johann Strasser</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#strasser_johan">Johann Strasser</rs>
+                        </cell>
                   <cell>1½ Tutzet kamelhärene Rock, und 30 Kamisol Knöpf</cell>
                   <cell>24 x</cell>
                   <cell>24 x</cell>
@@ -3627,7 +3693,9 @@
                <row>
                   <cell>dt. +</cell>
                   <cell>
-                     <p><rs type="person" ref="#strasser_johan">Johann Strasser</rs></p>
+                     <p>
+                                <rs type="person" ref="#strasser_johan">Johann Strasser</rs>
+                            </p>
                      <p>videre in fine</p>
                   </cell>
                   <cell>1<note>
@@ -3644,7 +3712,9 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#mutschlechner_joseph">Joseph Mutschlechner</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#mutschlechner_joseph">Joseph Mutschlechner</rs>
+                        </cell>
                   <cell>
                      <hi rend="strikethrough">4</hi> 3 harbene Polster Ziechen a 15 x</cell>
                   <cell>1 f 0 x</cell>
@@ -3652,7 +3722,9 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#pruggnaller_anton">Anton Pruggnaller</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#pruggnaller_anton">Anton Pruggnaller</rs>
+                        </cell>
                   <cell>
                      <hi rend="strikethrough">6</hi> 3 detto Kisziechlen a 10 x</cell>
                   <cell>1 f 0 x<note>
@@ -3680,7 +3752,9 @@
                </row>
                <row>
                   <cell>dt. +</cell>
-                  <cell><rs type="person" ref="#strasser_johan">Johann Strasser</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#strasser_johan">Johann Strasser</rs>
+                        </cell>
                   <cell>6<note>
                         <p rend="footnote text"> 
                            <hi rend="italic">Korrigiert aus</hi> 8.</p>
@@ -3713,7 +3787,9 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#primus_jakob">Jakob Primus</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#primus_jakob">Jakob Primus</rs>
+                        </cell>
                   <cell>1 detto tamaschges</cell>
                   <cell>2 f 0 x</cell>
                   <cell>1 f 36 x</cell>
@@ -3875,14 +3951,16 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Herr Pfleger zu <rs type="place" ref="#gais">Gais</rs></cell>
+                  <cell>Herr Pfleger zu <rs type="place" ref="#gais">Gais</rs>
+                        </cell>
                   <cell>1 Gemahl die Mutter Gottes mit dem Kindl, samt schwarz gepeitzter Ram, vergoldeter Schneidarbeit und Glas</cell>
                   <cell>6 f 0 x</cell>
                   <cell>15 f 0 x</cell>
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Herr Pfarrer in <rs type="place" ref="#taufers">Taufers</rs></cell>
+                  <cell>Herr Pfarrer in <rs type="place" ref="#taufers">Taufers</rs>
+                        </cell>
                   <cell>7 gemahlene Landschaften mit metalisierten Ramen à 8 x</cell>
                   <cell>58 x</cell>
                   <cell>2 f 36 x</cell>
@@ -3971,14 +4049,16 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Herr Gubernialrat <rs type="person" ref="#von_groebner_joseph_anton">v. Grebner</rs></cell>
+                  <cell>Herr Gubernialrat <rs type="person" ref="#von_groebner_joseph_anton">v. Grebner</rs>
+                        </cell>
                   <cell>2 Blumen Stöcklen mit schwarzen Rämlen und Glas</cell>
                   <cell>12 x</cell>
                   <cell>44 x</cell>
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Mutschlechner v. <rs type="place" ref="#brunegg">Bruneck</rs></cell>
+                  <cell>Mutschlechner v. <rs type="place" ref="#brunegg">Bruneck</rs>
+                        </cell>
                   <cell>2 Bildlen mit vergoldeten Ramlen und silber Spitz</cell>
                   <cell>36 x</cell>
                   <cell>1 f 6 x</cell>
@@ -3992,14 +4072,17 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#mutschlechner_joseph">Joseph Mutschlechner</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#mutschlechner_joseph">Joseph Mutschlechner</rs>
+                        </cell>
                   <cell>2 Täfelen der Gute Hirt, und Gute Hirtin</cell>
                   <cell>40 x</cell>
                   <cell>2 f 0 x</cell>
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Herr Gubernial Rat <rs type="person" ref="#von_groebner_joseph_anton">v. Grebner</rs></cell>
+                  <cell>Herr Gubernial Rat <rs type="person" ref="#von_groebner_joseph_anton">v. Grebner</rs>
+                        </cell>
                   <cell>1 Spieglram mit dem Bild des Heiligen Georgius</cell>
                   <cell>30 x</cell>
                   <cell>1 f 30 x</cell>
@@ -4068,7 +4151,9 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#primus_jakob">Jakob Primus</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#primus_jakob">Jakob Primus</rs>
+                        </cell>
                   <cell>1 silberfarb angestrichnes aufstehendes Buld samt grienen Vorhang</cell>
                   <cell>24 x</cell>
                   <cell>36 x</cell>
@@ -4110,7 +4195,9 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#gasteiger_johann">Johann Gasteiger</rs> v. <rs type="place" ref="#brunegg">Brunegg</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#gasteiger_johann">Johann Gasteiger</rs> v. <rs type="place" ref="#brunegg">Brunegg</rs>
+                        </cell>
                   <cell>7 unaufgemachte Teses a 3 x</cell>
                   <cell>21 x</cell>
                   <cell>1 f 12 x</cell>
@@ -4130,7 +4217,8 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Herr <rs type="person" ref="#aschbacher_andre">Andre Aschbacher</rs></cell>
+                  <cell>Herr <rs type="person" ref="#aschbacher_andre">Andre Aschbacher</rs>
+                        </cell>
                   <cell>1 Weichbrun Kriegl mit Grälelen</cell>
                   <cell>6 x</cell>
                   <cell>12 x</cell>
@@ -4151,7 +4239,8 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#luser_joseph">Josef Lunsser</rs> Tischler</cell>
+                  <cell>
+                            <rs type="person" ref="#luser_joseph">Josef Lunsser</rs> Tischler</cell>
                   <cell>1 aufgesetzter Kamotkasten von fornierter Arbeith mit Schlos und Band</cell>
                   <cell>12 f 0 x</cell>
                   <cell>20 f 0 x</cell>
@@ -4184,7 +4273,8 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Herr Gubernial Rat <rs type="person" ref="#von_groebner_joseph_anton">v. Grebner</rs></cell>
+                  <cell>Herr Gubernial Rat <rs type="person" ref="#von_groebner_joseph_anton">v. Grebner</rs>
+                        </cell>
                   <cell>10 blaue Blumen Streissl a 4 x</cell>
                   <cell>40 x</cell>
                   <cell>1 f 36 x</cell>
@@ -4236,7 +4326,8 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>titl. Herr Gubernial Rath <rs type="person" ref="#von_groebner_joseph_anton">v. Grebner</rs></cell>
+                  <cell>titl. Herr Gubernial Rath <rs type="person" ref="#von_groebner_joseph_anton">v. Grebner</rs>
+                        </cell>
                   <cell>19 grössere und kleinere Rosmarin Stöck à 12 x</cell>
                   <cell>5 f 42 x</cell>
                   <cell>
@@ -4261,7 +4352,8 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Herr Gubernial Rath <rs type="person" ref="#von_groebner_joseph_anton">v. Grebner</rs></cell>
+                  <cell>Herr Gubernial Rath <rs type="person" ref="#von_groebner_joseph_anton">v. Grebner</rs>
+                        </cell>
                   <cell>1 Trögl dike detto Pelzer</cell>
                   <cell>30 x</cell>
                   <cell>45 x</cell>
@@ -4339,7 +4431,8 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Herr <rs type="person" ref="#vogl_">Dr. Vogl</rs></cell>
+                  <cell>Herr <rs type="person" ref="#vogl_">Dr. Vogl</rs>
+                        </cell>
                   <cell>1 Dör- und 7 körzen Brötlen</cell>
                   <cell>10 x</cell>
                   <cell>24 x</cell>
@@ -4392,14 +4485,18 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#rautter_johann">Johann Rautter</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#rautter_johann">Johann Rautter</rs>
+                        </cell>
                   <cell>2 hölzene, und 1 drätene Vogl Steige a 7 x</cell>
                   <cell>21 x</cell>
                   <cell>23 x</cell>
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#wenser_maria">Maria Wenserin</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#wenser_maria">Maria Wenserin</rs>
+                        </cell>
                   <cell>3 schlechte Kistlen</cell>
                   <cell>9 x</cell>
                   <cell>21 x</cell>
@@ -4432,7 +4529,8 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Herr <rs type="person" ref="#vogl_">v. Vogl</rs></cell>
+                  <cell>Herr <rs type="person" ref="#vogl_">v. Vogl</rs>
+                        </cell>
                   <cell>2 Spinröder, 2 Garnhaspl</cell>
                   <cell>45 x</cell>
                   <cell>1 f 54 x</cell>
@@ -4453,14 +4551,17 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#oberhammerer_andrae">Andrä Oberhammerer</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#oberhammerer_andrae">Andrä Oberhammerer</rs>
+                        </cell>
                   <cell>1 Weisath Korb</cell>
                   <cell>4 x</cell>
                   <cell>24 x</cell>
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Herr <rs type="person" ref="#vogl_">Dr. v. Vogl</rs></cell>
+                  <cell>Herr <rs type="person" ref="#vogl_">Dr. v. Vogl</rs>
+                        </cell>
                   <cell>2 Stüel mit Löder überzogen</cell>
                   <cell>16 x</cell>
                   <cell>24 x</cell>
@@ -4492,7 +4593,8 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Herr Gubernial Rat <rs type="person" ref="#von_groebner_joseph_anton">v. Grebner</rs></cell>
+                  <cell>Herr Gubernial Rat <rs type="person" ref="#von_groebner_joseph_anton">v. Grebner</rs>
+                        </cell>
                   <cell>2 Garten Schaufl à 7 x</cell>
                   <cell>14 x</cell>
                   <cell>40 x</cell>
@@ -4506,7 +4608,9 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#thaler_michael">Michael Thaler</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#thaler_michael">Michael Thaler</rs>
+                        </cell>
                   <cell>1 Kliebhake</cell>
                   <cell>6 x</cell>
                   <cell>18 x</cell>
@@ -4548,14 +4652,17 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#thaler_michael">Michael Thaler</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#thaler_michael">Michael Thaler</rs>
+                        </cell>
                   <cell>2 Kämmin Säiler</cell>
                   <cell>12 x</cell>
                   <cell>18 x</cell>
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>titl. Herr Gubernial Rat <rs type="person" ref="#von_groebner_joseph_anton">v. Grebner</rs></cell>
+                  <cell>titl. Herr Gubernial Rat <rs type="person" ref="#von_groebner_joseph_anton">v. Grebner</rs>
+                        </cell>
                   <cell>1 Leiter</cell>
                   <cell>6 x</cell>
                   <cell>20 x</cell>
@@ -4569,7 +4676,8 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Herr Gubernial Rat <rs type="person" ref="#von_groebner_joseph_anton">v. Grebner</rs></cell>
+                  <cell>Herr Gubernial Rat <rs type="person" ref="#von_groebner_joseph_anton">v. Grebner</rs>
+                        </cell>
                   <cell>66 erdene Garten Luck Gschirlen</cell>
                   <cell>30 x</cell>
                   <cell>36 x</cell>
@@ -4648,7 +4756,9 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#rautter_johann">Johann Raütter</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#rautter_johann">Johann Raütter</rs>
+                        </cell>
                   <cell>1 Eisenstange, und 1 Tisch Pfanknecht</cell>
                   <cell>12 x</cell>
                   <cell>18 x</cell>
@@ -4681,7 +4791,9 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#primus_jakob">Jakob Primus</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#primus_jakob">Jakob Primus</rs>
+                        </cell>
                   <cell>3 blaue erdene Schisl, 2 detto Teller</cell>
                   <cell>5 x</cell>
                   <cell>12 x</cell>
@@ -4715,7 +4827,9 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#hausstetter_anton">Anton Hausstetter</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#hausstetter_anton">Anton Hausstetter</rs>
+                        </cell>
                   <cell>2 Ofen Gabl</cell>
                   <cell>4 x</cell>
                   <cell>20 x</cell>
@@ -4814,7 +4928,8 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Herr <rs type="person" ref="#vogl_">Dr. Wogl</rs></cell>
+                  <cell>Herr <rs type="person" ref="#vogl_">Dr. Wogl</rs>
+                        </cell>
                   <cell>2 Krautpotichen</cell>
                   <cell>30 x</cell>
                   <cell>2 f 3 x</cell>
@@ -4848,7 +4963,8 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>Herr <rs type="person" ref="#vogl_">Dr. Vogl</rs></cell>
+                  <cell>Herr <rs type="person" ref="#vogl_">Dr. Vogl</rs>
+                        </cell>
                   <cell>12 Wein Geschir a 7 x</cell>
                   <cell>1 f 24 x</cell>
                   <cell>2 f 0 x</cell>
@@ -4862,7 +4978,9 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell><rs type="person" ref="#pruggnaller_anton">Anton Bruknaller</rs></cell>
+                  <cell>
+                            <rs type="person" ref="#pruggnaller_anton">Anton Bruknaller</rs>
+                        </cell>
                   <cell>1 Wasser- 1 Spuelschaf, und 1 detto Stotz</cell>
                   <cell>6 x</cell>
                   <cell>28 x</cell>

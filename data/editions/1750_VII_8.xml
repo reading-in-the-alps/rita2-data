@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -63,7 +64,8 @@
                <pb n="1r"/>
             </p>
             <p>Actum Ansitz <rs type="place" ref="#getreuenstain">Gethreuenstain</rs>, zu <rs type="place" ref="#dietenheim">Dietenhaimb</rs> den <date when="1750-07-08">achten Tag Monats July änno sibenzechenhundert und funffzig</date>.</p>
-            <p>Vor dem woledlgebohrnen Herrn <rs type="person" ref="#wenzl_johann_joseph_martin">Johann Joseph Martin Wenzl, von Khirchegg, zu Ragen, und Gethreuenstain etc.</rs></p>
+            <p>Vor dem woledlgebohrnen Herrn <rs type="person" ref="#wenzl_johann_joseph_martin">Johann Joseph Martin Wenzl, von Khirchegg, zu Ragen, und Gethreuenstain etc.</rs>
+                </p>
             <p>Actuarius Herr <rs type="person" ref="#hebenstreit_christoph_andree">Christoph Andree Hebenstreit,   von Glurnhör</rs>.</p>
             <p>Zugegen des wolfürnemmen <rs type="person" ref="#hueber_joseph">Josephen Hueber</rs> Nidermayr zu <rs type="place" ref="#dietenheim">Dietenhaimb</rs>, als hierzue vermögten Taxatore.</p>
             <p>Relation</p>
@@ -75,7 +77,7 @@
                <pb n="2r"/> Inhaber des befreyten adelichen Ansiz <rs type="place" ref="#getreuenstain">Gethreuenstain</rs> (als worinnen Jungfrau Ableiberin seeligen dises Zeitliche geseegnet) der Ordnung und Observanz gemess die Secretur und Obsignierung vorgenommen.</p>
             <p>Es hat aber nachhin wider Verhoffen titl. Herr Pergrichter in <rs type="place" ref="#aehrn">Ährn</rs> <rs type="person" ref="#danauer_johann_joseph_ciriaen">Johann Joseph Ciriän Danauer</rs> etc. (weillen selbiger weylend der Jungfrauen Ableiberin Herrn Vattern <rs type="person" ref="#stockher_andre">Andreen Stockher</rs> des loblichen <rs type="place" ref="#aehrn">Ährner</rs> Handlsverweesern etc. seeligen in eben gedachten befreyten adelichen Ansiz <rs type="place" ref="#getreuenstain">Gethreuenstain</rs> abgehandlet) durch seinen aigens destwillen nacher <rs type="place" ref="#dietenheim">Dietenhaimb</rs> geschickhten Schreiber eben die Secretur anlegen, und sohin die verrere Abhandlung an sich ziechen</p>
             <p>
-               <pb n="2v"/> wollen. Das man also von seithen der Ansiz Inhabung allerdings gezwungen wurde, zu Verhiettung mehrerer Gewalts oder Unordnung die Sach an hochlöblich ober-östtereichische Weesen etc. etc. pr <rs type="place" ref="#innsprugg">Ihnsprugg</rs> gelangen zu lassen. Von waraus soforth untern <date when="1749-12-01">ersten Tag des Monats Decembris, anno sibenzechenhundert neünundvierzig</date> hochgnödig decidieret worden, dass dem Ansiz Inhaber wider allens Vermuthen nur alleinig die Obsignation und Beschreibung, loblicher Pfleggerichts Obrigkheit zu <rs type="place" ref="#saenct_michaelspurg">St. Michaelspurg</rs> aber, als ordinari Obrigkheit etc., die weittere und entliche Abhandlung zuestehen solle. So zwar Herrn Ansiz Inhaber etc. schwer fahlet, jedoch</p>
+               <pb n="2v"/> wollen. Das man also von seithen der Ansiz Inhabung allerdings gezwungen wurde, zu Verhiettung mehrerer Gewalts oder Unordnung die Sach an hochlöblich ober-östtereichische Weesen etc. etc. pr <rs type="place" ref="#innsbruck">Ihnsprugg</rs> gelangen zu lassen. Von waraus soforth untern <date when="1749-12-01">ersten Tag des Monats Decembris, anno sibenzechenhundert neünundvierzig</date> hochgnödig decidieret worden, dass dem Ansiz Inhaber wider allens Vermuthen nur alleinig die Obsignation und Beschreibung, loblicher Pfleggerichts Obrigkheit zu <rs type="place" ref="#saenct_michaelspurg">St. Michaelspurg</rs> aber, als ordinari Obrigkheit etc., die weittere und entliche Abhandlung zuestehen solle. So zwar Herrn Ansiz Inhaber etc. schwer fahlet, jedoch</p>
             <p>
                <pb n="3r"/> solchem hochgnädigen Decisso gehorsammen Volzug zu leisten sich verpunden erkhennen mues.</p>
             <p>Wan nun seithero thails von Herrn und Frauen Erbs Intressenten zu mehrmalen sowohl mündtlichen als schrifftlichen lobliche Pfleg Gerichts Obrigkheit zu <rs type="place" ref="#saenct_michaelspurg">St. Michaelspurg</rs> behelliget, einstens die Jungfrau <rs type="person" ref="#stockher_maria_ursula">Maria Ursula Stokherische</rs> Verlassenschaffts Abhandlung von hannden zu nemmen, und von den Herrn Ansiz Inhaber das Inventarium abzuforderen. So hat demenach der woledl gebohrne und hochgelehrte Herr <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignati Englmor von Moregg und Aufkhirchen</rs> i. u. Licentiat, ooe.er</p>
@@ -89,8 +91,11 @@
                <pb n="4v"/> ambtschuldige Requisition denen ergangenen hochgnedigen Regiminalverordnungen den gehorsammen Volzug zu leisten, und in Erfolg dessen mir ehenegstens das Inventarium, nebst dem etwo in Hannden hanbenden Testament, und allenfahlig noch andern zur Verlassenschafft gehörigen Sachen, gegen Abstattung der Gebihr ohnbeschwert verabfolgen zu lassen. Wo ybrigens nit mein Befelch ware, das der Gerichtsdiener mein ersteres Requisitionschreiben selbs dahin ybertragen, unnd zuestellen solle, auch dessen Ansiz in mindisten Mas zu derogieren oder Praejudicierliches zuezufiegen verlange, erholle mithin mein voriges, in dessen Getröstung mich anbei diensthöflichist empfelchend.</p>
             <p>Euer woledlgebohrn etc.</p>
             <p>Schuldigster Diener</p>
-            <p><rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignaz Englmor</rs>, Pfleger und Landrichter</p>
-            <p><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> den <date when="1750-07-03">3ten July 1750</date></p>
+            <p>
+                    <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignaz Englmor</rs>, Pfleger und Landrichter</p>
+            <p>
+                    <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> den <date when="1750-07-03">3ten July 1750</date>
+                </p>
             <p>
                <pb n="5r"/>
             </p>
@@ -98,7 +103,7 @@
             <p>Dem woledlgebohrnen Herrn <rs type="person" ref="#wenzl_johann_joseph_martin">Johann Joseph Martin Wenzl von Kirchegg, und Ragen, zu Gethreuenstain etc.</rs> zu hochgeehrten Hannden. <rs type="place" ref="#dietenheim">Dietenhaimb</rs>.</p>
             <p>Woraufhin man von seiten der Ansiz Inhabung etc. zu Vornemmung sothaner Inventur auf däto, als <date when="1750-07-08">achten dis Monats July</date> Anstalt ernennet, auch hierzue samentliche Jungfrau <rs type="person" ref="#stockher_maria_ursula">Maria Ursulä Stockherische</rs> Herrn und Frauen Erbs Nemmern in Giette beyzukhommen invitiert. Unnd zumahlen zu volge dessen auf däto sie Herrn und Frauen Erbs Partheyen</p>
             <p>
-               <pb n="5v"/> als nammentlich die baidpendige Frau Schwester <rs type="person" ref="#stockher_maria_magdalena">Maria Magdalena gebohrne Stockherin</rs>, in Beysein ihres Eheherrn, als eheschuldtshalben billichisten Anweisers des woledlen Herrn <rs type="person" ref="#spaengler_joseph_paul">Joseph Paul Spänglers</rs> des loblichen <rs type="place" ref="#aehrn">>Ährner</rs> Handls Verweeser und Cassiers erster, dan Frau <rs type="person" ref="#stockher_maria_catharinae">Maria Catharinä gebohrne Stockherin</rs>, in gleichen Beysein und Nebenstandt Ihres Eheherrns, des woledlen Herrn <rs type="person" ref="#marchner_johann_lorenz">Johann Lorenz Marchner</rs> Commission- und Ambgerichtsschreiber in <rs type="place" ref="#brunegg">Brunegg</rs>, anderter, weitters Herr <rs type="person" ref="#stockher_franz_antoni">Franz Antoni Stockher</rs> dritter und endtlichen Frau <rs type="person" ref="#stockher_elisabeth">Elisabethä Stockherin</rs> in anweisschäfftlicher Praesenz ihres eheverglibten des edlen und kunstreichen Herrn</p>
+               <pb n="5v"/> als nammentlich die baidpendige Frau Schwester <rs type="person" ref="#stockher_maria_magdalena">Maria Magdalena gebohrne Stockherin</rs>, in Beysein ihres Eheherrn, als eheschuldtshalben billichisten Anweisers des woledlen Herrn <rs type="person" ref="#spaengler_joseph_paul">Joseph Paul Spänglers</rs> des loblichen <rs type="place" ref="#aehrn">&gt;Ährner</rs> Handls Verweeser und Cassiers erster, dan Frau <rs type="person" ref="#stockher_maria_catharinae">Maria Catharinä gebohrne Stockherin</rs>, in gleichen Beysein und Nebenstandt Ihres Eheherrns, des woledlen Herrn <rs type="person" ref="#marchner_johann_lorenz">Johann Lorenz Marchner</rs> Commission- und Ambgerichtsschreiber in <rs type="place" ref="#brunegg">Brunegg</rs>, anderter, weitters Herr <rs type="person" ref="#stockher_franz_antoni">Franz Antoni Stockher</rs> dritter und endtlichen Frau <rs type="person" ref="#stockher_elisabeth">Elisabethä Stockherin</rs> in anweisschäfftlicher Praesenz ihres eheverglibten des edlen und kunstreichen Herrn</p>
             <p>
                <pb n="6r"/> <rs type="person" ref="#satzinger_johann_ludwig">Johann Ludwig Satzinger</rs> Goldtschmidts in <rs type="place" ref="#brunegg">Brunneggen</rs>, vierter und letster Erbstoll. Alle offtberedter Jungfrauen Ableiberin ain- und baidpendig respective Herr Brueder und Frauen Schwestern auf der Stöll beykhommen. Als will man von seiten der Ansiz Inhabung mit der Inventur vorbeygehen, zugleich aber gewertigen: Obe etwan vor Vornemmung derselben ainer oder anderer aus denen Herrn und Frauen Erbs Intressenten jechtewas vor- und anzubringen haben möchte?</p>
             <p>Auf welcheshin Beykhommen Herr <rs type="person" ref="#spaengler_joseph_paul">Joseph Paul Spängler</rs>, gezimmend vorbringende, wasgestalten ihme die Jungfrau</p>
@@ -117,7 +122,8 @@
             <p>Die zur Inventur, und keinem anderen Ennde invitierte ainpendige Schwester Frau <rs type="person" ref="#stockher_maria_catharinae">Maria Catharina Stockherin</rs> will nebst Ihren Eheconsorten der anersezten Beschreibung der</p>
             <p>
                <pb n="7v"/> in den adelichen Ansiz <rs type="place" ref="#getreuenstain">Gethreuenstain</rs> befindlichen Effetten gebihrend beizuwohnen nit ermanglen, mit angeheffter Bith, eine lobliche Ansizherrschafft wolle grosgonstig geruehen, vor Anfang derselben sowohl der baidpendigen Frau Schwester, als auch dero Eheherrn gewohnlichermassen zuezusprechen, das sie all das jenige, so zu der Jungfrau Ableiberin Verlassenschafft gehörig, und ihnen wissend sein möchte, gethreulichen zu beschreiben anzaigen, und hieran nichts verhalten sollen.</p>
-            <p>Die ybrigen Herrn und Frauen Erbsintressenten, auch respective Eheherr und Anweiser, als Herr <rs type="person" ref="#stockher_franz_antoni">Franz Antoni Stockher</rs></p>
+            <p>Die ybrigen Herrn und Frauen Erbsintressenten, auch respective Eheherr und Anweiser, als Herr <rs type="person" ref="#stockher_franz_antoni">Franz Antoni Stockher</rs>
+                </p>
             <p>
                <pb n="8r"/> dan Frau <rs type="person" ref="#stockher_elisabeth">Elisabetha gebohrne Stockherin</rs>, und ihr eheverglibte Herr <rs type="person" ref="#satzinger_johann_ludwig">Johann Ludwig Satzinger</rs> conformieren sich in omnibus, et per omnia dem vorherig von Herrn Ambtgerichtsschreiber und seiner Ehefrauen andictierten Recess.</p>
             <p>Ex parte der Ansiz Herrschafft etc.</p>
