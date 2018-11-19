@@ -73,6 +73,23 @@
             </person>
          </listPerson>
          <listPerson xml:id="rita2">
+<!-- names done -->
+            <person xml:id="stockher_maria_ursula">
+               <persName>
+                  <forename>Maria Ursula</forename>
+                  <surname>Stockerin</surname>
+               </persName>
+               <note type="placing">wohnhaft im Ansitz <rs type="place" ref="#getreuenstain">Getreuenstein</rs> in Dietenheim</note>
+            </person>
+            <person xml:id="wenzl_johann_joseph_martin">
+               <persName>
+                  <forename>Johann Joseph Martin</forename>
+                  <surname>von Wenzl zu Kirchegg, Ragen und Getreuenstein</surname>
+               </persName>
+            </person>
+
+
+<!-- names in work -->
             <person xml:id="stainer_sebastian">
                <persName>
                   <forename>Sebastian Joseph</forename>
@@ -677,18 +694,6 @@
                   <surname>Steeger</surname>
                </persName>
                <note type="function">Schreibereibediensteter zu <rs type="place" ref="#st_lorenzen">Sankt Lorenzen</rs>.</note>
-            </person>
-            <person xml:id="stockher_maria_ursula">
-               <persName>
-                  <forename>Maria Ursula</forename>
-                  <surname>Stocker</surname>
-               </persName>
-            </person>
-            <person xml:id="wenzl_johann_joseph_martin">
-               <persName>
-                  <forename>Johann Joseph Martin</forename>
-                  <surname>von Wenzl zu Kirchegg, Ragen und Getreuenstein</surname>
-               </persName>
             </person>
             <person xml:id="hebenstreit_christoph_andree">
                <persName>
