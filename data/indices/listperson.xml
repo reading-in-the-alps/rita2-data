@@ -178,10 +178,10 @@
             </person>
             <person xml:id="ferdinand_joseph">
                <persName>
-                  <forename>Ferdinand Joseph</forename>
-                  <surname>Ferdinand Joseph</surname>
+                  <forename>Ferdinand Joseph Gabriel</forename>
+                  <surname>zu Sarnthein</surname>
                </persName>
-               <note type="function">Bisch zu Hyschopl</note>
+               <note type="function">Konsistorialpräsident und Weihbischof von Brixen (Bischof von Hypsos)</note>
             </person>
             <person xml:id="hueber_martin">
                <persName>
@@ -2637,7 +2637,7 @@
                   <surname>Auerin</surname>
                </persName>
                <note type="family">Ehefrau von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs>, Mutter von <rs type="person" ref="#hueber_johann_2">Johann</rs>,
-                          <rs type="person" ref="#hueber_joseph_3">Joseph</rs>, <rs type="person" ref="#hueber_martin_2">Martin</rs>, und <rs type="person" ref="#hueber_mathes_2">Matthias Hueber</rs> Hueber</note>
+                          <rs type="person" ref="#hueber_joseph_3">Joseph</rs>, <rs type="person" ref="#hueber_martin_2">Martin</rs>, und <rs type="person" ref="#hueber_mathes_2">Matthias Hueber</rs></note>
             </person>
             <person xml:id="hueber_johann_2">
                <persName>
