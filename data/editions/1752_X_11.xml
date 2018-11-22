@@ -52,7 +52,9 @@
    <text>
       <body>
          <div>
-            <p>[Titelseite]</p>
+           <p>
+              <pb n="Titel"/>
+           </p>
             <p>[Kanzleivermerk:] Coll.</p>
             <p>[Rubrum:]</p>
             <p>1752</p>
@@ -1478,112 +1480,232 @@
             <p>Schulden hinaus</p>
             <table rend="rules">
               <row>
-                <cell></cell>
-                <cell></cell>
+                <cell>Als erstlichen Ihro Wohl Ehrwirden den Herrn Brueder <rs type="person" ref="#manucredo_joseph_carl">Joseph Carl Mänucredo</rs> vermig abgöbner zwoer Schuldt Bekhantnussen Cäppitäll</cell>
+                <cell>200 f 0 x</cell>
               </row>
               <row>
-                <cell></cell>
-                <cell></cell>
+                <cell>Die Interessen bis verwichen Sonebenten verfahlen, seint bereits bezaldt, und verraith worden, hingögen ist der Herr Ableiber seelligen deme noch weitters willen an seiner statt eingenombnen Interessen schuldig verbliben</cell>
+                <cell>15 f 0 x</cell>
               </row>
               <row>
-                <cell></cell>
-                <cell></cell>
+                <cell>Latus</cell>
+                <cell>215 f 0 x</cell>
               </row>
             </table>
-
-
-
-<!-- continue here -->
-
-
-
-
-            <p>Als erstlichen Ihro Wohl Ehrwirden den Herrn Brueder <rs type="person" ref="#manucredo_joseph_carl">Joseph Carl Mänucredo</rs> vermig abgöbner zwoer Schuldt Bekhantnussen Cäppitäll	200 f 0 x</p>
-            <p>Die Interessen bis verwichen Sonebenten verfahlen, seint bereits bezaldt, und verraith worden, hingögen ist der Herr Ableiber seelligen deme noch weitters willen an seiner statt eingenombnen Interessen schuldig verbliben,	15 f 0 x</p>
-            <p>Latus	215 f 0 x</p>
             <p>
                <pb n="22v"/>
             </p>
-            <p>Der Haiserin <rs type="person" ref="#riser_gerdrauth">Gerdrauth Riserin</rs> nach laut des Herrn Ableibers hinterlassner Aufschreibung, an ausstendigen Lidlohn	140 f 0 x</p>
-            <p>Aber deroselben noch weittern Lidlohn bis zu des Ableibers Todtfahl von ain ainhalb Jahr, funfzöchen Gulden, hieran aber selbe finf Gulden empfangen, Rest ihro noch	10 f 0 x</p>
-            <p>Und mehr ihro weegen eingekhaufften und bezalten Fleisch,	45 x</p>
-            <p>Thuet ihr der Heiserin begehrn zusamben, ainhundert funfzig Gulden, finfundtvierzig Kreizer, wölche deroselben hinach durch den Herrn <rs type="person" ref="#manucredo_joseph_carl">Joseph Carl Mänucredo</rs> mitlst extradierten Vernussen, und parn Geldt par<note>
-                  <p rend="footnote text">
-                     <hi rend="italic">Über der Zeile eingefügt.</hi>
-                  </p>
-               </note> zaldt worden, dis zu Bht,</p>
-            <p>Latus	150 f 45 x</p>
+            <table rend="rules">
+              <row>
+                <cell>Der Haiserin <rs type="person" ref="#riser_gerdrauth">Gerdrauth Riserin</rs> nach laut des Herrn Ableibers hinterlassner Aufschreibung, an ausstendigen Lidlohn</cell>
+                <cell>140 f 0 x</cell>
+              </row>
+              <row>
+                <cell>Aber deroselben noch weittern Lidlohn bis zu des Ableibers Todtfahl von ain ainhalb Jahr, funfzöchen Gulden, hieran aber selbe finf Gulden empfangen, Rest ihro noch</cell>
+                <cell>10 f 0 x</cell>
+              </row>
+              <row>
+                <cell>Und mehr ihro weegen eingekhaufften und bezalten Fleisch,</cell>
+                <cell>45 x</cell>
+              </row>
+              <row>
+                <cell>Thuet ihr der Heiserin begehrn zusamben, ainhundert funfzig Gulden, finfundtvierzig Kreizer, wölche deroselben hinach durch den Herrn <rs type="person" ref="#manucredo_joseph_carl">Joseph Carl Mänucredo</rs> mitlst extradierten Vernussen, und parn Geldt par<note>
+                      <p rend="footnote text">
+                         <hi rend="italic">Über der Zeile eingefügt.</hi>
+                      </p>
+                   </note> zaldt worden, dis zu Bht, <p>Latus</p></cell>
+                <cell>150 f 45 x</cell>
+              </row>
+            </table>
             <p>
                <pb n="23r"/>
             </p>
-            <p>Den Herrn Doctor zu <rs type="place" ref="#brunegg">Brunögg</rs>, <rs type="person" ref="#perger_felix">Felix Perger</rs> ausstendige Bstallung, von finf Jahr,	5 f 0 x</p>
-            <p>Denen, so die Leich helfen anlögen, zu ainer Zöhrung,	27 x</p>
-            <p>Vor eingefierten <rs type="person" ref="#lanz_peter">Petern Lanz</rs> Khriner umb abgöbnen drey Stär Roggen,	2 f 33 x</p>
-            <p>Den <rs type="person" ref="#stieger_michael">Michael Stieger</rs> Tischler fir der Todten Truch, und Grab Creuz, sambt den Gang, und Einschlagen,	2 f 7 x</p>
-            <p>Denen sechs Khörzen Tragern sambt den Gang,	3 f 0 x</p>
-            <p>Der Frauen <rs type="person" ref="#wachtler_maria_theresa">Maria Theresa Wachtlerin</rs> weegen bey der Inventur abgespeissten Herrn, und Partheyen darzue eingekhaufften Fleisch, und andern Sachen,	3 f 57 x</p>
-            <p>Latus	17 f 4 x</p>
+            <table rend="rules">
+              <row>
+                <cell>Den Herrn Doctor zu <rs type="place" ref="#brunegg">Brunögg</rs>, <rs type="person" ref="#perger_felix">Felix Perger</rs> ausstendige Bstallung, von finf Jahr,</cell>
+                <cell>5 f 0 x</cell>
+              </row>
+              <row>
+                <cell>Denen, so die Leich helfen anlögen, zu ainer Zöhrung,</cell>
+                <cell>27 x</cell>
+              </row>
+              <row>
+                <cell>Vor eingefierten <rs type="person" ref="#lanz_peter">Petern Lanz</rs> Khriner umb abgöbnen drey Stär Roggen,</cell>
+                <cell>2 f 33 x</cell>
+              </row>
+              <row>
+                <cell>Den <rs type="person" ref="#stieger_michael">Michael Stieger</rs> Tischler fir der Todten Truch, und Grab Creuz, sambt den Gang, und Einschlagen,</cell>
+                <cell>2 f 7 x</cell>
+              </row>
+              <row>
+                <cell>Denen sechs Khörzen Tragern sambt den Gang,</cell>
+                <cell>3 f 0 x</cell>
+              </row>
+              <row>
+                <cell>Der Frauen <rs type="person" ref="#wachtler_maria_theresa">Maria Theresa Wachtlerin</rs> weegen bey der Inventur abgespeissten Herrn, und Partheyen darzue eingekhaufften Fleisch, und andern Sachen,</cell>
+                <cell>3 f 57 x</cell>
+              </row>
+              <row>
+                <cell>Latus</cell>
+                <cell>17 f 4 x</cell>
+              </row>
+            </table>
             <p>
                <pb n="23v"/>
             </p>
-            <p>Dann Herrn <rs type="person" ref="#nagler_andree">Andree Nagler</rs> Parbierer alhier vor Bestallung, und abgöbner Medicin,	5 f 14 x</p>
-            <p>Herrn <rs type="person" ref="#wachtler_johann_antoni">Johann Antany Wachtler</rs> Wirth an der Rosen alda zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs> umb abgöbnen Wein, yber ain Gulden zöchen Khreizer Absaz, noch zwaiundtzwainzig Gulden, von wölichen aber noch weitters jenige zöchen Gulden darvon zukhomben, haben, so dössen Herr Brueder <rs type="person" ref="#wachtler_joseph_antany">Joseph Antany Wachtler</rs>, <note>
-                  <p rend="footnote text">
-                     <hi rend="superscript">-18</hi>
-                     <hi rend="italic">Auf der linken Seite eingefügt.</hi>
-                  </p>
-            </note>Caplan zu <rs type="place" ref="#cronburg">Cronburg</rs>
-                    <hi rend="superscript">18</hi>, den Mädl so bey den Herrn Ableiber in der Cost gewösen, hierfir beyzutragen versprochen, und die bey ihme Herrn Wachtler zu empfangen angewisen hat, Rest deme noch,	12 f 0 x</p>
-            <p>Den <rs type="person" ref="#unterstainer_antany">Antany Unterstainer</rs> Schuester zu <rs type="place" ref="#soneburg">Soneburg</rs>,	1 f 0 x</p>
-            <p>Der Funeralconto betrefft sambt</p>
-            <p>Latus	18 f 14 x</p>
+            <table rend="rules">
+              <row>
+                <cell>Dann Herrn <rs type="person" ref="#nagler_andree">Andree Nagler</rs> Parbierer alhier vor Bestallung, und abgöbner Medicin,	</cell>
+                <cell>5 f 14 x</cell>
+              </row>
+              <row>
+                <cell>Herrn <rs type="person" ref="#wachtler_johann_antoni">Johann Antany Wachtler</rs> Wirth an der Rosen alda zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs> umb abgöbnen Wein, yber ain Gulden zöchen Khreizer Absaz, noch zwaiundtzwainzig Gulden, von wölichen aber noch weitters jenige zöchen Gulden darvon zukhomben, haben, so dössen Herr
+                Brueder <rs type="person" ref="#wachtler_joseph_antany">Joseph Antany Wachtler</rs>, Caplan zu <rs type="place" ref="#cronburg">Cronburg</rs><note>
+                      <p rend="footnote text">
+                         Caplan zu Cronburg <hi rend="italic">auf der linken Seite eingefügt.</hi>
+                      </p>
+                </note>, den Mädl so bey den Herrn Ableiber in der Cost gewösen, hierfir beyzutragen versprochen, und die bey ihme Herrn Wachtler zu empfangen angewisen hat, Rest deme noch,</cell>
+                <cell>12 f 0 x</cell>
+              </row>
+              <row>
+                <cell>Den <rs type="person" ref="#unterstainer_antany">Antany Unterstainer</rs> Schuester zu <rs type="place" ref="#soneburg">Soneburg</rs>,</cell>
+                <cell>1 f 0 x</cell>
+              </row>
+              <row>
+                <cell>Der Funeralconto betrifft sambt</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>Latus</cell>
+                <cell>18 f 14 x</cell>
+              </row>
+            </table>
             <p>
                <pb n="24r"/>
             </p>
-            <p>ain Gulden der Pfarrkhirchen fir der grosen Gloggen leiten,	15 f 6 x</p>
-            <p>Denen sechs geistlichen Herrn, so die Leich getragen, zu ainer Verehrung	6 f 0 x</p>
-            <p>Dem Mösner zu <rs type="place" ref="#saalen">Saallen</rs> weegen andurch gehabter Bemieheung	36 x</p>
-            <p>Der <rs type="person" ref="#hueber_mathes">Mathes Hueber</rs> Gassteugerischen Verlassenschafft willen hergöbnen einhalb Stär Hanif,	30 x</p>
-            <p>Wie anvor bey der Inventur Anmeldung beschöchen, seint den Herrn Ableiber zu ainer Khirchen Zierdt, siben Gulden dreissig Khreizer eingehendiget worden, zumahlen aber nur hieran zway Gulden verhanden, auch dise unbeschribner gelassen, die noch restierende finf</p>
-            <p>Latus	22 f 12 x</p>
+            <table rend="rules">
+              <row>
+                <cell>ain Gulden der Pfarrkhirchen fir der grosen Gloggen leiten,</cell>
+                <cell>15 f 6 x</cell>
+              </row>
+              <row>
+                <cell>Denen sechs geistlichen Herrn, so die Leich getragen, zu ainer Verehrung,</cell>
+                <cell>6 f 0 x</cell>
+              </row>
+              <row>
+                <cell>Dem Mösner zu <rs type="place" ref="#saalen">Saallen</rs> weegen andurch gehabter Bemieheung,</cell>
+                <cell>36 x</cell>
+              </row>
+              <row>
+                <cell>Der <rs type="person" ref="#hueber_mathes">Mathes Hueber</rs> Gassteugerischen Verlassenschafft willen hergöbnen einhalb Stär Hanif,</cell>
+                <cell>30 x</cell>
+              </row>
+              <row>
+                <cell>Wie anvor bey der Inventur Anmeldung beschöchen, seint den Herrn Ableiber zu ainer Khirchen Zierdt, siben Gulden dreissig Khreizer eingehendiget worden, zumahlen aber nur hieran zway Gulden verhanden, auch dise unbeschribner gelassen, die noch restierende finf</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>Latus</cell>
+                <cell>22 f 12 x</cell>
+              </row>
+            </table>
             <p>
                <pb n="24v"/>
             </p>
-            <p>Gulden dreissig Khreizer hingögen von gemelten Herrn Ableiber verpraucht worden, als hat solliche die Verlassenschafft der Khirchen zu ersözen, id es mit	5 f 30 x</p>
-            <p>Den Maurer zu Mantan willen zu <rs type="place" ref="#saalen">Saallen</rs> aufgemacht auch weitterer Zuemachung des Grabs mit gehauten Stain,	3 f 0 x</p>
-            <p>Den <rs type="person" ref="#hueber_hans">Hansen Hueber</rs> Rindler fir hergelichnen Visch Calter, sambt was dabey beriert,	1 f 15 x</p>
-            <p>Den Pixenmacher <rs type="person" ref="#daemb_jacob">Jacob Dämb</rs>,	4 x</p>
-            <p>Umb willen ausstendigen Mössen werden von Vermigen ab- und alda ausgesözt,	200 fl 0 x</p>
-            <p>Der Cappellen zu <rs type="place" ref="#saalen">Saallen</rs>, wee-</p>
-            <p>Latus	209 f 49 x</p>
+            <table rend="rules">
+              <row>
+                <cell>Gulden dreissig Khreizer hingögen von gemelten Herrn Ableiber verpraucht worden, als hat solliche die Verlassenschafft der Khirchen zu ersözen, id est mit</cell>
+                <cell>5 f 30 x</cell>
+              </row>
+              <row>
+                <cell>Den Maurer zu Mantan willen zu <rs type="place" ref="#saalen">Saallen</rs> aufgemacht auch weitterer Zuemachung des Grabs mit gehauten Stain,</cell>
+                <cell>3 f 0 x</cell>
+              </row>
+              <row>
+                <cell>Den <rs type="person" ref="#hueber_hans">Hansen Hueber</rs> Rindler fir hergelichnen Visch Calter, sambt was dabey beriert,</cell>
+                <cell>1 f 15 x</cell>
+              </row>
+              <row>
+                <cell>Den Pixenmacher <rs type="person" ref="#daemb_jacob">Jacob Dämb</rs>,</cell>
+                <cell>4 x</cell>
+              </row>
+              <row>
+                <cell>Umb willen ausstendigen Mössen werden von Vermigen ab- und alda ausgesözt,</cell>
+                <cell>200 fl 0 x</cell>
+              </row>
+              <row>
+                <cell>Der Cappellen zu <rs type="place" ref="#saalen">Saallen</rs>, wee-</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>Latus</cell>
+                <cell>209 f 49 x</cell>
+              </row>
+            </table>
             <p>
                <pb n="25r"/>
             </p>
-            <p>gen hergegöbnen Mösgewandt, Almb, und beygeschaffner Beleichtung,	10 f 0 x</p>
-            <p>Der geistliche Commissions Uncosten betrifft, laut eingöbnen Statt,	15 f 0 x</p>
-            <p>Und der Uncosten von Seiten der weldtlichen Obrigkheit sambt den Schreib- und Siglgeldt,	23 f 8 x</p>
-            <p>Wegen Pau, und Bösserung der Caplan Behausung dargögen aber, ist alda von Vermigen nichts abzusözen, weillen solch alles die Cappellen zu praestiern, und disfahls einen Herrn Capplan genzlich frey zu halten hat, dis zu Bericht,</p>
-            <p>Latus	48 f 8 x</p>
-            <p>Summä der Abzüg</p>
+            <table rend="rules">
+              <row>
+                <cell>gen hergegöbnen Mösgewandt, Almb, und beygeschaffner Beleichtung,</cell>
+                <cell>10 f 0 x</cell>
+              </row>
+              <row>
+                <cell>Der geistliche Commissions Uncosten betrifft, laut eingöbnen Statt,</cell>
+                <cell>15 f 0 x</cell>
+              </row>
+              <row>
+                <cell>Und der Uncosten von Seiten der weldtlichen Obrigkheit sambt den Schreib- und Siglgeldt,</cell>
+                <cell>23 f 8 x</cell>
+              </row>
+              <row>
+                <cell>Wegen Pau, und Bösserung der Caplan Behausung dargögen aber, ist alda von Vermigen nichts abzusözen, weillen solch alles die Cappellen zu praestiern, und disfahls einen Herrn Capplan genzlichen frey zu halten hat, dis zu Bericht,</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>Latus</cell>
+                <cell>48 f 8 x</cell>
+              </row>
+            </table>
+            <p>Summä der Abzüg,</p>
             <p>
                <pb n="25v"/>
             </p>
-            <p>Sechshundert ainundtachtzig Gulden zwölf Kreizer id est	681 f 12 x</p>
-            <p>Wan also die minder von der mehrern Summä abgezochen wirdet, erscheint Vermigens Abgang, ainundtneinzig Gulden, ainundtzwainzig Khreizer id est	91 f 21 x</p>
-            <p>Woraufhin auf von Seiten der geist- und weldtlichen Vorsteheung gethaner Vorstöllung, hat sich des Herrn Ableibers seelligen hinterlassne Herr Brueder <rs type="person" ref="#manucredo_joseph_carl">Joseph Carl Manucredo</rs> zu Beybehaltung seines Herrn Bruedern Ehr, und zu gueten der ybrigen Freintschafft anerclert, dössen ganze <pb n="26r"/> und völlige Vermigen zu ibernemben, und allen Creditore Rödt, und Antworth, auch contento zu göben, und gleichwie auch die geistliche Commission, und weldtliche Obrigkheit hieran ein sonders Wohlgefahlen, und zugleich die ybrige Erbs Interessenten hieriber kheine Bedenckhen getragen, sondern villmehr dössen Erclerung zu Danckh angenomben.</p>
-            <p>Als ist auch in Nachfolg dössen ihme Herrn <rs type="person" ref="#manucredo_joseph_carl">Joseph Carl Manucredo</rs> des abgeleibten Herrn Brueders seelligen ganzes und völlig hieobbeschribnes Vermigen hiemit, und incrafft dits zu wirckhlichen Bsiz, und Aigenthumb nach seinen Belieben darmit handlen und wandlen zu khenen eingeraumbt, und yberlassen worden, das dargögen</p>
+            <table rend="rules">
+              <row>
+                <cell>Sechshundert ainundtachtzig Gulden zwölf Kreizer id est</cell>
+                <cell>681 f 12 x</cell>
+              </row>
+              <row>
+                <cell>Wan also die minder von der mehrern Summä abgezochen wirdet, erscheint Vermigens Abgang, ainundtneinzig Gulden, ainundtzwainzig Khreizer id est</cell>
+                <cell>91 f 21 x</cell>
+              </row>
+            </table>
+            <p>Woraufhin auf von Seiten der geist- und weldtlichen Vorsteheung gethaner Vorstöllung, hat sich des Herrn Ableibers seelligen hinterlassne Herr Brueder <rs type="person" ref="#manucredo_joseph_carl">Joseph Carl Manucredo</rs> zu Beybehaltung seines Herrn Bruedern Ehr, und zu gueten der ybrigen Freintschafft anerclert, dössen ganze </p>
+               <pb n="26r"/>
+            <p>und völlige Vermigen zu ibernemben, und allen Creditore Rödt, und Antworth, auch contento zu göben, und gleichwie auch die geistliche Commission, und weldtliche Obrigkheit hieran ein sonders Wohlgefahlen, und zugleich die ybrige Erbs Interessenten hieriber kheine Bedenckhen getragen, sondern villmehr dössen Erclerung zu Danckh angenomben,
+            als ist auch in Nachfolg dössen ihme Herrn <rs type="person" ref="#manucredo_joseph_carl">Joseph Carl Manucredo</rs> des abgeleibten Herrn Brueders seelligen ganzes und völlig hieobbeschribnes Vermigen hiemit, und incrafft dits zu wirckhlichen Bsiz, und Aigenthumb nach seinen Belieben darmit handlen und wandlen zu khenen eingeraumbt, und yberlassen worden, das dargögen</p>
             <p>
                <pb n="26v"/>
             </p>
-            <p>Andertens derselbe schuldig und verpunden sein solle, alle hievorbeschriben Abzüg, und Schulden hinaus, sambt was noch weitters an dergleichen in Vorschein khumben möchte, und mithin auch die hierinfahls ergangene Comission- und Gerichts Uncösten an seiner Gehörde abzufiern, und zu bezahlen, auch die Heillige Mössen respective lösen, oder lesen zu lassen, und sein aigne Forderung zugeschweigen, wohl volgsamb auch</p>
+            <p>Andertens derselbe schuldig und verpunden sein solle, alle hievorbeschribne Abzüg, und Schulden hinaus, sambt was noch weitters an dergleichen in Vorschein khumben möchte, und mithin auch die hierinfahls ergangene Comission- und Gerichts Uncösten an seiner Gehörde abzufiern, und zu bezahlen, auch die Heillige Mössen respective lösen, oder lesen zu lassen, und sein aigne Forderung zugeschweigen, wohl volgsamb auch</p>
             <p>Dritens so wohl die geistliche Commission als weldtliche Obrigkheit diser ihme beschöchner Vermigens Einraumbung halber, genzlichen schadlos zu halten, aller gestalten auch</p>
             <p>
                <pb n="27r"/>
             </p>
-            <p>Schließlichen dess Herrn Ybernembers ganzes und völliges Vermigen, umb was sich selber verpindlichen gemacht, firpfäntlichen eingesözt, verhafft, und verschriben sein, und zu verbleiben haben solle.</p>
-            <p>Nachdem Ablesen, es bey vorigen allen genzlichen verbleiben zu lassen, und darwider nichts anders vorzunemben, oder zu handlen, haben wohl gemelter Herr Ybernember <rs type="person" ref="#manucredo_joseph_carl">Joseph Carl Manucredo</rs>, dan von verstorbnen Herrn Brueder <rs type="person" ref="#manucredo_jacob_andree">Jacob Andree Manucredo</rs> der geistliche Herr Sohn <rs type="person" ref="#manucredo_antany_sebastian">Antany Sebastian Manucredo</rs>, und in Namen der ybrigen vier Geschwistrigeth der zu dem Ende bestölte Vertrötter <rs type="person" ref="#hueber_hans">Hans Hueber</rs>, verer von verstorbnen Herrn Brueder <rs type="person" ref="#manucredo_leonhardt_johann">Leonhardt Johann Manucredo</rs> dös-<pb n="27v"/>sen Herr Sohn <rs type="person" ref="#manucredo_johann_antany">Johann Antany</rs>, auch in Vertröttung seines Herrn Brueder <rs type="person" ref="#manucredo_joseph_joaechimb">Joseph Joächimb Manucredo</rs>, und von der verstorbnen Frauen Schwöster <rs type="person" ref="#manucredo_maria_ursulae">Maria Ursulä Manucredin</rs> dero zwo Töchter Frauen <rs type="person" ref="#manucredo_maria_theresia">Maria Theresia</rs>, und <rs type="person" ref="#wachtler_maria_ursulae">Maria Ursulä Wachtlerinen</rs> in assistentiae ihres Anweiser <rs type="person" ref="#hueber_hans">Hansen Hebers, mehr er Hueber</rs> in Vertröttung des geistlichen Herrn Bruedern <rs type="person" ref="#wachtler_joseph_antany">Joseph Antany Wachtler</rs> hoch wohl gemelten Herrn Commissario etc. und Ihro gstreng dem Herrn Pflöger etc. das Handt Anloben, und zu Ausförtigung zwoer solchen Instrumenter die Siglpith erstath.</p>
+            <p>Schliesslichen dess Herrn Ybernembers ganzes und völliges Vermigen, umb was sich selber verpindlichen gemacht, firpfäntlichen eingesözt, verhafft, und verschriben sein, und zu verbleiben haben solle.</p>
+            <p>Nach dem Ablesen, es bey vorigen allen genzlichen verbleiben zu lassen, und darwider nichts anders vorzunemben, oder zu handlen, haben wohl gemelter Herr Ybernember <rs type="person" ref="#manucredo_joseph_carl">Joseph Carl Manucredo</rs>, dan von verstorbnen Herrn Brueder <rs type="person" ref="#manucredo_jacob_andree">Jacob Andree Manucredo</rs> der geistliche Herr Sohn <rs type="person" ref="#manucredo_antany_sebastian">Antany Sebastian Manucredo</rs>, und in Namen der ybrigen vier Geschwistrigeth der zu dem Ende bestölte Vertrötter <rs type="person" ref="#hueber_hans">Hans Hueber</rs>, verer von verstorbnen Herrn
+            Brueder <rs type="person" ref="#manucredo_leonhardt_johann">Leonhardt Johann Manucredo</rs> dös-</p>
+               <pb n="27v"/>
+            <p>sen Herr Sohn <rs type="person" ref="#manucredo_johann_antany">Johann Antany</rs>, auch in Vertröttung seines Herrn Brueder <rs type="person" ref="#manucredo_joseph_joaechimb">Joseph Joächimb Manucredo</rs>, und von der verstorbnen Frauen Schwöster <rs type="person" ref="#manucredo_maria_ursulae">Maria Ursulä Manucredin</rs> dero zwo Töchter Frauen <rs type="person" ref="#manucredo_maria_theresia">Maria Theresia</rs>,
+            und <rs type="person" ref="#wachtler_maria_ursulae">Maria Ursulä Wachtlerinen</rs> in assistentiae ihres Anweiser <rs type="person" ref="#hueber_hans">Hansen Huebers</rs>, mehr er Hueber in Vertröttung des geistlichen Herrn Bruedern <rs type="person" ref="#wachtler_joseph_antany">Joseph Antany Wachtler</rs> hoch wohl gemelten Herrn Commissario etc. und Ihro gstreng dem Herrn Pflöger etc. das Handt Anloben, und zu Ausförtigung zwoer solchen Instrumenter die Siglpith erstath.</p>
             <p>Ohnegeverdele</p>
-            <p>Des zu wahrem Urkhundt, seint demnach zwo gleichlautende <pb n="28r"/>genzung und Einraumbung zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>, in Beysein des geistlichen und weldtlichen Herrn Actuarii, den <date when="1752-10-12">zwölfften Tag Manats Octobris, in sibenzöchenhundert zwaiundtfunfzigisten Jahr</date>.</p>
+            <p>Des zu wahrem Urkhundt, seint demnach zwo gleichlautende</p>
+               <pb n="28r"/>
+            <p>Vermigens Ergenzungen und Einraumbungen aines Inhalts expediert, und ausgeschriben, und zwar jede in Sonderheit unter und mit vor hoch wohlgedacht Ihro Hochwirden und Gnaden des Herrn Döchandt, und Commissarii Joseph Mathias Yngramb von Liebenrain und Fragburg, und vor wohl eingefiehrts Ihro gstreng des Herrn Pflöger und Landtrichters zu Sanct Michaelspurg [i. u.] Lit. Joseph Ignäty Englmohr von Aufkhirchen zu Mohregg, von Commission, und respective Obrigkheit weegen hierfirgestölten hoch und wohl adelich angebohrnen Insigler (jedoch anderwerts daran ganz ohne Schaden) verfört und anmit die aine den Vermigens ybernembenden Herrn Brueder Joseph Carl Manucredo zu dössen nottwendigen Behelf, und Gebrauch, becröfftigter bestölt, und die andere gebreichigermassen bey Gerichts Handen aufbehalten worden. Geschechen die entliche Vermigens Er-
+            </p>
+               <pb n="28v"/>
+            <p>genzung und Einraumbung zu <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>, in Beysein des geistlichen und weldtlichen Herrn Actuarii, den <date when="1752-10-12">zwölfften Tag Manats Octobris, in sibenzöchenhundert zwaiundtfunfzigisten Jahr</date>.</p>
             <p>[aufgedrückte Oblatensiegel des <rs type="person" ref="#ingramb_joseph_mathias">Joseph Matthias Ingram</rs> und <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignaz Englmohr</rs>]</p>
          </div>
       </body>

@@ -52,9 +52,11 @@
    <text>
       <body>
          <div>
-            <p>[Titelseite]</p>
+           <p>
+              <pb n="Titel"/>
+           </p>
             <p>[Kanzleivermerk:] Coll.</p>
-            <p>[Rubrum:] Inventarium</p>
+            <p>[Rubrum:]</p> <p>Inventarium</p>
             <p>So auf Ableiben weilend der woledlen und tugentreichen Jungfrauen <rs type="person" ref="#stockher_maria_ursula">Maria Ursula Stockherin</rs> seeligen, in den adelichen Ansiz <rs type="place" ref="#getreuenstain">Gethreuenstain</rs> zu <rs type="place" ref="#dietenheim">Dietenhaimb</rs> vorgangen.</p>
             <p>1750</p>
             <p>[Aktenvermerk:] Zu Gerichtshanden geherig.</p>
