@@ -877,7 +877,6 @@
                </row>
             </table>
             <p>
-<!-- stopped here -->
                <pb n="123v"/>
             </p>
             <table rend="rules">
@@ -898,7 +897,7 @@
                   <cell>30 x</cell>
                </row>
                <row>
-                  <cell>Ain Küechl Spis, ain Fleischgabl, 2 Grösere und klenere Mueser, 2 Eisen Löfl, 2 Dürchling, und 2 Wasser Köll, per</cell>
+                  <cell>Ain Küechl Spis, ain Fleischgabl, 2 grösere und klenere Mueser, 2 Eisen Löfl, 2 Dürchling, und 2 Wasser Köll, per</cell>
                   <cell>30 x</cell>
                </row>
                <row>
@@ -914,7 +913,7 @@
                   <cell>12 x</cell>
                </row>
                <row>
-                  <cell>9 grösere und klenere Köchler Häfen, per</cell>
+                  <cell>9 grösere und klenere Kächler Häfen, per</cell>
                   <cell>18 x</cell>
                </row>
                <row>
@@ -951,7 +950,7 @@
                   <cell>8 x</cell>
                </row>
                <row>
-                  <cell>Ain plöchens Salzfäsl, ain deto Schisseln, und ain Egerer Flaschen, per</cell>
+                  <cell>Ain plöchens Salzfäsl, ain deto Schissele, und ain Egerer Flaschen, per</cell>
                   <cell>20 x</cell>
                </row>
                <row>
@@ -963,7 +962,7 @@
                   <cell>21 x</cell>
                </row>
             </table>
-            <p>In unter Stübele</p>
+            <p>In unter Stübele.</p>
             <table rend="rules">
                <row>
                   <cell>Ain Wasser Sprizer, samt den Plöchen Kolben, 5 Brodprether, und 7 stainnene Puschen Gschyr, per</cell>
@@ -990,7 +989,7 @@
                   <cell>1 f 15 x</cell>
                </row>
                <row>
-                  <cell>2½ Pf. Instlet Körzen, per</cell>
+                  <cell>2½ Pf. Inslet Körzen, per</cell>
                   <cell>30 x</cell>
                </row>
                <row>
@@ -998,8 +997,12 @@
                   <cell>1 f 20 x</cell>
                </row>
                <row>
-                  <cell>Und 2½ Land Yhrn <rs type="place" ref="#brixen">Brixner</rs> Wein zu 7 f 30 x, thuet</cell>
+                  <cell>Und 2½ Land Yhrn Brixner Wein zu 7 f 30 x, thuet</cell>
                   <cell>18 f 45 x</cell>
+               </row>
+               <row>
+                  <cell>Latus</cell>
+                  <cell>21 f 50 x</cell>
                </row>
                <row>
                   <cell>Summa vorbeschriebner Inventur 249 f 57 x, id est</cell>
@@ -1007,15 +1010,15 @@
                </row>
             </table>
             <p>
-               <hi rend="bold">Bücher.</hi>
+               <bibl>Bücher.</bibl>
             </p>
             <p>
-               <hi rend="bold">In Folio.</hi>
+               <bibl>In Folio.</bibl>
             </p>
             <table rend="rules">
                <row>
                   <cell>
-                     <rs type="bibl" ref="#franciscus_josephus_lohr_predigen">D. Franciscus Josephus Lohr Predigen</rs> 4 thom in französischen Bund, pr
+                     <rs type="bibl" ref="#franciscus_josephus_lohr_predigen">D. Franciscus Josephus Lohr Prediger</rs> 4 thom in französischen Bund, pr
                   </cell>
                   <cell>
                     6 f 30 x
@@ -1023,7 +1026,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#lotarico_friderico_predig">Sitten- und Lehrreiche Predig von Lotarico Friderico v. Alpach</rs> 1 thom in französischen Bund, per
+                     <rs type="bibl" ref="#lotarico_friderico_predig">Sitten- und Lehrreiche Predig von Lotaricae Friderico v. Alpach</rs> 1 thom in französischen Bund, per
                   </cell>
                   <cell>
                      1 f 12 x
@@ -1031,7 +1034,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#francisc_heger_predigen">Francisc Heger Predigen</rs> 2 thom in französischen Bund, per
+                     <rs type="bibl" ref="#francisc_heger_predigen">Francisc[us] Heger Predigen</rs> 2 thom in französischen Bund, per
                   </cell>
                   <cell>
                      3 f 45
@@ -1088,12 +1091,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_balthasar_knellinger_predigen">P. Balthasar Keilinger</rs>
-                     <note>
-                        <p rend="footnote text">
-                           <hi rend="italic">Irrig für</hi> Knellinger.</p>
-                     </note>
-                     <rs type="bibl" ref="#p_balthasar_knellinger_predigen">Predigen auf alle Festtäg</rs>, in Schwein Leder, per
+                     <rs type="bibl" ref="#p_balthasar_knellinger_predigen">P. Balthasar Keilinger Predigen auf alle Festtäg</rs><note><p rend="footnote text"> Keilinger <hi rend="italic">irrig für</hi> Knellinger.</p></note>, in Schwein Leder, per
                   </cell>
                   <cell>
                      1 f 24 x
@@ -1109,7 +1107,7 @@
                </row>
             </table>
             <p>
-               <hi rend="bold">In 4to</hi>
+               <bibl>In 4to</bibl>
             </p>
             <table rend="rules">
                <row>
@@ -1146,7 +1144,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#franz_anoni_reichle_groser_allgemeiner_cathecismus">Franz Anoni [sic!] Reichle Groser und Allgemeiner Cathecismus</rs> in Praunpappier, per
+                     <rs type="bibl" ref="#franz_anoni_reichle_groser_allgemeiner_cathecismus">Franz Anoni Reichle Groser und Allgemeiner Cathecismus</rs><note><p rend="footnote text"> Anoni <hi rend="italic" xml:space="preserve">irrig für </hi>Antoni.</p></note> in Praunpappier, per
                   </cell>
                   <cell>
                      40 x
@@ -1259,14 +1257,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#georgius_pistorius_himlische_wunder_werck">Georgius Historicus</rs>
-                     <note>
-                        <p rend="footnote text">
-                           <hi rend="italic">Irrig für</hi> Pistorius.</p>
-                     </note>
-                     <rs type="bibl" ref="#georgius_pistorius_himlische_wunder_werck">Himlische Wunder Werck,</rs>
-                     <hi rend="bold strikethrough">per</hi>
-                     <rs type="bibl" ref="#georgius_pistorius_himlische_wunder_werck">Mariae</rs>, per
+                     <rs type="bibl" ref="#georgius_pistorius_himlische_wunder_werck">Georgius Historicus Himlische Wunder Werck Mariae</rs><note><p rend="footnote text"> Historicus <hi rend="italic">irrig für</hi> Pistorius. <hi rend="italic">Nach </hi>Werck <hi rend="italic">gestrichen </hi>per.</p></note>, per
                   </cell>
                   <cell>
                      18 x
@@ -1274,7 +1265,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_vitus_haberius_predigen">P. Vitus Haberius 30 Predigen</rs>, per
+                     <rs type="bibl" ref="#p_vitus_haberius_predigen">P. Vitus Haberius 30 Predigen</rs><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Korrigiert.</hi></p></note>, per
                   </cell>
                   <cell>
                      15 x
@@ -1282,12 +1273,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_ignatius_ertl_promontorium">P. Ignatius Ertl Manitocium</rs>
-                     <note>
-                        <p rend="footnote text">
-                           <hi rend="italic" xml:space="preserve">Irrig für </hi>Promontorium.</p>
-                     </note>
-                     <rs type="bibl" ref="#p_ignatius_ertl_promontorium">Bonaespei</rs> per
+                     <rs type="bibl" ref="#p_ignatius_ertl_promontorium">P. Ignatius Ertl Manitocium Bonaespei</rs><note><p rend="footnote text"> Manitocium <hi rend="italic" xml:space="preserve">irrig für </hi>Promontorium.</p></note> per
                   </cell>
                   <cell>
                      15 x
@@ -1303,7 +1289,7 @@
                </row>
                <row>
                   <cell>
-                    Wunderschöner Einzug, in Pappier per
+                    <rs type="bibl" ref="#wunderschoener_einzug">Wunderschöner Einzug</rs>, in Pappier per
                   </cell>
                   <cell>
                      10 x
@@ -1320,7 +1306,7 @@
             <table rend="rules">
                <row>
                   <cell>
-                     Nur Kein Tod Sind, per
+                     <rs type="bibl" ref="#nur_kein_todsuend">Nur Kein Tod Sind</rs>, per
                   </cell>
                   <cell>
                      10 x
@@ -1328,7 +1314,7 @@
                </row>
             </table>
             <p>
-               <hi rend="bold">In Octav</hi>
+               <bibl>In Octav</bibl>
             </p>
             <table rend="rules">
                <row>
@@ -1446,9 +1432,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#geistlicher_vatter_des_heiligen_francisci_v_sales">Geistlicher Vatter des Heiligen Francisci v.</rs>
-                     <hi rend="bold strikethrough">S</hi>
-                        <rs type="bibl" ref="#geistlicher_vatter_des_heiligen_francisci_v_sales">Sales</rs>, per
+                     <rs type="bibl" ref="#geistlicher_vatter_des_heiligen_francisci_v_sales">Geistlicher Vatter des Heiligen Francisci v. Sales</rs><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt nach </hi>v. <hi rend="italic" xml:space="preserve">gestrichener Buchstabe.</hi></p></note>, per
                   </cell>
                   <cell>
                      20 x
@@ -1520,7 +1504,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#ad_casus_conscientiae_ad_mandatum">Ad Casus Conscientiae Ad Mandatum etc.</rs>
+                     <rs type="bibl" ref="#ad_casus_conscientiae_ad_mandatum">Ad Casus Conscientiae Ad Mandatum p[er]</rs>
                   </cell>
                   <cell>
                      9 x
@@ -1536,7 +1520,7 @@
                </row>
                <row>
                   <cell>
-                     Ain altes klains Previer samt ain Diurnal, per
+                     Ain <rs type="bibl" ref="#previer_mit_diurnal">altes klains Previer samt ain Diurnal</rs>, per
                   </cell>
                   <cell>
                      30 x
@@ -1601,7 +1585,7 @@
                </row>
                <row>
                   <cell>
-                     Etliche schlechte unterschiedliche Büechlen, per
+                     Etliche schlechte <rs type="bibl" ref="#unterschiedliche_buecher">unterschiedliche Büechlen</rs>, per
                   </cell>
                   <cell>
                      1 f 30 x
@@ -1652,7 +1636,7 @@
                   <cell>4 f 7½ x</cell>
                </row>
                <row>
-                  <cell>Ain klains silberenes Bichsl samt ain deto <hi rend="bold">Bett-Buch Bschlächt</hi>, wegen 3⅛tl Loth, zu 50 x thuet</cell>
+                  <cell>Ain klains silberenes Bichsl samt ain deto <bibl>Bett-Buch Bschlächt</bibl>, wegen 3⅛tl Loth, zu 50 x thuet</cell>
                   <cell>2 f 36 x</cell>
                </row>
                <row>
@@ -1716,7 +1700,7 @@
                   <cell>6 f 18 x</cell>
                </row>
                <row>
-                  <cell>In anderen Silber Geld, <hi rend="strikethrough">per</hi>
+                  <cell>In anderen Silber Geld,<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>per.</p></note>
                   </cell>
                   <cell>1 f 52 x</cell>
                </row>
@@ -1729,8 +1713,7 @@
                   <cell>3 f 30 x</cell>
                </row>
                <row>
-                  <cell>Der <rs type="person" ref="#tratter_mathes">Mathes Tratter</rs> hat auch an Stipendien bezahlt 10 f, von welchen aber der <rs type="person" ref="#thaler_mariae">Maria Thalackererin</rs> zu Ergänzung ihres dem Herren Ableiber in Behalt gegebenen Geld zahlt worden, 9 f 48 x, Rest also noch an Stipendien auszuwerffen, <hi rend="strikethrough">pr</hi>
-                  </cell>
+                  <cell>Der <rs type="person" ref="#tratter_mathes">Mathes Tratter</rs> hat auch an Stipendien bezahlt 10 f, von welchen aber der <rs type="person" ref="#thaler_mariae">Maria Thalackererin</rs> zu Ergänzung ihres dem Herren Ableiber in Behalt gegebenen Geld zahlt worden, 9 f 48 x, Rest also noch an Stipendien auszuwerffen,<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt durch zeilenfüllende Linie gestrichenes </hi>pr.</p></note></cell>
                   <cell>12 x</cell>
                </row>
                <row>
@@ -1768,7 +1751,7 @@
                   <cell>8 f 0 x</cell>
                </row>
                <row>
-                  <cell>Denen zwo Herren Cooperatore für Conduct und Vigil</cell>
+                  <cell>Denen zwo Herren Cooperatorn für Conduct und Vigil</cell>
                   <cell>2 f 0 x</cell>
                </row>
                <row>
@@ -1777,7 +1760,7 @@
                </row>
                <row>
                   <cell>Für dem gewohnlichen Jahrtag samt Bitten, und Vigil wohlgemelten Herrn Pfarrer</cell>
-                  <cell>2 f 45 x</cell>
+                  <cell>2<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Korrigiert aus </hi>1.</p></note> f 45 x</cell>
                </row>
                <row>
                   <cell>Dem Herren Cooperatore</cell>
@@ -1813,11 +1796,11 @@
                </row>
                <row>
                   <cell>Für den Todten Graber, und Maurer</cell>
-                  <cell>1 f 0 x</cell>
+                  <cell>1 f 0 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Eintrag nachträglich geschrieben.</hi></p></note></cell>
                </row>
                <row>
                   <cell>Latus</cell>
-                  <cell>25 f 4 x</cell>
+                  <cell>25<note><p rend="footnote text"> 5<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>4.</p></note> f 4 x</cell>
                </row>
             </table>
             <p>
@@ -1845,7 +1828,7 @@
                   <cell>36 f 36 x</cell>
                </row>
                <row>
-                  <cell>Der <rs type="person" ref="#vieschnaler_christian">Christian Vieschnaler</rs> Mayr zu <rs type="place" ref="#rodenegg">Rodenegg</rs> begehrt an dem Herrn Ableiber Willen von 6 Jahren vorgestreckten Geld 70 f, dargegen ist in sein des Herren Ableibers Aufschreibung zu ersehen, das Herr Ableiber deme <hi rend="strikethrough">auch</hi> nur 66 f 24 x schuldig verblieben seye, an welchen aber derselbe weiters zahlt, sein des <rs type="person" ref="#vieschnaler_christian">Christian Vischnalers</rs> Ehewürthin 11 f, dann für ihro den Barbierer 3 f, und zulezt auch deroselben bey ihren allhier seyn, 2 Ducaten pr 8 f 44 x thuet zusamen 22 f 44 x, also das man ihme <rs type="person" ref="#vieschnaler_christian">Christian Vieschnaler</rs> yber deren Abzug noch schuldig verbleiben wurde</cell>
+                  <cell>Der <rs type="person" ref="#vieschnaler_christian">Christian Vieschnaler</rs> Mayr zu <rs type="place" ref="#rodenegg">Rodenegg</rs> begehrt an dem Herrn Ableiber Willen von 6 Jahren vorgestreckten Geld 70 f, dargegen ist in sein des Herren Ableibers Aufschreibung zu ersehen, das Herr Ableiber deme nur<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Am rechten Rand geschrieben statt gestrichenem </hi>auch.</p></note> 66 f 24 x schuldig verblieben seye, an welchen aber derselbe weiters zahlt, sein des <rs type="person" ref="#vieschnaler_christian">Christian Vischnalers</rs> Ehewürthin 11 f, dann für ihro den Barbierer 3 f, und zulezt auch deroselben bey ihren allhier seyn, 2 Ducaten pr 8 f 44 x thuet zusamen 22 f 44 x, also das man ihme <rs type="person" ref="#vieschnaler_christian">Christian Vieschnaler</rs> yber deren Abzug noch schuldig verbleiben wurde</cell>
                   <cell>43 f 40 x</cell>
                </row>
                <row>
@@ -1879,8 +1862,8 @@
                   <cell>1 f 57 x</cell>
                </row>
                <row>
-                  <cell>Dem Herren <rs type="person" ref="#canrad_franz">Franz Canrad</rs> Chyrurgos an ausständiger Bestallung, und abgebener Medicin</cell>
-                  <cell>8 f 52 x</cell>
+                  <cell>Dem Herren <rs type="person" ref="#canrad_franz">Franz Canrad</rs> Chyrurgos<note><p rend="footnote text"> -os<hi rend="italic" xml:space="preserve"> korrigiert.</hi></p></note> an ausständiger Bestallung, und abgebener Medicin</cell>
+                  <cell>8 f 52<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Korrigiert aus Auslassungsstrich.</hi></p></note> x</cell>
                </row>
                <row>
                   <cell>Dem <rs type="person" ref="#perffler_johann">Johann Perffler</rs> Materalisten zu <rs type="place" ref="#dietenheim">Dietenhaim</rs>
@@ -1889,7 +1872,7 @@
                </row>
                <row>
                   <cell>Der <rs type="person" ref="#egger_brigita">Brigita Eggerin</rs> allda zu <rs type="place" ref="#st_georgen">St. Georgen</rs>, willen dem Herren Ableiber in Behalt gegebenen Geld</cell>
-                  <cell>8f 33 x</cell>
+                  <cell>8 f 33 x</cell>
                </row>
                <row>
                   <cell>Titl. etc. Herrn <rs type="person" ref="#von_moerl_johann_balthasar">Johann Balthasar v. Mörl</rs> noch ausständiges Cost Geld von 19 Wochen, à 1 f 36 x, thuet</cell>
@@ -1900,7 +1883,7 @@
                   <cell>6 f 18 x</cell>
                </row>
                <row>
-                  <cell>Dem <rs type="person" ref="#hueber_niclaus">Niclaus Hueber</rs>, so von des Herrn Ableibers Todfall an bis anhero in dem Widum gewesten, und auf die Fahrnussen obacht getragen, mit Einschlus der auf <rs type="place" ref="#brixen">Brixen</rs> zu Ansagung des Todfalls gemachten Rais</cell>
+                  <cell>Dem <rs type="person" ref="#hueber_niclaus">Niclaus Hueber</rs>, so von des Herrn Ableibers Todfall an bis anhero in dem Widum gewesen, und auf die Fahrnussen obacht getragen, mit Einschlus der auf <rs type="place" ref="#brixen">Brixen</rs> zu Ansagung des Todfalls gemachten Rais</cell>
                   <cell>3 f 0 x</cell>
                </row>
                <row>
@@ -1937,7 +1920,7 @@
                   <cell>190 f 48 x</cell>
                </row>
                <row>
-                  <cell>Weilen aber nach so ergänzten Vermigen der <rs type="person" ref="#tratter_mathes">Mathes Tratter</rs> Tratter allda zu <rs type="place" ref="#st_georgen">St. Georgen</rs> beykommen, und hievorbeschrieben völlige Inventurs Posten für seinen geistlichen Herrn Brueder, und nunnmehrige würcklich resolvierten Beneficiaten allda zu <rs type="place" ref="#st_georgen">St. Georgen</rs> <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> zu ybernemmen, und yber vorigen Anschlag noch um 50 f mehrer zu geben, und diese zusammen betröffende 441 f 15 x inner halb acht Tag baar zu bezahlen versprochen, warmit man sich auch contentiert, als haben solche noch darzue zu kommen, id est mit</cell>
+                  <cell>Weilen aber nach so ergänzten Vermigen der <rs type="person" ref="#tratter_mathes">Mathes Tratter</rs> Tratter allda zu <rs type="place" ref="#st_georgen">St. Georgen</rs> beykommen, und hievorbeschrieben völlige Inventurs Posten für seinen geistlichen Herrn Brueder, und nunnmehrige würcklich resolvierten Beneficiaten allda zu <rs type="place" ref="#st_georgen">St. Georgen</rs> <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> zu ybernemmen, und yber vorigen Anschlag noch um 50 f mehrer zu geben, und diese zusammen betröffende 441 f 15 x innerhalb acht Tag baar zu bezahlen versprochen, warmit man sich auch contentiert, als haben solche noch darzue zu kommen, id est mit</cell>
                   <cell>50 f 0 x</cell>
                </row>
                <row>
@@ -1968,9 +1951,9 @@
                   <cell>240 f 48 x</cell>
                </row>
             </table>
-            <p>Und so nun, wie hievor zu sehen, der <rs type="person" ref="#tratter_mathes">Mathes Tratter</rs> die völligen Inventurs Posten ybernommen, und deren samt deme mehrers gegebenen 50 f mit zusamen 441 f 15 x ein Schuldner worden, als wirdet auch <hi rend="strikethrough">erstlich, und</hi>
+            <p>Und so nun, wie hievor zu sehen, der <rs type="person" ref="#tratter_mathes">Mathes Tratter</rs> die völligen Inventurs Posten ybernommen, und deren samt deme mehrers gegebenen 50 f mit zusamen 441 f 15 x ein Schuldner worden, als wirdet auch<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>erstlich, und</p></note>
             </p>
-            <p>Erstlich, und allvorderist ihme <rs type="person" ref="#tratter_mathes">Mathes Tratter</rs> die Baarschafft und mithin das ganze und völlige hievorbeschrieben Herr <rs type="person" ref="#gasser_joseph">Joseph Gasserische</rs> zurugg gelassene Vermigen für seinen Herren Brueder <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> hiemit, und in Kraft dies also gleich zu würklichen Besizthum und Aigenthum, um anmit willkurlichen disponiern zu können, eingeraumt, und yberlassen,</p>
+            <p>Erstlich, und allvorderist ihme <rs type="person" ref="#tratter_mathes">Mathes Tratter</rs> die Baarschafft und<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile eingefügt. </hi></p></note> mithin das ganze und völlige hievorbeschrieben Herr <rs type="person" ref="#gasser_joseph">Joseph Gasserische</rs> zurugg gelassene Vermigen für seinen Herren Brueder <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> hiemit, und in Kraft dies also gleich zu würklichen Besiz- und Aigenthum, um anmit willkurlichen disponiern zu können, eingeraumt, und yberlassen,</p>
             <table rend="rules">
                <row>
                   <cell>so zusammen betrifft</cell>
@@ -1986,11 +1969,11 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Dan der loblichen <rs type="place" ref="#st_georgen">St. Georgen</rs> Kirchen die</cell>
+                  <cell>Dan<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Am linken Rand eingefügt. </hi></p></note> der loblichen <rs type="place" ref="#st_georgen">St. Georgen</rs> Kirchen die</cell>
                   <cell>40 f 8 x</cell>
                </row>
                <row>
-                  <cell>Und dem Erb <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> das betroffene Herr brüederliche Erb, mit</cell>
+                  <cell>Und dem Erb <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> das<note><p rend="footnote text"> -a- <hi rend="italic" xml:space="preserve">korrigiert aus </hi>-e-.</p></note> betroffene Herr brüederliche Erb, mit</cell>
                   <cell>200 f 40 x</cell>
                </row>
                <row>
@@ -1998,25 +1981,26 @@
                   <cell>511 f 35 x</cell>
                </row>
             </table>
-            <p>Weilen aber drittens von abwesig beidpändigen Brueder <rs type="person" ref="#gasser_jacob">Jacob Gasser</rs> kain aigentliche Nachricht verhanden, obe selber no bey Leben, oder tod seye, so hat das Erb solang stilligen zu verbleiben, bis er Erb <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> hierummen ein<hi rend="strikethrough">en</hi> annemliche Caution einstöllen wirdet, mit verspröchen, wann er <rs type="person" ref="#gasser_jacob">Jacob Gasser</rs>, oder von ihme jemande Legitimierter yber kurz, oder lang beykommen, und das Erb anspröchen wurde, demenselben zu Red, und Antworth zu stehen, allenfalls Satisfaction zu geben, und diesfalls sowohl die gnädig geistliche Commission als weltliche Obrigkeit ohne Nachtheil und Schaden zu halten.</p>
+            <p>Weilen aber drittens von abwesig beidpändigen Brueder <rs type="person" ref="#gasser_jacob">Jacob Gasser</rs> kain aigentliche Nachricht verhanden, obe selber noch bey Leben, oder tod seye, so hat das Erb solang stilligen zu verbleiben, bis er Erb <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> hierummen ein<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>-en.</p></note> annemliche Caution einstöllen wirdet, mit Verspröchen<note><p rend="footnote text"> mit Versprö- <hi rend="italic" xml:space="preserve"> auf Rasur korrigiert. </hi></p></note>, wann er <rs type="person" ref="#gasser_jacob">Jacob Gasser</rs>, oder von ihme jemande Legitimierter yber kurz, oder lang beykommen, und das Erb anspröchen wurde, demenselben zu Red, und Antworth zu stehen, allenfalls Satisfaction zu geben, und diesfalls sowohl die gnädig geistliche Commission als weltliche Obrigkeit ohne Nachtheil und Schaden zu halten.</p>
             <p>Schlüslichen verbleibt um die Schulden hinaus, der Kirchen ihr Contingent, und Herrn brüederlichen Erb, des Vermigens ybernemenden <rs type="person" ref="#tratter_mathes">Mathesen Tratters</rs> ganzes und völliges Vermigen in specie die Einraummung fürpfändlichen einge-</p>
             <p>
                <pb n="131v"/>
             </p>
             <p>sezt verhaften und verschrieben.</p>
-            <p>Nach dem Ablesen bey voriger Vermigens Ergänzung Einraumung und Erbsthailung es verbleiben zu lassen, und darwider nicht anderes vorzunemmen, oder zu vorhandlen, sonderen alles fäst, und stäth zu halten, haben der ainpändige Bruder <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> mit Rath, und neben seinen Stüefvattern, und verpflichten Curatore <rs type="person" ref="#brunegger_antoni">Antoni Brunegger</rs>, und der Vermigens ybernemmende <rs type="person" ref="#tratter_mathes">Mathes Tratter</rs> der gnädig geistlichen Commission und weltlichen Obrigkeit etc. das Hand Anloben, und zu Ausförtigung aines solchen Instruments die Siglbitt erstatt.</p>
+            <p>Nach dem Ablesen bey voriger Vermigens Ergänzung Einraumung und Erbsthailung es verbleiben zu lassen, und darwider nicht anderes vorzunemmen, oder zu handlen, sonderen alles fäst, und stäth zu halten, haben der ainpändige Bruder <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> mit Rath, und neben seinen Stüefvattern, und verpflichten Curatore <rs type="person" ref="#brunegger_antoni">Antoni Brunegger</rs>, und der Vermigens ybernemmende <rs type="person" ref="#tratter_mathes">Mathes Tratter</rs> der gnädig geistlichen Commission und weltlichen Obrigkeit etc. das Hand Anloben, und zu Ausförtigung aines solchen Instruments die Siglbitt erstatt.</p>
             <p>Testes nebst denen Gerichts Beysizern <rs type="person" ref="#eppacher_martin">Martin Eppacher</rs> gewester Schneidermeister zu <rs type="place" ref="#st_georgen">St. Georgen</rs>, und <rs type="person" ref="#steeger_joseph">Joseph Steeger</rs> Schreiber.</p>
             <div>
                <p>
                   <pb n="183v"/>
                </p>
                <p>[Rubrum:] 1788</p>
-               <p>Neüerliche Vermögensergänzung und respective Untersuchung samt was dabey berührt.</p>
+               <p>Neüerliche Vermögensergänzung, und respective Untersuchung samt was dabey berührt.</p>
                <p>So auf bereits schon anno 1773 christseelig erfolgtes Hinscheiden des hochehrwürdigen geistlichen Herrn <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> gewesten Beneficiaten zu <rs type="place" ref="#st_georgen">St. Georgen</rs> Landgerichts <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> instehendermassen vorgenommen worden.</p>
                <p>[Kanzleivermerk:] Exped.</p>
                <p>
                   <pb n="178r"/>
                </p>
+<!-- stopped here -->
                <p>Actum <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> den <date when="1788-02-18">18ten Februar 1788</date>.</p>
                <p>Vor loblicher Landgerichtsobrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>.</p>
                <p>Zugegen Herr <rs type="person" ref="#wachtler_johann_antoni">Johann Anton Wachtler</rs>.</p>
