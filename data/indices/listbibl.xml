@@ -49,6 +49,7 @@
                 <bibl xml:id="anacleti_reifenstuel">Anacleti Reifenstuel Theol. Moralis</bibl>
                 <bibl xml:id="anathema_mariano_theologicum">Anathema Mariano Theologicum</bibl>
                 <bibl xml:id="annus_apostolicus_continens_conciones_pro_omnibus_diebus_dominicis">Annus Apostolicus Continens Conciones Pro Omnibus Diebus Dominicis</bibl>
+                <bibl xml:id="annus_apostolicus_continens_conciones_pro_diebus_festivis">Annus Apostolicus Continens Conciones Pro Diebus Festivis</bibl>
                 <bibl xml:id="annus_pastorum_v_lamberto_abbate">Annus Pastorum v. Lamberto Abbate</bibl>
                 <bibl xml:id="anselmi_fischer_vita_interna_cum_deo">Anselmi Fischer Vita Interna Cum Deo</bibl>
                 <bibl xml:id="antoni_freisl_paurn_predigen">Antoni Freisl Paurn Predigen</bibl>
@@ -74,6 +75,7 @@
                 <bibl xml:id="bibliorum">Bibliorum</bibl>
                 <bibl xml:id="bibliotheca_patrum_asscetica">Bibliotheca Patrum Asscetica</bibl>
                 <bibl xml:id="breviarium_romanum">Breviarium Romanum</bibl>
+                <bibl xml:id="buch_von_alten_predigten_ohne_Titel">Buch von alten Predigen auf alle Sontag</bibl>
                 <bibl xml:id="callans_contans">Callans Contans, item Geistliche Seellen Jagt</bibl>
                 <bibl xml:id="caspari_biesmann_doctrina_moralis">Caspari Biesmann Doctrina Moralis</bibl>
                 <bibl xml:id="casparii_mandl_meditationes">Casparii Mandl Meditationes</bibl>
@@ -128,6 +130,8 @@
                 <bibl xml:id="dictionarium_linguae_latinae_ambrosii_calipini">Dictionarium Linguae Latinae Ambrosii Calipini</bibl>
                 <bibl xml:id="dictionarius_frisius">Dictionarius Frisius</bibl>
                 <bibl xml:id="dictionnarius">Dictionnarius</bibl>
+                <bibl xml:id="dictionarii_le_grand">Dictionarii Französisch, Lateinisch, und Teütsch, Le Grand</bibl>
+                <bibl xml:id="dictionarium_magnum">Magnum Dictionarium Regium Latino, Galico, Germanicum</bibl>
                 <bibl xml:id="die_wichtigsten_wahrheiten_der_religion">Neü Auserlesene Kanzel Reden Über Die Wichtigsten Wahrheiten Der Religion</bibl>
                 <bibl xml:id="discorsi_della_bona_morte_del_padre_bordoni">Discorsi Della Bona Morte del Padre Bordoni</bibl>
                 <bibl xml:id="discorsi_sacri_morali_campidelli">Discorsi Sacri Morali Campidelli</bibl>
@@ -340,6 +344,7 @@
                 <bibl xml:id="p_anecletus_weiler_instructio_practica_moralis">P. Anecletus Weiler Instructio Practica Moralis</bibl>
                 <bibl xml:id="p_anselmi_schnell_supplementum">P. Anselmi Schnell Supplementum Theolog. Moralis</bibl>
                 <bibl xml:id="p_antonii_de_guevara_faticinium_in_havacuc_prophetae_commentaria">P. Antonii de Guevara Faticinium In Habacuc Prophetae Commentaria</bibl>
+                <bibl xml:id="p_archdekin_theologia_tripartita">Theologia Tripartita P. Achdeckin</bibl>
                 <bibl xml:id="p_august_calmet_dictionarium_biblicum">P. August Calmet Dictionarium Biblicum</bibl>
                 <bibl xml:id="p_babenstub_tractatus_de_iustitiam">Tractatus De Iustitiam, Et Iure P. Babenstub</bibl>
                 <bibl xml:id="p_bagatta_admiranda_orbis_christiani">Admiranda Orbis Christiani P. Bagatta</bibl>
