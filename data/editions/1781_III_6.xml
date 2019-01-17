@@ -8286,7 +8286,6 @@
                   </row>
                </table>
                <p>
-<!-- stopped here  -->
                   <pb n="13v"/>
                </p>
                <table rend="rules">
@@ -8329,7 +8328,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#initium_sapientiae_timor_domini_meditationes">Initium Sapientiae Timor Domini Meditationes</rs> französischer Bund,
+                        <rs type="bibl" ref="#initium_sapientiae_timor_domini_meditationes">Initium Sapientiae Timor Domini Meditationes</rs><note><p rend="footnote text"> -es<hi rend="italic" xml:space="preserve"> nachträglich eingefügt. </hi>I-<hi rend="italic" xml:space="preserve"> von </hi>Initium<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>P-.</p></note> französischer Bund,
                      </cell>
                   </row>
                   <row>
@@ -8353,11 +8352,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_neustifter_theatrum_passionum_animae">Theatrum Passionum Animae P. Neistifter</rs>
-                        <note>
-                           <p rend="footnote text"> Neustifter.</p>
-                        </note>
-                        <hi xml:space="preserve"><rs type="bibl" ref="#p_neustifter_theatrum_passionum_animae"> Soc. Jesu</rs> in französischem Bund,</hi>
+                        <rs type="bibl" ref="#p_neustifter_theatrum_passionum_animae">Theatrum Passionum Animae P. Neistifter Soc. Jesu</rs> in französischem Bund,
                      </cell>
                   </row>
                   <row>
@@ -8372,12 +8367,6 @@
                         <rs type="bibl" ref="#ludovici_andreae_mathematische_und_historische_beschreibung_des_ganzen_welt_gebaeuds">Mathematische Und Historische Beschreibung Des Ganzen Welt Gebäuds etc. Ludovici Andreae</rs> in pirmenten Bund.
                      </cell>
                   </row>
-                  <row>
-                     <cell/>
-                     <cell>
-                        <rs type="bibl" ref="#ferculum_sive_currus_et_thronus_trium">Ferculum Sive Currus Et Thronus Trium-</rs>
-                     </cell>
-                  </row>
                </table>
                <p>
                   <pb n="14r"/>
@@ -8386,7 +8375,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#ferculum_sive_currus_et_thronus_trium">phalis Veri Salomonis in braun Leder</rs>
+                        <rs type="bibl" ref="#ferculum_sive_currus_et_thronus_trium">Ferculum Sive Currus Et Thronus Triumphalis Veri Salomonis</rs><note><p rend="footnote text"> Ferculum Sive Currus Et Thronus Trium-<hi rend="italic" xml:space="preserve"> noch auf dem vorigen Blatt geschrieben.</hi></p></note> in braun Leder
                      </cell>
                   </row>
                   <row>
@@ -8398,13 +8387,13 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#tractatus_theologico_moralis_in_decem_decalogi">Tractatus Theologico Moralis In Decem Decalogi</rs>, Et 5 Praecepta Gregorii Kümpfler französischer Bund
+                        <rs type="bibl" ref="#tractatus_theologico_moralis_in_decem_decalogi">Tractatus Theologico Moralis In Decem Decalogi, Et 5 Praecepta Gregorii Kümpfler</rs> französischer Bund
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#hieronomi_tartaroti_de_origine_ecclesiae_tridentinae">Hieronimi Tartaroti De Origine Ecclesiae Tridentinae</rs> etc. in weisen Papir,
+                        <rs type="bibl" ref="#hieronomi_tartaroti_de_origine_ecclesiae_tridentinae">Hieronimi Tartaroti De Origine Ecclesiae Tridentinae etc.</rs> in weisen Papir,
                      </cell>
                   </row>
                   <row>
@@ -8475,25 +8464,15 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#lux_cathechetica_comitis_fieger">Lux Cat</rs>
-                        <hi rend="strikethrough">h</hi>
-                        <rs type="bibl" ref="#lux_cathechetica_comitis_fieger">echetica Comitis Fieger</rs> in braun Papir,
+                        <rs type="bibl" ref="#lux_cathechetica_comitis_fieger">Lux Catechetica Comitis Fieger</rs><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Nach </hi>Cat-<hi rend="italic" xml:space="preserve"> folgt gestrichen </hi>-h-.</p></note> in braun Papir,
                      </cell>
                   </row>
                   <row>
                      <cell/>
-                     <cell>
-                        <hi rend="strikethrough">Peregrinus</hi>
-                     </cell>
+                     <cell><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gestrichen </hi>Peregrinus.</p></note></cell>
                   </row>
                   <row>
-                     <cell>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Buchstabe angefangen, aber gestrichen.</hi>
-                           </p>
-                        </note>
-                     </cell>
+                     <cell><note><p rend="footnote text"><hi rend="italic">Buchstabe angefangen, aber gestrichen.</hi></p></note></cell>
                      <cell>
                         <rs type="bibl" ref="#quator_mundi_monarchiarum_initium_et_origo">Quator Mundi Monarchiarum Initium Et Origo authore Penzinger</rs> in pirmenten Bund
                      </cell>
@@ -8549,9 +8528,7 @@
                   <row>
                      <cell>NB</cell>
                      <cell>
-                        <hi xml:space="preserve"><rs type="bibl" ref="#pauli_segneri_prediche_de_palazzo_apostolico">Prediche De Palazzo Apostolico </rs></hi>
-                        <hi rend="strikethrough">in</hi>
-                        <hi xml:space="preserve"><rs type="bibl" ref="#pauli_segneri_prediche_de_palazzo_apostolico"> Pauli Segneri</rs> in Papir,</hi>
+                        <rs type="bibl" ref="#pauli_segneri_prediche_de_palazzo_apostolico">Prediche De Palazzo Apostolico Pauli Segneri</rs><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Nach </hi>Apostolico<hi rend="italic" xml:space="preserve"> gestrichen </hi>in.</p></note> in Papir,
                      </cell>
                   </row>
                   <row>
@@ -8568,11 +8545,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        Tugend
-                        <note>
-                           <p rend="footnote text"> T- <hi rend="italic">korrigiert aus</hi> L-.</p>
-                        </note>
-                        <hi xml:space="preserve"> Schmied P. Gansler 3 thom. in Papir,</hi>
+                        <rs type="bibl" ref="#tugendschmied">Tugend Schmied P. Gansler</rs><note><p rend="footnote text"> T- <hi rend="italic"> bei </hi>Tugend<hi rend="italic"> korrigiert aus vermutlich</hi> L-.</p></note> 3 thom. in Papir,
                      </cell>
                   </row>
                   <row>
@@ -8584,7 +8557,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        Alte Brevier in 4 Theil.
+                        <rs type="bibl" ref="#alte_brevier">Alte Brevier in 4 Theil.</rs>
                      </cell>
                   </row>
                   <row>
@@ -8603,6 +8576,18 @@
                      <cell/>
                      <cell>
                         <rs type="bibl" ref="#opere_del_padre_gio_eusebio_nieremberg">Opere del Padre Gio Eusebio Nieremberg</rs> 3 thom. in französischen Bund
+                     </cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über dem Eintrag gestrichen </hi>Damnatae Thesis.</p></note><rs type="bibl" ref="#theologia_trutina_damnatarum">Theologia Trutina Damnatarum Thesium P. Viva</rs><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Davor gestrichen </hi>Bel-.</p></note> französischer Bund 5 thomi.
+                     </cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <rs type="bibl" ref="#opere_del_padre_carlo_gregorio_rosignol">Opere del Padre Carlo Gregorio Rosignol</rs> 3 thom. in deto Bund
                      </cell>
                   </row>
                   <row>
@@ -8632,7 +8617,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_joannis_christliches_andaechtiges_jahr">Christliches Andächtiges Jahr P. Joannis</rs> Suffren 4 thom. in französischen Bund,
+                        <rs type="bibl" ref="#p_joannis_christliches_andaechtiges_jahr">Christliches Andächtiges Jahr P. Joannis Suffren</rs> 4 thom. in französischen Bund,
                      </cell>
                   </row>
                   <row>
@@ -8649,15 +8634,13 @@
                   <row>
                      <cell/>
                      <cell>
-                        <hi xml:space="preserve"><rs type="bibl" ref="#discussio_theologica_augustini_michel">Discussio Theologica Augustini Michel</rs> in </hi>
-                        <hi rend="strikethrough">f</hi>
-                        <hi xml:space="preserve"> papiren Bund.</hi>
+                        <rs type="bibl" ref="#discussio_theologica_augustini_michel">Discussio Theologica Augustini Michel</rs> in<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>f-.</p></note> papiren Bund.
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#neu_reformierte_landesordnung">Neu Reformierte Landesordnung</rs> in französischen Bund,
+                        <rs type="bibl" ref="#neu_reformierte_landesordnung">Neü Reformierte Landesordnung</rs> in französischen Bund,
                      </cell>
                   </row>
                   <row>
@@ -8675,9 +8658,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <hi xml:space="preserve"><rs type="bibl" ref="#il_gentiluomo_istruito_da_d_francesco_giuseppe_morelli">Il Gentiluomo </rs></hi>
-                        <hi rend="strikethrough">ins</hi>
-                        <hi xml:space="preserve"><rs type="bibl" ref="#il_gentiluomo_istruito_da_d_francesco_giuseppe_morelli"> Istruito etc. da D. Francesco Giuseppe Morelli</rs> in deto Bund.</hi>
+                        <rs type="bibl" ref="#il_gentiluomo_istruito_da_d_francesco_giuseppe_morelli">Il Gentiluomo Istruito etc. da D. Francesco Giuseppe Morelli</rs><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Nach </hi>Gentiluomo<hi rend="italic" xml:space="preserve"> folgt gestrichen </hi>Ins-.</p></note> in deto Bund.
                      </cell>
                   </row>
                   <row>
@@ -8770,15 +8751,9 @@
                      </cell>
                   </row>
                   <row>
-                     <cell/>
-                     <cell>
-                        <hi rend="strikethrough">Disco</hi>
-                     </cell>
-                  </row>
-                  <row>
                      <cell>NB</cell>
                      <cell>
-                        <rs type="bibl" ref="#eiusdem_discorsi_sacri_sopra_varie_feste">Eiusdem Discorsi Sacri Sopra Varie Feste</rs> in wälschen Bund,
+                        <note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über dem Eintrag gestrichen </hi>Disco-.</p></note><rs type="bibl" ref="#eiusdem_discorsi_sacri_sopra_varie_feste">Eiusdem Discorsi Sacri Sopra Varie Feste</rs> in wälschen Bund,
                      </cell>
                   </row>
                   <row>
@@ -8825,20 +8800,23 @@
                   <row>
                      <cell/>
                      <cell>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-172</hi>
-                              <hi rend="italic">Am linken Rand nachgetragen.</hi>
-                           </p>
-                        </note>
+                       <note>
+                          <p rend="footnote text">
+                             <hi rend="italic">Gesamter Eintrag am linken Rand eingefügt.</hi>
+                          </p>
+                       </note>
                         <rs type="bibl" ref="#breviarium_romanum">Breviarium Romanum</rs> in 2 Theilen in schlechten Bund
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#summa_corona_confessorum_antonio_berarducii">Summa Corona Confessorum Antonio Berarducii</rs> in schlechten Pirment
-                        <hi rend="superscript">172</hi>
+                       <note>
+                          <p rend="footnote text">
+                             <hi rend="italic">Gesamter Eintrag am linken Rand eingefügt.</hi>
+                          </p>
+                       </note>
+                       <rs type="bibl" ref="#summa_corona_confessorum_antonio_berarducii">Summa Corona Confessorum Antonio Berarducii</rs> in schlechten Pirment
                      </cell>
                   </row>
                   <row>
@@ -8885,10 +8863,10 @@
                   </row>
                </table>
                <p>
-                  <hi rend="bold">Octavisten</hi>
+                  <bibl>In Quart</bibl>
                   <note>
                      <p rend="footnote text">
-                        <hi rend="italic">Am linken Rand nachgetragen.</hi>
+                        <hi rend="italic">Durch Verweiszeichen am linken Rand nachgetragen.</hi>
                      </p>
                   </note>
                </p>
@@ -8908,7 +8886,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#fleschiers_sitten_rede">Fleschiers Sitten Rede und andere etc.</rs> 3 thom. in deto Bund,
+                        <rs type="bibl" ref="#fleschiers_sitten_rede">Fleschiers Sitten, Rede und andere etc.</rs> 3 thom. in deto Bund,
                      </cell>
                   </row>
                   <row>
@@ -8967,8 +8945,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <hi xml:space="preserve"><rs type="bibl" ref="#p_taberna_synopsis_theologicae_practicae">Synopsis Theologicae Practicae P. Taberna</rs> in französischen Bund </hi>
-                        <hi rend="strikethrough">2 thom.</hi>
+                        <rs type="bibl" ref="#p_taberna_synopsis_theologicae_practicae">Synopsis Theologicae Practicae P. Taberna</rs> in französischen Bund<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>2 thom.</p></note>
                      </cell>
                   </row>
                   <row>
@@ -9059,14 +9036,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <hi xml:space="preserve">P. Neumayr </hi>
-                        <hi rend="strikethrough">22</hi>
-                        <hi xml:space="preserve"> 25</hi>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Über der Zeile geschrieben,</hi> 5 <hi rend="italic">korrigiert aus</hi> 4.</p>
-                        </note>
-                        <hi xml:space="preserve"> thom. in französischen Bund.</hi>
+                        <rs type="bibl" ref="#p_neumayr">P. Neumayr</rs> 25<note><p rend="footnote text"><hi rend="italic">Über der Zeile geschrieben statt gestrichenem </hi>22. 5 <hi rend="italic">korrigiert aus</hi> 4.</p></note> thom. in französischen Bund.
                      </cell>
                   </row>
                   <row>
@@ -9112,13 +9082,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="strikethrough">Betrachtung</hi>
-                     </cell>
-                  </row>
-                  <row>
-                     <cell/>
-                     <cell>
-                        <rs type="bibl" ref="#lettere_spirituali_di_st_francesco_di_sales">Lettere Spirituali di St. Francesco di Sales</rs> 3 thom. in det Bund,
+                        <note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über dem Eintrag gestrichen </hi>Betrachtung.</p></note><rs type="bibl" ref="#lettere_spirituali_di_st_francesco_di_sales">Lettere Spirituali di St. Francesco di Sales</rs> 3 thom. in det Bund,
                      </cell>
                   </row>
                   <row>
@@ -9159,7 +9123,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#lo_spirito_sancto_francesco_di_sales">Lo Spirito Sancto Francesco di Sales in deto Bund</rs>
+                        <rs type="bibl" ref="#lo_spirito_sancto_francesco_di_sales">Lo Spirito S. Francesco di Sales in deto Bund</rs>
                      </cell>
                   </row>
                   <row>
@@ -9171,13 +9135,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <hi xml:space="preserve"><rs type="bibl" ref="#p_pinemonti_exercitii_spirituali">Exercitii Spirituali P. Pinemonti </rs></hi>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-178</hi> Nachgetragen.</p>
-                        </note>
-                        in deto Bund
-                        <hi rend="superscript">178</hi>
+                        <rs type="bibl" ref="#p_pinemonti_exercitii_spirituali">Exercitii Spirituali P. Pinemonti </rs> in deto Bund<note><p rend="footnote text"> in deto Bund<hi rend="italic" xml:space="preserve"> nachgetragen.</hi></p></note>
                      </cell>
                   </row>
                   <row>
@@ -9189,7 +9147,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#st_augustini_enchyridion">St. Augustini Enchyridion</rs> in deto Bund.
+                        <rs type="bibl" ref="#st_augustini_enchyridion">S. Augustini Enchyridion</rs> in deto Bund.
                      </cell>
                   </row>
                   <row>
@@ -9290,7 +9248,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_claus_tradoediae_ludis_autumnalis">Tradoediae Ludis Autumnalis P. Claus</rs> in deto Bund.
+                        <rs type="bibl" ref="#p_claus_tradoediae_ludis_autumnalis">Tragoediae Ludis Autumnalis P. Claus</rs> in deto Bund.
                      </cell>
                   </row>
                   <row>
@@ -9355,7 +9313,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#conscientia_recta_seu_miscellanei_practici_casus_weinzierl">Conscientia Recta Seu Miscellanei Practici Casus Weinzierl</rs> in 3 thom in pirmenten Bund.
+                        <rs type="bibl" ref="#conscientia_recta_seu_miscellanei_practici_casus_weinzierl">Conscientia Recta Seu Miscellanei Practici Casus Weinzierl</rs> in 3 thom. in pirmenten Bund.
                      </cell>
                   </row>
                   <row>
@@ -9367,7 +9325,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_cheruobino_mayr_recollectiones_morales">Recollectiones Morales Ex Temporanaeae P. Cherubino Mayr</rs> in deto Bund.
+                        <rs type="bibl" ref="#p_cheruobino_mayr_recollectiones_morales">Recollectiones Morales Ex Temporaneae P. Cherubino Mayr</rs> in deto Bund.
                      </cell>
                   </row>
                   <row>
@@ -9397,24 +9355,19 @@
                   <row>
                      <cell/>
                      <cell>
-                        Lebens Geschichte Aller Cardinäle etc. in französischen Bund 4
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Korrigiert aus</hi> 3.</p>
-                        </note>
-                        <hi xml:space="preserve"> thom.</hi>
+                        <rs type="bibl" ref="#lebensgeschichte_aller_kardinaele">Lebens Geschichte Aller Cardinäle etc.</rs> in französischen Bund 4<note><p rend="footnote text"><hi rend="italic"> Korrigiert aus</hi> 3.</p></note><hi xml:space="preserve"> thom.</hi>
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_neumayr_sicher_himmels_strasse">Sicher Himmels Strasse P. Neumayrs</rs> in französischen Bund
+                        <rs type="bibl" ref="#p_neumayr_sicher_himmels_strasse">Sichere Himmels Strasse P. Neumayrs</rs> in französischen Bund
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#erwiesene_wahrheit_der_katholischen_religion">Die Aus Der Heiligen Schrift Erwiesene Wahrheit Der Katholischen Religion</rs> etc. in französischen Bund.
+                        <rs type="bibl" ref="#erwiesene_wahrheit_der_katholischen_religion">Die Aus Der Heiligen Schrift Erwiesene Wahrheit Der Katholischen Religion etc.</rs> in französischen Bund.
                      </cell>
                   </row>
                   <row>
@@ -9449,7 +9402,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        Antiquitäten 2 Bünd in Papir
+                        <rs type="bibl" ref="#antiquitaeten">Antiquitäten</rs> 2 Bünd in Papir
                      </cell>
                   </row>
                   <row>
@@ -9467,15 +9420,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#renatus_rapin_glaube_der_heutigen_christen">Renatus Rapin</rs>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Unterlänge bei</hi> -i- <hi rend="italic">gestrichen.</hi>
-                           </p>
-                        </note>
-                        <hi xml:space="preserve"> <rs type="bibl" ref="#renatus_rapin_glaube_der_heutigen_christen">Glaube Der Heütigen Christen</rs> in </hi>
-                        <hi rend="strikethrough">franz</hi>
-                        <hi xml:space="preserve"> braun Papir.</hi>
+                        <rs type="bibl" ref="#renatus_rapin_glaube_der_heutigen_christen">Renatus Rapin Glaube Der Heütigen Christen</rs><note><p rend="footnote text"><hi rend="italic"> Unterlänge bei</hi> -i- <hi rend="italic">gestrichen.</hi></p></note> in <note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>franz-.</p></note> braun Papir.
                      </cell>
                   </row>
                   <row>
@@ -9487,9 +9432,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <hi xml:space="preserve"><rs type="bibl" ref="#claudius_fleurii_historischer_cathecismus">Claudius Fleurii Historischer </rs></hi>
-                        <hi rend="strikethrough">Kathe</hi>
-                        <hi xml:space="preserve"> <rs type="bibl" ref="#claudius_fleurii_historischer_cathecismus"> Cathecismus</rs> in französischen Bund,</hi>
+                        <rs type="bibl" ref="#claudius_fleurii_historischer_cathecismus">Claudius Fleurii Historischer Cathecismus</rs><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Davor gestrichen </hi>Kathe-.</p></note> in französischen Bund,
                      </cell>
                   </row>
                   <row>
@@ -9513,12 +9456,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#gli_inganni_del_peccatore_nella_confessione_expositi_da_giuseppe_musoco">Gli Inganni Del Peccatore Nella Confessione expositi</rs>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="italic" xml:space="preserve">Im Buchtitel steht </hi>Espositi.</p>
-                        </note>
-                        <hi xml:space="preserve"> <rs type="bibl" ref="#gli_inganni_del_peccatore_nella_confessione_expositi_da_giuseppe_musoco"> da Giuseppe Musoco</rs> in fränzösischen Bund,</hi>
+                        <rs type="bibl" ref="#gli_inganni_del_peccatore_nella_confessione_expositi_da_giuseppe_musoco">Gli Inganni Del Peccatore Nella Confessione expositi da Giuseppe Musoco</rs> in fränzösischen Bund,
                      </cell>
                   </row>
                   <row>
@@ -9545,32 +9483,24 @@
                   <row>
                      <cell/>
                      <cell>
-                        <hi xml:space="preserve"><rs type="bibl" ref="#in_p_sporer_theologiam_morales_praelectiones_morales_extemporaneae_a_p_cozenberger">In P. Sporer Theologiam Morales Praelectiones Morales</rs> </hi>
-                        <hi rend="strikethrough">extemporales</hi>
-                        <hi xml:space="preserve"> <rs type="bibl" ref="#in_p_sporer_theologiam_morales_praelectiones_morales_extemporaneae_a_p_cozenberger">extemporaneae à P. Cozenberger</rs> in französischen Bund.</hi>
+                        <rs type="bibl" ref="#in_p_sporer_theologiam_morales_praelectiones_morales_extemporaneae_a_p_cozenberger">In P. Sporer Theologiam Morales Praelectiones Morales Extemporaneae à P. Cozenberger</rs><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Vor </hi>Extemporaneae <hi rend="italic" xml:space="preserve">gestrichen </hi>extemporales.</p></note> in französischen Bund.
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#ignatii_weitenauer_auxilii_st_tribunalis">Ignatii Weitenauer Auxilii St. Tribunalis</rs> in deto Bund
+                        <rs type="bibl" ref="#ignatii_weitenauer_auxilii_st_tribunalis">Ignatii Weitenauer Auxilii St. Tribunalis</rs> in deto Bund.
                         <note>
                            <p rend="footnote text">
                               <hi rend="italic">Schlaufe in der Unterlänge bei</hi> B- <hi rend="italic">gestrichen.</hi>
                            </p>
                         </note>
-                        .
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="strikethrough">Lebens Geschichte der Cardinäle</hi>
-                     </cell>
-                  </row>
-                  <row>
-                     <cell/>
-                     <cell>
+                        <note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über dem Eintrag gestrichen </hi>Lebens Geschichte der Cardinäle.</p></note>
                         <rs type="bibl" ref="#mathias_schoenberg_zierde_der_jugend">Mathias Schönberg Zierde Der Jugend</rs> in deto Bund.
                      </cell>
                   </row>
@@ -9583,7 +9513,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_philiputschii_de_siehensium_ritibis">De Siehensium Ritibus P. Philiputschii</rs> in fränzösischen Bund.
+                        <rs type="bibl" ref="#p_philiputschii_de_siehensium_ritibis">De Sinsensium Ritibus P. Philiputschii</rs> in fränzösischen Bund.
                      </cell>
                   </row>
                   <row>
@@ -9648,10 +9578,10 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#tractatum_opticum_colmansii">Tractatum Opticum Colmansii</rs>
+                        <rs type="bibl" ref="#tractatum_opticum_colmansii">Tractatus Opticus Colmansii</rs>
                         <note>
                            <p rend="footnote text">
-                              <hi rend="italic">Johann Christoph Kolhans.</hi>
+                              <hi rend="italic"> Gemeint ist Johann Christoph Kolhans.</hi>
                            </p>
                         </note>
                         <hi xml:space="preserve"> in Pirment.</hi>
@@ -9660,9 +9590,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#imperatorum_regum_quaestiones_theologicae_iuridicae">Imperatorum, Regum etc. Quaestiones Theologicae, Iuridicae etc. Mi</rs>
-                        <hi rend="strikethrough">l</hi>
-                        <rs type="bibl" ref="#imperatorum_regum_quaestiones_theologicae_iuridicae">dendorpii</rs> in deto Bund,
+                        <rs type="bibl" ref="#imperatorum_regum_quaestiones_theologicae_iuridicae">Imperatorum, Regum etc. Quaestiones Theologicae, Iuridicae etc. Midendorpii</rs><note><p rend="footnote text"> -l-<hi rend="italic" xml:space="preserve"> zwischen </hi>-i-<hi rend="italic" xml:space="preserve"> und </hi>-d-<hi rend="italic" xml:space="preserve"> gestrichen.</hi></p></note> in deto Bund,
                      </cell>
                   </row>
                   <row>
@@ -9680,7 +9608,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#compendium_geographiae_ecclesiasticae">Compendium Geographiae Ecclesiasticae Stadel</rs> 4 thom. in deto Bund
+                        <rs type="bibl" ref="#compendium_geographiae_ecclesiasticae">Compendium Geographiae Ecclesiasticae Stadel</rs><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Bei Ecclesiasticae erstes </hi>-i-<hi rend="italic" xml:space="preserve"> korrigiert aus</hi> -t-.</p></note> 4 thom. in deto Bund
                      </cell>
                   </row>
                   <row>
@@ -9722,12 +9650,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <hi rend="strikethrough">Sanctum Saeculare Marianum</hi>
-                     </cell>
-                  </row>
-                  <row>
-                     <cell/>
-                     <cell>
+                        <note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über diesem Eintrag gestrichen </hi>Sanctum Saeculare Marianum.</p></note>
                         <rs type="bibl" ref="#joannes_bisselii_medulla_historica">Joannes Bisselii Medulla Historica</rs> 12 thom. in pirmenten Bund, cum Indice Speciali.
                      </cell>
                   </row>
@@ -9755,7 +9678,7 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell/>
+                     <cell>NB</cell>
                      <cell>
                         <rs type="bibl" ref="#paolo_segneri_panegirici_sacri">Paolo Segneri Panegirici Sacri</rs> in pirmenten Bund,
                      </cell>
@@ -9775,26 +9698,21 @@
                   <row>
                      <cell/>
                      <cell>
-                        <hi xml:space="preserve"><rs type="bibl" ref="#historischer_beihilf_und_unterricht_der_geographie">Historischer</rs> </hi>
-                        <hi rend="strikethrough">Th</hi>
-                        <hi xml:space="preserve"> <rs type="bibl" ref="#historischer_beihilf_und_unterricht_der_geographie">Beihilf</rs></hi>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="italic" xml:space="preserve">Erstes </hi>-i- <hi rend="italic">korrigiert aus</hi> -y-.</p>
-                        </note>
-                        <hi xml:space="preserve"> <rs type="bibl" ref="#historischer_beihilf_und_unterricht_der_geographie">Und Unterricht V. Der Geographie</rs> in französischen Bund,</hi>
+                        <rs type="bibl" ref="#historischer_beihilf_und_unterricht_der_geographie">Historischer Beihilf Und Unterricht V. Der Geographie </rs>
+                        <note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Nach </hi>Historischer<hi rend="italic" xml:space="preserve"> gestrichen </hi>Th-.<hi rend="italic" xml:space="preserve"> Bei </hi>Beihilf<hi rend="italic" xml:space="preserve"> erstes </hi>-i-<hi rend="italic" xml:space="preserve"> korrigiert aus</hi> -y-.</p></note>
+                        in französischen Bund,
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                       4 Theil Brevir in schwarzen Bund.
+                       4 Theil <rs type="bibl" ref="#brevier">Brevir</rs> in schwarzen Bund.
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        Weislinger 4
+                        <rs type="bibl" ref="#weislinger">Weislinger</rs> 4
                         <note>
                            <p rend="footnote text">
                               <hi rend="italic">Korrigiert aus</hi> 3.</p>
@@ -9805,7 +9723,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_stephani_a_st_paulo_nova_theologia_moralis">Nova Theologia Moralis P. Stephani à St. Paulo</rs> in deto Bund,
+                        <rs type="bibl" ref="#p_stephani_a_st_paulo_nova_theologia_moralis">Nova Theologia Moralis P. Stephani à S. Paulo</rs> in deto Bund,
                      </cell>
                   </row>
                   <row>
@@ -9821,13 +9739,13 @@
                      </cell>
                   </row>
                   <row>
-                     <cell/>
+                     <cell>NB</cell>
                      <cell>
                         <rs type="bibl" ref="#p_d_outremann_paedagogus_christianus">Paedagogus Christianus P. D‘Outremann</rs> in schlechten pirmenten Bund
                      </cell>
                   </row>
                   <row>
-                     <cell/>
+                     <cell>--</cell>
                      <cell>
                         <rs type="bibl" ref="#p_bourdaloue_conciones">Conciones P. Bourdaloue</rs> in pirmenten Bund,
                      </cell>
@@ -9847,12 +9765,13 @@
                   <row>
                      <cell/>
                      <cell>
-                        Nebst anderen mehr unterschiedliche in Octav und Duodec deren beyläufig bey 650 vorfündig sind.
+                        <bibl>Nebst anderen mehr unterschiedliche in Octav und Duodec deren beyläufig bey 650 vorfündig sind.</bibl>
                      </cell>
                   </row>
                </table>
                <p>
                   <pb n="21v"/>
+<!-- stopped here -->
                </p>
                <table rend="rules">
                   <row>

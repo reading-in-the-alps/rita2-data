@@ -46,12 +46,14 @@
                 <bibl xml:id="albertus_stephanni_geistreicher_possaunen_schall">Albertus Stephanni Geistreicher Possaunen Schall</bibl>
                 <bibl xml:id="aloysius_peletius_seelig_sterbender_christ">Aloysius Peletius Seelig Sterbender Christ</bibl>
                 <bibl xml:id="alt_katholischer_hohe_genffer_schul_francisci_de_sales">Alt Katholischer Hohe Genffer Schul Francisci de Sales</bibl>
+                <bibl xml:id="alte_brevier">Alte Brevier in 4 Theil.</bibl>
                 <bibl xml:id="anacleti_reifenstuel">Anacleti Reifenstuel Theol. Moralis</bibl>
                 <bibl xml:id="anathema_mariano_theologicum">Anathema Mariano Theologicum</bibl>
                 <bibl xml:id="annus_apostolicus_continens_conciones_pro_omnibus_diebus_dominicis">Annus Apostolicus Continens Conciones Pro Omnibus Diebus Dominicis</bibl>
                 <bibl xml:id="annus_apostolicus_continens_conciones_pro_diebus_festivis">Annus Apostolicus Continens Conciones Pro Diebus Festivis</bibl>
                 <bibl xml:id="annus_pastorum_v_lamberto_abbate">Annus Pastorum v. Lamberto Abbate</bibl>
                 <bibl xml:id="anselmi_fischer_vita_interna_cum_deo">Anselmi Fischer Vita Interna Cum Deo</bibl>
+                <bibl xml:id="antiquitaeten">Antiquitäten</bibl>
                 <bibl xml:id="antoni_freisl_paurn_predigen">Antoni Freisl Paurn Predigen</bibl>
                 <bibl xml:id="antonii_a_borgundia_lapis_lydius_munbi">Antonii a Borgundia Lapis Lydius Munbi</bibl>
                 <bibl xml:id="antonii_wagner_horae_mathematico">Antonii Wagner Horae Mathematico</bibl>
@@ -75,6 +77,7 @@
                 <bibl xml:id="bibliorum">Bibliorum</bibl>
                 <bibl xml:id="bibliotheca_patrum_asscetica">Bibliotheca Patrum Asscetica</bibl>
                 <bibl xml:id="breviarium_romanum">Breviarium Romanum</bibl>
+                <bibl xml:id="brevier">Brevir</bibl>
                 <bibl xml:id="buch_von_alten_predigten_ohne_Titel">Buch von alten Predigen auf alle Sontag</bibl>
                 <bibl xml:id="callans_contans">Callans Contans, item Geistliche Seellen Jagt</bibl>
                 <bibl xml:id="caspari_biesmann_doctrina_moralis">Caspari Biesmann Doctrina Moralis</bibl>
@@ -274,6 +277,7 @@
                 <bibl xml:id="leben_des_heiligen_sebastian">Leben Des Heiligen Sebastian</bibl>
                 <bibl xml:id="leben_des_heiligen_valentini_bischof_zu_passau">Leben Des Heiligen Valentini Bischof Zu Passau</bibl>
                 <bibl xml:id="leben_jesu_kristi_auch_denen_4_heiligen_evangelisten">Leben Jesu Kristi Auch Denen 4 Heiligen Evangelisten</bibl>
+                <bibl xml:id="lebensgeschichte_aller_kardinaele">Lebens Geschichte Aller Cardinäle etc.</bibl>
                 <bibl xml:id="lettere_spirituali_di_st_francesco_di_sales">Lettere Spirituali di St. Francesco di Sales</bibl>
                 <bibl xml:id="lezione_moralis_sopra_proffeta_pacincella">Lezione Moralis Sopra Proffeta Pacincelli</bibl>
                 <bibl xml:id="liber_apocalipicus_signatus">Liber Apocalipicus Signatus</bibl>
@@ -328,6 +332,7 @@
                 <bibl xml:id="opera_del_padre_cattaneo">Opera del Padre Cattaneo</bibl>
                 <bibl xml:id="opera_der_heiligen_seraphischen_jungfrauen_theresia_v_jesu">Opera Der Heiligen Seraphischen Jungfrauen Theresia V. Jesu</bibl>
                 <bibl xml:id="opera_st_fulgentii">Opera St. Fulgentii</bibl>
+                <bibl xml:id="opere_del_padre_carlo_gregorio_rosignol">Opere del Padre Carlo Gregorio Rosignol</bibl>
                 <bibl xml:id="opere_del_padre_gio_eusebio_nieremberg">Opere del Padre Gio Eusebio Nieremberg</bibl>
                 <bibl xml:id="opere_di_st_francesco_di_sales">Opere di St. Francesco di Sales</bibl>
                 <bibl xml:id="opere_spirituali_di_st_francesco_di_sales">Opere Spirituali di St. Francesco di Sales</bibl>
@@ -421,7 +426,7 @@
                 <bibl xml:id="p_isidori_sutter_lehrreiche_kanzel_reden">Lehrreiche Kanzel Reden auf verschiedener Festtäge Des Jahrs P. Isidori Sutter</bibl>
                 <bibl xml:id="p_joann_stephani_meditationes">P. Joann Stephani Grossez Concionetor Meditationes</bibl>
                 <bibl xml:id="p_joannis_anbettung_im_geist">Anbettung Im Geist, Und Wahrheit P. Joannis Eusebii Nierembergii</bibl>
-                <bibl xml:id="p_joannis_christliches_andaechtiges_jahr">Christliches Andächtiges Jahr P. Joannis</bibl>
+                <bibl xml:id="p_joannis_christliches_andaechtiges_jahr">Christliches Andächtiges Jahr P. Joannis Suffren</bibl>
                 <bibl xml:id="p_joannis_de_cardenas_crisis_theologica">Crisis Theologica P. Joannis de Cardenas</bibl>
                 <bibl xml:id="p_joannis_majoris_magnum_speculum_exemplorum">Magnum Speculum Exemplorum P. Joannis Majoris</bibl>
                 <bibl xml:id="p_joannis_taberna_synopsus">P. Joannis Taberna Synopsus Theolog. Pract.</bibl>
@@ -453,6 +458,7 @@
                 <bibl xml:id="p_naisl_speculum_cleri">Speculum Cleri P. Naisl</bibl>
                 <bibl xml:id="p_neissl_ein_stimm_des_rufenden_in_der_wiesten">Ein Stimm Des Rufenden In Der Wiesten P. Neissl</bibl>
                 <bibl xml:id="p_neustifter_theatrum_passionum_animae">Theatrum Passionum Animae P. Neistifter</bibl>
+                <bibl xml:id="p_neumayr">P. Neumayr</bibl>
                 <bibl xml:id="p_neymayr_khern_des_christenthumb">P. Neymayr Khern des Christenthumb</bibl>
                 <bibl xml:id="p_neumayr_sicher_himmels_strasse">Sicher Himmels Strasse P. Neumayrs</bibl>
                 <bibl xml:id="p_neumayr_vier_apostolicus">P. Neumayr Vier Apostolicus</bibl>
@@ -666,6 +672,7 @@
                 <bibl xml:id="teutsche_bibl">Teutsche Bibl</bibl>
                 <bibl xml:id="theatrum_pacis">Theatrum Pacis, Oder Friedens Schau Blatz</bibl>
                 <bibl xml:id="theologia_rationalis_eius_juvenalis_ananiensis">Theologia Rationalis Eius Juvenalis Ananiensis</bibl>
+                <bibl xml:id="theologia_trutina_damnatarum">Theologia Trutina Damnatarum Thesium P. Viva</bibl>
                 <bibl xml:id="thimothei_laubenberger_augspurger_und_leibziger_relgions_conferenz">Thimothei Laubenberger Augspurger und Leibziger Religions Conferenz</bibl>
                 <bibl xml:id="thomae_aequinatis_summae_theologiae">Thomae Aequinatis Summae Theologiae</bibl>
                 <bibl xml:id="thomas_de_kempis_de_meditatione_christi">Thomas de Kempis De Meditatione Christi</bibl>
@@ -684,6 +691,7 @@
                 <bibl xml:id="trauner_fragmenta_sacra">Trauner Fragmenta Sacra</bibl>
                 <bibl xml:id="trauners_erstes_dominicale">Trauners Erstes Dominicale</bibl>
                 <bibl xml:id="truz_andacht">Truz Andacht</bibl>
+                <bibl xml:id="tugendschmied">Tugend Schmied P. Gansler</bibl>
                 <bibl xml:id="unterschidliche_discurs">Unterschidliche Discurs</bibl>
                 <bibl xml:id="unterschiedliche_buecher">unterschiedliche Büechlen</bibl>
                 <bibl xml:id="v_saeles_predigen">v. Säles Predigen</bibl>
@@ -705,6 +713,7 @@
                 <bibl xml:id="vita_venerabilis_patris_fedele_de_simaringa">Vita Venerabilis Patris Fedele de Simaringa</bibl>
                 <bibl xml:id="vocatio_ad_nuptias_filii_regis">Vocatio Ad Nuptias Filii Regis</bibl>
                 <bibl xml:id="vollkhommene_closter_frau">Vollkhommene Closter Frau</bibl>
+                <bibl xml:id="weislinger">Weislinger</bibl>
                 <bibl xml:id="weislinger_die_gesuchte_wahrheit">Die Gesuchte Wahrheit etc. Weislinger</bibl>
                 <bibl xml:id="weinzierl_conscientiae_rectae">Weinzierl Conscientiae Rectae</bibl>
                 <bibl xml:id="werke_des_marcus_caraccioli">Werke des Marcus Caraccioli</bibl>
