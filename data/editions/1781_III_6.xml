@@ -6201,7 +6201,6 @@
                   </row>
                </table>
             </div>
-<!-- stopped here -->
             <div>
               <p>
                  <pb n="Titel"/>
@@ -9771,18 +9770,11 @@
                </table>
                <p>
                   <pb n="21v"/>
-<!-- stopped here -->
                </p>
                <table rend="rules">
                   <row>
-                     <cell>Von vorstehenden Bücheren seind eines dem andern zu Hilf angeschlagen worden, als 100 Stuck Folianten à 1 f 0 x [summa] 100 f die 292 Quartisten à 30 x thutt <hi rend="strikethrough">80</hi> 145 f <hi rend="strikethrough">45</hi> 0 x die 323<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Erste</hi> 3 <hi rend="italic" xml:space="preserve">korrigiert aus </hi>2.</p>
-                        </note> Stuck Octavisten<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Am linken Rand eingefügt.</hi>
-                           </p>
-                        </note> à 15 x [summa] 80 f 45 x und 600 Stuck à 6 x [summa] 60 f 0 x. Zusamen</cell>
+                     <cell>Von vorstehenden Bücheren seind eines dem andern zu Hilf angeschlagen worden, als 100 Stuck Folianten à 1 f 0 x [summa] 100 f die 292 Quartisten à 30 x thutt 146 f 0 x<note><p rend="footnote text"> 146 f 0 x<hi rend="italic" xml:space="preserve"> über der Zeile eingefügt statt gestrichenem </hi>80 f 45 x.</p></note> die
+                     323<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Erste </hi>3<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>2.</p></note> Stuck Octavisten<note><p rend="footnote text"><hi rend="italic"> Am linken Rand eingefügt.</hi></p></note> à 15 x [summa] 80 f 45 x und 600 Stuck à 6 x [summa] 60 f 0 x. Zusamen</cell>
                      <cell>386 f 45 x</cell>
                   </row>
                   <row>
@@ -9817,8 +9809,7 @@
                      <cell>4 f 26½ x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <hi rend="strikethrough">1 kleins</hi> 1 kleins Gold Stückl bey</cell>
+                     <cell>1<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Davor gestrichen </hi>1 kleins.</p></note> kleins Gold Stückl bey</cell>
                      <cell>1 f 0 x</cell>
                   </row>
                   <row>
@@ -9872,7 +9863,7 @@
                   <row>
                      <cell>Latus</cell>
                      <cell>133 f 24½ x<note>
-                           <p rend="footnote text"> 33 <hi rend="italic">korrigiert über Rasur von</hi> 25, 4 <hi rend="italic">korrigiert aus</hi> 5.</p>
+                           <p rend="footnote text"> 33 <hi rend="italic">korrigiert über Rasur von</hi> 25, 4 <hi rend="italic">korrigiert aus</hi> 2.</p>
                         </note>
                      </cell>
                   </row>
@@ -9915,18 +9906,10 @@
                   <pb n="23r"/>
                </p>
                <p>Schulden herein</p>
-               <p>Die bestehen haubtsächlich in den Beneficial Einkünfften pro rato temporis des Kaplaney Beneficii von 7 Monath 1 Wochen von Georgi 1780 bis Andrey darauf geraith, <hi rend="strikethrough">und bestehen in folgenden</hi> gleichwie aber solche von dem ganzen jährlichen Beneficial Gehalt abzusondern, und die Grundt- auch andere Zinsn und Gefäll zu zerstucken nicht wohl thuenlich, und zerstuckter einbringlich zu machen noch hörter fallet, als hat mann bey einen so andern Umständen von Seiten des geist- und weldtlichen Abhandlungs Gericht am besten zu sein erachtet, samentliche Jahrs Gefäll <note>
-                     <p rend="footnote text">
-                        <hi rend="superscript">-192</hi>
-                        <hi rend="italic">Am linken Rand eingefügt.</hi>
-                     </p>
-                  </note>sovillen annoch in Ausstand<hi rend="superscript">192</hi> alda als ein Vermägen firzutragen, hingegen was dem geistlichen Herrn Successori oder andern <note>
-                     <p rend="footnote text">
-                        <hi rend="superscript">-193</hi>
-                        <hi rend="italic">Am linken Rand eingefügt.</hi>
-                     </p>
-                  </note>v. denen Beneficial Einkünften gebihrig,<hi rend="superscript">193</hi>
-                  <hi rend="strikethrough">hievor gebihrig</hi> pro rato temporis hinach denen Abzügen per Schuld hinaus einzuverleiben.</p>
+               <p>Die bestehen haubtsächlich in den Beneficial Einkünfften pro rato temporis des Kaplaney Beneficii von 7 Monath 1 Wochen von Georgi 1780 bis Andrey darauf geraith,<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>und bestehen in folgenden.</p></note> gleichwie aber solche von dem ganzen jährlichen Beneficial Gehalt abzusondern, und die Grundt- auch andere Zinsn und Gefäll zu zerstucken nicht wohl thuenlich,
+               und zerstuckter einbringlich zu machen noch hörter fallet, als hat mann bey ein- so andern Umständen von Seiten des geist- und weldtlichen Abhandlungs Gericht am besten zu sein erachtet,
+               samentliche Jahrs Gefäll sovillen annoch in Ausstand<note><p rend="footnote text"> sovillen annoch in Ausstand<hi rend="italic" xml:space="preserve"> am linken Rand eingefügt.</hi></p></note> alda als ein Vermägen firzutragen, hingegen was dem geistlichen Herrn Successori oder
+               andern v. denen Beneficial Einkünften gebihrig,<note><p rend="footnote text"> v. denen Beneficial Einkünften gebihrig<hi rend="italic" xml:space="preserve"> und Beistrich am linken Rand eingefügt statt gestrichenem </hi>hievor gebihrig.</p></note> pro rato temporis hinach denen Abzügen per Schuld hinaus einzuverleiben.</p>
                <table rend="rules">
                   <row>
                      <cell>Als der Piterle zu St. Sigmundt</cell>
@@ -9954,18 +9937,15 @@
                      <cell>32 x</cell>
                   </row>
                   <row>
-                     <cell>
-                                <rs type="person" ref="#mutschlechner_simon">Simon Mutschlechnerische</rs> Verlassenschafft zu Lothen</cell>
+                     <cell><rs type="person" ref="#mutschlechner_simon">Simon Mutschlechnerische</rs> Verlassenschafft zu Lothen</cell>
                      <cell>18¾ x</cell>
                   </row>
                   <row>
-                     <cell>
-                                <rs type="person" ref="#nideregger_hanns">Hanns Nideregger</rs> Bäck zu <rs type="place" ref="#ollang">Ollang</rs> 10 Stär Roggen à 52 x thutt 8 f 40 x und in Geldt 6 x zusamen</cell>
-                     <cell>8f 46 x</cell>
+                     <cell><rs type="person" ref="#nideregger_hanns">Hanns Nideregger</rs> Bäck zu <rs type="place" ref="#ollang">Ollang</rs> 10 Stär Roggen à 52 x thutt 8 f 40 x und in Geldt 6 x zusamen</cell>
+                     <cell>8 f 46 x</cell>
                   </row>
                   <row>
-                     <cell>
-                                <rs type="person" ref="#grueber_hans">Hans Grueber</rs> Erschpämer zu <rs type="place" ref="#moos">Moos</rs> 6 Stär Gersten à 50 x</cell>
+                     <cell><rs type="person" ref="#grueber_hans">Hans Grueber</rs> Erschpämer zu <rs type="place" ref="#moos">Moos</rs> 6 Stär Gersten à 50 x</cell>
                      <cell>5 f 0 x</cell>
                   </row>
                   <row>
@@ -9982,11 +9962,11 @@
                      <cell>3 f 20 x</cell>
                   </row>
                   <row>
-                     <cell>Kössler Gueth zu Uttenheim Roggen 7 Stär à 52 x thutt 6 f 4 x 7 Stär Gersten à 50 x macht 5 f 50 x und 1 f 12 x Geldt zusamen pro anno 1780</cell>
+                     <cell>Kössler Gueth zu <rs type="place" ref="#uttenheim">Uttenheim</rs> Roggen 7 Stär à 52 x thutt 6 f 4 x 7 Stär Gersten à 50 x macht 5 f 50 x und 1 f 12 x Geldt zusamen pro anno 1780</cell>
                      <cell>13 f 6 x</cell>
                   </row>
                   <row>
-                     <cell>Weiters diser ältern, erst pro anno 1777 et 1778 14 Stär Gersten à 1 f 0 x thutt 14 f 0 x <hi rend="strikethrough">anno</hi> anno 1779</cell>
+                     <cell>Weiters diser ältern, erst pro anno 1777 et 1778 14 Stär Gersten à 1 f 0 x thutt 14 f 0 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>anno.</p></note> anno 1779</cell>
                      <cell/>
                   </row>
                   <row>
@@ -9999,11 +9979,7 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>aber 7 Stär à 50 x thutt <hi rend="strikethrough">19 f 50 x</hi> 5 f 30 x<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Betrag am linken Rand nachgetragen. In Wirklichkeit wäre der Betrag 5 f 50 x.</hi>
-                           </p>
-                        </note> beede Unterschiede zusammen</cell>
+                     <cell>aber 7 Stär à 50 x thutt<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>19 f 50 x.</p></note> 5 f 30 x<note><p rend="footnote text"><hi rend="italic">Betrag am linken Rand nachgetragen. In Wirklichkeit wäre der Betrag 5 f 50 x.</hi></p></note> beede Unterschiede zusammen</cell>
                      <cell>19 f 50 x</cell>
                   </row>
                   <row>
@@ -10011,7 +9987,7 @@
                      <cell>2 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Niderwelser zu Stöfansdorf Geldt pro anno 1780</cell>
+                     <cell>Niderwelser zu <rs type="place" ref="#stephansdorf">Stöfansdorf</rs> Geldt pro anno 1780</cell>
                      <cell>1 f 30 x</cell>
                   </row>
                   <row>
@@ -10019,14 +9995,8 @@
                      <cell>3 f 12 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-195</hi>
-                              <hi rend="italic">Gesamter Eintrag zwischen den Zeilen eingefügt.</hi>
-                           </p>
-                        </note>2 Kizer</cell>
-                     <cell>48 x<hi rend="superscript">195</hi>
+                     <cell>2 Kizer</cell>
+                     <cell>48 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Eintrag zwischen den Zeilen eingefügt.</hi></p></note>
                      </cell>
                   </row>
                   <row>
@@ -10056,23 +10026,13 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>Jahrtag 36 x und fir 5 Yh. Klausner Wein à 5 f 30 x thutt 27 f 30 x zusamen was das gnädige Stifft<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Am linken Rand nachgetragen.</hi>
-                           </p>
-                        </note> anhero zu vergüeten 87 f 34 x hat aber wegen etwas Jahren hero mehrfältig verrichten Fuehren laut eingestelten Conto zu begehren 44 f 34<note>
-                           <p rend="footnote text">
-                              <hi rend="italic" xml:space="preserve">In der nächsten Zeile </hi>34 x<hi rend="italic" xml:space="preserve"> geschrieben, </hi>34 <hi rend="italic">wieder gestrichen.</hi>
-                           </p>
-                        </note> x und willen all jährlich zu entgelten habender Reparation 5 f 0 x macht der Abzug 49<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Über Rasur geschrieben.</hi>
-                           </p>
-                        </note> f 34 x restriert also noch <hi rend="strikethrough">das</hi> wohl ersagtes Stifft</cell>
+                     <cell>Jahrtag 36 x und fir 5 Yh. Klausner Wein à 5 f 30 x thutt 27 f 30 x zusamen was das gnädige Stifft<note><p rend="footnote text"><hi rend="italic">Am linken Rand eingefügt.</hi></p></note> anhero zu vergüeten 87 f 34 x hat aber wegen etwas Jahren hero mehrfältig verrichten Fuehren laut
+                     eingestelten Conto zu begehren 44 f 34<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> In der nächsten Zeile </hi>34 x<hi rend="italic" xml:space="preserve"> geschrieben und nur </hi>34 <hi rend="italic">wieder gestrichen.</hi></p></note> x und willen all jährlich zu
+                     entgelten habender Reparation 5 f 0 x macht der Abzug 49<note><p rend="footnote text"><hi rend="italic">Über Rasur geschrieben.</hi></p></note> f 34 x restriert also noch<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>das.</p></note> wohl ersagtes Stifft</cell>
                      <cell>38 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Jakob nun Peter Kanerätä zu Obvill ob Picolein pro anno 1780</cell>
+                     <cell>Jakob nun Peter<note><p rend="footnote text"> nun Peter<hi rend="italic" xml:space="preserve"> am linken Rand eingefügt.</hi></p></note> Kanerätä zu Obvill ob Picolein pro anno 1780</cell>
                      <cell>3 f 5½ x</cell>
                   </row>
                   <row>
@@ -10121,7 +10081,7 @@
                      <cell/>
                   </row>
                   <row>
-                     <cell>Ein gleiche Beschafenheit <hi rend="strikethrough">d</hi> hat es mit denen 1 f 30 x so der Hinterkirchsteiger schuldig gewest<hi rend="strikethrough">n</hi> von Wisele in Spiz genant.</cell>
+                     <cell>Ein gleiche Beschafenheit<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>d-.</p></note> hat es mit denen 1 f 30 x so der Hinterkirchsteiger schuldig gewest von Wisele in Spiz genant.</cell>
                      <cell/>
                   </row>
                   <row>
@@ -10131,7 +10091,7 @@
                         <p>von Stocker zu Vassing Franz Gatterer 33 x</p>
                         <p>von Pargger Miller einschlüesslich des Rests pro anno 1779 1 f 40 x</p>
                         <p>von Michael Steürer Millermeister an der Pfarr Ollang 1 f 2 x</p>
-                        <p>von Hausstetten zu Stöphansdorf 46½ x</p>
+                        <p>von Hausstettern zu Stöphansdorf 46½ x</p>
                         <p>von Ätte-</p>
                      </cell>
                      <cell/>
@@ -10151,29 +10111,19 @@
                         <p>von Jakob Acherer von sogenanten Kränebiter Haus 36 x</p>
                         <p>von Hortmiller Joseph Stainer 6 x</p>
                         <p>von Auer Miller Joseph Planer 10 f</p>
-                        <p>und von Hanns Mutschlechner dortselbs von Ängerle bey der Beneficial Behausung <hi rend="strikethrough">1</hi>6 f 0 x</p>
-                        <p>
-                           <note>
-                              <p rend="footnote text">
-                                 <hi rend="italic">Gesamter Eintrag am linken Rand eingefügt.</hi>
-                              </p>
-                           </note>von Simon Nidermayr Pichler zu Stöphansdorf 33 f<hi rend="superscript">200</hi>
-                        </p>
+                        <p>und von Hanns Mutschlechner dortselbs von Ängerle bey der Beneficial Behausung 6<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Davor gestrichen </hi>1.</p></note> f 0 x</p>
+                        <p>von Simon Nidermayr Pichler zu Stöphansdorf 33 f<note><p rend="footnote text"><hi rend="italic">Gesamter Eintrag samt Betrag am linken Rand eingefügt.</hi></p></note></p>
                         <p>Macht diser Einnam</p>
                      </cell>
                      <cell>55 f 26 x</cell>
                   </row>
                   <row>
                      <cell>
-                        <p>Von solchen wurden bezalt <note>
-                              <p rend="footnote text">
-                                 <hi rend="superscript">-201</hi>
-                                 <hi rend="italic">Am linken Rand eingefügt.</hi>
-                              </p>
-                           </note>aus Hand titl. Herrn Johann Joseph Turneretscher Hofamtmanns als dern Erben bestelten Vertrettern<hi rend="superscript">201</hi> dem geistlichen Herrn Supernumerario <hi rend="strikethrough">aus</hi> Johannes <hi rend="strikethrough">fir vahende</hi> Zäch 6 f</p>
-                        <p>dann fir leicht 8 Leichtrager samt was dabei sag Conto den Aichholzerin 8 f 5 x</p>
+                        <p>Von solchen wurden bezalt aus Hand titl. Herrn Johann Joseph Turneretscher Hofamtmanns als dern Erben bestelten Vertrettern<note><p rend="footnote text"> aus Hand titl. Herrn Johann Joseph Turneretscher Hofamtmanns als dern Erben bestelten Vertrettern<hi rend="italic" xml:space="preserve"> am linken Rand eingefügt.</hi></p></note></p>
+                        <p>dem geistlichen Herrn Supernumerario<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>aus.</p></note> Johannes<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>fir vahende.</p></note> Zäch 6 f</p>
+                        <p>dann fir<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>leicht.</p></note> 8 Leichtrager samt was dabei sag Conto der Aichholzerin 8 f 5 x</p>
                         <p>und fir der Fuhr von Gschlierer hinter Saalen abhollen gelasenen 1 Stär Roggen und 1 Stär Gersten 7 x</p>
-                        <p>Betragt solcher Hindanfall 14 f 12 x, erscheint also noch überling, so titl. Herr Hofamtmann als Vertrettern dern sich legitimierenden Erben von der Ursula Niderwangerin <hi rend="strikethrough">be</hi> ausgehändiget <hi rend="strikethrough">worden</hi> und alda per Vermägen getragen werden</p>
+                        <p>Betragt solcher Hindanfall 14 f 12 x, erscheint also noch überling, so titl. Herr Hofamtmann als Vertrettern dern sich legitimierenden Erben von der Ursula Niderwangerin<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>be-.</p></note> ausgehändiget<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>worden.</p></note> und alda per Vermägen getragen werden</p>
                      </cell>
                      <cell>41 f 14½ x</cell>
                   </row>
@@ -10213,7 +10163,7 @@
                      <cell>No 1: v</cell>
                      <cell>Der Funerol Conto einschlüesslich der Geistlichkeit<note>
                            <p rend="footnote text">
-                              <hi rend="italic">Am linken Rand nachgetragen.</hi>
+                              <hi rend="italic">Am linken Rand eingefügt.</hi>
                            </p>
                         </note> fir Tragung der Leich verordneten 12 f 36 x Sagschein</cell>
                      <cell>48 f 32 x</cell>
@@ -10245,7 +10195,7 @@
                   </row>
                   <row>
                      <cell>No 4: v</cell>
-                     <cell>Martin Fras Radermeister in Pflaurenz</cell>
+                     <cell>Martin Fräs Radermeister in Pflaurenz</cell>
                      <cell>4 f 9 x</cell>
                   </row>
                   <row>
@@ -10261,21 +10211,17 @@
                            <p rend="footnote text">
                               <hi rend="italic">Kürzungsstrich versehentlich auf zweitem</hi> -n- <hi rend="italic">statt</hi> -m- <hi rend="italic">gesetzt.</hi>
                            </p>
-                        </note> Amt, so Ihro Hochwürden und Gnaden Herrn Herrn Dechandt und Pfarrherrn zu Brunegg <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-207</hi> das Geldt <hi rend="italic" xml:space="preserve">nachträglich eingefügt, </hi>Geldt<hi rend="italic" xml:space="preserve"> am linken Rand.</hi>
-                           </p>
-                        </note>das Geldt<hi rend="superscript">207</hi> ausgehändiget worden</cell>
+                        </note> Amt, so Ihro Hochwürden und Gnaden Herrn Herrn Dechandt und Pfarrherrn zu Brunegg das Geldt<note><p rend="footnote text"> das Geldt <hi rend="italic" xml:space="preserve">nachträglich eingefügt, </hi>Geldt<hi rend="italic" xml:space="preserve"> am linken Rand.</hi></p></note> ausgehändiget worden</cell>
                      <cell>17 f 33 x</cell>
                   </row>
                   <row>
                      <cell>No 7: v</cell>
-                     <cell>Jakoben <hi rend="strikethrough">Mayr</hi> Hueber Mayr zu Gassteig Sagconto</cell>
+                     <cell>Jakoben<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Mayr.</p></note> Hueber Mayr zu Gassteig Sagconto</cell>
                      <cell>14 f 12 x</cell>
                   </row>
                   <row>
                      <cell/>
-                     <cell>Titl. Herrn von Franz Karl von Wiser fir 8 Yh. 3 Pa. Wein à 9 f 0 x</cell>
+                     <cell>Titl. Herrn<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>von.</p></note> Franz Karl von Wiser fir 8 Yh. 3 Pa. Wein à 9 f 0 x</cell>
                      <cell>74 f 15 x</cell>
                   </row>
                   <row>
@@ -10300,25 +10246,18 @@
                <table rend="rules">
                   <row>
                      <cell>v</cell>
-                     <cell>Quidecimal Steür <hi rend="strikethrough">Ihro Hochwürden</hi>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-208</hi>
-                              <hi rend="italic">Am linken Rand nachgetragen.</hi>
-                           </p>
-                        </note>zu Handen Ihro Hochwürden und Gnaden Herrn Herrn Dechandt zu Brunegg in Cameral Patent ist zalt worden<hi rend="superscript">208</hi>
-                     </cell>
+                     <cell>Quidecimal Steür zu Handen Ihro Hochwürden und Gnaden Herrn Herrn Dechandt zu Brunegg in Cameral Patent ist zalt worden<note><p rend="footnote text"> zu Handen Ihro Hochwürden und Gnaden Herrn Herrn Dechandt zu Brunegg in Cameral Patent ist zalt worden<hi rend="italic" xml:space="preserve"> am linken Rand eingefügt statt gestrichenem </hi>Ihro Hochwürden.</p></note></cell>
                      <cell>1 f 0 x</cell>
                   </row>
                   <row>
                      <cell>No 10: v</cell>
-                     <cell>Dem Mesner bey St. Martin Joseph Klamer Klampperer Besoldung <hi rend="strikethrough">a</hi> von 1 Jahr</cell>
+                     <cell>Dem Mesner bey St. Martin Joseph Klamer Klampperer Besoldung<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>a-.</p></note> von 1 Jahr</cell>
                      <cell>5 f 0 x</cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>Fir andere desselben Verrichtungen und Gäng samt Schidum und Begräbnus leiten</cell>
-                     <cell>2 f 30 x</cell>
+                     <cell>2 f 30 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Eintrag am linken Rand geschrieben.</hi></p></note></cell>
                   </row>
                   <row>
                      <cell>v</cell>
@@ -10329,7 +10268,7 @@
                      <cell/>
                      <cell>
                         <p>Verschafene Legata</p>
-                        <p>Laut am 14. May 1778 von geistlichen Herrn Ableiber Anton Zeggeler errichten und den 6. Merz 1781 publicierten Testaments wurden fir Tragung der Leich denen 6 geistlichen Herrn bestimmet jedem in Sonderheit 1 Species Thaller macht 12 f 36 x so anvor unter dem Funeral Conto No. 1 enthalten <hi rend="strikethrough">pr Bht</hi> und eingetragen pr Bht.</p>
+                        <p>Laut am 14. May 1778 von geistlichen Herrn Ableiber Anton Zeggeler errichten und den 6. Merz 1781 publicierten Testaments wurden fir Tragung der Leich denen 6 geistlichen Herrn bestimmet jedem in Sonderheit 1 Species Thaller macht 12 f 36 x so anvor unter dem Funeral Conto No. 1 enthalten<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>pr Bht.</p></note> und eingetragen pr Bht.</p>
                      </cell>
                      <cell/>
                   </row>
@@ -10337,7 +10276,7 @@
                      <cell>v</cell>
                      <cell>Dann<note>
                            <p rend="footnote text">
-                              <hi rend="italic">Nachträglich links vom Text nachgetragen.</hi>
+                              <hi rend="italic">Links vom Text nachgetragen.</hi>
                            </p>
                         </note> zu Lesung 140 Heiliger Mesen seind verschafen worden</cell>
                      <cell>50 f 0 x</cell>
@@ -10346,7 +10285,7 @@
                      <cell>v</cell>
                      <cell>Weiters<note>
                            <p rend="footnote text">
-                              <hi rend="italic">Nachträglich links vom Text nachgetragen.</hi>
+                              <hi rend="italic">Links vom Text nachgetragen.</hi>
                            </p>
                         </note> bey denen P. P. Capucinern zu Brunegg andergleichen</cell>
                      <cell>20 f 0 x</cell>
@@ -10374,12 +10313,12 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>V</cell>
+                     <cell>v</cell>
                      <cell>bene und taxierte Krippen wurde vermacht denen hochwürdigen Convent Frauen zu Sonnenburg in Tax per</cell>
                      <cell>19 f 24 x</cell>
                   </row>
                   <row>
-                     <cell>V</cell>
+                     <cell>v</cell>
                      <cell>Die zwo neüe Kamod Kasten dem Stiffts Gottshaus zu Sonnenburg zum Aufbehalt der Kirchen Paramenten, so taxieret worden per</cell>
                      <cell>11 f 0 x</cell>
                   </row>
@@ -10387,7 +10326,7 @@
                      <cell>v</cell>
                      <cell>Der Heiligen Kreiz Kirchen auf der Franewisen 4 zinnen Tafl<note>
                            <p rend="footnote text">
-                              <hi rend="italic">Am linken Rand nachgetragen.</hi>
+                              <hi rend="italic">Am linken Rand eingefügt.</hi>
                            </p>
                         </note> Leichter in Tax per</cell>
                      <cell>1 f 28 x</cell>
@@ -10403,22 +10342,13 @@
                   </row>
                   <row>
                      <cell>v NB</cell>
-                     <cell>Der Jungfrau Häuserin Ursula Niderwangerin toppleter Lidlohn einschlüesslich 7 f ältern Ausstandt 39 f 0 x sage</cell>
+                     <cell>Der Jungfrau Häuserin Ursula Niderwangerin toppleter Lidlohn einschlüesslich 7 f ältern Ausstandt 39 f 0 x sage<note><p rend="footnote text"> einschlüesslich 7 f ältern Ausstandt 39 f 0 x sage<hi rend="italic" xml:space="preserve"> nachträglich eingefügt.</hi></p></note></cell>
                      <cell>39 f 0 x</cell>
                   </row>
                   <row>
                      <cell/>
-                     <cell>Weiters diser <hi rend="strikethrough">V</hi> all die jenige Victualien an Fleisch, Mehl, Schmalz, Salz, <hi rend="strikethrough">und</hi> Holz und dergleichen, so auf des geistlichen Herrn Erblassers Hinscheiden verhandene sich zeigen, und extrahiertermassen <hi rend="strikethrough">betra</hi>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-214</hi>
-                              <hi rend="italic">Nachträglich eingeschrieben, alles ab</hi> Abzug <hi rend="italic">in nächster Zeile am linken Rand.</hi>
-                           </p>
-                        </note>über Abzug 18 Maas Essich noch<hi rend="superscript">214</hi> 59 f 31 x<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Zahlen des Betrags auf Rasur geschrieben.</hi>
-                           </p>
-                        </note> betrofen, und sonderbar</cell>
+                     <cell>Weiters diser<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>V-.</p></note> all die jenige Victualien an Fleisch, Mehl, Schmalz, Salz,<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>und.</p></note> Holz und dergleichen, so auf des geistlichen Herrn Erblassers Hinscheiden verhandenen sich zeigen, und
+                     extrahiertermassen<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>betra-.</p></note> über Abzug 18 Maas Essich noch<note><p rend="footnote text"> Abzug 18 Maas Essich noch<hi rend="italic" xml:space="preserve"> am linken Rand eingefügt.</hi></p></note> 59 f 31 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve">Zahlen des Betrags auf Rasur geschrieben.</hi></p></note> betrofen, und sonderbar</cell>
                      <cell/>
                   </row>
                   <row>
@@ -10434,18 +10364,11 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell/>
-                     <cell>Ihro noch extra 3 Stär Waizen <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-217</hi>
-                              <hi rend="italic">Am linken Rand nachgetragen.</hi>
-                           </p>
-                        </note>à 1 f 20 x thutt 4 f 0 x und 10 Stär Roggen à 52 x thutt 8 f 40 x zusamen dise Unterschid <hi rend="strikethrough">54 f 38 x</hi> 72 f 11 x<hi rend="superscript">217</hi>
-                        <hi rend="strikethrough">und 10 Stär Roggen</hi>, welche<hi rend="strikethrough">s</hi> alles in natura auszuhändigen <hi rend="strikethrough">seind</hi>, und <hi rend="strikethrough">zu</hi> weilen dises anvor ad Inventarium kommen, als seind alda solche<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Am linken Rand eingefügt.</hi>
-                           </p>
-                        </note> per Abzug einzutragen <hi rend="strikethrough">bedeüte</hi> id est</cell>
+                     <cell>v</cell>
+                     <cell>Ihro noch extra 3 Stär Waizen<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>und 10 Stär Roggen.</p></note> à 1 f 20 x thutt 4 f 0 x und 10 Stär Roggen à 52 x thutt 8 f 40 x zusamen dise
+                     Unterschid<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>54 f 38 x.</p></note> 72 f 11 x,<note><p rend="footnote text"> à 1 f 20 x thutt 4 f 0 x und 10 Stär Roggen à 52 x thutt 8 f 40 x zusamen dise Unterschid 72 f 11 x<hi rend="italic" xml:space="preserve"> am linken Rand eingefügt.</hi></p></note>
+                     welche<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>-s.</p></note> alles in natura auszuhändigen,<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>seind.</p></note> und<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>zu.</p></note>
+                     weilen dises anvor ad Inventarium kommen, als seind alda solche<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Am linken Rand eingefügt.</hi></p></note> per Abzug einzutragen<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>bedeüte.</p></note> id est</cell>
                      <cell>72<note>
                            <p rend="footnote text">
                               <hi rend="italic">Steht über Rasur von</hi> 54.</p>
@@ -10453,23 +10376,14 @@
                   </row>
                   <row>
                      <cell>v</cell>
-                     <cell>Nach weiters beigebracht v. titl. Herrn Stattrichter Joseph Ingenuin v. Klöblsperg, und geistlichen Herr Cassian Lang unterfertigten Attestato v. 11. et 12. Merzen ist ihr Ursula Niederwangerin ain ganz aufgerichtes Bethgewant von abgelebt geistlichen Herrn Zeggele verschafen worden, dies betrifft aus der Inventur herausgezochenermassen 16 f 22 x, darzue seind selber wegen seit Tott des geistlichen Herrn Zeggelers in Haus getragener Aufsicht, und in andere Consideration verbillichet worden <hi rend="strikethrough">zusammen</hi> 6 f 0 x zusamen <hi rend="strikethrough">6 f 0 x</hi>
+                     <cell>Nach weiters beigebracht v. titl. Herrn Stattrichter Joseph Ingenuin v. Klöblsperg, und geistlichen Herr Cassian Lang unterfertigten Attestato v. 11. et 12. Merzen ist ihr Ursula Niederwangerin ain ganz aufgerichtes Bethgewant von abgelebt geistlichen Herrn Zeggele verschafen worden, dies betrifft aus der Inventur herausgezochenermassen 16 f 22 x, darzue seind selber wegen seit Tott des geistlichen Herrn Zeggelers in Haus getragener Aufsicht, und in andere Consideration verbillichet worden<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>zusammen.</p></note> 6 f 0 x zusamen<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>6 f 0 x.</p></note>
                      </cell>
                      <cell>22 f 22 x</cell>
                   </row>
                   <row>
                      <cell/>
-                     <cell>
-                        <hi rend="strikethrough">Latus</hi>
-                     </cell>
-                     <cell>
-                        <hi rend="strikethrough">77 f 0 x</hi>
-                     </cell>
-                  </row>
-                  <row>
-                     <cell/>
                      <cell>Latus</cell>
-                     <cell>94 f 33 x</cell>
+                     <cell>94 f 33 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über dieser Seitensumme gestrichen </hi>Latus 77 f 0 x.</p></note></cell>
                   </row>
                </table>
                <p>
@@ -10478,23 +10392,11 @@
                <table rend="rules">
                   <row>
                      <cell/>
-                     <cell>Wievor bey der Rubric <hi rend="strikethrough">Schuld</hi> Schulden herein zusechen, wurden die samentliche <hi rend="strikethrough">Eünkünften</hi> Beneficialeünkünfften dissortigen geitlichen Herrn Erblasser, sie sind eingangen, oder hafften noch<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Über der Zeile nachgetragen.</hi>
-                           </p>
-                        </note> in Ausstandt, von darumen<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Am linken Rand nachgetragen.</hi>
-                           </p>
-                        </note> ganz per Vermägen getragen <hi rend="strikethrough">worden</hi>, damit das jänige, was annoch einbringlich zu machen in einer Post unzerstuckter eingehabet werden känne, und da lauth unter heuntigen däto vorgenomenen Liquidation sich gezeiget, das dem geistlichen Herrn Successori oder wem es weiters<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Am linken Rand nachgetragen.</hi>
-                           </p>
-                        </note> berichren mächte, pro rato temporis ab 4 Monath und 3 Wochen die Gebihr mitbetrefend<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Am linken Rand nachgetragen.</hi>
-                           </p>
-                        </note> auszumäsen und zu vergüeten seye, als werden solche alda per Abzug gebracht, id est mit</cell>
+                     <cell>Wievor bey der Rubric<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Schuld.</p></note> Schulden herein zusechen, wurden die samentliche<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Einkünften.</p></note> Beneficialeünkünfften dissortigen geitlichen Herrn Erblasser, sie sind eingangen, oder hafften
+                     noch<note><p rend="footnote text"><hi rend="italic">Über der Zeile nachgetragen.</hi></p></note> in Ausstandt, von darumen<note><p rend="footnote text"><hi rend="italic">Am linken Rand nachgetragen.</hi></p></note> ganz per Vermägen
+                     getragen,<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>worden.</p></note> damit das jänige, was annoch einbringlich zu machen in einer Post unzerstuckter eingehabet werden känne, und da lauth unter heuntigen däto vorgenomenen Liquidation sich gezeiget, das dem geistlichen Herrn Successori oder wem es
+                     weiters<note><p rend="footnote text"><hi rend="italic">Am linken Rand eingefügt.</hi></p></note> berichren mächte, pro rato temporis ab 4 Monath und 3 Wochen die Gebihr
+                     mit betrefend<note><p rend="footnote text"> mit betrefend<hi rend="italic" xml:space="preserve"> sowie </hi>f x<hi rend="italic" xml:space="preserve"> am linken Rand eingefügt.</hi></p></note> auszumäsen und zu vergüeten seye, als werden solche alda per Abzug gebracht, id est mit</cell>
                      <cell>140 f 40 x</cell>
                   </row>
                   <row>
@@ -10513,18 +10415,25 @@
                <table rend="rules">
                   <row>
                      <cell/>
-                     <cell>Herrn Johann Gampper gewesten Junckmeister zu Brunegg nunmehro Orgänisten zu Sillian wurde ebner<hi rend="strikethrough">mei</hi>massen laut vorallegierten Testament vertestieret das ad Inventarium beschribene Orgeln mit 15 f welche <hi rend="strikethrough">alla</hi> alda abzusezen sein id est</cell>
+                     <cell>Herrn Johann Gampper gewesten Junckmeister zu Brunegg nunmehro Orgänisten zu Sillian wurde
+                       ebnermassen<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Zwischen </hi>ebner-<hi rend="italic" xml:space="preserve"> und </hi>-massen<hi rend="italic" xml:space="preserve"> gestrichen </hi>-mei-.</p></note> laut vorallegierten Testament vertestieret
+                       das ad Inventarium beschribene Orgeln mit 15 f welche<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>ald-<hi rend="italic" xml:space="preserve"> mit eingefügtem </hi>-l-.</p></note> alda abzusezen seind id est</cell>
                      <cell>15 f 0 x</cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>Summä vorstehender Abzüg und Schulden hinaus einschlüsslich der Legaten</cell>
-                     <cell>850 f 16 x<note>
+                     <cell>[850 f 16 x]<note>
                            <p rend="footnote text">
-                              <hi rend="italic">Daneben am linken Rand Nebenrechnung:</hi> 838 [f] 31 [x +] 11 [f] 45 [x =] 850 [f] 16 [x]</p>
+                              <hi rend="italic">Betrag nicht geschrieben. Am linken Rand Nebenrechnung:</hi> 838 [f] 31 [x +] 11 [f] 45 [x =] 850 [f] 16 [x]</p>
                         </note>
                      </cell>
                   </row>
+                </table>
+                <p>
+                   <pb n="30r"/>
+                </p>
+                <table rend="rules">
                   <row>
                      <cell/>
                      <cell>Hieriber verbleibt noch Geistlichen Herrn Anton Tschöggelerisches Vermägen einsmahlen</cell>
@@ -10535,7 +10444,9 @@
                <p>Vor- und zugegen auch Actuante ut ante.</p>
             </div>
             <div>
-               <p>[Titelblatt]</p>
+               <p>
+                  <pb n="Titel"/>
+               </p>
                <p>[Rubrum:] 1781</p>
                <p>Des hoch ehrwürdigen geistlichen Herrn Anton Zöggeler Fahrnus Licitierung</p>
                <p>[späterer Archivvermerk:] No -1207-</p>
@@ -10544,11 +10455,12 @@
                      <p rend="footnote text">
                         <hi rend="italic">War ein Dienstag.</hi>
                      </p>
-                  </note> enschlüsslich 5. däto all täglich 9 Stundt ab 4. Tag, 6. Tag und der Samstag nur ab 1 Tag von 6 Stundt <hi rend="strikethrough">o</hi> mithin zusamen ab 7 Täg pr Bht. die vorherigen dicdierten als <hi rend="strikethrough">seind</hi> bei der Inventur, Extrahierung der Schulden, ittem, Secretur Vermögens Ergänzung, Ziechung des Rati, auch Übertragung der Fahrnussen etc. in andere Zimmer seind erlasen 5½ Täg etc.</p>
+                  </note> enschlüsslich 5. däto all täglich 9 Stundt ab 4. Tag, 6. Tag und der Samstag nur ab 1 Tag von 6 Stundt<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>o-.</p></note> mithin zusamen ab 7 Täg pr Bht. Die vorherigen dicdierten als<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>seind.</p></note> bei der Inventur, Extrahierung der Schulden, ittem, Secretur Vermögens Ergänzung, Ziechung des Rati, auch Übertragung der Fahrnussen etc. in andere Zimmer seind erlasen 5½ Täg etc.</p>
                   <p>
                      <pb n="1r"/>
                      <note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Alle Blätter sind ohne Foliierung, nach dem Titelblatt wurde eine eigene Nummerierung eingeführt. Die Blätter von Inventar Pos. 1207 sind in zwei Spalten und in der Regel in 2-4 Zeilen für jeweils einen Käufer / eine Käuferin geteilt. Folioangaben in diesem Stück beziehen sich auf das Inventar Pos. 1204 von Anton Zöggeler.</hi></p></note>
                   </p>
+<!-- stopped here -->        
                <p>Anton Pruggnaller</p>
                <table rend="rules">
                   <row>
