@@ -10059,7 +10059,7 @@
                      <cell>18 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Mathias Mitterhofer Mayr zu <rs type="place" ref="#grasstein">Grasstain</rs>
+                     <cell>Mathias Mitterhofer Mayr zu Grasstain
                             </cell>
                      <cell>11 f 0 x</cell>
                   </row>
@@ -10450,7 +10450,9 @@
                <p>[Rubrum:] 1781</p>
                <p>Des hoch ehrwürdigen geistlichen Herrn Anton Zöggeler Fahrnus Licitierung</p>
                <p>[späterer Archivvermerk:] No -1207-</p>
-               <p>[Titelblatt verso]</p>
+               <p>
+                  <pb n="Titel verso"/>
+               </p>
                <p>Angefangen den 1. May 1781<note>
                      <p rend="footnote text">
                         <hi rend="italic">War ein Dienstag.</hi>
@@ -10458,9 +10460,8 @@
                   </note> enschlüsslich 5. däto all täglich 9 Stundt ab 4. Tag, 6. Tag und der Samstag nur ab 1 Tag von 6 Stundt<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>o-.</p></note> mithin zusamen ab 7 Täg pr Bht. Die vorherigen dicdierten als<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>seind.</p></note> bei der Inventur, Extrahierung der Schulden, ittem, Secretur Vermögens Ergänzung, Ziechung des Rati, auch Übertragung der Fahrnussen etc. in andere Zimmer seind erlasen 5½ Täg etc.</p>
                   <p>
                      <pb n="1r"/>
-                     <note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Alle Blätter sind ohne Foliierung, nach dem Titelblatt wurde eine eigene Nummerierung eingeführt. Die Blätter von Inventar Pos. 1207 sind in zwei Spalten und in der Regel in 2-4 Zeilen für jeweils einen Käufer / eine Käuferin geteilt. Folioangaben in diesem Stück beziehen sich auf das Inventar Pos. 1204 von Anton Zöggeler.</hi></p></note>
+                     <note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Alle Blätter sind ohne Foliierung, nach dem Titelblatt wurde eine eigene Nummerierung eingeführt. Die Blätter von Inventar Pos. 1207 sind in zwei Spalten und in der Regel in 2-4 Zeilen für jeweils einen Käufer / eine Käuferin geteilt, wobei die meisten Kaufeinträge nachträglich mit Tinte oder Bleistift gestrichen wurden. Folioangaben in diesem Stück beziehen sich auf das Inventar Pos. 1204 von Anton Zöggeler.</hi></p></note>
                   </p>
-<!-- stopped here -->        
                <p>Anton Pruggnaller</p>
                <table rend="rules">
                   <row>
@@ -10484,12 +10485,8 @@
                      <cell>22½ x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <hi rend="strikethrough">1 s. v. Nachtgschir</hi>
-                     </cell>
-                     <cell>
-                        <hi rend="strikethrough">22½ x</hi>
-                     </cell>
+                     <cell>1 s. v. Nachtgschir</cell>
+                     <cell>22½ x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Eintrag gestrichen.</hi></p></note></cell>
                   </row>
                   <row>
                      <cell>1 Ämpele dt.</cell>
@@ -10511,14 +10508,14 @@
                      <cell>42 x</cell>
                   </row>
                </table>
-               <p>Anton Purggnaller</p>
+               <p>Anton Pruggnaller</p>
                <table rend="rules">
                   <row>
                      <cell>2 Testlen dt.</cell>
                      <cell>1 f 36 x</cell>
                   </row>
                   <row>
-                     <cell>1 <hi rend="bold">Puch Pappir</hi> dt.</cell>
+                     <cell>1 <bibl>Puch Pappir</bibl> dt.</cell>
                      <cell>8 x</cell>
                   </row>
                   <row>
@@ -10539,6 +10536,10 @@
                   <row>
                      <cell>4 Landschäfftlen dt.</cell>
                      <cell>34 x</cell>
+                  </row>
+                  <row>
+                     <cell>1 Stuck deto dt.</cell>
+                     <cell>26 x</cell>
                   </row>
                   <row>
                      <cell>1 Unser Frauen Bild dt.</cell>
@@ -10589,8 +10590,8 @@
                   </row>
                   <row>
                      <cell>Heilige Grab Kuglen dt.</cell>
-                     <cell>16 x<note>
-                           <p rend="footnote text"> 6 <hi rend="italic" xml:space="preserve">korrigiert aus </hi>5.</p>
+                     <cell>15 x<note>
+                           <p rend="footnote text"> 5 <hi rend="italic" xml:space="preserve">korrigiert aus </hi>6.</p>
                         </note>
                      </cell>
                   </row>
@@ -10626,7 +10627,7 @@
                      <cell>16 x</cell>
                   </row>
                   <row>
-                     <cell>1 Sack voll <hi rend="strikethrough">Schneggen</hi> Ausster Schallen dt.</cell>
+                     <cell>1 Sack voll Ausster<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Korrigiert aus </hi>Schneggen.</p></note> Schallen dt.</cell>
                      <cell>2½ x<note>
                            <p rend="footnote text"> 2 <hi rend="italic" xml:space="preserve">korrigiert aus </hi>3.</p>
                         </note>
@@ -10664,8 +10665,7 @@
                      <cell>16 x</cell>
                   </row>
                   <row>
-                     <cell>Unterschidliche Gmähler <hi rend="strikethrough">dt.</hi>
-                     </cell>
+                     <cell>Unterschidliche Gmähler dt.</cell>
                      <cell>9 x</cell>
                   </row>
                   <row>
@@ -10702,9 +10702,7 @@
                      <cell>4 f 17½ x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <hi rend="bold">Für die ganze Bibliothec Bücher samt Stöllen offerirt obiger geistliche Herr Cassian</hi>
-                     </cell>
+                     <cell><bibl>Für die ganze Bibliothec Bücher samt Stöllen offerirt obiger geistliche Herr Cassian</bibl></cell>
                      <cell>
                         <hi rend="bold">300 f 0 x</hi>
                      </cell>
@@ -10729,11 +10727,11 @@
                      <cell>4 f 23 x</cell>
                   </row>
                </table>
-               <p>Fräule Margreth v.</p>
+               <p>Fräule Margreth v.<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Nachname fehlt.</hi></p></note></p>
                <table rend="rules">
                   <row>
                      <cell>1 Täfele v. guten Rath<note>
-                           <p rend="footnote text"> -t- <hi rend="italic">korrigiert aus</hi> -d.</p>
+                           <p rend="footnote text"> -th <hi rend="italic">korrigiert aus</hi> -d.</p>
                         </note> dt.</cell>
                      <cell>57 x</cell>
                   </row>
@@ -10811,33 +10809,28 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>
-                        <hi rend="strikethrough">1 Antoni Bildnus v. Wax</hi>
-                     </cell>
-                     <cell>
-                        <hi rend="strikethrough">42 x</hi>
-                     </cell>
+                     <cell>1 Antoni Bildnus v. Wax</cell>
+                     <cell>42 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Eintrag gestrichen.</hi></p></note></cell>
                   </row>
                   <row>
                      <cell>NB<note>
                            <p rend="footnote text">
-                              <hi rend="italic">Mit Bleistift geschrieben.</hi>
+                              <hi rend="italic">Am linken Rand mit Bleistift geschrieben.</hi>
                            </p>
                         </note> 1 Aloisi Tafl</cell>
                      <cell>16 x</cell>
                   </row>
                   <row>
-                     <cell>1 Antoni Tafl x. Wax</cell>
+                     <cell>1 Antoni Tafl v. Wax</cell>
                      <cell>36 x</cell>
                   </row>
                </table>
                <p>
                   <note>
                      <p rend="footnote text">
-                        <hi rend="superscript">-235</hi>
                         <hi rend="italic">Mit Bleistift geschrieben.</hi>
                      </p>
-                  </note>NB Herr Lechner<hi rend="superscript">235</hi>
+                  </note>NB: Herr Lechner
                </p>
                <p>Herr Werz</p>
                <table rend="rules">
@@ -10857,7 +10850,7 @@
                      <cell>30 x</cell>
                   </row>
                </table>
-               <p>Schloss Bauman</p>
+               <p>Schloss-Bauman</p>
                <table rend="rules">
                   <row>
                      <cell>1 Baar Finger Handschuch dt.</cell>
@@ -10882,7 +10875,7 @@
                      <cell>8 x</cell>
                   </row>
                </table>
-               <p>Peter Mayr zu <rs type="place" ref="#grasstein">Grasstain</rs>
+               <p>Peter Mayr zu Grasstain
                     </p>
                <table rend="rules">
                   <row>
@@ -10938,7 +10931,7 @@
                      <cell>24 x</cell>
                   </row>
                   <row>
-                     <cell>Aber 2 Altär<hi rend="strikethrough">le</hi> Stöllen dt.</cell>
+                     <cell>Aber 2 Altär<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>-le.</p></note> Stöllen dt.</cell>
                      <cell>6 x</cell>
                   </row>
                </table>
@@ -11011,15 +11004,15 @@
                      <cell>3 x</cell>
                   </row>
                   <row>
-                     <cell>1 messinges Marscherl und 4 Leichter à 31 x v. 6 Pfundt dt.</cell>
+                     <cell>1 messinges Merscherl und 4 Leichter à 31 x v. 6 Pfundt dt.</cell>
                      <cell>3 f 6 x</cell>
                   </row>
                   <row>
-                     <cell>1 fournirtes Kastl mit 15 Tatler etc. dt</cell>
+                     <cell>1 fournirtes Kastl mit 15 Tatlen etc. dt</cell>
                      <cell>2 f 57 x</cell>
                   </row>
                   <row>
-                     <cell>Fir 1 Tschoggelädä <hi rend="strikethrough">Täfele</hi> Kandele dt.</cell>
+                     <cell>Fir 1 Tschoggelädä<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Täfele.</p></note> Kandele dt.</cell>
                      <cell>30 x</cell>
                   </row>
                   <row>
@@ -11067,67 +11060,31 @@
                      <cell>30 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-238</hi>
-                              <hi rend="italic">Mit Bleistift geschrieben.</hi>
-                           </p>
-                        </note>Rest</cell>
-                     <cell>48 [f] und 3 x<hi rend="superscript">238</hi>
-                     </cell>
+                     <cell>Rest</cell>
+                     <cell>48 [f] und 3 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Eintrag mit Bleistift geschrieben.</hi></p></note></cell>
                   </row>
                </table>
-               <p>
-                  <hi rend="strikethrough">Dt. Herr Uhrmacher</hi>
-               </p>
+               <p>Dt. Herr Uhrmacher</p>
                <table rend="rules">
                   <row>
-                     <cell>
-                        <hi rend="strikethrough">1 Körbl, fol.</hi>
-                     </cell>
-                     <cell>
-                        <hi rend="strikethrough">5 x</hi>
-                     </cell>
+                     <cell>1 Körbl, fol.<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Angabe fehlt.</hi></p></note></cell>
+                     <cell>5 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <hi rend="strikethrough">Die grose Heng Uhr</hi>
-                     </cell>
-                     <cell>
-                        <hi rend="strikethrough">40 f 30 x</hi>
-                     </cell>
+                     <cell>Die grose Heng Uhr</cell>
+                     <cell>40 f 30 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <hi rend="strikethrough">Daran à Conto erlegt</hi>
-                     </cell>
-                     <cell>
-                        <hi rend="strikethrough">2 f 6 x</hi>
-                     </cell>
+                     <cell>Daran à Conto erlegt</cell>
+                     <cell>2 f 6 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <hi rend="strikethrough">2½ Ellen Hosen Zeig dt.</hi>
-                     </cell>
-                     <cell>
-                        <hi rend="strikethrough">1 f 36 x</hi>
-                     </cell>
+                     <cell>2½ Ellen Hosen Zeig dt.</cell>
+                     <cell>1 f 36 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-239</hi>
-                              <hi rend="italic">Mit Bleistift geschrieben.</hi>
-                           </p>
-                        </note>
-                        <hi rend="strikethrough">Rest</hi>
-                     </cell>
-                     <cell>
-                        <hi rend="strikethrough">38 f 24 x</hi>
-                        <hi rend="superscript">239</hi>
-                     </cell>
+                     <cell>Rest</cell>
+                     <cell>38 f 24 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Eintrag mit Bleistift geschrieben.</hi></p></note></cell>
                   </row>
                </table>
                <p>Neu Beck Anton Plaickner</p>
@@ -11183,7 +11140,7 @@
                   </row>
                   <row>
                      <cell>Rest</cell>
-                     <cell>38 f 14 x</cell>
+                     <cell>38 f 14 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Eintrag mit Bleistift geschrieben.</hi></p></note></cell>
                   </row>
                </table>
                <p>Klampperer zu <rs type="place" ref="#st_martin">St. Martin</rs>
@@ -11214,9 +11171,7 @@
                      <cell>7 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <hi rend="strikethrough">Rupfens Tuch</hi>
-                     </cell>
+                     <cell>Rupfens Tuch<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Eintrag gestrichen.</hi></p></note></cell>
                      <cell/>
                   </row>
                   <row>
@@ -11295,7 +11250,7 @@
                <p>Schmid Märtl</p>
                <table rend="rules">
                   <row>
-                     <cell>Für 8 Bögen Regal Papir dt.</cell>
+                     <cell>Für 8 Bögen <bibl>Regal Papir dt.</bibl></cell>
                      <cell>13 x</cell>
                   </row>
                </table>
@@ -11345,12 +11300,8 @@
                      <cell>4 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <hi rend="bold strikethrough">1 Federmeser</hi>
-                     </cell>
-                     <cell>
-                        <hi rend="bold strikethrough">1½ x</hi>
-                     </cell>
+                     <cell>1 Federmeser</cell>
+                     <cell>1½ x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Eintrag gestrichen.</hi></p></note></cell>
                   </row>
                   <row>
                      <cell>Aber 2 Spiegl Täfelen dt.</cell>
@@ -11383,8 +11334,7 @@
                <p>
                   <pb n="4v"/>
                </p>
-               <p>Herr v. Mayrhofer<hi rend="strikethrough">in</hi>
-               </p>
+               <p>Herr<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Korrigiert aus </hi>Frau.</p></note> v. Mayrhofer<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Korrigiert aus </hi>-in.</p></note></p>
                <table rend="rules">
                   <row>
                      <cell>1 Instrumentl</cell>
@@ -11486,7 +11436,7 @@
                      <cell>25 x</cell>
                   </row>
                   <row>
-                     <cell>Pappier Musicalien dt.</cell>
+                     <cell><bibl>Pappier Musicalien dt.</bibl></cell>
                      <cell>21 x</cell>
                   </row>
                </table>
@@ -11567,12 +11517,8 @@
                      <cell>1 f 46 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <hi rend="strikethrough">17 Hemater à 48 [x]</hi>
-                     </cell>
-                     <cell>
-                        <hi rend="strikethrough">13 f 36 x</hi>
-                     </cell>
+                     <cell>17 Hemater à 48 [x]</cell>
+                     <cell>13 f 36 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Eintrag gestrichen.</hi></p></note></cell>
                   </row>
                </table>
                <p>Luck Beck</p>
@@ -11585,14 +11531,8 @@
                <p>Bixenmacher</p>
                <table rend="rules">
                   <row>
-                     <cell>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-245</hi>
-                              <hi rend="italic">Eintrag steht über</hi> Bixenmacher.</p>
-                        </note>1 Stuel dt.</cell>
-                     <cell>5 x<hi rend="superscript">245</hi>
-                     </cell>
+                     <cell>1 Stuel dt.</cell>
+                     <cell>5 x<note><p rend="footnote text"><hi rend="italic"> Eintrag steht über</hi> Bixenmacher.</p></note></cell>
                   </row>
                   <row>
                      <cell>1 Hanif Mihl dt.</cell>
@@ -11670,13 +11610,12 @@
                      <cell>8 x</cell>
                   </row>
                   <row>
-                     <cell>1 Körbl<note>
+                     <cell>1 Körbl</cell>
+                     <cell>3 x<note>
                            <p rend="footnote text">
-                              <hi rend="italic">Darüber steht mit Verweiszeichen</hi> 1 Putzer dt. 3½ x, <hi rend="italic">gehört zu Franz Hueber.</hi>
+                              <hi rend="italic">Über diesem Eintrag steht mit Verweiszeichen</hi> 1 Putzer dt. 3½ x, <hi rend="italic">gehört zum Eintrag des Franz Hueber auf dieser Seite.</hi>
                            </p>
-                        </note>
-                     </cell>
-                     <cell>3 x</cell>
+                        </note></cell>
                   </row>
                </table>
                <p>Jungfer Häuserin v. geistlichen Herrn Lechner</p>
@@ -11702,7 +11641,7 @@
                      <cell>3 x</cell>
                   </row>
                   <row>
-                     <cell>Zinen Topf 2 <hi rend="strikethrough">½ ¼</hi> ⅜ Pfundt à 49 x</cell>
+                     <cell>Zinen Topf 2⅜<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Vor </hi>⅜<hi rend="italic" xml:space="preserve"> gestrichen </hi>½<hi rend="italic" xml:space="preserve"> und </hi>¼.</p></note> Pfundt à 49 x</cell>
                      <cell>1 f 56 x</cell>
                   </row>
                   <row>
@@ -11714,7 +11653,7 @@
                      <cell>4 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>3 Carfiuler</cell>
+                     <cell>3 Carfinler</cell>
                      <cell>29 x</cell>
                   </row>
                   <row>
@@ -11777,15 +11716,8 @@
                      <cell>6 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-249</hi>
-                              <hi rend="italic">Eintrag steht bei Peter Hochgrueber.</hi>
-                           </p>
-                        </note>1 Putzer dt.</cell>
-                     <cell>3½ x<hi rend="superscript">249</hi>
-                     </cell>
+                     <cell>1 Putzer dt.</cell>
+                     <cell>3½ x<note><p rend="footnote text"><hi rend="italic"> Gesamter Eintrag steht durch Verweiszeichen bei Peter Hochgrueber auf dieser Seite.</hi></p></note></cell>
                   </row>
                </table>
                <p>Mathias Mayr</p>
@@ -11869,12 +11801,8 @@
                <p>Merl</p>
                <table rend="rules">
                   <row>
-                     <cell>
-                        <hi rend="strikethrough">1 Hosen Zeig</hi>
-                     </cell>
-                     <cell>
-                        <hi rend="strikethrough">2 f 0 x</hi>
-                     </cell>
+                     <cell>1 Hosen Zeig</cell>
+                     <cell>2 f 0 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Eintrag gestrichen.</hi></p></note></cell>
                   </row>
                </table>
                <p>Mathias Niederbacher</p>
@@ -11886,71 +11814,6 @@
                   <row>
                      <cell>1 Lain Stuel dt.</cell>
                      <cell>4 x</cell>
-                  </row>
-               </table>
-               <p>Herr Lechner</p>
-               <table rend="rules">
-                  <row>
-                     <cell>1 Brodram so schen</cell>
-                     <cell>48 x</cell>
-                  </row>
-                  <row>
-                     <cell>1 Weichbrunkriegl</cell>
-                     <cell>22 x</cell>
-                  </row>
-                  <row>
-                     <cell>1 Glöser Kasten</cell>
-                     <cell>2 f 18 x</cell>
-                  </row>
-                  <row>
-                     <cell>1 Aloysi et Stanislaus<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Aloisius von Gonzaga, Stanislaus Kostka.</hi>
-                           </p>
-                        </note> Täfeler</cell>
-                     <cell>52 x</cell>
-                  </row>
-                  <row>
-                     <cell>2 Tafelen dt.</cell>
-                     <cell>27 x</cell>
-                  </row>
-                  <row>
-                     <cell>2 Rämlen Häuserin</cell>
-                     <cell>19 x</cell>
-                  </row>
-                  <row>
-                     <cell>2 Stuel</cell>
-                     <cell>30<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Korrigiert aus</hi> 5.</p>
-                        </note> x</cell>
-                  </row>
-                  <row>
-                     <cell>1 Eisen Stängl</cell>
-                     <cell>7 x</cell>
-                  </row>
-                  <row>
-                     <cell>2 zinene Leichter</cell>
-                     <cell>49 x</cell>
-                  </row>
-                  <row>
-                     <cell>1 Tisch dt.</cell>
-                     <cell>4½ x</cell>
-                  </row>
-                  <row>
-                     <cell>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Gesamter Eintrag mit Bleistift geschrieben.</hi>
-                           </p>
-                        </note>Rest</cell>
-                     <cell>6 f 41 x<hi rend="superscript">253,</hi>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Korrekte Summe wäre 6 f 36½ x.</hi>
-                           </p>
-                        </note>
-                     </cell>
                   </row>
                </table>
                <p>Benedict Schiner</p>
@@ -11987,12 +11850,105 @@
                      <cell>6 f 18 x</cell>
                   </row>
                </table>
-               <p>In der Ober Stuben</p>
+               <p>Herr Lechner<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Die Einträge für Herrn Lechner stehen auf dieser Seite rechts oben und im unteren Seitendrittel sowie auf der nächsten Seite, jeweils durch Verweiszeichen verbunden.</hi></p></note></p>
                <table rend="rules">
                   <row>
-                     <cell>
-                        <hi rend="strikethrough">1 Tischl</hi>
-                     </cell>
+                     <cell>1 Brodram so schen</cell>
+                     <cell>48 x</cell>
+                  </row>
+                  <row>
+                     <cell>1 Weichbrunkriegl</cell>
+                     <cell>22 x</cell>
+                  </row>
+                  <row>
+                     <cell>1 Glöser Kasten</cell>
+                     <cell>2 f 18 x</cell>
+                  </row>
+                  <row>
+                     <cell>1 Aloysi et Stanislaus<note>
+                           <p rend="footnote text">
+                              <hi rend="italic">Aloisius von Gonzaga, Stanislaus Kostka.</hi>
+                           </p>
+                        </note> Täfeler</cell>
+                     <cell>52 x</cell>
+                  </row>
+                  <row>
+                     <cell>2 Tafelen dt.</cell>
+                     <cell>27 x</cell>
+                  </row>
+                  <row>
+                     <cell>2 Rämlen Häuserin</cell>
+                     <cell>19 x</cell>
+                  </row>
+                  <row>
+                     <cell>2<note>
+                           <p rend="footnote text">
+                              <hi rend="italic">Korrigiert aus</hi> 1.</p>
+                        </note> Stuel</cell>
+                     <cell>30<note>
+                           <p rend="footnote text">
+                              <hi rend="italic">Korrigiert aus</hi> 15.</p>
+                        </note> x</cell>
+                  </row>
+                  <row>
+                     <cell>1 Eisen Stängl</cell>
+                     <cell>7 x</cell>
+                  </row>
+                  <row>
+                     <cell>2 zinene Leichter</cell>
+                     <cell>49 x</cell>
+                  </row>
+                  <row>
+                     <cell>1 Tisch dt.</cell>
+                     <cell>4½ x</cell>
+                  </row>
+                  <row>
+                     <cell>Rest</cell>
+                     <cell>6 f 41 x<note><p rend="footnote text"><hi rend="italic">Gesamter Eintrag mit Bleistift geschrieben. Korrekte Summe wäre 6 f 36½ x.</hi></p></note></cell>
+                  </row>
+                  <row><cell>In der Kuchl</cell><cell/></row>
+                     <row>
+                        <cell>1 Firpänkl so roth angestrichen</cell>
+                        <cell>5 x</cell>
+                     </row>
+                     <row>
+                        <cell>1 holzens Herd Bröth</cell>
+                        <cell>15 x</cell>
+                     </row>
+                     <row>
+                        <cell>1 Anricht Tafele samt Schubladen</cell>
+                        <cell>16 x</cell>
+                     </row>
+                     <row>
+                        <cell>2 Schissl Ramen</cell>
+                        <cell>12 x</cell>
+                     </row>
+                  <row><cell>In der Laaben</cell><cell/></row>
+                     <row>
+                        <cell>1 Kisten</cell>
+                        <cell>40 x</cell>
+                     </row>
+                     <row>
+                        <cell>5 Flüegen Gatter</cell>
+                        <cell>30 x</cell>
+                     </row>
+                  <row><cell>In der Stuben</cell><cell/></row>
+                     <row>
+                        <cell>1 Tischl mit 1 Schubladen</cell>
+                        <cell>12 x</cell>
+                     </row>
+                     <row>
+                        <cell>[Summa Küche, Diele, Stube]</cell>
+                        <cell>2 f 10 x<note>
+                              <p rend="footnote text">
+                                 <hi rend="italic">Betrag mit Bleistift geschrieben.</hi>
+                              </p>
+                           </note>
+                        </cell>
+                     </row>
+                  <row><cell>In der Ober Stuben</cell><cell/></row>
+                  <row>
+                     <cell>1 Tischl<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Eintrag gestrichen.</hi></p></note></cell>
                      <cell/>
                   </row>
                   <row>
@@ -12007,9 +11963,7 @@
                      <cell>1 Tischl und 1 Bettbankl</cell>
                      <cell>30 x</cell>
                   </row>
-               </table>
-               <p>In der Bibliothec</p>
-               <table rend="rules">
+                  <row><cell>In der Bibliothec</cell><cell/></row>
                   <row>
                      <cell>1 Tischl</cell>
                      <cell>30 x</cell>
@@ -12032,63 +11986,15 @@
                      </cell>
                   </row>
                </table>
-               <p>In der Kuchl</p>
-               <table rend="rules">
-                  <row>
-                     <cell>1 Firpänkl so roth angestrichen</cell>
-                     <cell>5 x</cell>
-                  </row>
-                  <row>
-                     <cell>1 holzens Herd Bröth</cell>
-                     <cell>15 x</cell>
-                  </row>
-                  <row>
-                     <cell>1 Anricht Tafele samt Schubladen</cell>
-                     <cell>16 x</cell>
-                  </row>
-                  <row>
-                     <cell>2 Schissl Ramen</cell>
-                     <cell>12 x</cell>
-                  </row>
-               </table>
-               <p>In der Laaben</p>
-               <table rend="rules">
-                  <row>
-                     <cell>1 Kisten</cell>
-                     <cell>40 x</cell>
-                  </row>
-                  <row>
-                     <cell>5 Flüeg Gatter</cell>
-                     <cell>30 x</cell>
-                  </row>
-               </table>
-               <p>In der Stuben</p>
-               <table rend="rules">
-                  <row>
-                     <cell>1 Tischl mit 1 Schubladen</cell>
-                     <cell>12 x</cell>
-                  </row>
-                  <row>
-                     <cell>[Summa Küche, Diele, Stube]</cell>
-                     <cell>2 f 10 x<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Betrag mit Bleistift geschrieben.</hi>
-                           </p>
-                        </note>
-                     </cell>
-                  </row>
-               </table>
                <p>
                   <pb n="6v"/>
                </p>
-               <p>
-                  <note>
-                     <p rend="footnote text">
-                        <hi rend="superscript">-258</hi>
-                        <hi rend="italic">Alle Einträge am linken Rand unter den Käufen des Gerbers von Pflaurenz geschrieben.</hi>
-                     </p>
-                  </note>In schen Zimmer</p>
+               <p>[Fortsetzung Herr Lechner]<note><p rend="footnote text"><hi rend="italic">Alle Einträge am linken Rand unter den Käufen des Gerbers von Pflaurenz geschrieben.</hi></p></note></p>
                <table rend="rules">
+                 <row>
+                    <cell>In schen Zimmer</cell>
+                    <cell/>
+                 </row>
                   <row>
                      <cell>8 Landschäfftler</cell>
                      <cell>2 f 0 x</cell>
@@ -12111,13 +12017,7 @@
                   </row>
                   <row>
                      <cell>[Summa ohne Bottiche und Dung]</cell>
-                     <cell>3 f 19 x<hi rend="superscript">258,</hi>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Betrag mit Bleistift geschrieben.</hi>
-                           </p>
-                        </note>
-                     </cell>
+                     <cell>3 f 19 x<note><p rend="footnote text"><hi rend="italic">Betrag mit Bleistift geschrieben.</hi></p></note></cell>
                   </row>
                </table>
                <p>Winkler zu <rs type="place" ref="#saalen">Saalen</rs>
@@ -12217,7 +12117,7 @@
                      <cell>6 Baar Strimpf</cell>
                      <cell>2 f 48 x<note>
                            <p rend="footnote text">
-                              <hi rend="italic">Tinte von Streichung zwei Zeilen darüber wahrscheinlich mit der Hand versehentlich dupliziert.</hi>
+                              <hi rend="italic">Tinte einer der Streichungen wahrscheinlich versehentlich dupliziert.</hi>
                            </p>
                         </note>
                      </cell>
@@ -12266,14 +12166,13 @@
                   </row>
                   <row>
                      <cell>1 Wax Stock dt.</cell>
-                     <cell>18 x</cell>
+                     <cell>18 x nicht bezahlt<note>
+                           <p rend="footnote text"> Nicht bezahlt<hi rend="italic" xml:space="preserve"> bezieht sich auf diesen und wohl auch die nächsten drei Einträge.</hi></p>
+                        </note></cell>
                   </row>
                   <row>
                      <cell>1 Wax Taschen dt.</cell>
-                     <cell>22 x nicht bezahlt<note>
-                           <p rend="footnote text"> Nicht bezahlt<hi rend="italic" xml:space="preserve"> bezieht sich auf die</hi> Wax Taschen <hi rend="italic" xml:space="preserve">und </hi>wax stock.</p>
-                        </note>
-                     </cell>
+                     <cell>22 x</cell>
                   </row>
                   <row>
                      <cell>Aber 1 deto dt.</cell>
@@ -12292,19 +12191,15 @@
                   </row>
                   <row>
                      <cell>1 zerbrochne Pfanne</cell>
-                     <cell>
-                        <hi rend="strikethrough">5 x</hi>
-                     </cell>
+                     <cell>5 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Betrag gestrichen.</hi></p></note></cell>
                   </row>
                   <row>
                      <cell>2 Schissl, und 1 Krueg</cell>
                      <cell>9 x</cell>
                   </row>
                   <row>
-                     <cell>1 <hi rend="strikethrough">Dirchling</hi> Pfeffer Pfann</cell>
-                     <cell>
-                        <hi rend="strikethrough">28 x</hi>
-                     </cell>
+                     <cell>1<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Dirchling.</p></note> Pfeffer Pfann</cell>
+                     <cell>28 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Betrag gestrichen.</hi></p></note></cell>
                   </row>
                   <row>
                      <cell>1 melirter Hauszeug dt.</cell>
@@ -12348,22 +12243,13 @@
                   </row>
                   <row>
                      <cell>
-                        <hi rend="bold">1 Coral Buech</hi>
+                        1 <rs type="bibl" ref="#choral_buch">Coral Buech</rs>
                      </cell>
-                     <cell>
-                        <hi rend="bold">42 x</hi>
-                     </cell>
+                     <cell>42 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-266</hi>
-                              <hi rend="italic">Gesamter Eintrag mit Bleistift geschrieben.</hi>
-                           </p>
-                        </note>Rest [Summe der letzten zwei Posten]</cell>
-                     <cell>2 f 36 x<hi rend="superscript">266</hi>
-                     </cell>
+                     <cell>Rest [Summe der letzten zwei Posten]</cell>
+                     <cell>2 f 36 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Eintrag mit Bleistift geschrieben.</hi></p></note></cell>
                   </row>
                </table>
                <p>Herr Jakob Salcher</p>
@@ -12408,19 +12294,15 @@
                   </row>
                   <row>
                      <cell>2 Schäffer und 1 Züberle</cell>
-                     <cell>18 x</cell>
+                     <cell>18 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Betrag gestrichen.</hi></p></note></cell>
                   </row>
                   <row>
                      <cell>7 Brodflecken 2 Schrägen, und 1 Kraphen Brettl</cell>
                      <cell>41 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <hi rend="strikethrough">4 Bachmitten, und 1 Mel Brett</hi>
-                     </cell>
-                     <cell>
-                        <hi rend="strikethrough">2 f 28 x</hi>
-                     </cell>
+                     <cell>4 Bachmitten, und 1 Mel Brett</cell>
+                     <cell>2 f 28 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Eintrag gestrichen.</hi></p></note></cell>
                   </row>
                </table>
                <p>
@@ -12451,21 +12333,14 @@
                <table rend="rules">
                   <row>
                      <cell>2 Hemat Knöpfler, dt.</cell>
-                     <cell>22<note>
+                     <cell>12<note>
                            <p rend="footnote text">
-                              <hi rend="italic">Korrigiert aus</hi> 11.</p>
+                              <hi rend="italic">Korrigiert aus</hi> 21.</p>
                         </note> x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-270</hi>
-                              <hi rend="italic">Gesamter Eintrag mit Bleistift geschrieben.</hi>
-                           </p>
-                        </note>dt.</cell>
-                     <cell>1½ x<hi rend="superscript">270</hi>
-                     </cell>
+                     <cell>dt.</cell>
+                     <cell>1½ x<note><p rend="footnote text"><hi rend="italic">Gesamter Eintrag mit Bleistift geschrieben.</hi></p></note></cell>
                   </row>
                </table>
                <p>Hanns Wiser Zimerman</p>
@@ -12493,13 +12368,7 @@
                   <pb n="8r"/>
                </p>
                <p>
-                  <hi rend="strikethrough">Jungfer</hi>
-                  <note>
-                     <p rend="footnote text">
-                        <hi rend="superscript">-271</hi>
-                        <hi rend="italic">Über der Zeile nachgetragen.</hi>
-                     </p>
-                  </note>Frau Kompatscherin<hi rend="superscript">271</hi> Steurerin</p>
+                  Frau Compatscherin<note><p rend="footnote text"> Frau Compatscherin<hi rend="italic" xml:space="preserve"> über der Zeile eingefügt statt gestrichenem </hi>Jungfer</p></note> Steurerin</p>
                <table rend="rules">
                   <row>
                      <cell>1 eisens Drey Füsl dt.</cell>
@@ -12515,17 +12384,11 @@
                   </row>
                </table>
                <p>
-                  <note>
-                     <p rend="footnote text">
-                        <hi rend="superscript">-272</hi>
-                        <hi rend="italic">Mit Bleistift geschrieben.</hi>
-                     </p>
-                  </note>Herr Prugger</p>
+                 <note><p rend="footnote text"><hi rend="italic">Gesamte Verkaufsnotiz mit Bleistift geschrieben.</hi></p></note>Herr Prugger</p>
                <table rend="rules">
                   <row>
                      <cell>1 Bethstatt</cell>
-                     <cell>28 x<hi rend="superscript">272</hi>
-                     </cell>
+                     <cell>28 x</cell>
                   </row>
                </table>
                <p>Miller in Pflaurenz</p>
@@ -12533,54 +12396,6 @@
                   <row>
                      <cell>5 Leichter und 1 Butzer dt.</cell>
                      <cell>30 x</cell>
-                  </row>
-               </table>
-               <p>Herr Prugger in Ros</p>
-               <table rend="rules">
-                  <row>
-                     <cell>[kein Inventurposten]</cell>
-                     <cell>16 x</cell>
-                  </row>
-                  <row>
-                     <cell>1 Bstätten Häfele</cell>
-                     <cell>9 x</cell>
-                  </row>
-                  <row>
-                     <cell>1 Spritz Strauben Modl</cell>
-                     <cell>3 x</cell>
-                  </row>
-                  <row>
-                     <cell>1 kupfernes Dirchling Kellele</cell>
-                     <cell>12 x</cell>
-                  </row>
-                  <row>
-                     <cell>2 Egerer Flaschen</cell>
-                     <cell>38 x</cell>
-                  </row>
-                  <row>
-                     <cell>1 Karfinl</cell>
-                     <cell>6 x</cell>
-                  </row>
-                  <row>
-                     <cell>1 Kave Schalen</cell>
-                     <cell>7 x</cell>
-                  </row>
-                  <row>
-                     <cell>1 Gläsl dt.</cell>
-                     <cell>3 x</cell>
-                  </row>
-                  <row>
-                     <cell>1 Glas dt.</cell>
-                     <cell>4 x</cell>
-                  </row>
-                  <row>
-                     <cell>[Summa]</cell>
-                     <cell>1 f 22 x<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Betrag mit Bleistift geschrieben.</hi>
-                           </p>
-                        </note>
-                     </cell>
                   </row>
                </table>
                <p>Pichler zu Stephansdorf</p>
@@ -12642,8 +12457,7 @@
                      <cell>37 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <hi rend="strikethrough">Gei</hi> 4 Hafen Blätlen</cell>
+                     <cell>4<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Davor gestrichen </hi>Gei-.</p></note> Hafen Blätlen</cell>
                      <cell>16 x</cell>
                   </row>
                   <row>
@@ -12682,7 +12496,55 @@
                      <cell>[Summa]</cell>
                      <cell>12 f 1 x<note>
                            <p rend="footnote text">
-                              <hi rend="italic" xml:space="preserve">Betrag mit Bleistift über </hi>Wellbrett<hi rend="italic" xml:space="preserve"> geschrieben.</hi>
+                              <hi rend="italic" xml:space="preserve">Betrag mit Bleistift über </hi>Wellbrett<hi rend="italic" xml:space="preserve"> von letztem Eintrag geschrieben.</hi>
+                           </p>
+                        </note>
+                     </cell>
+                  </row>
+               </table>
+               <p>Herr Prugger in Ros</p>
+               <table rend="rules">
+                  <row>
+                     <cell>[kein Inventurposten]</cell>
+                     <cell>16 x</cell>
+                  </row>
+                  <row>
+                     <cell>1 Bstätten Häfele</cell>
+                     <cell>9 x</cell>
+                  </row>
+                  <row>
+                     <cell>1 Spritz Strauben Modl</cell>
+                     <cell>3 x</cell>
+                  </row>
+                  <row>
+                     <cell>1 kupfernes Dirchling Kellele</cell>
+                     <cell>12 x</cell>
+                  </row>
+                  <row>
+                     <cell>2 Egerer Flaschen</cell>
+                     <cell>38 x</cell>
+                  </row>
+                  <row>
+                     <cell>1 Karfinl</cell>
+                     <cell>6 x</cell>
+                  </row>
+                  <row>
+                     <cell>1 Kave Schalen</cell>
+                     <cell>7 x</cell>
+                  </row>
+                  <row>
+                     <cell>1 Gläsl dt.</cell>
+                     <cell>3 x</cell>
+                  </row>
+                  <row>
+                     <cell>1 Glas dt.</cell>
+                     <cell>4 x</cell>
+                  </row>
+                  <row>
+                     <cell>[Summa]</cell>
+                     <cell>1 f 22 x<note>
+                           <p rend="footnote text">
+                              <hi rend="italic">Betrag mit Bleistift geschrieben.</hi>
                            </p>
                         </note>
                      </cell>
@@ -12760,7 +12622,7 @@
                      <cell>15 x</cell>
                   </row>
                </table>
-               <p>Wolleschager Sohn zu <rs type="place" ref="#moos">Moos</rs>
+               <p>Wolleschlager Sohn zu <rs type="place" ref="#moos">Moos</rs>
                     </p>
                <table rend="rules">
                   <row>
@@ -12783,35 +12645,19 @@
                      <cell>4 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-277</hi>
-                              <hi rend="italic">Gesamter Eintrag mit Bleistift geschrieben.</hi>
-                           </p>
-                        </note>1 Milch Kandeler dt.</cell>
-                     <cell>12 x<hi rend="superscript">277</hi>
-                     </cell>
+                     <cell>1 Milch Kandeler dt.</cell>
+                     <cell>12 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Eintrag mit Bleistift geschrieben.</hi></p></note></cell>
                   </row>
                   <row>
-                     <cell>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-278</hi>
-                              <hi rend="italic">Gesamter Eintrag mit Bleistift geschrieben.</hi>
-                           </p>
-                        </note>5 Baar Cave Schalen dt.</cell>
-                     <cell>30 x<hi rend="superscript">278</hi>
-                     </cell>
+                     <cell>5 Baar Cave Schalen dt.</cell>
+                     <cell>30 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Eintrag mit Bleistift geschrieben.</hi></p></note></cell>
                   </row>
                </table>
-               <p>
-                  <note>
-                     <p rend="footnote text">
-                        <hi rend="superscript">-279</hi>
-                        <hi rend="italic" xml:space="preserve">Name und alle Einträge mit mit Bleistift gezogener gschwungener Klammer zusammengefasst und darunter, ebenfalls mit Bleistift </hi>NB <hi rend="italic">geschrieben.</hi>
-                     </p>
-                  </note>Frau Magnusin</p>
+               <p>Frau Magnusin<note>
+                  <p rend="footnote text">
+                     <hi rend="italic" xml:space="preserve">Name und alle Einträge mit mit Bleistift gezogener gschwungener Klammer zusammengefasst und darunter, ebenfalls mit Bleistift </hi>NB <hi rend="italic">geschrieben.</hi>
+                  </p>
+               </note></p>
                <table rend="rules">
                   <row>
                      <cell>1 Brüstl dt.</cell>
@@ -12826,13 +12672,8 @@
                      <cell>3 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <hi rend="bold">Pappier</hi>
-                     </cell>
-                     <cell>
-                        <hi rend="bold">4 x</hi>
-                        <hi rend="superscript">279</hi>
-                     </cell>
+                     <cell><bibl>Pappier</bibl></cell>
+                     <cell>4 x</cell>
                   </row>
                </table>
                <p>
@@ -12914,7 +12755,7 @@
                      <cell>18 x</cell>
                   </row>
                   <row>
-                     <cell>1 Tafl Christi in der Geislen dt.</cell>
+                     <cell>1 Tafl Christi in der Geisel dt.</cell>
                      <cell>8 x</cell>
                   </row>
                   <row>
@@ -12946,20 +12787,12 @@
                      <cell>11 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <hi rend="bold">1 Pappier Hobl dt.</hi>
-                     </cell>
-                     <cell>
-                        <hi rend="bold">24 x</hi>
-                     </cell>
+                     <cell><bibl>1 Pappier Hobl dt.</bibl></cell>
+                     <cell>24 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <hi rend="bold">1 Buchbinter Bank dt.</hi>
-                     </cell>
-                     <cell>
-                        <hi rend="bold">4 x</hi>
-                     </cell>
+                     <cell><bibl>1 Buchbinter Bank dt.</bibl></cell>
+                     <cell>4 x</cell>
                   </row>
                   <row>
                      <cell>1 Tafele dt.</cell>
@@ -12982,6 +12815,9 @@
                </table>
                <p>
                   <pb n="10r"/>
+
+<!-- stopped here -->
+
                </p>
                <p>Frau Pachlechnerin</p>
                <table rend="rules">
