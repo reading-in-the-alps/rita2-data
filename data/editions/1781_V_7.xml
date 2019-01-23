@@ -31,7 +31,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus from="306r" to="305r"/>
+                     <locus from="294r" to="307v"/>
                      <note>
                         <rs type="skos" ref="#inventar">Inventar</rs>
                      </note>
@@ -52,12 +52,25 @@
    <text>
       <body>
          <div>
+           <p>
+              <pb n="307v"/>
+           </p>
+           <p>
+                   <date when="1762-01-04">4 Jener 1762</date>
+               </p>
+           <p>[Aktennotiz:] Commission für Abhandlung des Beneficiaten in <rs type="place" ref="#saalen">Saalen</rs> Priester <rs type="person" ref="#stocker_franz_xaver">Franz Stockers</rs> Verlassenschaft</p>
+           <p>Praes. den <date when="1781-04-29">29 April 1781</date>
+               </p>
+           <p>[Briefadresse:] Dem ehrwürdig, edl, hochgelehrten <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingram von Liebenrain, und Fragburg</rs> SS. Theol. Dri. fürstlich Brixnerisch geistlichen Rath, auch Dechant, und Pfarrer zu <rs type="place" ref="#brunegg">Bruneck</rs>, unseren besonders lieben Freund, und Herrn.</p>
+           <p>
+                   <rs type="place" ref="#brunegg">Bruneck</rs>.</p>
+                   <p>[Oblatensiegel]</p>
             <p>
                <pb n="306r"/>
             </p>
-            <p>Unsern freundlichen Gruss, und Dienst anvor: Ehrwürdig, edl, hochgelehrt, besonders lieber Freund, und Herr!</p>
+            <p>Unsern freundlichen Gruss, und Dienst anvor: Ehrwürdig[er], edl[er], hochgelehrt[er], besonders lieber Freund, und Herr!</p>
             <p>Da aus des Herrn Berichte erhellet, das den 7ten dies der Beneficiat zu <rs type="place" ref="#saalen">Saalen</rs> Priester <rs type="person" ref="#stocker_franz_xaver">Franz Xaver Stocker</rs> verstorben, und in unserm Namen die Sperre an dessen Verlassenschaft behörig angeleget worden;</p>
-            <p>Also ertheilen wir dem Herrn die Commission dessen hinterlassenes Vermögen ordentlich zu beschreiben, zu ergänzen, und behörig zu vertheilen; Worüber wir seiner Zeit den Bericht, und eine vidimierte Abschrift von dem Abhandlungs Instrument gewärtigen.</p>
+            <p>Also ertheilen Wir dem Herrn die Commission dessen hinterlassenes Vermögen ordentlich zu beschreiben, zu ergänzen, und behörig zu vertheilen; Worüber wir seiner Zeit den Bericht, und eine vidimierte Abschrift von dem Abhandlungs Instrument gewärtigen.</p>
             <p>Hieran vollziecht der Herr unsern Willen, und Meynung; und wir verbleiben anbey demselben wohl beygethan.</p>
             <p>Gegeben in Consistorio zu <rs type="place" ref="#brixen">Brixen</rs> den <date when="1781-04-23">23ten April 1781</date>.</p>
             <p>
@@ -67,20 +80,8 @@
             <p>
                     <rs type="person" ref="#von_pasotti_carl">Carl v. Pasotti</rs>
                 </p>
-            <p>Prosecret. m.p.</p>
+            <p>Prosecre[tarius] m.p.</p>
             <p>[Taxvermerk:] Taxa 1 f 12 x</p>
-            <p>
-               <pb n="307v"/>
-            </p>
-            <p>
-                    <date when="1762-01-04">4 Jener 1762</date>
-                </p>
-            <p>[Aktennotiz:] Commission für Abhandlung des Beneficiaten in <rs type="place" ref="#saalen">Saalen</rs> Priester <rs type="person" ref="#stocker_franz_xaver">Franz Stockers</rs> Verlassenschaft</p>
-            <p>Praes. den <date when="1781-04-29">29 April 1781</date>
-                </p>
-            <p>[Briefadresse:] Dem ehrwürdig, edl, hochgelehrten <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingram von Liebenrain, und Fragburg</rs> SS. Theol. Dri. fürstlich Brixnerisch geistlichen Rath, auch Dechant, und Pfarrer zu <rs type="place" ref="#brunegg">Bruneck</rs>, unseren besonders lieben Freund, und Herrn.</p>
-            <p>
-                    <rs type="place" ref="#brunegg">Bruneck</rs>.</p>
             <p>
                <pb n="305v"/>
             </p>
@@ -93,31 +94,36 @@
                <pb n="294r"/>
             </p>
             <p>Actum <rs type="place" ref="#saalen">Saalen</rs> in der Kaplanei Behausung den <date when="1781-05-07">7ten May 1781</date>.</p>
-            <p>Vor Ihro Hochwürden und Gnaden dem hochwürdig wohlgebohrn und hochgelehrten Herren <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Yngram v. Liebenrain und Fragburg</rs> Tyrol. Herrn und Landman des hochfürstlichen Stifts Brixen würcklichen Consistorial Rath, dan Dechand und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunneck</rs>, als vermög beylegend hochgnädigen Consistorial Befehl – [späterer Vermerk:] NB Dieser allegierte Befehl ist hinach fol. 306 eingebundner zu erfünden. – zu <rs type="place" ref="#brixen">Brixen</rs> dato <date when="1781-04-23">23ten Apprill 1781</date> verordneten Herrn Commissario etc.</p>
-            <p>Und dem wohledl gestrengen und hochgelehrten Herrn <rs type="person" ref="#steinburger_johann_stephann">Johann Stephann Steinburger</rs> i. u. cand. auch Landrichter der Herrschaft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelsburg</rs>.</p>
+            <p>Vor Ihro Hochwürden und Gnaden dem hochwürdig wohlgebohrn und hochgelehrten Herren <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Yngram v. Liebenrain und Fragburg</rs> Tyrol. Herrn und Landman des hochfürstlichen Stifts <rs type="place" ref="#brixen">Brixen</rs> würcklichen Consistorial Rath, dan Dechand und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunneck</rs>, als vermög beylegend hochgnädigen Consistorial Befehl – [späterer Vermerk:] NB Dieser allegierte Befehl ist hinach fol. 306 eingebundner zu erfünden. – zu <rs type="place" ref="#brixen">Brixen</rs> dato <date when="1781-04-23">23ten Apprill 1781</date> verordneten Herrn Commissario etc.</p>
+            <p>Und dem wohledl gestrengen und hochgelehrten Herrn <rs type="person" ref="#steinburger_johann_stephann">Johann Stephann Steinberger</rs> i. u. cand. auch Landrichter der Herrschaft <rs type="place" ref="#saenct_michaelspurg">Sanct Michaelsburg</rs>.</p>
             <p>Zugegen des wohledlen Herrn <rs type="person" ref="#gassmeyr_johann_franz">Johann Franz Gassmayr</rs> Amtschreibern zu <rs type="place" ref="#brunegg">Brunneck</rs>, dann dem fürnemmen <rs type="person" ref="#hueber_joseph_2">Joseph Hueber</rs> Winckler und Gerichts Ausschuss allda zu <rs type="place" ref="#saalen">Saalen</rs>.</p>
-            <p>Demnach es Gott dem Allerhöchsten abermalen nach seinen unerforschlich allerheiligsten Rathschluss beliebet, seinen allerhailligsten Willen zu vollziechen, und andurch dem wohl ehrwürdig geistlichen Herrn <rs type="person" ref="#stocker_franz_xaver">Franz Stocker</rs>
+            <p>Demnach es Gott dem Allerhöchsten abermalen nach seinen unerforschlich allerheiligsten Rathschluss beliebet, seinen allerheilligsten Willen zu vollziechen, und andurch dem wohl ehrwürdig geistlichen Herrn <rs type="person" ref="#stocker_franz_xaver">Franz Stocker</rs>
                 </p>
             <p>
                <pb n="294v"/>
             </p>
             <p>S.S. theol. et S.S. canonicus cand. in Leben gewesten Beneficiaten allhier zu <rs type="place" ref="#saalen">Saalen</rs> jüngst verschiner Zeit nach vorhero ausgestandener Leibskranckheit den <date when="1781-04-07">7ten Apprill</date> von diesen Zeitlichen zweifls ohne zu sich in die himmelische Freyd zu beruffen, Gott gnade dero Seele. Wurde einsmalen auf erfolgten Todtfall von Ihro Hochwürden und Gnaden Herrn Herrn Dechant etc. und vor wohlersagten Herrn Landrichter die Secretur an denen behörigen Orthen angelegt, und sodan am dato von hocherdeuten Herrn Herrn Decano etc. referiret, welcher gestalten hochdemselben von dem hochgeistlichen officio zu <rs type="place" ref="#brixen">Brixen</rs> das Commissorium ertheillet worden, mit dem Innhalt, das hochselber des geistlichen Herrn Ableibers seel. Verlassenschaft vollständig verhandlen, und sohin den Bericht hierüber einsenden solle,</p>
-            <p>Woraufhin dann in Gehorsam beykommen und erschinnen seind des abgeleibten geistlichen Herrn <rs type="person" ref="#stocker_franz_xaver">Franz Stockers</rs> seel. <hi rend="strikethrough">Geschw Brüders zweyen</hi> eheleiblichen Bruder<hi rend="strikethrough">n <rs type="person" ref="#stocker_antoni">Antoni</rs>
-                    </hi> zuruckgelassene Kinder als, von des ebenfals abgeleibten <rs type="person" ref="#stocker_johann">Johann Stockers</rs> gewesten Pfarrmesners zu <rs type="place" ref="#brunegg">Brunneck</rs> bey <rs type="person" ref="#taesser_maria">Maria Tässerin</rs> seel. erzeügten und zurück-</p>
+            <p>Woraufhin dann in Gehorsam beykommen<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt Beistrich gestrichen.</hi></p></note> und erschinnen seind des abgeleibten geistlichen Herrn <rs type="person" ref="#stocker_franz_xaver">Franz Stockers</rs> seel.<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Geschw Brüders zweyen.</p></note> eheleiblichen
+            Bruder<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>-n <rs type="person" ref="#stocker_antoni">Antoni</rs>.</p></note> zuruckgelassene Kinder als, von des ebenfals abgeleibten <rs type="person" ref="#stocker_johann">Johann Stockers</rs> gewesten Pfarrmesners zu <rs type="place" ref="#brunegg">Brunneck</rs> bey <rs type="person" ref="#taesser_maria">Maria Tässerin</rs> seel. erzeügten und zurück-</p>
             <p>
                <pb n="295r"/>
             </p>
-            <p>gelassenen zweyen Töchtern <rs type="person" ref="#stocker_maria">Maria</rs> und <rs type="person" ref="#stocker_anna">Anna</rs>, wovon die <rs type="person" ref="#stocker_anna">Anna</rs> anwessig, und beede in Vertrettung des schon vorhero verpflichten Gerhabens Herrn <rs type="person" ref="#schwaickhofer_anton">Anton Schwaickhofer</rs> Burgern des Raths und Förbermeistern zu <rs type="place" ref="#brunegg">Brunneck</rs>, und haben bey der gnädigen angeordenten Commission und loblicher Landgerichts Obrigkeit etc. um Vornemmung der ieblichen und Lands gebräuchigen Inventur demüthig und gehorsam angelanget, welchem petito wohlbehabt gnädige Commission etc. und loblichen Obrigkeit etc. nicht abseyn können, von dahero wurde auf am dato Nach Mittig zu Vornemmung solcher Inventur <hi rend="strikethrough">g</hi> die Anstalt gehorsam anberaummet, und hat sich sofort ersagt gnädige Commission und lobliche Obrigkeit nacher <rs type="place" ref="#saalen">Saalen</rs> in des Beneficiaten Haus verfüget, und wurde<note>
+            <p>gelassenen zweyen Töchtern <rs type="person" ref="#stocker_maria">Maria</rs> und <rs type="person" ref="#stocker_anna">Anna</rs>, wovon die <rs type="person" ref="#stocker_anna">Anna</rs> anwessig, und beede in Vertrettung des schon vorhero verpflichten Gerhabens Herrn <rs type="person" ref="#schwaickhofer_anton">Anton Schwaickhofer</rs> Burgern des Raths und Förbermeistern zu <rs type="place" ref="#brunegg">Brunneck</rs>, und haben bey der gnädigen angeordenten Commission und loblicher Landgerichts Obrigkeit etc. um Vornemmung der ieblichen und Lands gebräuchigen Inventur demüthig und gehorsam angelanget, welchem petito wohlbehabt gnädige Commission etc. und loblichen Obrigkeit etc. nicht abseyn können, von dahero wurde auf am dato Nach Mittig
+            zu Vornemmung solcher Inventur<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>g-.</p></note> die Anstalt gehorsam anberaummet, und hat sich sofort ersagt gnädige Commission und lobliche Obrigkeit nacher <rs type="place" ref="#saalen">Saalen</rs> in des Beneficiaten Haus verfüget, und wurde<note>
                   <p rend="footnote text">
                      <hi rend="italic">Über der Zeile eingefügt.</hi>
                   </p>
-            </note> bey Befund der recognoscirten und unbedencklich erfundenen Secretur, nachdem vorhero an die Miterbin <rs type="person" ref="#stocker_anna">Anna Stockerin</rs> als geweste Hauswirthschafterin bey dem Herrn Ableiber seel. under ihren Herrn Gerhaben gehörten <rs type="person" ref="#schwaickhofer_anton">Anton Schwaickhofer</rs> ratione der getreülichen Anzeügung halber der Zuspruch und darauf <hi rend="strikethrough">von</hi> an beeden erfolget ist, geschritten zu folgender</p>
+            </note> bey Befund der recognoscirten und unbedencklich erfundenen Secretur, nachdem vorhero an die Miterbin <rs type="person" ref="#stocker_anna">Anna Stockerin</rs> als geweste Hauswirthschafterin bey dem Herrn Ableiber seel. under ihren Herrn Gerhaben gehörten <rs type="person" ref="#schwaickhofer_anton">Anton Schwaickhofer</rs> ratione der getreülichen Anzeügung halber der Zuspruch und
+            darauf an<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile geschrieben statt gestrichenem </hi>von.</p></note> beeden erfolget ist, geschritten zu folgender</p>
             <p>Inventursbeschreibung.</p>
             <p>Und zwar erstlichen</p>
             <p>
                <pb n="295v"/>
             </p>
             <p>In dem ordinari Wohnzimer.</p>
+
+<!-- stopped here -->
+
             <table rend="rules">
                <row>
                   <cell>Eine schlechte aufstehende Bethstadt, so zusamm gelegt werden kann pr</cell>
