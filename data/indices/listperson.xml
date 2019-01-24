@@ -87,6 +87,20 @@
                   <surname>von Wenzl zu Kirchegg, Ragen und Getreuenstein</surname>
                </persName>
             </person>
+            <person xml:id="kaspar_ignaz_kuenigl">
+               <persName>
+                  <forename>Kaspar Ignaz</forename>
+                  <surname>von Künigl</surname>
+               </persName>
+               <note type="function">Fürstbischof zu <rs type="place" ref="#brixen">Brixen (1702-1747)</rs></note>
+            </person>
+            <person xml:id="leopold_spaur">
+               <persName>
+                  <forename>Leopold</forename>
+                  <surname>von Spaur</surname>
+               </persName>
+               <note type="function">Fürstbischof zu <rs type="place" ref="#brixen">Brixen (1747-1778)</rs></note>
+            </person>
 
 
 <!-- names in work -->
