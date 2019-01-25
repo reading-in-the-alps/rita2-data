@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>1781 V 7/8, Saalen (in der Kaplanei) [Stocker Franz (Benefiziat), fol. 294r-307v]</title>
+            <title>1781 V 7/8, Saalen (in der Kaplanei) [Stocker Franz (Benefiziat)]</title>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -64,7 +64,7 @@
            <p>[Briefadresse:] Dem ehrwürdig, edl, hochgelehrten <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Ingram von Liebenrain, und Fragburg</rs> SS. Theol. Dri. fürstlich Brixnerisch geistlichen Rath, auch Dechant, und Pfarrer zu <rs type="place" ref="#brunegg">Bruneck</rs>, unseren besonders lieben Freund, und Herrn.</p>
            <p>
                    <rs type="place" ref="#brunegg">Bruneck</rs>.</p>
-                   <p>[Oblatensiegel]</p>
+                   <p>[Oblatensiegel des Konsistoriums Brixen]</p>
             <p>
                <pb n="306r"/>
             </p>
@@ -73,13 +73,9 @@
             <p>Also ertheilen Wir dem Herrn die Commission dessen hinterlassenes Vermögen ordentlich zu beschreiben, zu ergänzen, und behörig zu vertheilen; Worüber wir seiner Zeit den Bericht, und eine vidimierte Abschrift von dem Abhandlungs Instrument gewärtigen.</p>
             <p>Hieran vollziecht der Herr unsern Willen, und Meynung; und wir verbleiben anbey demselben wohl beygethan.</p>
             <p>Gegeben in Consistorio zu <rs type="place" ref="#brixen">Brixen</rs> den <date when="1781-04-23">23ten April 1781</date>.</p>
-            <p>
-                    <rs type="person" ref="#taxis_felix">Felix Taxis</rs>
-                </p>
+            <p>[Eigenhändige Unterschrift:]<rs type="person" ref="#taxis_felix"> Felix Taxis</rs></p>
             <p>Praesident m.p.</p>
-            <p>
-                    <rs type="person" ref="#von_pasotti_carl">Carl v. Pasotti</rs>
-                </p>
+            <p>[Eigenhändige Unterschrift:]<rs type="person" ref="#von_pasotti_carl"> Carl v. Pasotti</rs></p>
             <p>Prosecre[tarius] m.p.</p>
             <p>[Taxvermerk:] Taxa 1 f 12 x</p>
             <p>
