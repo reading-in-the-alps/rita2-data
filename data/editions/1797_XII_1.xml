@@ -1040,9 +1040,6 @@
             <p>Den <date when="1797-01-25">25ten Janner 1797</date><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamte Datierung am linken Rand geschrieben. Jahr stimmt nicht, sollte </hi>1798<hi rend="italic" xml:space="preserve"> sein.</hi></p></note></p>
             <p>In Tafl Zimmer</p>
             <table rend="rules">
-
-<!-- stopped here 11130973 -->
-
                <row>
                   <cell>1 aufgesetzter Komot Kasten von fornierter Arbeith mit Schlos und Band</cell>
                   <cell>12 f 0 x</cell>
@@ -1078,7 +1075,7 @@
                </row>
                <row>
                   <cell>[Latus]</cell>
-                  <cell>39 f 14 x</cell>
+                  <cell>39 [f] 14 [x]</cell>
                </row>
             </table>
             <p>
@@ -1093,13 +1090,13 @@
                <row>
                   <cell>Herr v. Grebner 6 f<note>
                         <p rend="footnote text">
-                           <hi rend="italic">Dieser und alle folgenden Einträge in der linken Spalte mit Bleistift geschrieben.</hi>
+                           <hi rend="italic">Dieser und alle folgenden Einträge in der linken Spalte mit Bleistift geschrieben. Die meisten Beträge wurden ohne Angabe von "f" oder "x" geschrieben.</hi>
                         </p>
                      </note>
                   </cell>
                   <cell>15<note>
                         <p rend="footnote text"> 5 <hi rend="italic">korrigiert aus</hi> 1.</p>
-                     </note> Näglstöck mit die Geschir wovon 4 in einen Trogl sind. Item 31 Pelzer in einen Trögl auch 1 Rosmarin Stock so titl. Herr Decan für seine Bemühung über <hi rend="strikethrough">auferlangt</hi> lassen worden, und wurden jedoch auf 6 f beschetzt.</cell>
+                     </note> Näglstöck mit die Geschir wovon 4 in einen Trogl sind. Item 31 Pelzer in einen Trögl auch 1 Rosmarin Stock so titl. Herr Decan für seine Bemühung<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>auferlangt. <hi rend="italic" xml:space="preserve">Rest des Eintrags nachträglich geschrieben.</hi></p></note> überlassen worden, und wurden jedoch auf 6 f beschetzt.</cell>
                   <cell/>
                </row>
                <row>
@@ -1114,26 +1111,26 @@
                </row>
                <row>
                   <cell/>
-                  <cell>6 detto Lamweter à 18 x</cell>
+                  <cell>6 detto Lamweter à 8 x</cell>
                   <cell>48 x</cell>
                </row>
                <row>
                   <cell/>
-                  <cell>1 Trögl dike detto Pelzer</cell>
+                  <cell>1 Trögl Dike detto Pelzer</cell>
                   <cell>30 x</cell>
                </row>
                <row>
                   <cell/>
-                  <cell>1 groser Jenester Stock</cell>
+                  <cell>1 groser Irnester Stock</cell>
                   <cell>24 x</cell>
                </row>
                <row>
                   <cell/>
-                  <cell>1 Stock Spanische Feigen</cell>
+                  <cell>1 Stock Spanischer Feigen</cell>
                   <cell>4 x</cell>
                </row>
             </table>
-            <p>In <hi rend="bold">Büecher Zimer</hi>
+            <p>In <bibl>Büecher Zimer</bibl>
             </p>
             <table rend="rules">
                <row>
@@ -1168,7 +1165,7 @@
                <row>
                   <cell/>
                   <cell>[Latus]</cell>
-                  <cell>12 f 42 x</cell>
+                  <cell>12 [f] 42 [x]</cell>
                </row>
             </table>
             <p>
@@ -1242,7 +1239,7 @@
                </row>
                <row>
                   <cell>
-                     <hi rend="strikethrough">1 f</hi> 42 x</cell>
+                     42<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Davor gestrichen </hi>1 [f].</p></note> x</cell>
                   <cell>1 Herz Jesu Bild</cell>
                   <cell>10 x</cell>
                </row>
@@ -1263,7 +1260,7 @@
                   <cell>48 x</cell>
                   <cell>2 halbe<note>
                         <p rend="footnote text">
-                           <hi rend="italic">Über der Zeile nachgetragen.</hi>
+                           <hi rend="italic">Über der Zeile geschrieben.</hi>
                         </p>
                      </note> runde Tischlen</cell>
                   <cell>24 x</cell>
@@ -1271,7 +1268,7 @@
                <row>
                   <cell/>
                   <cell>[Latus]</cell>
-                  <cell>6 f 40 x<note>
+                  <cell>6 [f] 40 [x]<note>
                         <p rend="footnote text">
                            <hi rend="italic">Betrag stimmt nicht, sollte</hi> 6 f 20 x<hi rend="italic" xml:space="preserve"> sein.</hi>
                         </p>
@@ -1345,34 +1342,28 @@
             <p>Auf den Saal</p>
             <table rend="rules">
                <row>
-                  <cell/>
                   <cell>4 grose Landschaften à 18 x</cell>
                   <cell>1 f 12 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>11 kleine Teses à 2 x</cell>
                   <cell>22 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>1 kleines Landschaftl</cell>
                   <cell>6 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>1 Nacht Stuel</cell>
                   <cell>12 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>1 Span Bethstadt</cell>
                   <cell>18 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>[Latus]</cell>
-                  <cell>5 f 53 x</cell>
+                  <cell>5 [f] 53 [x]</cell>
                </row>
             </table>
             <p>
@@ -1380,42 +1371,34 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell/>
                   <cell>2 Nudl Bröter und 1 Tribl</cell>
                   <cell>4 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>1 Welbroth und 2 Schrägen, ein gröse und 1 kleinerer Bachmitte</cell>
                   <cell>20 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>1 Dör und 7 körzen Brötlen</cell>
                   <cell>10 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>6 holzene Teller</cell>
                   <cell>6 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>1 Sägemehl Tath, 1 Korn und 1 Mehl Scheifele</cell>
                   <cell>9 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>2 Wein Pippen, 1 Tropfschäfl, 1 holzener Trüchter 1 Patzeide</cell>
                   <cell>20 x</cell>
                </row>
                <row>
-                  <cell/>
-                  <cell>2 Hüner <hi rend="strikethrough">und</hi> Steigen</cell>
+                  <cell>2 Hüner<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>und.</p></note> Steigen</cell>
                   <cell>6 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>2<note>
                         <p rend="footnote text">
                            <hi rend="italic">Korrigiert aus</hi> 3.</p>
@@ -1423,49 +1406,40 @@
                   <cell>21 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>3 schlechte Kistlen</cell>
                   <cell>9 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>3 Sagemehl Tadlen</cell>
                   <cell>3 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>2 Spin Röder, 2 Garn Häspl</cell>
                   <cell>45 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>1 Schlifstein mit hölzen Werbl</cell>
                   <cell>4 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>1 kleiners und 1 grösers Essen Brötl, 1 Kopf Ridl</cell>
                   <cell>9 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>1 Weisath Korb</cell>
                   <cell>4 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>2 Stüel mit Löder überzogen</cell>
                   <cell>16 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>3 Fürbanck</cell>
                   <cell>9 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>[Latus]</cell>
-                  <cell>3 f 15 x</cell>
+                  <cell>3 [f] 15 [x]</cell>
                </row>
             </table>
             <p>
@@ -1473,57 +1447,46 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell/>
                   <cell>2 runde und 1 andere Brodram</cell>
                   <cell>12 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>1 Mehl Trüchele mit 6 Klester</cell>
                   <cell>18 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>2 Garten Schaufl à 7 x</cell>
                   <cell>14 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>1 Fleischbeil</cell>
                   <cell>10 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>1 Klieb Hacke</cell>
                   <cell>6 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>1 Pikl, und 1 Kräl</cell>
                   <cell>5 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>1 eisenes Gluet Pfändl</cell>
                   <cell>6 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>1 kupferener Sechtkössl wögt 18¼ Pfund à 24 x</cell>
                   <cell>7 f 18 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>6 grössere und kleinere Blumen Stöck Stopfleyen à 6 x</cell>
                   <cell>36 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>15 Pfund Rinder Har</cell>
                   <cell>15 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>2<note>
                         <p rend="footnote text">
                            <hi rend="italic">Korrigiert aus</hi> 1.</p>
@@ -1531,12 +1494,10 @@
                   <cell>12 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>1 Laiter</cell>
                   <cell>6 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>Fleken v.<note>
                         <p rend="footnote text">
                            <hi rend="italic">Nachträglich links eingefügt.</hi>
@@ -1547,7 +1508,6 @@
                   <cell>12 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>66 Garten Luck Geschirlen</cell>
                   <cell>30 x</cell>
                </row>
@@ -1555,24 +1515,20 @@
             <p>In der Häuserin Zimer</p>
             <table rend="rules">
                <row>
-                  <cell/>
                   <cell>1 schlechten Tisch</cell>
                   <cell>6 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>7 kleine Täfelen mit Glöser</cell>
                   <cell>14 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>1 Teses</cell>
                   <cell>2 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>[Latus]</cell>
-                  <cell>10 f 42 x</cell>
+                  <cell>10 [f] 42 [x]</cell>
                </row>
             </table>
             <p>
@@ -1580,7 +1536,6 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell/>
                   <cell>1 Maria Hilf und Antoni Bild à 4 x</cell>
                   <cell>8 x</cell>
                </row>
@@ -1588,57 +1543,46 @@
             <p>In der Kuchl</p>
             <table rend="rules">
                <row>
-                  <cell/>
                   <cell>1 Herd Pfanknecht, 1 Feüer Hund 1 Feüer Kluppe</cell>
                   <cell>30 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>1 Eisen Stange et 1 Tisch Pfanknecht</cell>
                   <cell>12 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>1 Eisen Thürl zum Bachöfele</cell>
                   <cell>30 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>5 grössere und kleinere Eisen Pfändlen</cell>
                   <cell>24 x</cell>
                </row>
                <row>
-                  <cell/>
-                  <cell>1 eisene Wasser- 1 Dirchling Köll, 1 Mueser, 1 Ribeisen, ein Raifmesser, 1 Gewirtz Bix</cell>
+                  <cell>1 eisene Wasser- 1 Dirchling Köll, 1 Mueser, 1 Ribeisen, ein Raifmesser, 1 Gewirtz Bixen</cell>
                   <cell>18 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>3 erdene blaue Schüselen, 2 detto Teller</cell>
                   <cell>5 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>5 detto grösere Schüselen</cell>
                   <cell>10 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>5 grössere und 6 kleinere erdene Hafen</cell>
                   <cell>22 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>1 eisenen Drey Fus Kössl</cell>
                   <cell>1 f 0 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>2 Offen Gabl</cell>
                   <cell>4 x</cell>
                </row>
                <row>
-                  <cell/>
                   <cell>1 kleins kupfere Kösele von 5½ Pfund à 24 x</cell>
                   <cell>2 f 12 x</cell>
                </row>
@@ -1646,9 +1590,8 @@
             <p>In den Gwölben</p>
             <table rend="rules">
                <row>
-                  <cell/>
                   <cell>[Latus]</cell>
-                  <cell>5 f 55 x</cell>
+                  <cell>5 [f] 55 [x]</cell>
                </row>
             </table>
             <p>
@@ -1656,7 +1599,6 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell/>
                   <cell>1 Brod Grambl, 2 Tädlen und 2 Kistlen</cell>
                   <cell>9 x</cell>
                </row>
@@ -1670,12 +1612,7 @@
                </row>
                <row>
                   <cell/>
-                  <cell>Darinen</cell>
-                  <cell/>
-               </row>
-               <row>
-                  <cell/>
-                  <cell>Etwas wenig Schmalz, 4 Baar Bradwürst, und 1 kleines Stückl Speck pr Bht</cell>
+                  <cell>Darinen etwas wenig Schmalz, 4 Baar Bradwürst, und 1 kleines Stückl Speck pr Bht</cell>
                   <cell/>
                </row>
                <row>
@@ -1726,7 +1663,7 @@
                <row>
                   <cell/>
                   <cell>[Latus]</cell>
-                  <cell>2 f 41 x</cell>
+                  <cell>2 [f] 41 [x]</cell>
                </row>
             </table>
             <p>
@@ -1744,7 +1681,7 @@
                   <cell>8 x</cell>
                </row>
                <row>
-                  <cell>Häuser 7 x</cell>
+                  <cell>Häuser<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gemeint ist wohl die Häuserin <rs type="person" ref="#burger_gertraud">Gertraud Burgerin</rs>.</hi></p></note> 7 x</cell>
                   <cell>1 Brod Schissler, 2 Rechen</cell>
                   <cell>5 x</cell>
                </row>
@@ -1818,7 +1755,7 @@
                <row>
                   <cell/>
                   <cell>[Latus]</cell>
-                  <cell>14 f 57 x</cell>
+                  <cell>14 [f] 57 [x]</cell>
                </row>
             </table>
             <p>
@@ -1834,7 +1771,7 @@
             <table rend="rules">
                <row>
                   <cell>Summa der Inventur, sovielen Auswurf hat, und mit jenen Sachen, so Herr Ableiber dem Gottshaus zu Dietenheim vermacht, und hievor ad marginem mit 130 f 30 x in Anschlag gebracht worden</cell>
-                  <cell>456 f 42 x<note>
+                  <cell>[456 f 42 x]<note>
                         <p rend="footnote text">
                            <hi rend="italic">Nebenrechnung am linken Rand:</hi> 326 f 12 [x] + 130 [f] 30 [x] = 456 [f] 42[x].</p>
                      </note>
@@ -1860,7 +1797,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Sondann sind verhanden <hi rend="strikethrough">folgende</hi> an <hi rend="bold">Bücher</hi> laut Zulage Lit. A. die zusamen in Summe betragen</cell>
+                  <cell>Sondann sind verhanden<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>folgende.</p></note> an <bibl>Bücher</bibl> laut Zulage Lit. A. die zusamen in Summe betragen</cell>
                   <cell>190 f 18½ x</cell>
                </row>
             </table>
@@ -1892,12 +1829,12 @@
             <table rend="rules">
                <row>
                   <cell>
-                            <rs type="person" ref="#renzler_maria">Maria Renzlerin Verwittwe Mitterhoferin</rs> Mayrin zu Grastain zu <rs type="place" ref="#st_martin">St. Martin</rs> ist laut Privat Schuld Schein de dato <rs type="place" ref="#st_lorenzen">St. Laurenzen</rs> <date when="1789-01-06">6ten Janner 1789</date> schuldig Kapital</cell>
+                            <rs type="person" ref="#renzler_maria">Maria Renzlerin verwittwe Mitterhoferin Mayrin zu Grastain</rs> zu <rs type="place" ref="#st_martin">St. Martin</rs> ist laut Privat Schuld Schein de dato <rs type="place" ref="#st_lorenzen">St. Laurenzen</rs> <date when="1789-01-06">6ten Janner 1789</date> schuldig Kapital</cell>
                   <cell>100 f 0 x</cell>
                </row>
                <row>
                   <cell>[Latus]</cell>
-                  <cell>978 f 6½ x</cell>
+                  <cell>978 [f] 6½ [x]</cell>
                </row>
             </table>
             <p>
@@ -1909,23 +1846,18 @@
             <table rend="rules">
                <row>
                   <cell>Und zwar an unveranderlichen Geldzinsen</cell>
-                  <cell>17 f 32¼ x<note>
-                        <p rend="footnote text">
-                           <hi rend="italic" xml:space="preserve">Erste </hi>1<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>8<hi rend="italic" xml:space="preserve">, </hi>32<hi rend="italic" xml:space="preserve"> über der Zeile von gestrichenem </hi>44<hi rend="italic" xml:space="preserve"> geschrieben.</hi>
-                        </p>
-                     </note>
-                  </cell>
+                  <cell>17 f 32¼ [x]<note><p rend="footnote text"><hi rend="italic" xml:space="preserve">Erste </hi>1<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>8<hi rend="italic" xml:space="preserve">, </hi>32<hi rend="italic" xml:space="preserve"> über der Zeile geschrieben statt gestrichenem </hi>44.</p></note></cell>
                </row>
                <row>
                   <cell>
                      <p>An detto Grund Naturalzinsen als</p>
-                     <p>Weizen 7 Stär</p>
-                     <p>Roggen 103½ Stär</p>
-                     <p>Gersten 53½ Stär</p>
-                     <p>Haber 1 Stär</p>
+                     <p>Weizen 7 Stär<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Durch geschwungene Klammer auf diesen und die nächsten drei Einträge bezogen.</hi></p></note></p>
+                     <p>Roggen 103½ [Stär]</p>
+                     <p>Gersten 53½ [Stär]</p>
+                     <p>Haber 1 [Stär]</p>
                      <p>Thuet in Geld</p>
                   </cell>
-                  <cell>228 f 48 x</cell>
+                  <cell>228 [f] 48 x</cell>
                </row>
                <row>
                   <cell>
@@ -1947,29 +1879,24 @@
                      <p>10 Schweinschultern</p>
                      <p>Betragt in Geld</p>
                   </cell>
-                  <cell>9 f 12 x</cell>
+                  <cell>9 f 12 [x]</cell>
                </row>
                <row>
                   <cell>Entlich hat Herr Ableiber zufolge hoher Gubernial Verordnung von Jahr 1788 wegen vorher von einem loblichen Sttift genossnen Natural Abgaben an Wein, Unschlit, Mahlzeit Geldern, und Jahrtägen eine Vergütung in baaren Geld erhalten mit jahrlichen</cell>
                   <cell>78<note>
                         <p rend="footnote text"> 8 <hi rend="italic">korrigiert aus</hi> 6.</p>
-                     </note> f 42 x</cell>
+                     </note> f 42 [x]</cell>
                </row>
             </table>
             <p>An Bachtzins von Haus und Gütteren</p>
             <table rend="rules">
                <row>
-                  <cell>Titl. Herr Kreis Schul Komisär <rs type="person" ref="#von_batig_">v. Batig</rs> ist wegen genossnen Kapplanei Haus zu <rs type="place" ref="#st_martin">St. Martin</rs> an Mietzins Ratum herein und zwar von bis zum Todt von ganzen Jahr 33 f, <note>
-                        <p rend="footnote text">
-                           <hi rend="superscript">-39</hi>
-                           <hi rend="italic">Von anderer Hand geschrieben.</hi>
-                        </p>
-                     </note>so aber ganz bezahlet und unter die Baarschaft befindlich seyn solle<hi rend="superscript">39</hi>
-                  </cell>
+                  <cell>Titl. Herr Kreis Schul Komisär <rs type="person" ref="#von_batig_">v. Batig</rs> ist wegen genossnen Kapplanei Haus zu <rs type="place" ref="#st_martin">St. Martin</rs> an Mietzins Ratum herein und zwar von bis zum Todt von ganzen Jahr 33 f, so aber ganz bezahlet und unter die Baarschaft befindlich
+                  seyn solle.<note><p rend="footnote text"> so aber ganz bezahlet und unter die Baarschaft befindlich seyn solle<hi rend="italic" xml:space="preserve"> von anderer Hand nachgetragen.</hi></p></note></cell>
                   <cell/>
                </row>
                <row>
-                  <cell>Der Mayrhof Innerhofer zu <rs type="place" ref="#gasteig">Gasteig</rs> zu <rs type="place" ref="#st_martin">St. Martin</rs> ist nun willen des ihm zum</cell>
+                  <cell>Der Mayrhof Innenhaber zu <rs type="place" ref="#gasteig">Gasteig</rs> zu <rs type="place" ref="#st_martin">St. Martin</rs> ist nun willen des ihm zum</cell>
                   <cell/>
                </row>
             </table>
@@ -1982,22 +1909,19 @@
                   <cell>76 f 0 x</cell>
                </row>
                <row>
-                  <cell>Der Tschan Miller in <rs type="place" ref="#pflaurenz">Pflaurenz</rs> giebt wegen des zum Bstand innen habenden Rein Acker ob der Ree Leite jahrlich Bstand Zins</cell>
+                  <cell>Der Tschan Miller in <rs type="place" ref="#pflaurenz">Pflaurenz</rs> giebt wegen des zum Bstand innen habenden Reinacker ob der Ren Leite jahrlich Bstand Zins</cell>
                   <cell>22 f 0 x</cell>
                </row>
                <row>
-                  <cell>
-                            <rs type="person" ref="#planer_johann">Johann Planer</rs> Auer Miller in <rs type="place" ref="#muehlbach">Mihlbächl</rs> zahlt an detto wegen zum Bstand innenhabenden Ackers ausser den Portenhof</cell>
+                  <cell><rs type="person" ref="#planer_johann">Johann Planer</rs> Auer Miller in <rs type="place" ref="#muehlbach">Mihlbächl</rs> zahlt an detto wegen zum Bstand innenhabenden Ackers ausser den Portenhof</cell>
                   <cell>10 f 0 x</cell>
                </row>
                <row>
-                  <cell>
-                            <rs type="person" ref="#hueber_johann">Johann Hueber</rs> Jorglmihler in <rs type="place" ref="#muehlbach">Mihlbächl</rs> zahlt an detto wegen eines Ackers zu Stöcklstain</cell>
+                  <cell><rs type="person" ref="#hueber_johann">Johann Hueber</rs> Jorglmihler in <rs type="place" ref="#muehlbach">Mihlbächl</rs> zahlt an detto wegen eines Ackers zu Stöcklstain</cell>
                   <cell>18 f 0 x</cell>
                </row>
                <row>
-                  <cell>
-                            <rs type="person" ref="#niedermayr_joseph">Joseph Niedermayr</rs> Pichler zu <rs type="place" ref="#stephansdorf">Stephansdorf</rs> zahlt an detto um willen <hi rend="strikethrough">f</hi> 4 Äcker wovon 2 auf der Speken, 1ner auf den Bruna Moos und einer bey der Auslueger Weyde das Schäufele genant.</cell>
+                  <cell><rs type="person" ref="#niedermayr_joseph">Joseph Niedermayr</rs> Pichler zu <rs type="place" ref="#stephansdorf">Stephansdorf</rs> zahlt an detto um willen<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>f-.</p></note> 4 Äcker wovon 2 auf der Speken, 1ner auf den Bruna Moos und einer bey der Auslueger Weyde das Schäufele genant.</cell>
                   <cell>35 f 38 x</cell>
                </row>
             </table>
@@ -2010,12 +1934,11 @@
                   <cell>11 f 0 x</cell>
                </row>
                <row>
-                  <cell>Der Ober Kirchsteiger zu <rs type="place" ref="#moos">Moos</rs> reichet ab für 2 Acker auf der Spöken</cell>
+                  <cell>Der Oberkirchsteiger zu <rs type="place" ref="#moos">Moos</rs> reichet ab für 2 Acker auf der Spöken</cell>
                   <cell>15 f 0 x</cell>
                </row>
                <row>
-                  <cell>
-                            <rs type="person" ref="#lechner_johann">Johann Lechner</rs> Wolleschlager daselbs von einen Angerl nächst der Kirche bey <rs type="place" ref="#st_martin">St. Martin</rs> und das Ängerl bey dem Beneficiaten Haus</cell>
+                  <cell><rs type="person" ref="#lechner_johann">Johann Lechner</rs> Wolleschlager daselbs von einen Angerl nächst der Kirche bey <rs type="place" ref="#st_martin">St. Martin</rs> und das Ängerl bey dem Beneficiaten Haus</cell>
                   <cell>28 f 0 x</cell>
                </row>
             </table>
@@ -2028,7 +1951,7 @@
             <p>
                <pb n="228v"/>
             </p>
-            <p>stälten Kurator <rs type="person" ref="#strasser_johan">Strasser</rs> zur getreyen, und richtigen Betreibung gegen deme übergeben, das solche seiner Zeit getreylich dem Universal Erb verrechnet, und sodann zum Vermögen refundieret werden, worauf auch die Posten von dem Köfelegut zu <rs type="place" ref="#st_martin">St. Martin</rs> in <rs type="place" ref="#muehlbach">Mihlbächl</rs>, und zwar von dem dermaligen Häuslerischen Eheleithen daselbs mit jährlich betrofenden 3 Stär Roggen einschlüsslich von Jahr 1787 (von welcher Zeit der jetztige Häusler <rs type="person" ref="#mutschlechner_johann">Johann Mutschlechner</rs> nicht mehr bezahlet) begrifen ist; welche Posten vielmehr titl. Herr <rs type="person" ref="#von_gall_">v. Gall</rs> in <rs type="place" ref="#brunegg">Brunegg</rs> zu bezahlen die Verbündlichkeit haben därfte, weil urspringlich dieser Abgabe an das Stift Soneburg auf wohlselben beruhete, und erst in der Zeitfolge von wohl selben einem jeweiligen Köfeler in <rs type="place" ref="#muehlbach">Mihlbächl</rs> gegen Geschweigung wohl seines zu beziehenden Grundtzinses dieser Abgabe an das Stift mitlst mündlichen, oder stilschweigenden Einverständnus auferladen wurde, westwegen diese, und</p>
+            <p>stälten Kurator <rs type="person" ref="#strasser_johan">Strasser</rs> zur getreyen, und richtigen Betreibung gegen deme übergeben, das solche seiner Zeit getreylich dem Universal Erb verrechnet, und sodann zum Vermögen refundieret werden, worunter auch die Posten von dem Köfelegut zu <rs type="place" ref="#st_martin">St. Martin</rs> in <rs type="place" ref="#muehlbach">Mihlbächl</rs>, und zwar von dem dermaligen Häuslerischen Eheleithen daselbs mit jährlich betrofenden 3 Stär Roggen einschlüsslich von Jahr 1787 (von welcher Zeit der jetztige Häusler <rs type="person" ref="#mutschlechner_johann">Johann Mutschlechner</rs> nicht mehr bezahlet) begrifen ist; welche Posten vielmehr titl. Herr <rs type="person" ref="#von_gall_">v. Gall</rs> in <rs type="place" ref="#brunegg">Brunegg</rs> zu bezahlen die Verbündlichkeit haben därfte, weil urspringlich diese Abgabe an das Stift Soneburg auf wohlselben beruhete, und erst in der Zeitfolge von wohl selben einem jeweiligen Köfeler in <rs type="place" ref="#muehlbach">Mihlbächl</rs> gegen Geschweigung wohl seines zu beziehenden Grundtzinses diese Abgabe an das Stift mitlst mündlichen, oder stilschweigenden Einverständnus auferladen wurde, westwegen diese, und</p>
             <p>
                <pb n="229r"/>
             </p>
@@ -2036,7 +1959,7 @@
             <table rend="rules">
                <row>
                   <cell>Summarum des ganz und völligen Vermögens</cell>
-                  <cell>1520 f 6½ x</cell>
+                  <cell>1520 [f] 6½ [x]</cell>
                </row>
             </table>
             <p>Es zeiget die Häuserin am dato auch an, das noch in die Beschreibung zukomen</p>
@@ -2049,6 +1972,9 @@
             <p>
                <pb n="229v"/>
             </p>
+
+<!-- stopped here -->
+
             <p>Abzüge und Schulden hinaus</p>
             <p>In Nachgang des ob angefiehrten Testaments, welches bereits behörig erwitteret wurde, komen auf legata pia et profana nachstehende Vermögens Abzüge ein.</p>
             <table rend="rules">
