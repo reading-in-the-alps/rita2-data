@@ -1456,15 +1456,12 @@
                      <cell/>
                      <cell/>
                   </row>
-
-<!-- stopped here 1140412 -->
-
                   <row>
                      <cell>158</cell>
                      <cell>1 Maria Tafl von guten Rath</cell>
                      <cell>Stegerwürth<note>
                            <p rend="footnote text">
-                              <hi rend="italic">Zweites -</hi>r-<hi rend="italic" xml:space="preserve"> über der Zeile eingefügt.</hi>
+                              <hi rend="italic">Zweites </hi>-r-<hi rend="italic" xml:space="preserve"> über der Zeile eingefügt.</hi>
                            </p>
                         </note> dt.</cell>
                      <cell>12 x</cell>
@@ -1486,8 +1483,8 @@
                   </row>
                   <row>
                      <cell>161</cell>
-                     <cell>3 unterschiedliche Töcken ein gewögltes Tischtuech 1 Leilach und 1 Stolln Tiechl</cell>
-                     <cell>Golser Mertl dt.</cell>
+                     <cell>3 unterschiedliche Töcken ein gewögltes Tischtuech 1 harbenes<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile eingefügt.</hi></p></note> Leilach und 1 Stolln Tiechl</cell>
+                     <cell>Golser Martl dt.</cell>
                      <cell>1 f 12 x</cell>
                      <cell>3 f 6 x</cell>
                   </row>
@@ -1522,8 +1519,7 @@
                   <row>
                      <cell>166</cell>
                      <cell>4 silberfarb angestrichene Stüel</cell>
-                     <cell>
-                                <rs type="person" ref="#tinkhauser_theresia">Theresia Tinkhauserin</rs> dt.</cell>
+                     <cell><rs type="person" ref="#tinkhauser_theresia">Theresia Tinkhauserin</rs> dt.</cell>
                      <cell>40 x</cell>
                      <cell>1 f 24 x</cell>
                   </row>
@@ -1544,23 +1540,14 @@
                   <row>
                      <cell>169</cell>
                      <cell>1 silber farb angestrichenes Pethstülele</cell>
-                     <cell>
-                        <hi rend="strikethrough">die N</hi> die Nest</cell>
-                     <cell>24<note>
-                           <p rend="footnote text"> 4 <hi rend="italic">korrigiert aus</hi> 2.</p>
-                        </note> x</cell>
+                     <cell>die Nest<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Darüber gestrichen </hi>die N-.</p></note></cell>
+                     <cell>24<note><p rend="footnote text"> 4 <hi rend="italic">korrigiert aus</hi> 2.</p></note> x</cell>
                      <cell/>
                   </row>
                   <row>
                      <cell>170</cell>
                      <cell>1 roth angestrichene Gewanth Truhen</cell>
-                     <cell>
-                                <rs type="person" ref="#pergmann_jakob">Jakob Pergnan</rs>
-                                <note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Irrig für</hi> Pergmann.</p>
-                        </note>
-                     </cell>
+                     <cell><rs type="person" ref="#pergmann_jakob">Jakob Pergnan</rs><note><p rend="footnote text"><hi rend="italic">Irrig für</hi> Pergmann.</p></note></cell>
                      <cell>24 x</cell>
                      <cell>44 x</cell>
                   </row>
@@ -1578,54 +1565,29 @@
                   </row>
                   <row>
                      <cell>171</cell>
-                     <cell>Pfundt<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Davor angefangenes</hi> P- <hi rend="italic">gestrichen.</hi>
-                           </p>
-                        </note> Har Reisten</cell>
-                     <cell>
-                        <hi rend="strikethrough">Herr Unterweger</hi>
-                     </cell>
+                     <cell>Pfundt<note><p rend="footnote text"><hi rend="italic">Davor vermutlich</hi> P- <hi rend="italic">begonnen und gestrichen.</hi></p></note> Har Reisten</cell>
+                     <cell><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gestrichen </hi>Herr Unterweger.</p></note></cell>
                      <cell/>
-                     <cell>
-                        <hi rend="strikethrough">54 x</hi>
-                     </cell>
+                     <cell><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gestrichen </hi>54 x.</p></note></cell>
                   </row>
                   <row>
                      <cell>172</cell>
                      <cell>31 Spueln darauf 19 Pf. harbenes Gadn a 45 x</cell>
-                     <cell>
-                        <p>
-                                    <rs type="person" ref="#tinkhauser_theresia">Theresia Tinkhauserin</rs> dt.</p>
-                        <p>
-                           <hi rend="strikethrough">Herr Unterweger</hi>
-                        </p>
-                     </cell>
+                     <cell><rs type="person" ref="#tinkhauser_theresia">Theresia Tinkhauserin</rs><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile geschrieben statt gestrichenem </hi>Herr Unterweger.</p></note> dt.</cell>
                      <cell>14 f 15 x</cell>
-                     <cell>
-                        <p>11 f 15 x</p>
-                        <p>
-                           <hi rend="strikethrough">54 x</hi>
-                        </p>
-                     </cell>
+                     <cell>11 f 15 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Betrag über der Zeile geschrieben statt gestrichenem </hi>54 x.</p></note></cell>
                   </row>
                   <row>
                      <cell>173</cell>
                      <cell>1¾ Pfundt Har Reisten a 24 x</cell>
                      <cell>Herr Unterweger</cell>
-                     <cell>40 x<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Betrag stimmt nicht, wäre 42 x.</hi>
-                           </p>
-                        </note>
-                     </cell>
+                     <cell>40 x<note><p rend="footnote text"><hi rend="italic">Betrag stimmt nicht, wäre 42 x.</hi></p></note></cell>
                      <cell>54 x</cell>
                   </row>
                   <row>
                      <cell>174</cell>
                      <cell>2 Stren Zwirn 2 Stren Garn 1 Strenn Tacht wögt</cell>
-                     <cell>
-                                <rs type="person" ref="#primus_joseph">Joseph Primus</rs> dt.</cell>
+                     <cell><rs type="person" ref="#primus_joseph">Joseph Primus</rs> dt.</cell>
                      <cell>1 f 12 x</cell>
                      <cell>1 f 50 x</cell>
                   </row>
@@ -1673,10 +1635,7 @@
                   </row>
                   <row>
                      <cell>180</cell>
-                     <cell>2<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Korrigiert aus</hi> 3.</p>
-                        </note> Korn Sack, und 1 Mehl Palgl</cell>
+                     <cell>2<note><p rend="footnote text"><hi rend="italic">Korrigiert aus</hi> 3.</p></note> Korn Sack, und 1 Mehl Palgl</cell>
                      <cell>Pruggnaller</cell>
                      <cell>42 x</cell>
                      <cell>36 x</cell>
@@ -1690,10 +1649,8 @@
                   </row>
                   <row>
                      <cell>182</cell>
-                     <cell>1 Schreibbuld</cell>
-                     <cell>
-                                <rs type="person" ref="#primus_jakob">Jakob Primus</rs>
-                            </cell>
+                     <cell>1 <bibl>Schreibbuld</bibl></cell>
+                     <cell><rs type="person" ref="#primus_jakob">Jakob Primus</rs></cell>
                      <cell>20 x</cell>
                      <cell>30 x</cell>
                   </row>
@@ -1706,9 +1663,8 @@
                   </row>
                   <row>
                      <cell>183</cell>
-                     <cell>1 blechener Schreibzeüg 1 blechenes Lutherl</cell>
-                     <cell>
-                                <rs type="person" ref="#primus_jakob">Jakob Primus</rs> dt.</cell>
+                     <cell>1 blechener <bibl>Schreibzeüg</bibl> 1 blechenes Lutherl</cell>
+                     <cell><rs type="person" ref="#primus_jakob">Jakob Primus</rs> dt.</cell>
                      <cell>12 x</cell>
                      <cell>9 x</cell>
                   </row>
@@ -1725,7 +1681,11 @@
                      <cell/>
                   </row>
                   <row>
-                     <cell cols="5">In Jäger Stübele</cell>
+                     <cell/>
+                     <cell>In Jäger Stübele</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
                   </row>
                   <row>
                      <cell>184</cell>
@@ -1758,19 +1718,14 @@
                   <row>
                      <cell>187</cell>
                      <cell>1 Überböth mit innern Kitzer Fehlen und auser blau köllischen Ziechen samt 1 Bolster so mit innern Zwilch und ausern gelben getruckten Ziechen auch 1 Kis mit innern kitzfehlenen und ausern weis harbenen Ziechen wögt 21 Pfundt a 24 x</cell>
-                     <cell>
-                                <rs type="person" ref="#pergmann_jakob">Jakob Pergmann</rs> dt.</cell>
+                     <cell><rs type="person" ref="#pergmann_jakob">Jakob Pergmann</rs> dt.</cell>
                      <cell>8 f 24 x</cell>
-                     <cell>12 f 36<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Korrigiert aus</hi> 12.</p>
-                        </note> x</cell>
+                     <cell>12 f 36<note><p rend="footnote text"><hi rend="italic">Korrigiert aus</hi> 12.</p></note> x</cell>
                   </row>
                   <row>
                      <cell>188</cell>
                      <cell>1 grienes Böthstatl</cell>
-                     <cell>
-                        <hi rend="strikethrough">Ja</hi> dt.</cell>
+                     <cell>dt.<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Davor gestrichen </hi>Ja-.</p></note></cell>
                      <cell>12 x</cell>
                      <cell/>
                   </row>
@@ -1783,9 +1738,7 @@
                   </row>
                   <row>
                      <cell>189</cell>
-                     <cell>
-                        <hi rend="strikethrough">1 Strohsack sammt den Polster</hi>
-                     </cell>
+                     <cell><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gestrichen </hi>1 Strohsack sammt den Polster.</p></note></cell>
                      <cell/>
                      <cell>10 x</cell>
                      <cell/>
@@ -1793,8 +1746,7 @@
                   <row>
                      <cell>190</cell>
                      <cell>1 Überboth sammt der Polster und 1 Kis mit innern Parchet und ausern köllnischen Ziechen wögt 20 Pfundt a 20 x</cell>
-                     <cell>
-                                <rs type="person" ref="#tinkhauser_theresia">Theresia Tinkhauserin</rs> dt.</cell>
+                     <cell><rs type="person" ref="#tinkhauser_theresia">Theresia Tinkhauserin</rs> dt.</cell>
                      <cell>6 f 40 x</cell>
                      <cell>15 f 48 x</cell>
                   </row>
@@ -1805,116 +1757,108 @@
                <table rend="rules">
                   <row>
                      <cell>No</cell>
-                     <cell cols="2"/>
+                     <cell/>
                      <cell>Nammen des Kaufers</cell>
                      <cell/>
                      <cell/>
                   </row>
                   <row>
                      <cell>191</cell>
-                     <cell cols="2">2 schlechte Englische Töcken</cell>
+                     <cell>2 schlechte Englische Töcken</cell>
                      <cell>Schrafl</cell>
                      <cell>24 x</cell>
                      <cell>42 x</cell>
                   </row>
                   <row>
                      <cell>192</cell>
-                     <cell cols="2">1 griener und 2 weise Fürhanglen</cell>
+                     <cell>1 griener und 2 weise Fürhanglen</cell>
                      <cell>Luck Peck dt.</cell>
                      <cell>18 x</cell>
-                     <cell>
-                        <hi rend="strikethrough">1 f</hi> 57 x</cell>
+                     <cell>57<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Davor gestrichen </hi>1 f.</p></note> x</cell>
                   </row>
                   <row>
                      <cell>193</cell>
-                     <cell cols="2">2 Taflen Heilige Dreyfaltigkeit und Heilige Antoni Tafl</cell>
+                     <cell>2 Taflen Heilige Dreyfaltigkeit und Heilige Antoni Tafl</cell>
                      <cell>Luck Beck dt.</cell>
                      <cell>18 x</cell>
                      <cell>1 f 13 x</cell>
                   </row>
                   <row>
                      <cell>194</cell>
-                     <cell cols="2">2 Blumen Stöck Taflen</cell>
-                     <cell>
-                                <rs type="person" ref="#pergmann_jakob">Jakob Pergmann</rs> dt.</cell>
+                     <cell>2 Blumen Stöck Taflen</cell>
+                     <cell><rs type="person" ref="#pergmann_jakob">Jakob Pergmann</rs> dt.</cell>
                      <cell>10 x</cell>
                      <cell>18 x</cell>
                   </row>
                   <row>
                      <cell>195</cell>
-                     <cell cols="2">1 Ecktze Hommo 1 Mutter Anna und 1 kleines Maria Tafele</cell>
+                     <cell>1 Ecktze Hommo 1 Mutter Anna und 1 kleines Maria Tafele</cell>
                      <cell/>
                      <cell>6 x</cell>
                      <cell/>
                   </row>
                   <row>
                      <cell>196</cell>
-                     <cell cols="2">1 Fexier Spiegl</cell>
-                     <cell>
-                                <rs type="person" ref="#pergmann_jakob">Jakob Pergmann</rs> dt.</cell>
+                     <cell>1 Fexier Spiegl</cell>
+                     <cell><rs type="person" ref="#pergmann_jakob">Jakob Pergmann</rs> dt.</cell>
                      <cell>10 x</cell>
                      <cell>36 x</cell>
                   </row>
                   <row>
                      <cell>197</cell>
-                     <cell cols="2">4 gefüterte Stüel a 12 x</cell>
+                     <cell>4 gefüterte Stüel a 12 x</cell>
                      <cell>Stegerwürth dt.</cell>
                      <cell>48 x</cell>
                      <cell>2 f 6 x</cell>
                   </row>
                   <row>
                      <cell>198</cell>
-                     <cell cols="2">2 halbrunde Tischlen</cell>
-                     <cell>
-                                <rs type="person" ref="#dam_franz">Franz Damm</rs> dt.</cell>
+                     <cell>2 halbrunde Tischlen</cell>
+                     <cell><rs type="person" ref="#dam_franz">Franz Damm</rs> dt.</cell>
                      <cell>30 x</cell>
                      <cell>1 f 36 x</cell>
                   </row>
                   <row>
                      <cell>199</cell>
-                     <cell cols="2">2 Katzen Tafen<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Irrig für</hi> Taflen.</p>
-                        </note>
-                     </cell>
+                     <cell>2 Katzen Tafen<note><p rend="footnote text"><hi rend="italic">Irrig für</hi> Taflen.</p></note></cell>
                      <cell/>
                      <cell>4 x</cell>
                      <cell/>
                   </row>
                   <row>
                      <cell>200</cell>
-                     <cell cols="2">1 gute Prodrahm</cell>
+                     <cell>1 gute Prodrahm</cell>
                      <cell>Häuserin dt.</cell>
                      <cell>24 x</cell>
                      <cell>24 x</cell>
                   </row>
                   <row>
-                     <cell cols="6">In sein Wahn Zimmer</cell>
+                     <cell/>
+                     <cell>In sein Wahn Zimmer</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
                   </row>
                   <row>
                      <cell>201</cell>
                      <cell>1 gelb angestrichenes Tischl</cell>
-                     <cell cols="2">Pruggnaller</cell>
+                     <cell>Pruggnaller</cell>
                      <cell>18 x</cell>
                      <cell>20 x</cell>
                   </row>
                   <row>
                      <cell>202</cell>
                      <cell>1 Fürpanck 1 gefieterter Lahn Stuel</cell>
-                     <cell cols="2">Pruggnaller</cell>
+                     <cell>Pruggnaller</cell>
                      <cell>12 x</cell>
                      <cell>12 x</cell>
                   </row>
                   <row>
                      <cell>203</cell>
                      <cell>1 aufgerrichtetes Maria Hilf Altarl</cell>
-                     <cell cols="2">Fleischstöflin</cell>
+                     <cell>Fleischstöflin</cell>
                      <cell>1 x</cell>
-                     <cell>5<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Korrigiert aus</hi> 4.</p>
-                        </note>
-                        <hi rend="strikethrough">54</hi> x</cell>
+                     <cell>5<note><p rend="footnote text"><hi rend="italic">Korrigiert aus</hi> 4. <hi rend="italic">Folgt gestrichen </hi>54.</p></note> x</cell>
                   </row>
                </table>
                <p>
@@ -1929,110 +1873,92 @@
                      <cell/>
                   </row>
                   <row>
-                     <cell>104<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Ab hier bis zum Ende des Versteigerungsprotokolls jeweils um 100 geringere Nummerierung der Posten.</hi>
-                           </p>
-                        </note>
-                     </cell>
+                     <cell>204<note><p rend="footnote text"><hi rend="italic">Ab diesem Eintrag bis zum Ende des Versteigerungsprotokolls erfolgt die Emendation der Postennummern: Im Original steht jeweils eine um 100 geringere Nummerierung der Posten.</hi></p></note></cell>
                      <cell>1 Heiliger Franziskus Pild</cell>
                      <cell>Pruggnaller</cell>
                      <cell>18 x</cell>
                      <cell>27 x</cell>
                   </row>
                   <row>
-                     <cell>105</cell>
-                     <cell>1 Komunion Tafl mit einer schwarz gepasten<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Gebeizt.</hi>
-                           </p>
-                        </note> Rohm und einer guldenen Leisten</cell>
+                     <cell>205</cell>
+                     <cell>1 Komunion Tafl mit einer schwarz gepasten<note><p rend="footnote text"><hi rend="italic"> Gemeint ist gebeizt.</hi></p></note> Rohm und einer guldenen Leisten</cell>
                      <cell>Herr Mosser dt.</cell>
                      <cell>45 x</cell>
                      <cell>1 f 12 x</cell>
                   </row>
                   <row>
-                     <cell>106</cell>
+                     <cell>206</cell>
                      <cell>2 Taflen Maria Geburt und Heiligen Drey Königen</cell>
                      <cell/>
                      <cell>12 x</cell>
                      <cell/>
                   </row>
                   <row>
-                     <cell>107<note>
-                           <p rend="footnote text"> 0 <hi rend="italic">korrigiert aus</hi> 7.</p>
-                        </note>
-                     </cell>
+                     <cell>207<note><p rend="footnote text"> 0 <hi rend="italic">korrigiert aus</hi> 7.</p></note></cell>
                      <cell>1 Markus Tafl Adam und Eva</cell>
                      <cell>Herr Hauptmann dt.</cell>
                      <cell>6 x</cell>
                      <cell>26 x</cell>
                   </row>
                   <row>
-                     <cell>108</cell>
+                     <cell>208</cell>
                      <cell>1 geschnitzltes Unser Herrn Bild</cell>
                      <cell>dt.</cell>
                      <cell>10 x</cell>
                      <cell>18 x</cell>
                   </row>
                   <row>
-                     <cell>109</cell>
+                     <cell>209</cell>
                      <cell>Bey etwas dreysig zerschiedene Taflen</cell>
-                     <cell>Herr Auricher dt.</cell>
+                     <cell>Herr Aurecher dt.</cell>
                      <cell>10 x</cell>
                      <cell>24 x</cell>
                   </row>
                   <row>
-                     <cell>110</cell>
-                     <cell>1 Spiegl mit schwarz gebasten Rohmen</cell>
+                     <cell>210</cell>
+                     <cell>1 Spiegl mit schwarz gebaisten Rohmen</cell>
                      <cell>Herr Hauptmann dt.</cell>
                      <cell>24 x</cell>
                      <cell>27 x</cell>
                   </row>
                   <row>
-                     <cell>111</cell>
-                     <cell>
-                        <hi rend="strikethrough">1 Sösl 1 hörtholzener</hi> Stuel</cell>
+                     <cell>211</cell>
+                     <cell>1<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Sösl 1 hörtholzener.</p></note> Stuel</cell>
                      <cell>Häuserin</cell>
                      <cell>36 x</cell>
-                     <cell>20 x<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Davor begonnene</hi> 2 <hi rend="italic">gestrichen.</hi>
-                           </p>
-                        </note>
-                     </cell>
+                     <cell>20<note><p rend="footnote text"><hi rend="italic">Davor begonnene</hi> 2 <hi rend="italic">gestrichen.</hi></p></note> x</cell>
                   </row>
                   <row>
-                     <cell>112</cell>
+                     <cell>212</cell>
                      <cell>5 Fürhang Stanglen</cell>
                      <cell>dt.</cell>
                      <cell>18 x</cell>
                      <cell/>
                   </row>
                   <row>
-                     <cell>113</cell>
+                     <cell>213</cell>
                      <cell>2 Körbisch</cell>
                      <cell/>
                      <cell>6 x</cell>
                      <cell/>
                   </row>
                   <row>
-                     <cell>114</cell>
+                     <cell>214</cell>
                      <cell>2 eisene Leichter</cell>
                      <cell>Primus dt.</cell>
                      <cell>8 x</cell>
                      <cell>9 x</cell>
                   </row>
                   <row>
-                     <cell>115</cell>
+                     <cell>215</cell>
                      <cell>1 Buld mit 15 Thatlen</cell>
                      <cell>Partele dt.</cell>
                      <cell>1 f 12 x</cell>
                      <cell>2 f 6 x</cell>
                   </row>
                   <row>
-                     <cell>116</cell>
-                     <cell>3 Petscharn</cell>
+                     <cell>216</cell>
+                     <cell>3 Putscharn</cell>
                      <cell>6 x</cell>
                      <cell/>
                      <cell/>
@@ -2044,124 +1970,107 @@
                <table rend="rules">
                   <row>
                      <cell>No</cell>
-                     <cell cols="2"/>
-                     <cell cols="2">Name des Kaufers</cell>
                      <cell/>
-                     <cell cols="2"/>
+                     <cell>Namen des Kaufers</cell>
+                     <cell/>
+                     <cell/>
                   </row>
                   <row>
-                     <cell>117</cell>
-                     <cell cols="2">
-                        <hi rend="bold">Die ganze Bücher Pibliteck worunter die Heilige Schrift in Folio sammt die 4 Previer</hi>
-                     </cell>
-                     <cell cols="2">Pergmann</cell>
+                     <cell>217</cell>
+                     <cell><bibl>Die ganze Bücher Pibliteck worunter die Heilige Schrift in Folio sammt die 4 Previer</bibl></cell>
+                     <cell>Pergmann</cell>
                      <cell>6 f 0 x</cell>
-                     <cell cols="2">dt. 7 f 6 x</cell>
+                     <cell>dt. 7 f 6 x</cell>
                   </row>
                   <row>
-                     <cell>118</cell>
-                     <cell cols="2">1 eiserner Tisch Pfann Knecht <hi rend="strikethrough">1 Feld Korb</hi>
-                     </cell>
-                     <cell cols="2">Herr Hauptmann</cell>
+                     <cell>218</cell>
+                     <cell>1 eiserner Tisch Pfann Knecht<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>1 Feldkorb.</p></note></cell>
+                     <cell>Herr Hauptmann</cell>
                      <cell>dt. 36 x</cell>
-                     <cell cols="2">18 x</cell>
+                     <cell>18 x</cell>
                   </row>
                   <row>
-                     <cell>119</cell>
-                     <cell cols="2">
-                        <hi rend="strikethrough">1 steinenes Schreib Tafele</hi>
-                     </cell>
-                     <cell cols="2"/>
-                     <cell>
-                        <hi rend="strikethrough">4 x</hi>
-                     </cell>
-                     <cell cols="2"/>
+                     <cell>219</cell>
+                     <cell><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gestrichen </hi>1 steinenes Schreib Tafele.</p></note></cell>
+                     <cell/>
+                     <cell><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gestrichen </hi>4 x.</p></note></cell>
+                     <cell/>
                   </row>
                   <row>
-                     <cell cols="8">In Stuben Kamerle</cell>
+                     <cell/>
+                     <cell>In Stuben Kamerle</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
                   </row>
                   <row>
-                     <cell>120</cell>
+                     <cell>220</cell>
                      <cell>1 roth angestrichener Tisch sammt einer Schublad</cell>
-                     <cell cols="2">Häuserin dt.</cell>
-                     <cell cols="3">18 x</cell>
+                     <cell>Häuserin dt.</cell>
+                     <cell>18 x</cell>
                      <cell>40 x</cell>
                   </row>
                   <row>
-                     <cell>121</cell>
-                     <cell>Silberfarbn Pöthstath</cell>
-                     <cell cols="2">Häuserin dt.</cell>
-                     <cell cols="3">24 x</cell>
+                     <cell>221</cell>
+                     <cell>Silberfarbe Pöthstath</cell>
+                     <cell>Häuserin dt.</cell>
+                     <cell>24 x</cell>
                      <cell>1 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>122</cell>
+                     <cell>222</cell>
                      <cell>1 groser nussfarber Gewannth Kasten mit Schloss und Panth</cell>
-                     <cell cols="2">Luck Beck dt.</cell>
-                     <cell cols="3">1 f 30 x</cell>
+                     <cell>Luck Beck dt.</cell>
+                     <cell>1 f 30 x</cell>
                      <cell>3 f 42 x</cell>
                   </row>
                   <row>
-                     <cell>123</cell>
+                     <cell>223</cell>
                      <cell>1 kleines Kastl</cell>
-                     <cell cols="2">Herr Hauptmann dt.</cell>
-                     <cell cols="3">20 x</cell>
+                     <cell>Herr Hauptmann dt.</cell>
+                     <cell>20 x</cell>
                      <cell>30 x</cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>Darinnen</cell>
-                     <cell cols="2"/>
-                     <cell cols="3"/>
+                     <cell/>
+                     <cell/>
                      <cell/>
                   </row>
                   <row>
-                     <cell>124</cell>
+                     <cell>224</cell>
                      <cell>2 Partmösser sammt die Sreich Löder</cell>
-                     <cell cols="2">Herr Hauptmann dt.</cell>
-                     <cell cols="3">8 x</cell>
+                     <cell>Herr Hauptmann dt.</cell>
+                     <cell>8 x</cell>
                      <cell>30 x</cell>
                   </row>
                   <row>
-                     <cell>125</cell>
+                     <cell>225</cell>
                      <cell>3 Gold Waglen</cell>
-                     <cell cols="2">Luck Beck</cell>
-                     <cell cols="3">dt. 1 f 12 x</cell>
+                     <cell>Luck Beck</cell>
+                     <cell>dt. 1 f 12 x</cell>
                      <cell>42 x</cell>
                   </row>
                   <row>
-                     <cell>126</cell>
+                     <cell>226</cell>
                      <cell>1 Mutter Gottes Bild</cell>
-                     <cell cols="2">
-                                <rs type="person" ref="#tinkhauser_theresia">Theresia Tinkauserin</rs> dt.</cell>
-                     <cell cols="3">
-                        <hi rend="strikethrough">6 f</hi> 6 x</cell>
+                     <cell><rs type="person" ref="#tinkhauser_theresia">Theresia Tinkauserin</rs> dt.</cell>
+                     <cell>6<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Davor in der Guldenspalte gestrichen </hi>6.</p></note> x</cell>
                      <cell>34 x</cell>
                   </row>
                   <row>
-                     <cell>127</cell>
+                     <cell>227</cell>
                      <cell>1 hörtholzener Kasten mit 21 Thatten</cell>
-                     <cell cols="2">Häussererin dt.</cell>
-                     <cell cols="3">8 f 0 x</cell>
+                     <cell>Häussererin dt.</cell>
+                     <cell>8 f 0 x</cell>
                      <cell>14 f 0 x</cell>
                   </row>
                   <row>
                      <cell/>
-                     <cell>Darinnen</cell>
-                     <cell cols="2"/>
-                     <cell cols="3"/>
+                     <cell>Darinnen<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt darunter versehentlich nicht gestrichene, für den nächsten Eintrag geschriebene </hi>1.</p></note></cell>
                      <cell/>
-                  </row>
-                  <row>
                      <cell/>
-                     <cell>1<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Wohl versehentlich nicht mehr gestrichen.</hi>
-                           </p>
-                        </note>
-                     </cell>
-                     <cell cols="2"/>
-                     <cell cols="3"/>
                      <cell/>
                   </row>
                </table>
@@ -2171,124 +2080,122 @@
                <table rend="rules">
                   <row>
                      <cell>No</cell>
-                     <cell cols="3"/>
-                     <cell cols="3">Nammen des Kaufers</cell>
-                     <cell cols="3"/>
+                     <cell/>
+                     <cell>Nammen des Kaufers</cell>
+                     <cell/>
                      <cell/>
                   </row>
                   <row>
-                     <cell>128</cell>
-                     <cell cols="3">1<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Korrigiert aus</hi> 2.</p>
-                        </note>
-                        <hi rend="bold">Bapier Schar</hi>
-                     </cell>
-                     <cell cols="3">Pruggnaller</cell>
-                     <cell cols="3">6 x</cell>
+                     <cell>228</cell>
+                     <cell>1<note><p rend="footnote text"><hi rend="italic">Korrigiert aus</hi> 2.</p></note><bibl> Bapier Schar</bibl></cell>
+                     <cell>Pruggnaller</cell>
+                     <cell>6 x</cell>
                      <cell>10 x</cell>
                   </row>
                   <row>
-                     <cell>129</cell>
-                     <cell cols="3">2 Lorethoglöckelen und 1 detto Kapl</cell>
-                     <cell cols="3">Fleischstöfl</cell>
-                     <cell cols="3">24 x</cell>
-                     <cell>56 x<note>
-                           <p rend="footnote text">
-                              <hi rend="italic" xml:space="preserve">Darüber nochmals </hi>56 x <hi rend="italic">geschrieben und gestrichen.</hi>
-                           </p>
-                        </note>
-                     </cell>
+                     <cell>229</cell>
+                     <cell>2 Lorethoglöckelen und 1 detto Kapl</cell>
+                     <cell>Fleischstöfl</cell>
+                     <cell>24 x</cell>
+                     <cell>56 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve">Darüber gestrichen </hi>56 x.</p></note></cell>
                   </row>
                   <row>
-                     <cell>130</cell>
-                     <cell cols="3">1 Lothwagl sammt die Gewichten</cell>
-                     <cell cols="3">Pergmann dt.</cell>
-                     <cell cols="3">30 x</cell>
+                     <cell>230</cell>
+                     <cell>1 Lothwagl sammt die Gewichten</cell>
+                     <cell>Pergmann dt.</cell>
+                     <cell>30 x</cell>
                      <cell>40 x</cell>
                   </row>
                   <row>
-                     <cell>131</cell>
-                     <cell cols="3">1 groses Schloss und 2 Schnalln</cell>
-                     <cell cols="3">Herr Auricher zu <rs type="place" ref="#brunegg">Bruneck</rs> dt.</cell>
-                     <cell cols="3">18 x</cell>
+                     <cell>231</cell>
+                     <cell>1 groses Schloss und 2 Schnalln</cell>
+                     <cell>Herr Auricher zu <rs type="place" ref="#brunegg">Bruneck</rs> dt.</cell>
+                     <cell>18 x</cell>
                      <cell>31 x</cell>
                   </row>
                   <row>
-                     <cell>132</cell>
-                     <cell cols="3">1 blaues Schnupf Tiechl</cell>
-                     <cell cols="3">Herr Mosser dt.</cell>
-                     <cell cols="3">24 x</cell>
+                     <cell>232</cell>
+                     <cell>1 blaues Schnupf Tiechl</cell>
+                     <cell>Herr Mosser dt.</cell>
+                     <cell>24 x</cell>
                      <cell>42 x</cell>
                   </row>
                   <row>
-                     <cell>133</cell>
-                     <cell cols="3">1 eisene Repetier Uhr</cell>
-                     <cell cols="3">Jorgl Mayr dt.</cell>
-                     <cell cols="3">12 f</cell>
+                     <cell>233</cell>
+                     <cell>1 eisene Repetier Uhr</cell>
+                     <cell>Jorgl Mayr dt.</cell>
+                     <cell>12 f</cell>
                      <cell>13 f 30 x</cell>
                   </row>
                   <row>
-                     <cell cols="11">In Untern Tach</cell>
+                     <cell/>
+                     <cell>In Untern Tach</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
                   </row>
                   <row>
-                     <cell>134</cell>
+                     <cell>234</cell>
                      <cell>1 Essen Breth, 1 Welt Breth 1 roths Fürpanckl</cell>
-                     <cell cols="4">Pruggnaller</cell>
-                     <cell cols="3">9 x</cell>
-                     <cell cols="2">10 x</cell>
+                     <cell>Pruggnaller</cell>
+                     <cell>9 x</cell>
+                     <cell>10 x</cell>
                   </row>
                   <row>
-                     <cell>135</cell>
-                     <cell>12 Körzen Bretter 1 Panntl Ramm<hi rend="strikethrough">p</hi>l 2 Brodt Schragen, und 2 Körzen Stander</cell>
-                     <cell cols="4">Häuserin dt.</cell>
-                     <cell cols="3">24 x</cell>
-                     <cell cols="2">31 x</cell>
+                     <cell>235</cell>
+                     <cell>12 Körzen Bretter 1 Panntl Ramml<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Zwischen </hi>-m-<hi rend="italic" xml:space="preserve"> und </hi>-l-<hi rend="italic" xml:space="preserve"> gestrichen </hi>-p-.</p></note> 2 Brodt Schragen, und 2 Körzen Stander</cell>
+                     <cell>Häuserin dt.</cell>
+                     <cell>24 x</cell>
+                     <cell>31 x</cell>
                   </row>
                   <row>
-                     <cell>136</cell>
+                     <cell>236</cell>
                      <cell>1 Ziech Schlitten</cell>
-                     <cell cols="4">Pruggnaller dt.</cell>
-                     <cell cols="3">10 x</cell>
-                     <cell cols="2">8 x</cell>
+                     <cell>Pruggnaller dt.</cell>
+                     <cell>10 x</cell>
+                     <cell>8 x</cell>
                   </row>
                   <row>
-                     <cell>137</cell>
+                     <cell>237</cell>
                      <cell>1 rothe Fürpanck</cell>
-                     <cell cols="4">dt.</cell>
-                     <cell cols="3">4 x</cell>
-                     <cell cols="2"/>
+                     <cell>dt.</cell>
+                     <cell>4 x</cell>
+                     <cell/>
                   </row>
                   <row>
-                     <cell>138</cell>
+                     <cell>238</cell>
                      <cell>1 Spuelrad sammt den Haspl</cell>
-                     <cell cols="4">Pinter Veidl dt.</cell>
-                     <cell cols="3">24 x</cell>
-                     <cell cols="2">42 x</cell>
+                     <cell>Pinter Veidl dt.</cell>
+                     <cell>24 x</cell>
+                     <cell>42 x</cell>
                   </row>
                   <row>
-                     <cell cols="11">Um das Hauss</cell>
+                     <cell/>
+                     <cell>Um das Hauss</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
                   </row>
                   <row>
-                     <cell>139</cell>
-                     <cell cols="2">1 Kraut Predt</cell>
-                     <cell cols="2">Steger dt.</cell>
-                     <cell cols="3">20 x</cell>
-                     <cell cols="3">16 x</cell>
+                     <cell>239</cell>
+                     <cell>1 Kraut Predt</cell>
+                     <cell>Steger dt.</cell>
+                     <cell>20 x</cell>
+                     <cell>16 x</cell>
                   </row>
                   <row>
-                     <cell>140</cell>
-                     <cell cols="2">8 Klafter feichtenes Holz 1 f 12 x</cell>
-                     <cell cols="2">Häuserin dt.</cell>
-                     <cell cols="3">9 f 36 x</cell>
-                     <cell cols="3">13 f 20 x</cell>
+                     <cell>240</cell>
+                     <cell>8 Klafter feichtenes Holz 1 f 12 x</cell>
+                     <cell>Häuserin dt.</cell>
+                     <cell>9 f 36 x</cell>
+                     <cell>13 f 20 x</cell>
                   </row>
                   <row>
-                     <cell>141</cell>
-                     <cell cols="2">150 Schaab</cell>
-                     <cell cols="2">Häuserin dt.</cell>
-                     <cell cols="3">1 f 18 x</cell>
-                     <cell cols="3">1 f 24 x</cell>
+                     <cell>241</cell>
+                     <cell>150 Schaab</cell>
+                     <cell>Häuserin dt.</cell>
+                     <cell>1 f 18 x</cell>
+                     <cell>1 f 24 x</cell>
                   </row>
                </table>
                <p>
@@ -2296,67 +2203,73 @@
                </p>
                <table rend="rules">
                   <row>
+                     <cell><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Die folgenden Versteigerungsposten wurden ohne Nummer verzeichnet.</hi></p></note></cell>
                      <cell>1 Vogl Steigen</cell>
                      <cell>Herr Fruhemesser</cell>
-                     <cell>dt. 21 x</cell>
+                     <cell>dt. 21 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Bei den folgenden Versteigerungsposten wurde nur ein Preis niedergeschrieben. Aufgrund des Fehlens von Spalten ist unklar, ob es sich dabei um den Ausrufungs- oder den Verkaufspreis handelt oder ob beide identisch sind.</hi></p></note></cell>
                   </row>
                   <row>
+                     <cell/>
                      <cell>1 Polster mit gelb getruckten Ziechen</cell>
                      <cell/>
-                     <cell>dt.<note>
-                           <p rend="footnote text">
-                              <hi rend="italic" xml:space="preserve">Darüber nochmals </hi>dt. <hi rend="italic">geschrieben und gestrichen.</hi>
-                           </p>
-                        </note> 3 f 6 x</cell>
+                     <cell>dt.<note><p rend="footnote text"><hi rend="italic" xml:space="preserve">Darüber gestrichen </hi>dt.</p></note> 3 f 6 x</cell>
                   </row>
                   <row>
-                     <cell>1 Maria Hilf Tafl </cell>
-                     <cell>
-                                <rs type="person" ref="#wiser_veit">Vedt Wisser</rs>
-                            </cell>
+                     <cell/>
+                     <cell>1 Maria Hilf Tafl</cell>
+                     <cell><rs type="person" ref="#wiser_veit">Vedt Wisser</rs></cell>
                      <cell>2 f 30 x dt.</cell>
                   </row>
                   <row>
+                     <cell/>
                      <cell>4 Pirsten</cell>
                      <cell/>
                      <cell>dt. 16 x</cell>
                   </row>
                   <row>
+                     <cell/>
                      <cell>3 Taflen</cell>
                      <cell/>
                      <cell>dt. 18 x</cell>
                   </row>
                   <row>
+                     <cell/>
                      <cell>4 Prodt Tücher</cell>
                      <cell>Steger Beck</cell>
                      <cell>1 f 8 x dt.</cell>
                   </row>
                   <row>
+                     <cell/>
                      <cell>1 groses Handtuch</cell>
                      <cell>Herr Hauptmann dt.</cell>
                      <cell>1 f 16 x</cell>
                   </row>
                   <row>
+                     <cell/>
                      <cell>Mehr 1 detto kleineres</cell>
-                     <cell>Herr <hi rend="strikethrough">Hou</hi> Hauptmann</cell>
+                     <cell>Herr<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Ha-.</p></note> Hau[pt]m[ann]</cell>
                      <cell>27 x dt.</cell>
                   </row>
                   <row>
-                     <cell>Herr Fruchmesser</cell>
+                     <cell/>
+                     <cell>Herr Frehmesser</cell>
                      <cell>Vier Sessl</cell>
                      <cell>50 x</cell>
                   </row>
                   <row>
+                     <cell/>
                      <cell>2 Zimmerpänck</cell>
                      <cell>Häuserin</cell>
                      <cell>10 x dt.</cell>
                   </row>
                   <row>
+                     <cell/>
                      <cell>1 runden Tisch</cell>
-                     <cell>Häuserin</cell>
+                     <cell>Häuserin dt.</cell>
                      <cell>24 x</cell>
                   </row>
                   <row>
+                     <cell/>
                      <cell>Mehr 1 runder Tisch</cell>
                      <cell>Häuserin dt.</cell>
                      <cell>40 x</cell>
@@ -2365,18 +2278,20 @@
             </div>
             <div>
                <p>
+                  <pb n="674v"/>
+               </p>
+               <p>[Rubrum:] 1798</p>
+               <p>Weilend des hochehrwürdigen Herrn <rs type="person" ref="#steger_leopold">Leopold Stegers</rs> gewesten Beneficiat beym Heiligen Kreutz seel.</p>
+               <p>Erbstheilung</p>
+               <p>[Kanzleivermerk:] Exped.</p>
+               <p>
                   <pb n="661r"/>
                </p>
                <p>Actum <rs type="place" ref="#st_lorenzen">St. Laurenzen</rs> den <date when="1798-08-16">16ten Augustn 1798</date>.</p>
                <p>Vor loblicher Landgerichts Obrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> titl. Herr <rs type="person" ref="#zeiler_christoph">Christoph Zeiler</rs>.</p>
                <p>Zugegen Herr <rs type="person" ref="#unterweger_jakob">Jakob Unterweger</rs> burgerlicher Ausschuss allda als Beysitzer.</p>
                <p>Actuante <rs type="person" ref="#schenach_franz">Franz Schenach</rs> Oberschreiber allda.</p>
-               <p>[Marginalzuschreibung:]<note>
-                     <p rend="footnote text">
-                        <hi rend="italic">Gesamte Zuschreibung am linken Rand geschrieben.</hi>
-                     </p>
-                  </note>
-               </p>
+               <p>[Marginalzuschreibung:]<note><p rend="footnote text"><hi rend="italic">Gesamte Zuschreibung am linken Rand geschrieben.</hi></p></note></p>
                <table rend="rules">
                   <row>
                      <cell>
@@ -2450,27 +2365,26 @@
                      <cell/>
                   </row>
                </table>
-               <p>Den <date when="1798-04-02">2ten April <hi rend="strikethrough">abhiro</hi> dies Jahrs</date> ist der hochehrwürdige Herr <rs type="person" ref="#steger_leopold">Leopold Steger</rs> im Leben gewester Beneficiat beym Heiligen Kreitz auf der Fronwiese nach einer ausgestandenen langwirigen Krankheit im 76ten Jahr seines Alters mit Zurucklassung einer letztwilligen Verordnung verstorben.</p>
+               <p>Den <date when="1798-04-02">2ten April<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen vermutlich </hi>obfir-.</p></note> dies Jahrs</date> ist der hochehrwürdige Herr <rs type="person" ref="#steger_leopold">Leopold Steger</rs> im Leben gewester Beneficiat beym Heiligen Kreitz auf der Fronwiese nach einer ausgestandenen langwirigen Krankheit im 76ten Jahr seines Alters mit Zurucklassung einer letztwilligen Verordnung verstorben.</p>
                <p>Zu Auferbung dessen zuruckgelassenen Vermögens sind laut des anschlüssigen Stammenbaums folgende nächste Anverwante vom Gesetze berufen, nach dem das Gotteshauss zum Heiligen Kreitz bey von Herrn Ableiber zuruckgelassenen Testament ehehin vom Erbrechte ausgeschlosen ist.</p>
                <p>
                   <pb n="661v"/>
                </p>
-               <p>Es erganget nammlich</p>
-               <p>Herr <rs type="person" ref="#steger_joseph_markus">Joseph Markus Steger</rs>
-                    </p>
+               <p>Es erzeuget nemmlich</p>
+               <p>Herr <rs type="person" ref="#steger_joseph_markus">Joseph Markus Steger</rs></p>
                <p>gewester Landgerichtschreiber der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> bey dessen gehabten Ehefrau <rs type="person" ref="#hueber_maria_magdalena">Maria Magdalena Hueberin</rs> nebst den Herrn Erblasser folgende 5 Kinder:</p>
                <p>I. Herr <rs type="person" ref="#steger_joseph_felix">Joseph Felix Steger</rs> bey Frau <rs type="person" ref="#kerschbaumer_maria">Maria Kerschbaumerin</rs> beed seel. in Band der Ehe erzeugte, und uber die ledigen Stands verstorbene noch bey Leben zuruckgelassene Tochter Frau <rs type="person" ref="#steger_maria">Maria Stegerin</rs> mit<note>
                      <p rend="footnote text">
-                        <hi rend="italic">Über der Zeile nachgetragen.</hi>
+                        <hi rend="italic"> Über der Zeile geschrieben.</hi>
                      </p>
-               </note> titl. Heren Dr. <rs type="person" ref="#lunz_felix">Felix Lunz</rs> Consistorial Advacat, und Fiskalamtsverwalter zu <rs type="place" ref="#brixen">Brixen</rs> Herrschaft. Diese wird von <rs type="person" ref="#pruggnaller_anton">Anton Pruggnaller</rs> allda laut vorgelegter Vollmacht vertretten.</p>
+               </note> titl. Herrn Dr. <rs type="person" ref="#lunz_felix">Felix Lunz</rs> Consistorial Advacat, und Fiskalamtsverwalter zu <rs type="place" ref="#brixen">Brixen</rs> verehelicht. Diese wird von <rs type="person" ref="#pruggnaller_anton">Anton Pruggnaller</rs> allda laut vorgelegter Vollmacht vertretten.</p>
                <p>II. Herr <rs type="person" ref="#steger_peter_paul">Peter Paul Steger</rs> bey Frau <rs type="person" ref="#holzer_anna_maria">Anna Holzer</rs> in Band der Ehe erzeugte, und zuruckgelassene 2 Kinder Herr <rs type="person" ref="#steger_jakob">Jakob</rs> dermalen Cooperator zu <rs type="place" ref="#sillian">Sillian</rs>, und Jungfrau <rs type="person" ref="#steger_magdalena">Magdalena Stegerin</rs> allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>, welche beede grossjährig, und von Herr Innocenz Kuttner k.k. Kreisamts Kanzeler daselbst gewalthablich vertretten werden.</p>
                <p>III. Herr <rs type="person" ref="#steger_johann_anton">Johann Anton Steger</rs> bey Frau <rs type="person" ref="#gasteiger_catharina">Catharina Gasteigerin</rs> ehelich erzeugte 4 Kinder und respective deren Descendeten, als Herrn <rs type="person" ref="#steger_franz">Franz Steger</rs>
                     </p>
                <p>
                   <pb n="662r"/>
                </p>
-               <p>Cooperator zu <rs type="place" ref="#sillian">Sillian</rs>, Pater Theowald Exfranziscaner im Gerichts Kals exponiert, <hi rend="strikethrough">Frau</hi> diese 2 geistlichen Herrn werden von Herrn <rs type="person" ref="#salcher_johann_nepomuk">Johann Nepomuk Salcher</rs> Religionsfond Advocat allda vertretten, dann Frau <rs type="person" ref="#pernlachner_anna">Anna verehelichte Pernlachnerin</rs> allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>, Frau Hellena bey Herrn Häring Portenmacher zu <rs type="place" ref="#lienz">Lienz</rs> beed seel. erzeugt, und zuruckgelassene Sohn Johann, annoch minderjahrig und ist zum heutigen Ackt von dessen Vormund Herrn <rs type="person" ref="#obkircher_johann">Johann Obkircher</rs> obgesagter Herr <rs type="person" ref="#salcher_johann_nepomuk">Johann Nepomuk Salcher</rs> bevollmächtigt.</p>
+               <p>Cooperator zu <rs type="place" ref="#sillian">Sillian</rs>, Pater Theowald Exfranziscaner im Gerichts Kals exponiert,<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Frau.</p></note> diese 2 geistlichen Herrn werden von Herrn <rs type="person" ref="#salcher_johann_nepomuk">Johann Nepomuk Salcher</rs> Religionsfond Advocat allda vertretten, dann Frau <rs type="person" ref="#pernlachner_anna">Anna verehelichte Pernlachnerin</rs> allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>, Frau Hellena bey Herrn Häring Portenmacher zu <rs type="place" ref="#lienz">Lienz</rs> beed seel. erzeugt, und zuruckgelassene Sohn Johann, annoch minderjahrig und ist zum heutigen Ackt von dessen Vormund Herrn <rs type="person" ref="#obkircher_johann">Johann Obkircher</rs> obgesagter Herr <rs type="person" ref="#salcher_johann_nepomuk">Johann Nepomuk Salcher</rs> bevollmächtigt.</p>
                <p>IV: Herr <rs type="person" ref="#steger_karl">Karl Steger</rs> bey Frau <rs type="person" ref="#kletenhamer_anna">Anna Kletenhamerin</rs> beeder seel. erzeugte Frau Tochter <rs type="person" ref="#steger_anna">Anna Stegerin</rs> welche bereits auch verstorben, und mit Herrn <rs type="person" ref="#rindler_anton">Anton Rindler</rs>, Wurth und Gastgeb zu <rs type="place" ref="#sillian">Sillian</rs> 5 Kinder zuruckgelassen hat namens Joseph, Anton, Anna, Maria, Katharina wofur Herr <rs type="person" ref="#kletenhamer_michael">Michael Kletenhamer</rs> Gerhab und zur heutigen Vertrettung oftgemelter Herr <rs type="person" ref="#salcher_johann">Johann Salcher</rs> begwältiget ist.</p>
                <p>V: Frau <rs type="person" ref="#steger_maria_2">Maria Stegerin</rs> mit titl. Herrn <rs type="person" ref="#kerschpaember_johan">Johann v. Kerschbaumer</rs> gewesten Landgerichtschreiber der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> ehelich erzeugte 6<note>
                      <p rend="footnote text">
@@ -2479,17 +2393,16 @@
                <p>
                   <pb n="662v"/>
                </p>
-               <p>
-                        <rs type="person" ref="#von_kerschbaumer_anton">Anton v. Kerschbaumer</rs> Pfleger und Landrichter der Herrschaft Falkenstein zu <rs type="place" ref="#oberfellach">Oberfellach</rs>, Frau <rs type="person" ref="#von_kerschbaumer_maria_elisabet">Maria Elisabet</rs>, <hi rend="strikethrough">bey</hi> mit titl. Herrn <rs type="person" ref="#von_leys_ignatz_josef">Ignatz Joseph v. Leys</rs> Pfleger und Landgerichtschreiber allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> in Band der Ehe erzeugte 4 Kinder namens Herr <rs type="person" ref="#von_leys_leopold">Leopold</rs>, dann die Freulen<note>
-                     <p rend="footnote text"> F- <hi rend="italic">korrigiert aus</hi> H-.</p>
-               </note> <rs type="person" ref="#von_leys_elisabeth">Elisabeth</rs>, <rs type="person" ref="#von_leys_hellene">Hellene</rs> und <rs type="person" ref="#von_leys_cresentia">Cresentia v. Leys</rs>, wofur dessen Herr Vater Gerhab ist, dann die Freulen <rs type="person" ref="#von_kerschbaumer_magdalena">Magdalena</rs>, <rs type="person" ref="#von_kerschbaumer_maria_anna">Maria Anna</rs>, <rs type="person" ref="#von_kerschbaumer_maria_josepha">Maria Josepha</rs>, und <rs type="person" ref="#von_kerschbaumer_agnes">Agnes v. Kerschbaumer</rs> alle allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>. Dieser ganze Hauptstollen wird von ebengesagten titl. Herrn Pfleger <rs type="person" ref="#von_leys_ignatz_josef">v. Leys</rs> dato vertretten.</p>
+               <p><rs type="person" ref="#von_kerschbaumer_anton">Anton v. Kerschbaumer</rs> Pfleger und Landrichter der Herrschaft Falkenstein zu <rs type="place" ref="#oberfellach">Oberfellach</rs>, Frau <rs type="person" ref="#von_kerschbaumer_maria_elisabet">Maria Elisabet</rs>,<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>bey.</p></note> mit titl. Herrn <rs type="person" ref="#von_leys_ignatz_josef">Ignatz Joseph v. Leyss</rs> Pfleger und Landgerichtschreiber allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> in Band der Ehe erzeugte 4 Kinder namens Herr <rs type="person" ref="#von_leys_leopold">Leopold</rs>, dann die Freulen<note>
+                     <p rend="footnote text"> F- <hi rend="italic">korrigiert aus begonnenem</hi> H-.</p>
+               </note> <rs type="person" ref="#von_leys_elisabeth">Elisabeth</rs>, <rs type="person" ref="#von_leys_hellene">Hellene</rs> und <rs type="person" ref="#von_leys_cresentia">Cresentia v. Leys</rs>, wofur dessen Herr Vater Gerhab ist, dann die Freulen <rs type="person" ref="#von_kerschbaumer_magdalena">Magdalena</rs>, <rs type="person" ref="#von_kerschbaumer_maria_anna">Maria Anna</rs>, <rs type="person" ref="#von_kerschbaumer_maria_josepha">Maria Josepha</rs>, und <rs type="person" ref="#von_kerschbaumer_agnes">Agnes v. Kerschbaumer</rs> alle allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>. Dieser ganze Hauptstollen wird von ebengesagten titl. Herrn Pfleger <rs type="person" ref="#von_leys_ignatz_josef">v. Leyss</rs> dato vertretten.</p>
                <p>Vor allen wird bemerket, dass bey Durchsuchung der Verlassenschaftsschriften ein Aufsatz eines Testaments so zwar von Herrn Erblasser unterschrieben, und gesiglt, der Inhalt aber von einer fremden Hand geschrieben, und uberhaupt an vorgeschriebenen Förmlichkeiten mangelhaft ist, in die Hande gekommen, da aber dessen Inhalt theils von keinem Belange, theils von denen Herrn Erben in Rucksicht der frommen Vermög aus eigenen Antriebe bereits vollzogen worden</p>
                <p>
                   <pb n="663r"/>
                </p>
-               <p>ubrigens aber darinn seiner Häuserin <rs type="person" ref="#mayr_agnes">Agnes Mayrin</rs> ihr verdienter Lidlohn vermacht ist, der ehehin unter dennen Abzugen als eine Schuldspost eingetragen werden wird, so haben die Herrn Erben und Vertrettern solches Wil<note>
+               <p>ubrigens aber darinn seiner Häusserin <rs type="person" ref="#mayr_agnes">Agnes Mayrin</rs> ihr verdienter Lidlohn vermacht ist, der ehehin unter dennen Abzugen als eine Schuldspost eingetragen werden wird, so haben die Herrn Erben und Vertrettern solches T[e]st[ament]<note>
                      <p rend="footnote text">
-                        <hi rend="italic">Über der Zeile nachgetragen.</hi>
+                        <hi rend="italic">Über der Zeile geschrieben.</hi>
                      </p>
                   </note> allda wegzulassen befunden, und gleich furzufahren gebetten mit der vürklichen</p>
                <p>Vermögensergänzung.</p>
@@ -2497,13 +2410,8 @@
                <p>Vermögen.</p>
                <table rend="rules">
                   <row>
-                     <cell>Die Inventur betruge einsmals laut Protokoll von [fehlendes Datum] in Schatzungsbetrage [fehlender Betrag], es wurden aber samtliche Fahrnussen den <date notBefore="1798-07-12" notAfter="1798-07-13">12ten und 13. July dies Jahrs</date> offentlich versteigert, und laut Protokoll von solchen Daten erlöset, so baar vorhanden <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-66</hi>
-                              <hi rend="italic">Am linken Rand nachgetragen.</hi>
-                           </p>
-                        </note>jedoch über davon bezahlten 18 f 33 x Funeral Konto noch<hi rend="superscript">66</hi>
-                     </cell>
+                     <cell>Die Inventur betruge einsmals laut Protokoll von [Datum fehlt] in Schatzungsbetrage [fehlender Betrag], es wurden aber samtliche Fahrnussen den <date notBefore="1798-07-12" notAfter="1798-07-13">12ten und 13. July dies Jahrs</date> offentlich
+                     versteigert, und laut Protokoll von solchen Daten erlöset, so baar vorhanden jedoch über davon bezahlten 18 f 33 x Funeral Konto noch<note><p rend="footnote text"> jedoch über davon bezahlten 18 f 33 x Funeral Konto noch<hi rend="italic"> am linken Rand nachgetragen.</hi></p></note></cell>
                      <cell>436 f 37 x</cell>
                   </row>
                </table>
@@ -2511,17 +2419,7 @@
                <table rend="rules">
                   <row>
                      <cell>An eingegangenen auf verwichen Sonnwenden verfallenen Kapitals Zinsen</cell>
-                     <cell>
-                        <p>25 f 8 x<note>
-                              <p rend="footnote text">
-                                 <hi rend="italic">Über der Zeile korrigiert.</hi>
-                              </p>
-                           </note>
-                        </p>
-                        <p>
-                           <hi rend="strikethrough">15 f 35 x</hi>
-                        </p>
-                     </cell>
+                     <cell>25 f 8 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Betrag über der Zeile geschrieben statt gestrichenem </hi>15 f 35 x.</p></note></cell>
                   </row>
                   <row>
                      <cell>Von Herrn Ableiber erubrigtes baares Geld</cell>
@@ -2538,37 +2436,23 @@
                   </row>
                </table>
                <p>Liegende Gütter.</p>
-               <p>Nammlichen ein Stuckl Erdrich von einer Achen gross genannt das Lerch Akerle in <rs type="place" ref="#st_lorenzen">Lorenzner</rs> Felder nahe beym Sturmbichl Landgerichts <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> mit allen dessen Recht, und Gerechtigkeit liegend, stost gegen Morgend <note>
-                     <p rend="footnote text">
-                        <hi rend="superscript">-68</hi>
-                        <hi rend="italic">Am linken Rand nachgetragen.</hi>
-                     </p>
-               </note>zum Theil<hi rend="superscript">68</hi> an des Herrn <rs type="person" ref="#von_gall_">v. Gall</rs> Moos, <hi rend="strikethrough">gegen Mittagen</hi>
-                  <note>
-                     <p rend="footnote text">
-                        <hi rend="superscript">-69</hi>
-                        <hi rend="italic">Über der Zeile korrigiert.</hi>
-                     </p>
-                  </note>und zum Theil<hi rend="superscript">69</hi> an hinnach hieher gehorigen Stuckl Pichl, gegen Mittag wieder an Herrn <rs type="person" ref="#von_gall_">v. Gall</rs> Moss, und zum Theil an Mayr zu <rs type="place" ref="#gasteig">Gasteig</rs> Acker, gegen Abend an Herrn <rs type="person" ref="#wachtler_georg">Georg Wachtlers</rs>, und <hi rend="strikethrough">anvor</hi> Stegerischen Lechenstuck, und gegen Mitternacht an Herrn v. Elzenbaumers Pizet Stuck, vorbehältlich der mehr und besseren um- und anstossenden <hi rend="strikethrough">Nachre</hi> Koherenzen, und verzinsst man von geredten Lerch Akerl mit dessen Zugehör und Gerechtigkeit der lobwürdigen Unser Lieben Frauen Pfarrkirche in <rs type="place" ref="#ennenberg">Ennenberg</rs> als daruber ordentlichen Grundherrschaft <hi rend="strikethrough">we</hi> jahrlich und weltewiglichen auch eines jeden Jahrs besonders allwegen zu gewohnlich Grund- und Herren</p>
+               <p>Nammlichen ein Stuckl Erdrich von einer Achen gross genannt das Lerch Akerle in <rs type="place" ref="#st_lorenzen">Lorenzner</rs> Felder nahe beym Sturmbichl Landgerichts <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> mit allen dessen Recht, und Gerechtigkeit liegend, stost gegen Morgend zum Theil<note><p rend="footnote text"> zum theil<hi rend="italic" xml:space="preserve"> am linken Rand geschrieben.</hi></p></note> an des
+               Herrn <rs type="person" ref="#von_gall_">v. Gall</rs> Mooss, und zum Theil<note><p rend="footnote text"> und zum Theil<hi rend="italic" xml:space="preserve"> über der Zeile geschrieben statt gestrichenem </hi>gegen Mittag.</p></note> an hinnach hieher gehorigen Stuckl Pichl, gegen Mittag wieder an Herrn <rs type="person" ref="#von_gall_">v. Gall</rs> Moss, und zum Theil an Mayr zu <rs type="place" ref="#gasteig">Gasteig</rs> Acker, gegen Abend an
+               Herrn <rs type="person" ref="#wachtler_georg">Georg Wachtlers</rs> Acker<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile eingefügt.</hi></p></note>, und<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>anvor.</p></note> Stegerischen Lechenstuck, und gegen Mitternacht an Herrn v. Elzenbaumers Pizet Stuck,
+               vorbehältlich der mehr und besseren um- und anstossenden<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen vermutlich </hi>wahr-.</p></note> Koherenzen, und verzinsst man von geredten Lerch Akerl mit dessen Zugehör und Gerechtigkeit der lobwürdigen Unser Lieben Frauen Pfarrkirche in <rs type="place" ref="#ennenberg">Ennenberg</rs> als daruber ordentlichen
+               Grundherrschaft<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>mo-.</p></note> jährlich und weltewiglichen auch eines jeden Jahrs besonders allwegen zu gewohnlich Grund- und Herren</p>
                <p>
                   <pb n="664r"/>
                </p>
-               <p>Zinszeit zu Handen des verordneten Kirchprobst 18 x guten Geld, rechten, ewigen Grund- und Herrn Zinss, und den völligen Zehenden was Gott gibt, und wachsen lässt, liegen zu lassen, denen ein jeder Herr Pfarr zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> aufhebt. Vorbehältig der Steüer.</p>
-               <p>Weiters ein gegen Morgend an gemelten Lerchakerl anliegendes, und hinzugekauftes Stückl Pichl bis zum Klapfl hinausgehend, und das unter erdeüten Lerchakerl von obern Pizet darzugekommene Stuck Erdrich so viel Acker war, und hinunter bis zu des Herrn von Elzenbaumers Pizet gehet, von einer Ach gross, und gegen Morgend an das Steurer Mooss, gegen Mittag an Herrn <rs type="person" ref="#von_gall_">v. Galls</rs> Wiesen, und Lerchaker, gegen Abend an sogenannten Steger Acker, und gegen Mitternacht an des Herrn v. Elzenbaumers Pizet stoset. Welch dieses Stuckl zum Lerch Akerl hinzugebaut, freu, ledig, und lütrigen auch jechend freu ist.</p>
-               <p>Welch firvorbeschriebene liegende Grundstücke abgeleibter geistlicher Herr <rs type="person" ref="#steger_leopold">Leopold Steger</rs>, einsmals laut Kaufbrief de dato <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> <date when="1757-07-18">18. July 1757</date> mit dennen Herrn <rs type="person" ref="#steger_johann_anton">Johann Anton Stegerischen</rs> Gebrüdern von Herrn <rs type="person" ref="#von_elzenbaum_joseph_martin">Joseph Martin v. Elzenbaum</rs> gemeinschäftlichen gekaufet, sohin aber untern <date when="1783-09-12">12ten September 1783</date> vermög gerichtlichen Vertrags alleinig ubernommen,</p>
+               <p>Zinszeit zu Handen des verordneten Kirchprobst 18 x guten Geld, rechten, ewigen Grund- und Herrn Zinss, und den völligen Zehenden was Gott gibt, und wachsen lässt, liegen zu lassen, deme ein jeder Herr Pfarr zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> aufhebt. Vorbehältig der Steüer.</p>
+               <p>Weiters ein gegen Morgend an gemelten Lerchakerl anliegendes, und hinzugekauftes Stückl Pichl bis zum Klapfl hinausgehend, und das unter erdeüten Lerchakerl von obern Pizet darzugekommene Stuck Erdrich so viel Acker war, und hinunter bis zu des Herrn von Elzenbaumers Pizet gehet, von einer Ach gross, und gegen Morgend an das Steurer Mooss, gegen Mittag an Herrn <rs type="person" ref="#von_gall_">v. Galls</rs> Wiesen, und Lerchaker, gegen Abend an sogenannten Steger Acker, und gegen Mitternacht an des Herrn v. Elzenbaumers Pizet stoset. Welch dieses Stuckl zum Lerch Akerl hinzugebaut, freu, ledig, und lüteigen auch zechendfreu ist.</p>
+               <p>Welch hievorbeschriebene liegende Grundstücke abgeleibter geistlicher Herr <rs type="person" ref="#steger_leopold">Leopold Steger</rs>, einsmals laut Kaufbrief de dato <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> <date when="1757-07-18">18. July 1757</date> mit dennen Herrn <rs type="person" ref="#steger_johann_anton">Johann Anton Stegerischen</rs> Gebrüdern von Herrn <rs type="person" ref="#von_elzenbaum_joseph_martin">Joseph Martin v. Elzenbaum</rs> gemeinschäftlichen gekaufet, sohin aber untern <date when="1783-09-12">12ten September 1783</date> vermög gerichtlichen Vertrags alleinig ubernommen,</p>
                <p>
                   <pb n="664v"/>
                </p>
-               <table rend="rules">
-                  <row>
-                     <cell>und werde solche in einen von dem Herrn Erben gemeinschaftlich bestimmten Preiss zum Vermogen getragen pr</cell>
-                     <cell>230 f 0 x</cell>
-                  </row>
-                  <row>
-                     <cell>Summa der liegenden Gütter</cell>
-                     <cell>per se.</cell>
-                  </row>
-               </table>
+               <p>und werde solche in einen von dem Herrn Erben gemeinschaftlich bestimmten Preiss zum Vermogen getragen pr 230 f 0 x.</p>
+               <p>Summa der liegenden Gütter</p>
+               <p>per se.</p>
                <p>Schulden herein.</p>
                <table rend="rules">
                   <row>
@@ -2576,7 +2460,7 @@
                      <cell>200 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Der auf verwichen Sonnebend zu 4 p.c. verfallner Zinss ist bezahlt worden, und kommt hievor <hi rend="strikethrough">und</hi> unter der Barschaft ein.</cell>
+                     <cell>Der auf verwichen Sonnebend zu 4 p.c. verfallner Zinss ist bezahlt worden, und kommt hievor<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>und.</p></note> unter der Barschaft ein.</cell>
                      <cell/>
                   </row>
                   <row>
@@ -2593,9 +2477,10 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>Aus denjenigen 1100 f 0 x so Herr Ableiber und dessen Geschwisterte laut Schuldbrief de dato Gerichtshaus <rs type="place" ref="#ennenberg">Ennenbergs</rs> den <date when="1724-12-15">15ten December 1724</date> und Zuschreibung de dato <date when="1747-06-26">26. Juny 1747</date> bey Domenig<note>
-                           <p rend="footnote text"> D- <hi rend="italic">korrigiert aus</hi> T-.</p>
-                     </note> <rs type="person" ref="#agreiter_domenig">Agreiter</rs> Mayr zu Söck in <rs type="place" ref="#ennenberg">Ennenberg</rs>, so der nunmehrige <hi rend="strikethrough">Inha</hi> Besitzer dies Guts <rs type="person" ref="#agreiter_christian">Christian Agreiter</rs> schuldig, seinen Antheil <hi rend="strikethrough">pr</hi> uber Empfang <hi rend="strikethrough">mer</hi> noch</cell>
+                     <cell>Aus denjenigen 1100 f 0 x so Herr Ableiber und dessen Geschwisterte laut Schuldbrief de dato Gerichtshaus <rs type="place" ref="#ennenberg">Ennenbergs</rs> den <date when="1724-12-15">15ten December 1724</date> und Zuschreibung de dato <date when="1747-06-26">26. Juny 1747</date> bey
+                     <rs type="person" ref="#agreiter_domenig">Domenig Agreiter</rs><note><p rend="footnote text"> D-<hi rend="italic" xml:space="preserve"> von </hi>Domenig<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>T-.</p></note> Mayr zu Söck
+                     in <rs type="place" ref="#ennenberg">Ennenberg</rs>, so der nunmehrige<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Inha-.</p></note> Besitzer dies Guts <rs type="person" ref="#agreiter_christian">Christian Agreiter</rs> schuldig,
+                     seinen Antheil <note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>pr.</p></note> uber Empfang<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>-ene.</p></note> noch</cell>
                      <cell>241 f 31 x</cell>
                   </row>
                   <row>
@@ -2603,35 +2488,20 @@
                      <cell/>
                   </row>
                   <row>
-                     <cell>
-                                <rs type="person" ref="#wiser_veit">Veit Wieser</rs> allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> Bestandzins von den vorbeschrieben Äcker fur die heurige Benutzung</cell>
+                     <cell><rs type="person" ref="#wiser_veit">Veit Wieser</rs> allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> Bestandzins von den vorbeschrieben Äcker fur die heurige Benutzung</cell>
                      <cell>13 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Besoldungs ratum beym Religionsfond seit Anfang Militär Jahr 1797 bis <date when="1798-04-02">2ten April 1798</date> ab 5 Monat 2 Tag a Jahr 215 f 40 x</cell>
-                     <cell>
-                        <p>
-                           <hi rend="strikethrough">88 f 25 x</hi>
-                        </p>
-                        <p>90 f 8 x</p>
-                     </cell>
+                     <cell>Besoldungs Ratum beym Religionsfond seit Anfang Militär Jahr 1797 bis <date when="1798-04-02">2ten April 1798</date> ab 5 Monat 2 Tag a Jahr 215 f 40 x</cell>
+                     <cell>90 f 8 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Betrag über der Zeile geschrieben statt gestrichenem </hi>88 f 25 x.</p></note></cell>
                   </row>
                   <row>
-                     <cell>
-                        <hi rend="strikethrough">Frau Pernlachnerin ist hieher schuldig zu Bestreitung einiger Ausgaben empfangenes Geld</hi>
-                     </cell>
-                     <cell>
-                        <hi rend="strikethrough">30 f 0 x</hi>
-                     </cell>
+                     <cell><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Eintrag gestrichen: </hi>Frau Pernlachnerin ist hieher schuldig zu Bestreitung einiger Ausgaben empfangenes Geld --- 30 f 0 x</p></note></cell>
+                     <cell/>
                   </row>
                   <row>
                      <cell>Summa der Schulden herein</cell>
-                     <cell>
-                        <p>
-                           <hi rend="strikethrough">654 f 31 x</hi>
-                        </p>
-                        <p>744 f 39 x</p>
-                     </cell>
+                     <cell>744 f 39 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Davor falsche Summe gestrichen: </hi>654 f 31 x.</p></note></cell>
                   </row>
                </table>
                <p>
@@ -2646,10 +2516,8 @@
                <p>Abzüg, und Schulden hinaus.</p>
                <table rend="rules">
                   <row>
-                     <cell>Titl. Herr Pfleger <rs type="person" ref="#von_leys_ignatz_josef">von Leys</rs> hat den Funeral Conto <hi rend="strikethrough">gezahlt mit</hi> von der Lizitazions Barschaft mit 18 f 33 x bezahlt pr Bht.</cell>
-                     <cell>
-                        <hi rend="strikethrough">18 f 33 x</hi>
-                     </cell>
+                     <cell>Titl. Herr Pfleger <rs type="person" ref="#von_leys_ignatz_josef">von Leyss</rs> hat den Funeral Conto<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>gezahlt mit.</p></note> von der Lizitazions Barschaft mit 18 f 33 x bezahlt pr Bht.<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt darunter gestrichen Füllstrich und </hi>18 f 33 x.</p></note></cell>
+                     <cell/>
                   </row>
                   <row>
                      <cell>Frau Pernlachnerin hat folgendes gezahlt:</cell>
@@ -2680,7 +2548,7 @@
                      <cell>16 x</cell>
                   </row>
                   <row>
-                     <cell>Dem Beck an der Wiesten</cell>
+                     <cell>Dem Beck an der Wiesen</cell>
                      <cell>4 x</cell>
                   </row>
                </table>
@@ -2713,7 +2581,7 @@
                      <cell>30 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Dann die in der <hi rend="strikethrough">Barschaft</hi> Inventur beschriebene Barschaft pr</cell>
+                     <cell>Dann die in der Inventur<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile geschrieben statt gestrichenem </hi>Barschaft.</p></note> beschriebene Barschaft pr</cell>
                      <cell>10 f 8½ x</cell>
                   </row>
                   <row>
@@ -2746,8 +2614,7 @@
                      <cell>18 f 23 x</cell>
                   </row>
                   <row>
-                     <cell>Herr Chyrurgo <rs type="person" ref="#pallauf_gottlieb_johann">Gottlieb Pallauf</rs>
-                            </cell>
+                     <cell>Herr Chyrurgo <rs type="person" ref="#pallauf_gottlieb_johann">Gottlieb Pallauf</rs></cell>
                      <cell>2 f 46 x</cell>
                   </row>
                   <row>
@@ -2759,34 +2626,12 @@
                      <cell>1 f 54 x</cell>
                   </row>
                   <row>
-                     <cell>Dem Herrn Lunz in <rs type="place" ref="#brixen">Brixen</rs> wegen der Mayr zu Sackischen Kapitalschuld ausständige Zins Betreffnis</cell>
+                     <cell>Dem Herrn Lunz in <rs type="place" ref="#brixen">Brixen</rs> wegen der Mayr zu Sackischen Kapitalschuld ausständige Zins Betreffnis, dt. dem <rs type="person" ref="#pruggnaller_anton">Anton Prugnaller</rs><note><p rend="footnote text"> dt. dem Anton Prugnaller<hi rend="italic"> am linken Rand geschrieben.</hi></p></note></cell>
                      <cell>7 f 43 x</cell>
                   </row>
                   <row>
-                     <cell>Deto dem <rs type="person" ref="#pruggnaller_anton">Anton Prugnaller</rs>
-                                <note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Am linken Rand nachgetragen.</hi>
-                           </p>
-                        </note>
-                     </cell>
-                     <cell/>
-                  </row>
-                  <row>
-                     <cell>Ingleichen auch an solcher Zinsbetreffnis dem 2tn Hauptstollen nemmlich der Jungfrau <rs type="person" ref="#steger_magdalena">Magdalena Stegerin</rs>, und deroselbe geistliche Herr Bruder <rs type="person" ref="#steger_jakob">Jakob Steger</rs>
-                            </cell>
-                     <cell>6 f 56<note>
-                           <p rend="footnote text"> 6 <hi rend="italic">korrigiert aus</hi> 0.</p>
-                        </note> x</cell>
-                  </row>
-                  <row>
-                     <cell>Deto dem Herrn Rutner<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Am linken Rand nachgetragen.</hi>
-                           </p>
-                        </note>
-                     </cell>
-                     <cell/>
+                     <cell>Ingleichen auch an solcher Zinsbetreffnis dem 2tn Hauptstollen nemmlich der Jungfrau <rs type="person" ref="#steger_magdalena">Magdalena Stegerin</rs>, und deroselben geistlichen Herrn Bruder <rs type="person" ref="#steger_jakob">Jakob Steger</rs>, dt. dem Herrn Rutner<note><p rend="footnote text"> dt. dem Herrn Rutner<hi rend="italic"> am linken Rand geschrieben.</hi></p></note></cell>
+                     <cell>6 f 56 x</cell>
                   </row>
                   <row>
                      <cell>[Summa]</cell>
@@ -2798,43 +2643,27 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>Der Frau Stegerin allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> fur 2 Fueder Tunget a 30 x</cell>
+                     <cell>Der Frau Stegerin allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> fur 2 Fueder Tunget a 30 x, dt. dem Herrn Rutner<note><p rend="footnote text"> dt. dem Herrn Rutner<hi rend="italic"> am linken Rand geschrieben.</hi></p></note></cell>
                      <cell>1 f 0 x</cell>
-                  </row>
-                  <row>
-                     <cell>Deto dem Herrn Rutner<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Am linken Rand nachgetragen.</hi>
-                           </p>
-                        </note>
-                     </cell>
-                     <cell/>
                   </row>
                   <row>
                      <cell>Die Hauserin <rs type="person" ref="#mayr_agnes">Agnes Mayrin</rs> hat laut vorgewisenen Konto 19 f 6 x gezahlt, so allda pr Abzug kommt, id est</cell>
                      <cell>19 f 6 x</cell>
                   </row>
                   <row>
-                     <cell>Mehr deroselben ab 29 Jahr ausständiger Lidlohn <hi rend="strikethrough">a 6 f</hi>
-                     </cell>
+                     <cell>Mehr deroselben ab 29 Jahr ausständiger Lidlohn<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>6 f.</p></note></cell>
                      <cell>150 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Der Heiligen-Kreitz-Kirche auf der Frohnewiese Kapital in 3 Unterschieden</cell>
+                     <cell>Der Heiligen Kreitz Kirche auf der Frohnwiese Kapital in 3 Unterschieden</cell>
                      <cell>400 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Zins auf heuer Sonnewenden verfallen zu 3½ p.c. <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-76</hi>
-                              <hi rend="italic" xml:space="preserve"> Auf der linken Seite nachgetragen.</hi>
-                           </p>
-                        </note>dem Herrn Salcher gezahlt<hi rend="superscript">76</hi>
-                     </cell>
+                     <cell>Zins auf heuer Sonnewenden verfallen zu 3½ p.c., dem Herrn Salcher gezahlt<note><p rend="footnote text"> dem Herrn Salcher gezahlt<hi rend="italic"> am linken Rand geschrieben.</hi></p></note></cell>
                      <cell>14 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Der Frau Pernlachnerin die Bestandzinse von den ihro zugehorigen Gemeinds Stükl vom Jahr 1785 bis im Jahr 1791, als nämlich 6 Jahr, a 10 f, so Herr Ableiber eingenommen, <hi rend="strikethrough">hat</hi> und also die Verlassenschaft zuruckzuersetzen hat summa 60 f, daran sind 14 f gezahlt worden, und restiren also noch</cell>
+                     <cell>Der Frau Pernlachnerin die Bestandzinse von den ihro zugehorigen Gemeinds Stükl vom Jahr 1785 bis im Jahr 1791, als nämlich 6 Jahr, a 10 f, so Herr Ableiber eingenommen,<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>hat.</p></note> und also die Verlassenschaft zuruckzuersetzen hat summa 60 f, daran sind 14 f gezahlt worden, und restiren also noch</cell>
                      <cell>46 f 0 x</cell>
                   </row>
                   <row>
@@ -2847,16 +2676,16 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>Anvorgängig Bestandzinsen fodert Frau Pernlochnerin, und Herr Salcher als Vertretter für den Häringischen Sohn Johann zwar 40 f, haben sich aber endlich nach von den übrigen Erbs Interessenten gemachten Einwendungen begnieget mit der Hälfte id est</cell>
+                     <cell>Anvorgängigen Bestandzinsen fodert Frau Pernlochnerin, und Herr Salcher als Vertretter für den Häringischen Sohn Johann zwar 40 f, haben sich aber endlich nach von den übrigen Erbs Interessenten gemachten Einwendungen begnieget mit der Hälfte id est</cell>
                      <cell>20 f 0 x</cell>
                   </row>
                   <row>
                      <cell>Herrn <rs type="person" ref="#vestner_">Dr. Vestner</rs> zu <rs type="place" ref="#brunegg">Bruneck</rs> für 2 Visiten</cell>
-                     <cell>2 f <hi rend="strikethrough">24</hi> x</cell>
+                     <cell>2 f 0<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Stattdessen gestrichen </hi>24.</p></note> x</cell>
                   </row>
                   <row>
-                     <cell>Für <hi rend="strikethrough">ein To</hi> Fassung eines Todten Kreitz</cell>
-                     <cell>4 <hi rend="strikethrough">6</hi> f 0 x</cell>
+                     <cell>Für<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>ein To-.</p></note> Fassung eines Todten Kreitz</cell>
+                     <cell>4<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Links von gestrichener </hi>6<hi rend="italic" xml:space="preserve"> geschrieben.</hi></p></note> f 0 x</cell>
                   </row>
                </table>
                <p>Da es nun endlich auf Berichtigung der von dem Herrn Ableiber etwo ruckständig seyn mogenden Stiftmessen anzukommen hat, und sowohl nähere Auskunft, als auch eine bestimmte Verbscheidung von einem hochloblichen Consistorio zu <rs type="place" ref="#brixen">Brixen</rs> eingeholet, und abzuwarten seyn wird, als haben die Herrn Erben, und Vertretter mit weiterer Furschreitung in dieser Abhandlungssache bis Erörterung dieses Anstandes einzuhalten gebetten.</p>
@@ -2866,13 +2695,16 @@
                   <pb n="667av + 667ar"/>
                </p>
                <figure>
-                  <graphic n="1001" width="17.00036111111111cm" height="14.017625cm" url="media/image1.jpg" rend="inline"/>
+                  <graphic n="1001" width="17.00036111111111cm" height="14.017625cm" url="image1.jpg" rend="inline"/>
                </figure>
             </div>
             <div>
                <p>
                   <pb n="667b2v"/>
                </p>
+
+<!-- stopped here 1140440-->
+
                <p>Vollmacht für Herrn <rs type="person" ref="#salcher_johann">Johann Salcher</rs> Gerichts Procuratore zu <rs type="place" ref="#st_lorenzen">St. Laurenzen</rs>.</p>
                <p>
                   <pb n="667b1r"/>
@@ -3289,13 +3121,6 @@
                </note> <rs type="person" ref="#pernlachner_anna">Stegerin verehlichte Bernlachner</rs>
                     </p>
                <p>[eigenhändige Unterschrift:] <rs type="person" ref="#pruggnaller_anton">Anton Pruggnaller</rs> als Vertretter des 1ten Haubt Stollen</p>
-               <p>
-                  <pb n="674v"/>
-               </p>
-               <p>[Rubrum:] 1798</p>
-               <p>Weilend des hochehrwürdigen Herrn <rs type="person" ref="#steger_leopold">Leopold Stegers</rs> gewesten Beneficiat beym Heiligen Kreitz seel.</p>
-               <p>Erbstheilung</p>
-               <p>[Kanzleivermerk:] Exped.</p>
             </div>
             <div>
                <p>
