@@ -1483,7 +1483,7 @@
                   </row>
                   <row>
                      <cell>161</cell>
-                     <cell>3 unterschiedliche Töcken ein gewögltes Tischtuech 1 harbenes<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile eingefügt.</hi></p></note> Leilach und 1 Stolln Tiechl</cell>
+                     <cell>3 unterschiedliche Töcken ein gewögltes Tischtuech 1 harbenes<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile nachgetragen.</hi></p></note> Leilach und 1 Stolln Tiechl</cell>
                      <cell>Golser Martl dt.</cell>
                      <cell>1 f 12 x</cell>
                      <cell>3 f 6 x</cell>
@@ -3198,9 +3198,6 @@
                <p>
                   <pb n="701r"/>
                </p>
-
-<!-- stopped here 1140481 -->
-
                <table rend="rules">
                   <row>
                      <cell>1 eisener Fues Kössl</cell>
@@ -3227,7 +3224,7 @@
                      <cell>27 x</cell>
                   </row>
                   <row>
-                     <cell>Mehr <hi rend="strikethrough">6</hi> 5 kleine detto und 1 Schmölz Pfanndl</cell>
+                     <cell>Mehr<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen vermutlich </hi>6.</p></note> 5 kleine detto und 1 Schmölz Pfanndl</cell>
                      <cell>1 f 12 x</cell>
                   </row>
                   <row>
@@ -3260,7 +3257,7 @@
                   </row>
                   <row>
                      <cell>[Latus]</cell>
-                     <cell>8 f 40 x</cell>
+                     <cell>8 f 40<note><p rend="footnote text"> 0<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>8.</p></note> x</cell>
                   </row>
                </table>
                <p>
@@ -3268,7 +3265,7 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>1 <hi rend="strikethrough">zwey</hi> Ihriges Weihe Fass</cell>
+                     <cell>1 zwey Ihriges Weihe Fass</cell>
                      <cell>24 x</cell>
                   </row>
                   <row>
@@ -3295,29 +3292,22 @@
                   </row>
                   <row>
                      <cell>1 barer Speis Kasten</cell>
-                     <cell>18<note>
-                           <p rend="footnote text"> 8 <hi rend="italic">korrigiert aus</hi> 1.</p>
-                        </note> x</cell>
+                     <cell>18<note><p rend="footnote text"> 8 <hi rend="italic">korrigiert aus</hi> 1.</p></note> x</cell>
                   </row>
                   <row>
                      <cell>1 Schissl Ram und 1 Fleisch Stock pr Bht. 1 Brodt Ramm</cell>
                      <cell>20 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <hi rend="strikethrough">1 Kuchl Peil</hi> 1 kupferner Secht Kössl wogt 21½ Pfundt a 24 x</cell>
+                     <cell>1<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Davor gestrichen </hi>1 Kuchl Peil.</p></note> kupferner Secht Kössl wogt 21½ Pfundt a 24 x</cell>
                      <cell>8 f 36 x</cell>
                   </row>
                </table>
                <p>Über der Stiegen hinunter</p>
                <table rend="rules">
                   <row>
-                     <cell>3 schlechte Nudl Predter 1 groser Magen Stampf 1 Reuck 3<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Korrigiert aus</hi> 1.</p>
-                        </note> Prodt Schissl</cell>
-                     <cell>
-                        <hi rend="strikethrough">18</hi> 30 x</cell>
+                     <cell>3 schlechte Nudl Predter 1 groser Magen Stampf 1 Reuck 3<note><p rend="footnote text"><hi rend="italic">Korrigiert aus</hi> 1.</p></note> Prodt Schissl</cell>
+                     <cell>30 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile geschrieben statt gestrichenem </hi>18 x.</p></note></cell>
                   </row>
                   <row>
                      <cell>[Latus]</cell>
@@ -3349,12 +3339,7 @@
                   </row>
                   <row>
                      <cell>1 Ascher panzele sammt 4 Star Aschen</cell>
-                     <cell>
-                        <hi rend="strikethrough">20</hi>
-                        <note>
-                           <p rend="footnote text"> 0 <hi rend="italic">korrigiert aus vermutlich</hi> 6.</p>
-                        </note>
-                        <hi rend="strikethrough" xml:space="preserve"> x</hi> 20 x</cell>
+                     <cell>20<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile geschrieben statt verwischtem und dann gestrichenem </hi>26.</p></note> x</cell>
                   </row>
                   <row>
                      <cell>1 groser Waschzuber</cell>
@@ -3373,23 +3358,19 @@
                      <cell>18 x</cell>
                   </row>
                   <row>
-                     <cell>2 Erde Zungen 2 Schläcker und 2 Ramm Melter</cell>
+                     <cell>2 Erde Zungen 2<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Korrigiert aus </hi>1.</p></note> Schläcker und 2 Ramm Melter</cell>
                      <cell>30 x</cell>
                   </row>
                   <row>
                      <cell>1 Ihren Panzele sammt 1 Trof Schafl</cell>
-                     <cell>15<note>
-                           <p rend="footnote text"> 5 <hi rend="italic">korrigiert aus</hi> 3.</p>
-                        </note> x</cell>
+                     <cell>15<note><p rend="footnote text"> 5 <hi rend="italic">korrigiert aus</hi> 3.</p></note> x</cell>
                   </row>
                   <row>
                      <cell>Darinnen</cell>
                      <cell/>
                   </row>
                   <row>
-                     <cell>
-                        <hi rend="strikethrough">2 Pazeyen rothe Wein</hi>
-                     </cell>
+                     <cell><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gestrichener Eintrag: </hi>2 Pazeyen rothe Wein.</p></note></cell>
                      <cell/>
                   </row>
                   <row>
@@ -3410,7 +3391,7 @@
                      <cell>10 x</cell>
                   </row>
                   <row>
-                     <cell>1 Hack Predt sammt der Päck</cell>
+                     <cell>1<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Korrigiert aus begonnener </hi>2.</p></note> Hack Predt sammt der Pänk</cell>
                      <cell>18 x</cell>
                   </row>
                </table>
@@ -3425,7 +3406,7 @@
                      <cell>18 x</cell>
                   </row>
                   <row>
-                     <cell>12 Apostl Köpf</cell>
+                     <cell>12<note><p rend="footnote text">2 <hi rend="italic" xml:space="preserve"> korrigiert aus </hi>3.</p></note> Apostl Köpf</cell>
                      <cell>10 x</cell>
                   </row>
                   <row>
@@ -3433,10 +3414,7 @@
                      <cell>30 x</cell>
                   </row>
                   <row>
-                     <cell>1<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Korrigiert aus</hi> 2.</p>
-                        </note> runder Tisch mit 1 Schublad</cell>
+                     <cell>1<note><p rend="footnote text"><hi rend="italic"> Korrigiert aus</hi> 2.</p></note> runder Tisch mit 1 Schublad</cell>
                      <cell>36 x</cell>
                   </row>
                   <row>
@@ -3444,8 +3422,7 @@
                      <cell>42 x</cell>
                   </row>
                   <row>
-                     <cell>1 Nachtsösl so bereits neugefietert ist <hi rend="strikethrough">pr Bht.</hi>
-                     </cell>
+                     <cell>1 Nachtsösl so bereits neugefietert ist<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>pr Bht.</p></note></cell>
                      <cell>1 f 30 x</cell>
                   </row>
                   <row>
@@ -3465,7 +3442,7 @@
                      <cell>1 f 12 x</cell>
                   </row>
                   <row>
-                     <cell>2 Korn Schauflen 2 Star Mässreng mit 1 Eisen Raif</cell>
+                     <cell>2 Korn Schauflen 2 Star Massmez mit 1 Eisen Raif</cell>
                      <cell>40 x</cell>
                   </row>
                   <row>
@@ -3486,11 +3463,11 @@
                      <cell>30 x</cell>
                   </row>
                   <row>
-                     <cell>1 Treger <hi rend="strikethrough">und 1 Kistel</hi> und 1 Kistl</cell>
+                     <cell>1 Treger<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>und 1 Kistel.</p></note> und 1 Kistl</cell>
                      <cell>10 x</cell>
                   </row>
                   <row>
-                     <cell>2 Bachtrögelen 5 Brodtflegen 2 Fusspanklen und 1 kleines Wietl Trichele</cell>
+                     <cell>2 Bachtrögelen 5 Brodtflegen 2 Fusspanklen und 1 kleines Wintl Trichele</cell>
                      <cell>1 f 18 x</cell>
                   </row>
                   <row>
@@ -3518,11 +3495,7 @@
                      <cell/>
                   </row>
                   <row>
-                     <cell>1 griener und 2 <hi rend="strikethrough">kleine</hi> braune<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Über der Zeile korrigiert.</hi>
-                           </p>
-                        </note> Krieg mit zinnern Lücker</cell>
+                     <cell>1 griener und 2 braune<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile geschrieben statt gestrichenem </hi>kleine.</p></note> Krieg mit zinnern Lüker</cell>
                      <cell>24 x</cell>
                   </row>
                   <row>
@@ -3543,7 +3516,7 @@
                      <cell>12 x</cell>
                   </row>
                   <row>
-                     <cell>3 <hi rend="strikethrough">k</hi> andere detto mit einen zinern Lück</cell>
+                     <cell>3<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>k-.</p></note> andere detto mit einen zinnern Lück</cell>
                      <cell>10 x</cell>
                   </row>
                   <row>
@@ -3551,23 +3524,15 @@
                      <cell>36 x</cell>
                   </row>
                   <row>
-                     <cell>3<note>
-                           <p rend="footnote text">
-                              <hi rend="italic" xml:space="preserve">Korrigiert aus </hi>2.</p>
-                        </note> mit Löder eingefassene Flaschen</cell>
-                     <cell>14<note>
-                           <p rend="footnote text"> 4 <hi rend="italic">korrigiert aus</hi> 0.</p>
-                        </note> x</cell>
+                     <cell>3<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Korrigiert aus </hi>2.</p></note> mit Löder eingefassene Flaschen</cell>
+                     <cell>14<note><p rend="footnote text"> 4 <hi rend="italic">korrigiert aus</hi> 0.</p></note> x</cell>
                   </row>
                   <row>
-                     <cell>3 blaue und 1<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Korrigiert aus</hi> 3.</p>
-                        </note> brauner Kafe Schalln sammt die Löfl und Milch Kandelen</cell>
+                     <cell>3 blaue und 1<note><p rend="footnote text"><hi rend="italic"> Korrigiert aus</hi> 3.</p></note> braune Kafe Schalln sammt die Löfl und Milch Kandelen</cell>
                      <cell>18 x</cell>
                   </row>
                   <row>
-                     <cell>3 Maas Putele</cell>
+                     <cell>3 Maas Puteln</cell>
                      <cell>30 x</cell>
                   </row>
                   <row>
@@ -3575,15 +3540,7 @@
                      <cell>10 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <hi rend="strikethrough">19</hi> 17<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Über der Zeile korrigiert.</hi>
-                           </p>
-                        </note> Weihn und 3<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Korrigiert aus</hi> 1.</p>
-                        </note> Wasser Gläser</cell>
+                     <cell>17<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile geschrieben statt gestrichenem </hi>19.</p></note> Weihn und 3<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Korrigiert aus </hi>1.</p></note> Wasser Gläser</cell>
                      <cell>40 x</cell>
                   </row>
                   <row>
@@ -3612,15 +3569,15 @@
                      <cell>12 x</cell>
                   </row>
                   <row>
-                     <cell>1 tiefe und 2 fletze Mayolika <hi rend="strikethrough">Thäller</hi> Schüssl sammt einer <hi rend="strikethrough">Sche</hi> Suppen Schalle</cell>
+                     <cell>1 tiefe und 2 fletze Mayolika<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Thäller.</p></note> Schüssl sammt einer<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Schn-.</p></note> Suppen Schalle</cell>
                      <cell>18 x</cell>
                   </row>
                   <row>
-                     <cell>3 Ordiniey Putscher und 1 anderer detto</cell>
+                     <cell>3 <unclear>Ordiniey</unclear> Putscher und 1 an[d]ere detto</cell>
                      <cell>7 x</cell>
                   </row>
                   <row>
-                     <cell>1 Mösser Körbl und 1 mössigens Weihn Pipl 1 mössigens Kinder Leuchterle</cell>
+                     <cell>1 Mösser Körbl und 1 mossigens We[i]hn Pipl 1 mössigens Kinder Leuchterle</cell>
                      <cell>24 x</cell>
                   </row>
                   <row>
@@ -3628,7 +3585,7 @@
                      <cell>30 x</cell>
                   </row>
                   <row>
-                     <cell>6 Baar Mösser und Gabl mit baynene Häfter</cell>
+                     <cell>6 Baar Mösser und Gablen mit baynen Häfter</cell>
                      <cell>24 x</cell>
                   </row>
                   <row>
@@ -3640,7 +3597,7 @@
                      <cell>8 x</cell>
                   </row>
                   <row>
-                     <cell>1 Trantschier und 5 andere Gablen</cell>
+                     <cell>1 Trantschier und 5 andere<note><p rend="footnote text"> a-<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>P-.</p></note> Gablen</cell>
                      <cell>9 x</cell>
                   </row>
                   <row>
@@ -3661,25 +3618,15 @@
                      <cell>12 x</cell>
                   </row>
                   <row>
-                     <cell>4¾ Ellen rupfenes Tischzeüg a 22<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Zweite</hi> 2 <hi rend="italic">aus</hi> 0 <hi rend="italic">korrigiert.</hi>
-                           </p>
-                        </note> x</cell>
+                     <cell>4¾ Ellen rupfenes Tischzeüg a 22<note><p rend="footnote text"><hi rend="italic"> Zweite</hi> 2 <hi rend="italic">korrigiert aus</hi> 0.</p></note> x</cell>
                      <cell>1 f 44½ x</cell>
                   </row>
                   <row>
-                     <cell>22 Elln leichhachlenes Tuech a 20 x</cell>
-                     <cell>7 f <hi rend="strikethrough">42</hi> 20<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Über der Zeile korrigiert.</hi>
-                           </p>
-                        </note> x</cell>
+                     <cell>22 Elln leichhachlenes braits<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> In der nächsten Zeile geschrieben.</hi></p></note> Tuech a 20 x</cell>
+                     <cell>7 f 20<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile geschrieben statt gestrichenem </hi>42.</p></note> x</cell>
                   </row>
                   <row>
-                     <cell>9 Elln rupfenes Tuech a 24<note>
-                           <p rend="footnote text"> 4 <hi rend="italic">korrigiert aus</hi> 3.</p>
-                        </note> x</cell>
+                     <cell>9 Elln rupfenes Tuech a 24<note><p rend="footnote text"> 4 <hi rend="italic">korrigiert aus</hi> 3.</p></note> x</cell>
                      <cell>3 f 36 x</cell>
                   </row>
                   <row>
@@ -3688,11 +3635,7 @@
                   </row>
                   <row>
                      <cell>Mehr 29½ Elln farbenes Tuech a 26 x</cell>
-                     <cell>12 f <hi rend="strikethrough">34</hi> 47<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Über der Zeile korrigiert.</hi>
-                           </p>
-                        </note> x</cell>
+                     <cell>12 f 47<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile geschrieben statt gestrichenem </hi>34.</p></note> x</cell>
                   </row>
                   <row>
                      <cell>1 Tischtuch mit Spitz</cell>
@@ -3716,11 +3659,7 @@
                   </row>
                   <row>
                      <cell>[Latus]</cell>
-                     <cell>42 f <hi rend="strikethrough">36 x</hi> 27 x<note>
-                           <p rend="footnote text"> 27 x <hi rend="italic">unter der Zeile korrigiert.</hi>
-                           </p>
-                        </note>
-                     </cell>
+                     <cell>42 f 27<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Unter der Zeile geschrieben statt gestrichenem </hi>36.</p></note> x</cell>
                   </row>
                </table>
                <p>
@@ -3728,13 +3667,8 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>4 <hi rend="strikethrough">h</hi> Baar harbene Leilacher mit Spitzen a 3<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Korrigiert aus</hi> 1.</p>
-                        </note> f 30 x</cell>
-                     <cell>14<note>
-                           <p rend="footnote text"> 4 <hi rend="italic">korrigiert aus</hi> 6.</p>
-                        </note> f 0 x</cell>
+                     <cell>4<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>h-.</p></note> Baar harbene Leilacher mit Spitzen a 3<note><p rend="footnote text"><hi rend="italic">Korrigiert aus</hi> 1.</p></note> f 30 x</cell>
+                     <cell>14<note><p rend="footnote text"> 4 <hi rend="italic">korrigiert aus</hi> 6.</p></note> f 0 x</cell>
                   </row>
                   <row>
                      <cell>11 Tischservieter a 10 x</cell>
@@ -3773,7 +3707,7 @@
                      <cell>8 x</cell>
                   </row>
                   <row>
-                     <cell>2 Pinth Strikn und 1 Sail und 1 Kälber Köttl</cell>
+                     <cell>2 Pinth Strikn und 1 Sail und 1 Kölber Köttl</cell>
                      <cell>1 f 48 x</cell>
                   </row>
                   <row>
@@ -3798,37 +3732,23 @@
                      <cell>8 x</cell>
                   </row>
                   <row>
-                     <cell>1 Messer Psteck Fueterall 13 <hi rend="strikethrough">Baar mit</hi> Paar Mösser und Gabl womit die Hälfte mit Steinbock die Hälfte mit silbener Häfter beschlagen <hi rend="strikethrough">pr Bht.</hi> a 1 f</cell>
+                     <cell>1 Messer Psteck Fueterall 13<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Baar mit.</p></note> Paar Mösser und Gabl womit die Hälfte mit Steinbock die Hälfte mit silbener Häfter beschlagen<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>pr Bht.</p></note> a 1 f</cell>
                      <cell>13 f 0 x</cell>
                   </row>
                   <row>
                      <cell>6 neüe zinnene Thäller wögt 5¾ Pf. 30 x</cell>
-                     <cell>3 f 22½ x<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Betrag ist falsch, wäre 2 f 52½ x.</hi>
-                           </p>
-                        </note>
-                     </cell>
+                     <cell>3 f 22½ x<note><p rend="footnote text"><hi rend="italic">Betrag ist falsch, wäre 2 f 52½ x.</hi></p></note></cell>
                   </row>
                   <row>
                      <cell>1 groser Einsatz mit 6 Schalln wögt 6½ Pf. a 24 x</cell>
-                     <cell>1 f 56 x<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Betrag ist falsch, wäre 2 f 36 x.</hi>
-                           </p>
-                        </note>
-                     </cell>
+                     <cell>1 f 56 x<note><p rend="footnote text"><hi rend="italic">Betrag ist falsch, wäre 2 f 36 x.</hi></p></note></cell>
                   </row>
                   <row>
                      <cell>3 zinnene Flaschen wögen 6¼ Pfundt a 20 x</cell>
                      <cell>2 f 5 x</cell>
                   </row>
                   <row>
-                     <cell>12 schlechtere zinnene<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Über der Zeile eingefügt.</hi>
-                           </p>
-                        </note> Thäller wögt 13½ Pf. a 30 x</cell>
+                     <cell>12 schlechtere zinnene<note><p rend="footnote text"><hi rend="italic">Über der Zeile eingefügt.</hi></p></note> Thäller wögt 13½ Pf. a 30 x</cell>
                      <cell>6 f 45 x</cell>
                   </row>
                   <row>
@@ -3845,9 +3765,7 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>8 zinnene Schüssl wögen 23¾ Pf. a 30<note>
-                           <p rend="footnote text"> 0 <hi rend="italic">korrigiert aus</hi> 1.</p>
-                        </note> x</cell>
+                     <cell>8 zinnene Schüssl wögen 23¾ Pf. a 30<note><p rend="footnote text"> 0 <hi rend="italic">korrigiert aus</hi> 1.</p></note> x</cell>
                      <cell>11 f 40 x</cell>
                   </row>
                   <row>
@@ -3863,19 +3781,15 @@
                      <cell>2 f 50 x</cell>
                   </row>
                   <row>
-                     <cell>1 zinenes<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Über der Zeile nachgetragen.</hi>
-                           </p>
-                        </note> Geispöket ober und unterer Theil wogt 6 Pf. a 18 x</cell>
+                     <cell>1 zinenes<note><p rend="footnote text"><hi rend="italic"> Über der Zeile nachgetragen.</hi></p></note> Giespöket ober und unterer Theil wogt 6 Pf. a 18 x</cell>
                      <cell>1 f 48 x</cell>
                   </row>
                   <row>
-                     <cell>2 <hi rend="strikethrough">h</hi> zinene halb Kafee, 2 Fragl 3 <hi rend="strikethrough">Wech</hi> Weih Prun Kriegl 1 Salz Pichsl wögt 7 Pf. a 20 x</cell>
+                     <cell>2<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt irrig nicht gestrichen </hi>h-.</p></note> zinene halb Kafee, 2 Fragler 3<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Wech-.</p></note> Weih Prun Kriegl 1 Salz Pichsl wögt 7 Pf. a 20 x</cell>
                      <cell>2 f 20 x</cell>
                   </row>
                   <row>
-                     <cell>1 kupferner Schwenck Kössl wögt 6 Pf. a 36 x</cell>
+                     <cell>1 kupferner Schwenck Kössl wögt 6<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>6.</p></note> Pf. a 36 x</cell>
                      <cell>3 f 36 x</cell>
                   </row>
                   <row>
@@ -3896,7 +3810,7 @@
                      <cell>1 f 36 x</cell>
                   </row>
                   <row>
-                     <cell>2 mössigne Leichter</cell>
+                     <cell>2 mössigen Leichter</cell>
                      <cell>18 x</cell>
                   </row>
                   <row>
@@ -3931,13 +3845,12 @@
                      <cell>48 x</cell>
                   </row>
                   <row>
-                     <cell>Mehr 3 Mittern Taflen</cell>
-                     <cell>
-                        <hi rend="strikethrough">36</hi> 54 x</cell>
+                     <cell>Mehr 3 mitere Taflen</cell>
+                     <cell>54<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile geschrieben statt gestrichenem </hi>36.</p></note> x</cell>
                   </row>
                   <row>
                      <cell>
-                        <hi rend="strikethrough">3 Tafl mi</hi> 1 Maria von guten Rath Tafl</cell>
+                        1<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Davor gestrichen </hi>3 tafl mi-<hi rend="italic" xml:space="preserve"> mit </hi>3<hi rend="italic" xml:space="preserve"> korrigiert aus</hi>1.</p></note> Maria von guten Rath Tafl</cell>
                      <cell>12 x</cell>
                   </row>
                   <row>
@@ -3954,14 +3867,11 @@
                      <cell>24 x</cell>
                   </row>
                   <row>
-                     <cell>4<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Korrigiert aus</hi> 1.</p>
-                        </note> geschnitzelte Pilder und 2 Schützengl</cell>
+                     <cell>4<note><p rend="footnote text"><hi rend="italic">Korrigiert aus</hi> 1.</p></note> geschnitzelte Pilder und 2 Schützengl</cell>
                      <cell>1 f 18 x</cell>
                   </row>
                   <row>
-                     <cell>3 unterschiedliche Töcken ein gewögletes Tischtuech 1 Leilach 1 Stölln Tiechl</cell>
+                     <cell>3 unterschiedliche Töcken ein gewögletes Tischtuech 1 harbenes<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile nachgetragen.</hi></p></note> Leilach 1 Stölln Tiechl</cell>
                      <cell>1 f 12 x</cell>
                   </row>
                   <row>
@@ -3985,9 +3895,7 @@
                      <cell>40 x</cell>
                   </row>
                   <row>
-                     <cell>2 blöchene<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Über der Zeile nachgetragen.</hi>
+                     <cell>2 blöchene<note><p rend="footnote text"><hi rend="italic">Über der Zeile nachgetragen.</hi>
                            </p>
                         </note> Studier Lampen und 1 esener [sic!] Leichter</cell>
                      <cell>30 x</cell>
@@ -4022,28 +3930,19 @@
                      <cell/>
                   </row>
                   <row>
-                     <cell>31 <hi rend="strikethrough">Gad</hi> Spueln darauf 19 Pf. harbenes Gadn a 45 x</cell>
-                     <cell>
-                        <hi rend="strikethrough">23</hi> 14<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">23 f 15 x stimmt für Rechnung nach Spulen, 14 f 15 x nach Pfund.</hi>
-                           </p>
-                        </note> f 15 x</cell>
+                     <cell>31<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Gad-.</p></note> Spueln darauf 19 Pf. harbenes Gadn a 45 x</cell>
+                     <cell>14<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile geschrieben statt gestrichenem </hi>23. <hi rend="italic" xml:space="preserve">23 f 15 x stimmt für Rechnung nach Spulen, 14 f 15 x nach Pfund.</hi></p></note> f 15 x</cell>
                   </row>
                   <row>
                      <cell>1¾ Pf. Haar Reisten a 24 x</cell>
                      <cell>40 x</cell>
                   </row>
                   <row>
-                     <cell>2 Stren Zwirn 2 Strenn Garn 1 Strenn Tacht wögt <hi rend="strikethrough">Pf.</hi>
-                     </cell>
+                     <cell>2 Stren Zwirn 2 Strenn Garn 1 Strenn Tacht wögt<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Pf.</p></note></cell>
                      <cell>1 f 12 x</cell>
                   </row>
                   <row>
-                     <cell>2 roth getruckte alta<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Irrig für</hi> alte.</p>
-                        </note> Töpicher</cell>
+                     <cell>2 roth getruckte alta<note><p rend="footnote text"><hi rend="italic">Irrig für</hi> alte.</p></note> Töpicher</cell>
                      <cell>24 x</cell>
                   </row>
                   <row>
@@ -4076,8 +3975,7 @@
                   </row>
                   <row>
                      <cell>[Latus]</cell>
-                     <cell>
-                        <hi rend="strikethrough">15</hi> 22 f 32 x</cell>
+                     <cell>22<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Unter der Zeile geschrieben statt gestrichenem </hi>15.</p></note> f 32 x</cell>
                   </row>
                </table>
                <p>
@@ -4085,8 +3983,7 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>1 <hi rend="bold">Schreibbuld</hi>
-                     </cell>
+                     <cell>1 <bibl>Schreibbuld</bibl></cell>
                      <cell>20 x</cell>
                   </row>
                   <row>
@@ -4094,8 +3991,7 @@
                      <cell/>
                   </row>
                   <row>
-                     <cell>
-                        <hi rend="bold">1 plechener Schreibzeüg</hi> 1 blechenes Lutherl</cell>
+                     <cell><bibl>1 plechener Schreibzeüg</bibl> 1 blechenes Lutherl</cell>
                      <cell>12 x</cell>
                   </row>
                </table>
@@ -4106,15 +4002,7 @@
                      <cell>8 x</cell>
                   </row>
                   <row>
-                     <cell>1 8<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Über der Zeile nachgetragen.</hi>
-                           </p>
-                        </note> ögater Tisch sammt 1<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Über der Zeile nachgetragen.</hi>
-                           </p>
-                        </note> Schublad</cell>
+                     <cell>1 8<note><p rend="footnote text"><hi rend="italic">Über der Zeile nachgetragen.</hi></p></note> ögater Tisch sammt 1<note><p rend="footnote text"><hi rend="italic">Über der Zeile nachgetragen.</hi></p></note> Schublad</cell>
                      <cell>30 x</cell>
                   </row>
                   <row>
@@ -4126,25 +4014,9 @@
                      <cell/>
                   </row>
                   <row>
-                     <cell>1 Überböth mit innern Kitzern Fehlen und auser blau köllnischen Ziechen samt 1 Bolster so mit innern Zwilch und ausern gelben getruckn<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Über der Zeile nachgetragen.</hi>
-                           </p>
-                        </note> Ziechen <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-128</hi>
-                              <hi rend="italic">Am rechten Rand und interlinear nachgetragen.</hi>
-                           </p>
-                        </note>auch 1 Kis mit inner Kitzfehlen und ausern weis harbenen Ziechen<hi rend="superscript">362</hi> wögt 21<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Korrigiert aus</hi> 19.</p>
-                        </note> Pf. 24 x</cell>
-                     <cell>8 f <hi rend="strikethrough">48</hi> 24 x<note>
-                           <p rend="footnote text">
-                              <hi rend="italic" xml:space="preserve">Erste </hi>8 <hi rend="italic" xml:space="preserve">korrigiert aus </hi>7, 24<hi rend="italic" xml:space="preserve"> über der Zeile korrigiert. Betrag wäre bei 19 Pfund à 24 x 7 f 36 x.</hi>
-                           </p>
-                        </note>
-                     </cell>
+                     <cell>1 Uberböth mit innern Kitzern Fehlen und auser blau köllnischen Ziechen samt 1 Bolster so mit innern Zwilch und ausern gelben getruckn<note><p rend="footnote text"><hi rend="italic">Über der Zeile nachgetragen.</hi></p></note> Ziechen auch 1 Kis mit inner Kitzfehlen und ausern weis harbenen
+                     Ziechen<note><p rend="footnote text">auch 1 Kis mit inner Kitzfehlen und ausern weis harbenen Ziechen<hi rend="italic" xml:space="preserve"> am rechten Rand und interlinear eingefügt.</hi></p></note> wögt 21<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Korrigiert aus </hi>19.<hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>½.</p></note> Pf. 24 x</cell>
+                     <cell>8 f 24 x<note><p rend="footnote text"> 8<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>7. 24<hi rend="italic" xml:space="preserve"> über der Zeile geschrieben statt gestrichenem </hi>48.<hi rend="italic" xml:space="preserve"> Betrag wäre bei 19 Pfund à 24 x 7 f 36 x.</hi></p></note></cell>
                   </row>
                   <row>
                      <cell>1 grienes Pöthstatl</cell>
@@ -4156,10 +4028,7 @@
                   </row>
                   <row>
                      <cell>1 Strohsack sammt den Polster</cell>
-                     <cell>10<note>
-                           <p rend="footnote text"> 1 <hi rend="italic">korrigiert aus Bindestrich als Auslassungszeichen.</hi>
-                           </p>
-                        </note> x</cell>
+                     <cell>10<note><p rend="footnote text"> 1 <hi rend="italic">korrigiert aus Bindestrich als Auslassungszeichen.</hi></p></note> x</cell>
                   </row>
                   <row>
                      <cell>1 Überböth sammt den Polster und 1 Kiss mit innern Parchet und ausern köllnischen Ziechen wögt 20 Pf. a 20 x</cell>
@@ -4183,7 +4052,7 @@
                      <cell>18 x</cell>
                   </row>
                   <row>
-                     <cell>2 Taflen Heilige Dreyfaltigkeit und Heilige Antony <hi rend="strikethrough">def</hi> Tafl</cell>
+                     <cell>2 Taflen Heilige Dreyfaltigkeit und Heilige Antony<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>den-.</p></note> Tafl</cell>
                      <cell>18 x</cell>
                   </row>
                   <row>
@@ -4203,13 +4072,8 @@
                      <cell>10 x</cell>
                   </row>
                   <row>
-                     <cell>4 gefüeterte Stüel a 12 x <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-132</hi>
-                              <hi rend="italic">Am linken Rand geschrieben.</hi>
-                           </p>
-                        </note>spricht Herrn <unclear>Spetner</unclear> an<hi rend="superscript">132</hi>
-                     </cell>
+                     <cell><p>4 gefüeterte Stüel a 12 x</p>
+                           <p>Spricht Herrn Spetner an.<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamte Bemerkung am linken Rand geschrieben.</hi></p></note></p></cell>
                      <cell>48 x</cell>
                   </row>
                   <row>
@@ -4232,18 +4096,12 @@
                      <cell>18 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <hi rend="strikethrough">1 Spann Pöthstatth</hi>
-                     </cell>
-                     <cell>
-                        <hi rend="strikethrough">24 x</hi>
-                     </cell>
+                     <cell><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gestrichener Eintrag: </hi>1 Spann Pöthstatth --- 24 x.</p></note></cell>
+                     <cell/>
                   </row>
                   <row>
                      <cell>[Latus]</cell>
-                     <cell>3 f 42<note>
-                           <p rend="footnote text"> 2 <hi rend="italic">korrigiert aus angefangener</hi> 5.</p>
-                        </note> x</cell>
+                     <cell>3 f 42<note><p rend="footnote text"> 2 <hi rend="italic">korrigiert aus angefangener</hi> 5.</p></note> x</cell>
                   </row>
                </table>
                <p>
@@ -4255,19 +4113,15 @@
                      <cell>12 x</cell>
                   </row>
                   <row>
-                     <cell>1 aufgerihtetes <hi rend="strikethrough">Altarl</hi> Maria Hilf Altarl</cell>
-                     <cell>1 x</cell>
+                     <cell>1 aufgerihtetes<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Altarl.</p></note> Maria Hilf Altarl</cell>
+                     <cell>1 f 0 x</cell>
                   </row>
                   <row>
                      <cell>1 Heiliger Franziskus Pild</cell>
                      <cell>18 x</cell>
                   </row>
                   <row>
-                     <cell>1 Komunion<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Zwischen</hi> -m- <hi rend="italic">und zweitem</hi> -o- <hi rend="italic">ein Schaft zuviel.</hi>
-                           </p>
-                        </note> Tafl mit einer schwarz gepasten Rahm und 1 guldenen Leisten</cell>
+                     <cell>1 Komunion<note><p rend="footnote text"><hi rend="italic"> Zwischen</hi> -m- <hi rend="italic">und zweitem</hi> -o- <hi rend="italic">ein Schaft zuviel.</hi></p></note> Tafl mit einer schwarz gepesten<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gemeint ist gebeizten.</hi></p></note> Rahm und 1 guldenen Leisten</cell>
                      <cell>45 x</cell>
                   </row>
                   <row>
@@ -4287,7 +4141,7 @@
                      <cell>10 x</cell>
                   </row>
                   <row>
-                     <cell>1 Spiegl mit schwarz gebesten Rahmen</cell>
+                     <cell>1 Spiegl mit schwarz gebesten<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gemeint ist gebeizten.</hi></p></note> Rahmen</cell>
                      <cell>24 x</cell>
                   </row>
                   <row>
@@ -4295,12 +4149,7 @@
                      <cell>36 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <hi rend="strikethrough">3</hi> 5<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Über der Zeile korrigiert.</hi>
-                           </p>
-                        </note> Fürhang Stanglen</cell>
+                     <cell>5<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile geschrieben statt gestrichener </hi>3.</p></note> Fürhang Stanglen</cell>
                      <cell>18 x</cell>
                   </row>
                   <row>
@@ -4313,7 +4162,7 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>2 Körbisch</cell>
+                     <cell>2<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Korrigiert aus </hi>1.</p></note> Körbisch</cell>
                      <cell>6 x</cell>
                   </row>
                   <row>
@@ -4322,47 +4171,23 @@
                   </row>
                   <row>
                      <cell>1 Pult mit 15 Thatlen</cell>
-                     <cell>
-                        <hi rend="strikethrough">48 x</hi> 1 f 12 x<note>
-                           <p rend="footnote text"> 1 f 12 x <hi rend="italic">über der Zeile korrigiert.</hi>
-                           </p>
-                        </note>
-                     </cell>
+                     <cell>1 f 12 x<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Betrag über der Zeile geschrieben statt gestrichenem </hi>48 x.</p></note></cell>
                   </row>
                   <row>
-                     <cell>3 Petscharn</cell>
+                     <cell>3 Putscharn</cell>
                      <cell>6 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <hi rend="bold">Die ganze Bucher Pibliteck worunter die Heilige Schrift in Folio sammt die 4 Previer</hi>
-                     </cell>
-                     <cell>
-                        <hi rend="bold">6 f 0 x</hi>
-                     </cell>
+                     <cell><bibl>Die ganze Bucher Pibliteck worunter die Heilige Schrift in Folio sammt die 4 Previer</bibl></cell>
+                     <cell><bibl>6 f 0 x</bibl></cell>
                   </row>
                   <row>
-                     <cell>1 eisener Tisch Pfann<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Unterlänge bei</hi> -f- <hi rend="italic">fehlt.</hi>
-                           </p>
-                        </note> Knecht 1 Feld Korb</cell>
+                     <cell>1 eisener Tisch Pfann<note><p rend="footnote text"><hi rend="italic">Unterlänge bei</hi> -f- <hi rend="italic">fehlt.</hi></p></note> Knecht 1 Feld Korb</cell>
                      <cell>36 x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="superscript">-138</hi>
-                              <hi rend="italic">Mit Bleistift gestrichen.</hi>
-                           </p>
-                        </note>
-                        <hi rend="bold strikethrough">1 steinenes Schreib Tafele</hi>
-                     </cell>
-                     <cell>
-                        <hi rend="bold strikethrough">4 x</hi>
-                        <hi rend="superscript">138</hi>
-                     </cell>
+                     <cell>1 steinenes <bibl>Schreib Tafele</bibl><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gesamter Eintrag samt Betrag mit Bleistift gestrichen.</hi></p></note></cell>
+                     <cell>4 x</cell>
                   </row>
                </table>
                <p>In Stuben Kammerle</p>
@@ -4417,9 +4242,8 @@
                      <cell/>
                   </row>
                   <row>
-                     <cell>1 <hi rend="bold">Bapier Schaar</hi>
-                     </cell>
-                     <cell>
+                     <cell>1 Bapier Schaar</cell>
+                     <cell>6<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Davor gestrichen </hi>6 f.</p></note> x
                         <hi rend="strikethrough">6 f</hi> 6 x</cell>
                   </row>
                   <row>
@@ -4431,7 +4255,7 @@
                      <cell>30 x</cell>
                   </row>
                   <row>
-                     <cell>1 groses Schloss und 2 Schnaeln</cell>
+                     <cell>1 groses Schloss und 2 Schnaeler</cell>
                      <cell>18 x</cell>
                   </row>
                   <row>
@@ -4440,7 +4264,7 @@
                   </row>
                   <row>
                      <cell>
-                        <hi rend="strikethrough">1 Schlag Uhr</hi> 1 eisene Repetier Uhr</cell>
+                        1<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Davor gestrichen </hi>1 Schlag Uhr<hi rend="italic" xml:space="preserve"> mit gestrichenem </hi>E-<hi rend="italic" xml:space="preserve"> über </hi>1.</p></note> eisene Repetier Uhr</cell>
                      <cell>12 f</cell>
                   </row>
                </table>
@@ -4448,25 +4272,14 @@
                <table rend="rules">
                   <row>
                      <cell>1 Essen Breth 1 Welt Breth 1 roths Fürpankl</cell>
-                     <cell>9 x<note>
-                           <p rend="footnote text">
-                              <hi rend="italic" xml:space="preserve">Davor begonnene </hi>1 <hi rend="italic">durch Bindestrich als Auslassungszeichen korrigiert.</hi>
-                           </p>
-                        </note>
-                     </cell>
+                     <cell>9<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Davor gestrichen begonnene</hi>1.</p></note> x</cell>
                   </row>
                   <row>
                      <cell>12 Körtzen Predter 1 Pantl Ramml 2 Prodt Schragen und 2 Korzen Stander</cell>
-                     <cell>
-                        <hi rend="strikethrough">18</hi> 24<note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Über der Zeile korrigiert.</hi>
-                           </p>
-                        </note> x</cell>
+                     <cell>24<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile geschrieben statt gestrichenem </hi>18.</p></note> x</cell>
                   </row>
                   <row>
-                     <cell>
-                        <hi rend="strikethrough">drezen</hi> 1 Ziech Schlitten</cell>
+                     <cell>1<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Davor gestrichen vermutlich </hi>Weüze-.</p></note> Ziech Schlitten</cell>
                      <cell>10 x</cell>
                   </row>
                   <row>
@@ -4497,9 +4310,7 @@
                   </row>
                   <row>
                      <cell>150 Schaab</cell>
-                     <cell>1 f 18<note>
-                           <p rend="footnote text"> 8 <hi rend="italic">korrigiert aus</hi> 1.</p>
-                        </note> x</cell>
+                     <cell>1 f 18 x</cell>
                   </row>
                   <row>
                      <cell>[Latus]</cell>
@@ -4508,31 +4319,8 @@
                </table>
                <table rend="rules">
                   <row>
-                     <cell>
-                        <hi rend="strikethrough">Barschaft</hi>
-                     </cell>
-                     <cell>
-                        <p>18 x<note>
-                              <p rend="footnote text">
-                                 <hi rend="italic">Mit Bleistift über der Zeile geschrieben.</hi>
-                              </p>
-                           </note>
-                        </p>
-                        <p>
-                           <hi rend="strikethrough">9 f 49 x</hi>
-                        </p>
-                     </cell>
-                  </row>
-                  <row>
-                     <cell>[Summa]</cell>
-                     <cell>
-                        <hi rend="strikethrough">10 f 7 x</hi>
-                        <note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Mit Bleistift geschrieben, mit Tinte gestrichen.</hi>
-                           </p>
-                        </note>
-                     </cell>
+                     <cell><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Gestrichener Eintrag: </hi>Baarschaft --- 9f 49 x. <hi rend="italic" xml:space="preserve">Darüber mit Bleistift geschrieben (und nicht gestrichen) </hi>18 x<hi rend="italic" xml:space="preserve">, darunter summiert und mit Bleistift geschrieben </hi>10 f 7 x.</p></note></cell>
+                     <cell/>
                   </row>
                   <row>
                      <cell>An Baarschaft ist vorhanden</cell>
