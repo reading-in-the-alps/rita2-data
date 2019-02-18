@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -78,9 +77,8 @@
                <persName>
                   <forename>Maria Ursula</forename>
                   <surname type="birth">Stockerin</surname>
-                  <addname/>
-                  <occupation>Terziarschwester</occupation>
                </persName>
+               <occupation>Terziarschwester</occupation>
                <note type="placing">Ansitz <rs type="place" ref="#getreuenstain">Getreuenstein</rs> in <rs type="place" ref="#dietenheim">Dietenheim</rs></note>
                <note type="function"/>
                <note type="family"/>
@@ -103,7 +101,9 @@
                <persName>
                   <forename>Joseph</forename>
                   <surname>Hueber</surname>
-                  <addname>Niedermayr in <rs type="place" ref="#dietenheim">Dietenheim</rs></addname>
+               </persName>
+               <persName type="alt">
+                  Niedermayr in Dietenheim
                </persName>
                <note type="function">Taxator</note>
             </person>
@@ -232,9 +232,11 @@
                <persName>
                   <forename>Johann</forename>
                   <surname>Hueber</surname>
-                  <addname>Rindler in <rs type="place" ref="#saalen">Saalen</rs></addname>
-                  <occupation>Wirt</occupation>
                </persName>
+               <persName type="alt">
+                  Rindler in Saalen
+               </persName>
+               <occupation>Wirt</occupation>
                <note type="function">Taxator (1752)</note>
                <note type="function">Vertreter von Maria Manucredin, Theresia Manucredin, Anna Manucredin (1752)</note>
                <note type="function">Kirchenpropst</note>
@@ -1247,7 +1249,7 @@
                   <forename>Franz</forename>
                   <surname>Prugger</surname>
                </persName>
-               <note type="function">Jäger unnd Fischer</note> in <rs type="place" ref="#st_georgen">Sankt Georgen</rs>
+               <note type="function">Jäger unnd Fischer in <rs type="place" ref="#st_georgen">Sankt Georgen</rs></note>
             </person>
             <person xml:id="pfeiffhofer_gregori">
                <persName>
