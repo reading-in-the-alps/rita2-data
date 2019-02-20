@@ -42,16 +42,21 @@
               <bibl xml:id="biblia_sacra">
                 <author/>
                 <publisher/>
-                <title>Bibel</title>
+                <title>Bibel (deutsch, latein)</title>
                 <format>Folio</format>
                 <einband>französisch</einband>
                 <volumes>2</volumes>
                 <language>deutsch, latein</language>
               </bibl>
-              <bibl xml:id="teutsche_bibl">
+              <bibl xml:id="biblia_sacra2">
                 <author/>
                 <publisher/>
                 <title>Bibel</title>
+              </bibl>
+              <bibl xml:id="teutsche_bibl">
+                <author/>
+                <publisher/>
+                <title>Bibel (deutsch)</title>
                 <format>Folio</format>
                 <einband>Leder (Schweinsleder)</einband>
                 <volumes/>
@@ -142,12 +147,10 @@
               </bibl>
               <bibl xml:id="sacerdotale_brixinense">
                 <author ref="http://d-nb.info/gnd/119500809">Christoph Andreas von Spaur</author>
+                <author cer="undefined" ref="http://d-nb.info/gnd/115772251">Wilhelm von Welsberg</author>
                 <publisher/>
                 <title>Sacerdotale Brixinense continens modum administrandi sacramenta, exequias defunctorum, item benedictiones sacerdotales per totum annum ad ritum Romanum, et usum Dioecesis Brixinensis etc.</title>
-                <format>Quart</format>
-                <einband>Leder (schwarz)</einband>
-                <volumes></volumes>
-                <language/>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11069246-0</exemplar>
               </bibl>
               <bibl xml:id="praembhofer_saemsonischer_hoenig_fladen">
                 <author ref="http://d-nb.info/gnd/124016154">Johannes Prambhofer</author>
@@ -222,9 +225,10 @@
                 <language/>
               </bibl>
               <bibl xml:id="marianischer_ehren_saal">
-                <author/>
+                <author cer="low" ref="http://d-nb.info/gnd/121249670">Johann Andreas Graf</author>
                 <publisher/>
-                <title cer="low">Marianischer Ehren-Saal</title>
+                <title cer="low">Marianischer Ehren-Schall etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10329671-9</exemplar>
                 <format>Folio</format>
                 <einband>Leder (Schweinsleder)</einband>
                 <volumes>1</volumes>
@@ -235,7 +239,7 @@
                 <publisher/>
                 <title>Predigen auf alle Festtäg deß gantzen Jahrs samt einer Ehren-Saul, so zu Lob ettwelcher Heiligen und Seeligen Gottes etc.</title>
                 <format>Folio</format>
-                <einband cer="unknown">"Scheinheiten"</einband>
+                <einband>"Scheinheiten"</einband>
                 <volumes>3</volumes>
                 <language/>
               </bibl>
@@ -312,9 +316,15 @@
                 <volumes/>
                 <language/>
               </bibl>
-
-              <bibl xml:id="reverentis_patris_heches_proedigen">Reverentis Patris Heches Prödigen</bibl>
-
+              <bibl xml:id="reverentis_patris_heches_proedigen">
+                <author cer="undefined">[Pater] Heches</author>
+                <publisher/>
+                <title cer="undefined">Predigen</title>
+                <format>Folio</format>
+                <einband>französisch</einband>
+                <volumes/>
+                <language/>
+              </bibl>
               <bibl xml:id="ples_proedigen">
                 <author cer="undefined">Ples</author>
                 <publisher/>
@@ -327,105 +337,226 @@
               <bibl xml:id="wolfgang_schallerer_dominical">
                 <author ref="http://d-nb.info/gnd/12495104X">Wolfgang Schallerer</author>
                 <publisher/>
-                <title></title>
+                <title>Festival oder Jahr-Gang uber alle Feyer-Täg so sich das Jahr hindurch ereignen etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330194-8</exemplar>
                 <format>Folio</format>
                 <einband>französisch</einband>
                 <volumes/>
                 <language/>
-                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330194-8</exemplar>
               </bibl>
               <bibl xml:id="wolfgang_schallerer_festival">
                 <author ref="http://d-nb.info/gnd/12495104X">Wolfgang Schallerer</author>
                 <publisher/>
-                <title></title>
+                <title>Dominical, Oder Jahr-Gang uber alle Sonn-Täg gestellt etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330193-2</exemplar>
                 <format>Folio</format>
                 <einband>französisch</einband>
                 <volumes/>
                 <language/>
               </bibl>
-              <bibl xml:id="">
-                <author ref="http://d-nb.info/gnd/"></author>
-                <publisher/>
-                <title></title>
-                <format>Folio Quart Oktav Duodez</format>
-                <einband>Pergament französisch Leder</einband>
-                <volumes/>
-                <language/>
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+              <bibl xml:id="pater_stophans_predigen">
+                <author cer="undefined">[Pater] Stephan</author>
+                <title>Predigen</title>
+                <exemplar/>
               </bibl>
-              <bibl xml:id="">
-                <author ref="http://d-nb.info/gnd/"></author>
-                <publisher/>
-                <title></title>
-                <format>Folio Quart Oktav Duodez</format>
-                <einband>Pergament französisch Leder</einband>
-                <volumes/>
-                <language/>
+              <bibl xml:id="pater_mandls_fasten_proedigen">
+                <author ref="http://d-nb.info/gnd/130129658">Kaspar Mändl</author>
+                <title cer="undefined">Fasten-Predigen</title>
+                <exemplar/>
               </bibl>
-              <bibl xml:id="">
-                <author ref="http://d-nb.info/gnd/"></author>
-                <publisher/>
-                <title></title>
-                <format>Folio Quart Oktav Duodez</format>
-                <einband>Pergament französisch Leder</einband>
-                <volumes/>
-                <language/>
+              <bibl xml:id="pater_lucas_proedigen">
+                <author cer="undefined">[Pater] Lucas</author>
+                <title cer="undefined">Predigen</title>
+                <exemplar/>
               </bibl>
-              <bibl xml:id="">
-                <author ref="http://d-nb.info/gnd/"></author>
-                <publisher/>
-                <title></title>
-                <format>Folio Quart Oktav Duodez</format>
-                <einband>Pergament französisch Leder</einband>
-                <volumes/>
-                <language/>
+              <bibl xml:id="purgensionus_proedigen">
+                <author cer="low" ref="http://d-nb.info/gnd/119105144">Paulus Burgensis</author>
+                <title cer="undefined">Predigen</title>
+                <exemplar/>
               </bibl>
-              <bibl xml:id="">
-                <author ref="http://d-nb.info/gnd/"></author>
-                <publisher/>
-                <title></title>
-                <format>Folio Quart Oktav Duodez</format>
-                <einband>Pergament französisch Leder</einband>
-                <volumes/>
-                <language/>
+              <bibl xml:id="pater_heffnes_proedigen">
+                <author cer="undefined" ref="http://d-nb.info/gnd/1033005509">Heinrich von Heffner</author>
+                <title cer="undefined">Predigen</title>
+                <exemplar/>
               </bibl>
-              <bibl xml:id="">
-                <author ref="http://d-nb.info/gnd/"></author>
-                <publisher/>
-                <title></title>
-                <format>Folio Quart Oktav Duodez</format>
-                <einband>Pergament französisch Leder</einband>
-                <volumes/>
-                <language/>
+              <bibl xml:id="pater_kellerhaus">
+                <author ref="http://d-nb.info/gnd/136205062">Heinrich Kellerhaus</author>
+                <title cer="high">Saamen des göttlichen Worts durch nutzliche und sinnreiche Predigen ausgeworfen auf alle Sonntäg des Jahrs eingetheilet</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10329829-1</exemplar>
               </bibl>
-              <bibl xml:id="">
+              <bibl xml:id="patris_partingers_proedigen">
+                <author cer="high" ref="http://d-nb.info/gnd/130353795">Franz Partinger</author>
+                <title cer="undefined">Predigen</title>
+                <exemplar/>
+              </bibl>
+              <bibl xml:id="patris_laudri_proedigen">
+                <author cer="undefined">[Pater] Landri</author>
+                <title cer="undefined">Predigen</title>
+                <exemplar/>
+              </bibl>
+              <bibl xml:id="martyriologium_romanum">
+                <author/>
+                <publisher ref="http://d-nb.info/gnd/118697390">Gregor XIII.</publisher>
+                <title>Martyriologium Romanum</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10169221-2</exemplar>
+              </bibl>
+              <bibl xml:id="pater_letelies_geistliche_veldt">
+                <author ref="http://d-nb.info/gnd/128599146">Franz Settelin</author>
+                <title>Agricultura Spiritualis Oder Geistliches Feldtbau, das ist: Fest-Tag-Predigen etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10161776-3</exemplar>
+              </bibl>
+              <bibl xml:id="prinzing_proedigen">
+                <author cer="undefined">[Pater] Prinzing</author>
+                <title cer="undefined">Predigen</title>
+                <exemplar/>
+              </bibl>
+              <bibl xml:id="parzios_ain_thail">
+                <author ref="undefined">Parzios</author>
+                <title/>
+                <exemplar/>
+              </bibl>
+              <bibl xml:id="graf_geistlicher_schaz_casten">
+                <author ref="http://d-nb.info/gnd/121249670">Johann Andreas Graf</author>
+                <title>Geistlicher Schatz-Kasten etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364393-7</exemplar>
+              </bibl>
+              <bibl xml:id="reiffenstuehl_theologus">
+                <author ref="http://d-nb.info/gnd/100394892">Anaklet Reiffenstuel</author>
+                <title>Theologia moralis</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10526850-0</exemplar>
+              </bibl>
+              <bibl xml:id="concordantiae_biblionum">
+                <author/>
+                <title cer="undefined">Concordantiae Bibliorum</title>
+                <exemplar/>
+              </bibl>
+              <bibl xml:id="consilium_dominicum">
+                <author ref="http://d-nb.info/gnd/1117039102">Peter Hofer</author>
+                <title>Consilium dominicum, Oder Sonntäglicher Raths-Tag, An welchem auff jeden Sonntag deß gantzen Jahrs ein heylsamber Rath-Schluß, oder Bredig, Zu Beförderung deß gemeinen Seelen-Nutzen verzeichnet worden</title>
+                <exemplar/>
+              </bibl>
+              <bibl xml:id="thrauner_callans_contans">
+                <author ref="http://d-nb.info/gnd/122162765">Ignatius Trauner</author>
+                <title>Gallus Cantans, das ist Kräender Hauß-Hahn, dem in Sünden-Schlaff ligenden Hauß-Gesind des grossen Hauß-Vatters zum Aufferwecken bestelt und auffgesetzt in Bueß- und Passions-Predigen etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11065696-4</exemplar>
+              </bibl>
+              <bibl xml:id="thrauner_seelenjagd">
+                <author ref="http://d-nb.info/gnd/122162765">Ignatius Trauner</author>
+                <title>Geistliche Seelen-Jagd, das ist Anderes Dominicale, Oder Sonntägliche, und mit neuen Exordiis auff die Kirchweyhungen gerichte Predigen etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11292137-5</exemplar>
+              </bibl>
+              <bibl xml:id="graf_acht_seeligligkheiten">
+                <author ref="http://d-nb.info/gnd/121249670">Johann Andreas Graf</author>
+                <title>Acht Seeligkeiten, Oder Acht-facher Weeg auf welchem die liebe Außerwählte in den Himmel gangen seynd etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364387-8</exemplar>
+              </bibl>
+              <bibl xml:id="graf_belagerung">
+                <author ref="http://d-nb.info/gnd/121249670">Johann Andreas Graf</author>
+                <title>Belagerung Der Herrlichen Haupt-Stadt In Engelland, Mit siben und dreyssig Canonen etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364384-2</exemplar>
+              </bibl>
+              <bibl xml:id="patris_amandi_proedigen">
+                <author cer="undefined">[Pater] Amandus</author>
+                <title cer="undefined">Predigen</title>
+                <exemplar/>
+              </bibl>
+              <bibl xml:id="pater_stoz_tribunal">
+                <author ref="http://d-nb.info/gnd/129872733">Matthäus Stoz</author>
+                <title>Tribunal Poenitentiae etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11060496-9</exemplar>
+              </bibl>
+              <bibl xml:id="pater_iljunae">
+                <author cer="undefined">[Pater] Iljunae</author>
+                <title/>
+                <exemplar/>
+              </bibl>
+              <bibl xml:id="pater_segnari_himbel_proth">
+                <author ref="http://d-nb.info/gnd/119468220">Paolo Segneri</author>
+                <title cer="low">Himmel-Brod Der Seelen etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10223612-0</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10267669-8</exemplar>
+              </bibl>
+              <bibl xml:id="pater_prugger_exempl_buech">
+                <author ref="http://d-nb.info/gnd/119516306">Martin Prugger</author>
+                <title cer="undefined">Lehr- und Exempel-Buch</title>
+                <exemplar/>
+              </bibl>
+              <bibl xml:id="pater_neumayr_municulus_triplex">
+                <author ref="http://d-nb.info/gnd/135942314">Joseph Neumayr</author>
+                <title>Funiculus Triplex, das ist Ein Dreyfaches Band, mit welchem die Menschliche Hertzen von der Welt Boßheit ab- und zur Gottesforcht, Lieb und Tugend kräfftig gezogen werden etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11230098-4</exemplar>
+              </bibl>
+              <bibl xml:id="ignatius_ertl_proedigen2">
+                <author ref="http://d-nb.info/gnd/118911872">Ignatius Ertl</author>
+                <title cer="undefined">Predigen</title>
+                <exemplar/>
+              </bibl>
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+
+
+
+
+              <bibl xml:id="saintjure_erkhantnus_jesu_christi">
                 <author ref="http://d-nb.info/gnd/"></author>
-                <publisher/>
+                <title>Saintjure Erkhantnus Jesu Christi</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330194-8</exemplar>
+              </bibl>
+              <bibl xml:id="synodus_prixinensis">
+                <author ref="http://d-nb.info/gnd/"></author>
+                <title>Synodus Prixinensis</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330194-8</exemplar>
+              </bibl>
+              <bibl xml:id="johan_goestl_caethaekhismus">
+                <author ref="http://d-nb.info/gnd/"></author>
+                <title>Johan Göstl Cäthäkhismus</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330194-8</exemplar>
+              </bibl>
+              <bibl xml:id="pater_wolff_rugitus_leonis">
+                <author ref="http://d-nb.info/gnd/"></author>
+                <title>Pater Wolff Rugitus Leonis</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330194-8</exemplar>
+              </bibl>
+              <bibl xml:id="eschenlotter_khinder_lehrer">
+                <author ref="http://d-nb.info/gnd/"></author>
                 <title></title>
-                <format>Folio Quart Oktav Duodez</format>
-                <einband>Pergament französisch Leder</einband>
-                <volumes/>
-                <language/>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330194-8</exemplar>
+              </bibl>
+              <bibl xml:id="Eschenlotter Khinder Lehrer">
+                <author ref="http://d-nb.info/gnd/"></author>
+                <title></title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330194-8</exemplar>
+              </bibl>
+              <bibl xml:id="strobl_geistliches_khartten">
+                <author ref="http://d-nb.info/gnd/"></author>
+                <title>Strobl Geistliches Khartten Spill</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330194-8</exemplar>
               </bibl>
 
-              <bibl xml:id="pater_stophans_predigen">Pater Stophans Predigen</bibl>
-              <bibl xml:id="pater_mandls_fasten_proedigen">Pater Mandls Fasten Prödigen</bibl>
-              <bibl xml:id="pater_lucas_proedigen">Pater Lucas Prödigen</bibl>
-              <bibl xml:id="purgensionus_proedigen">Purgensionus Prödigen</bibl>
-              <bibl xml:id="pater_heffnes_proedigen">Pater Heffnes Prödigen</bibl>
-              <bibl xml:id="pater_kellerhaus">Pater Kellerhaus</bibl>
 
 
 
-                <bibl xml:id="ignatius_ertl_proedigen2">Ignatius Ertl: Predigten (unbestimmt)</bibl>
+<!-- ähnliche -->
+             <bibl xml:id="p_neumayr">
+                <author cer="undefined">[Pater] Neumayr</author>
+                <title/>
+                <exemplar/>
+              </bibl>
+              <bibl xml:id="p_neymayr_khern_des_christenthumb">
+                <author ref="http://d-nb.info/gnd/11907981X">Franz Neumayr</author>
+                <title>Kern des Christenthums, Oder Christ-Catholische Glaubens- und Sittenlehre in immerwährende Uebung gesetzt etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11293104-7</exemplar>
+              </bibl>
+              <bibl xml:id="p_neumayr_sicher_himmels_strasse">Sicher Himmels Strasse P. Neumayrs</bibl>
+              <bibl xml:id="p_neumayr_vier_apostolicus">P. Neumayr Vier Apostolicus</bibl>
+
                 <bibl xml:id="ignatius_ertl_promontorium">Ignatius Ertl: Promontorium Bonae Spei, Oder Himmlisches Vorgebürg der guten Hoffnung deren welche das gepredigte Wort Gottes gern anhören, und selbes behalten, das ist, Neue geist- und lehrreiche Predigen auf alle Sonntag deß gantzen Jahrs etc.</bibl>
                 <bibl xml:id="knellingers_predigten">Balthasar Knellinger: Predigten (unbestimmt)</bibl>
                 <bibl xml:id="pater_ilhum_theol_pract">Jakob Illsung: Arbor scientiae boni et mali sive Theologia Practica Universa de bono et malo morali etc.</bibl>
                 <bibl xml:id="tobias_lohner_instructio_practica_ms">Tobias Lohner: Instructio Practica De S.S. Missae Sacrificio</bibl>
                 <bibl xml:id="tobias_lohner">[Tobias] Lohner: (ohne Titel)</bibl>
 
-
-
-
+<!-- noch offen -->
 
                 <bibl xml:id="acta_andreae_rinensis_pueruli">Acta Andreae Rinensis Pueruli</bibl>
                 <bibl xml:id="adami_josephi_greneck_examen_iuris_canonici">Examen Iuris Canonici Adami Josephi Greneck</bibl>
@@ -466,7 +597,6 @@
                 <bibl xml:id="bibliotheca_patrum_asscetica">Bibliotheca Patrum Asscetica</bibl>
                 <bibl xml:id="brevier">Brevir</bibl>
                 <bibl xml:id="buch_von_alten_predigten_ohne_Titel">Buch von alten Predigen auf alle Sontag</bibl>
-                <bibl xml:id="callans_contans">Callans Contans, item Geistliche Seellen Jagt</bibl>
                 <bibl xml:id="caspari_biesmann_doctrina_moralis">Caspari Biesmann Doctrina Moralis</bibl>
                 <bibl xml:id="casparii_mandl_meditationes">Casparii Mandl Meditationes</bibl>
                 <bibl xml:id="casus_conscientia_benedicti">Casus Conscientia Benedicti decim-4ti</bibl>
@@ -491,12 +621,9 @@
                 <bibl xml:id="concilium_tridentinum">Concilium Tridentinum</bibl>
                 <bibl xml:id="conciones_rurales">Conciones Rurales</bibl>
                 <bibl xml:id="concionum_pastoralium_partus_secundus">Concionum Pastoralium partus secundus</bibl>
-                <bibl xml:id="concordantia">Concandantia</bibl>
-                <bibl xml:id="concordantiae_biblionum">Concordantiae Biblionum</bibl>
                 <bibl xml:id="confessio_bernardinae">Confessio Bernardinae</bibl>
                 <bibl xml:id="confutatio_infamis_libri_domini_augustino_michael">Confutatio Infamis Libri Domini Augustino Michael</bibl>
                 <bibl xml:id="conscientia_recta_seu_miscellanei_practici_casus_weinzierl">Conscientia Recta Seu Miscellanei Practici Casus Weinzierl</bibl>
-                <bibl xml:id="consilium_dominicum">Consilium Dominicum</bibl>
                 <bibl xml:id="conversio_st_augustini">Conversio St. Augustini</bibl>
                 <bibl xml:id="corneli_a_lapide_commentaria">Corneli a Lapide Commentaria In Novum Et Vetus Testamentum</bibl>
                 <bibl xml:id="corpus_iuris_canonici_appendice_pauli_cancelotti">Corpus Iuris Canonici Appendice Pauli Cancelotti</bibl>
@@ -550,7 +677,6 @@
                 <bibl xml:id="erhard_erkhantnus_und_liebe">Erhard Erkhantnus, Und Liebe</bibl>
                 <bibl xml:id="erstes_jubel_jahr_v_dem_collegio_der_gesellschaft_jesu">Erstes Jubel Jahr v. dem Collegio der Gesellschaft Jesu zu Munichen</bibl>
                 <bibl xml:id="erwiesene_wahrheit_der_katholischen_religion">Die Aus Der Heiligen Schrift Erwiesene Wahrheit Der Katholischen Religion</bibl>
-                <bibl xml:id="eschenlotter_khinder_lehrer">Eschenlotter Khinder Lehrer</bibl>
                 <bibl xml:id="explicatio_sacramentorum_ecclesiae_authore_beuveleto">Explicatio Sacramentorum Ecclesiae authore Beuveleto</bibl>
                 <bibl xml:id="ferculum_sive_currus_et_thronus_trium">Ferculum Sive Currus Et Thronus Trium</bibl>
                 <bibl xml:id="flagellum_demonum_hyronimus_mengolt">Flagellum Demonum Hyronimus Mengolt</bibl>
@@ -581,9 +707,6 @@
                 <bibl xml:id="gloria_austriae">Gloria Austriae</bibl>
                 <bibl xml:id="gloria_universitatis_pragensis">Gloria Universitatis Pragensis</bibl>
                 <bibl xml:id="gotschedo_teutsche_sprach_kunst">Gotschedo Teutsche Sprach Kunst</bibl>
-                <bibl xml:id="graf_acht_seeligligkheiten">Graf Acht Seeligligkheiten</bibl>
-                <bibl xml:id="graf_belagerung">Graf Belagerung</bibl>
-                <bibl xml:id="graf_geistlicher_schaz_casten">Graf geistlicher Schaz Casten</bibl>
                 <bibl xml:id="graf_herrliche_gesoellschafft">Graf Herrliche Gesöllschafft</bibl>
                 <bibl xml:id="graff_geistliche_denst_stuckh">Graff Geistliche Denst Stuckh</bibl>
                 <bibl xml:id="gramatica_hispanica_crameri">Gramatica Hispanica Crameri</bibl>
@@ -621,7 +744,6 @@
                 <bibl xml:id="jacobi_halde_lyrica_et_poemata">Jacobi Halde Lyrica Et Poemata</bibl>
                 <bibl xml:id="jacobi_marchantii_hortus_pastorum">Jacobi Marchantii Hortus Pastorum</bibl>
                 <bibl xml:id="jacobi_schmid_baurn_legendt">Jacobi Schmid Baurn Legendt</bibl>
-                <bibl xml:id="johan_goestl_caethaekhismus">Johan Göstl Cäthäkhismus</bibl>
                 <bibl xml:id="joann_christoph_peer_der_in_eyl_bereitete_prediger">Joann Christoph Peer Der In Eyl Bereitete Prediger</bibl>
                 <bibl xml:id="joann_imhof_messis_mistica_theol_moral">Joann Imhof Messis Mistica Theol. Moral.</bibl>
                 <bibl xml:id="joann_paul_hausinger_christliches_fruehestuck">Joann Paul Hausinger Christliches Fruehestuck</bibl>
@@ -678,7 +800,6 @@
                 <bibl xml:id="marianisches_tag_buch_francisci_marchese">Marianisches Tag Buch Francisci Marchese</bibl>
                 <bibl xml:id="martin_stubenbeck_tractatus_in_casibus_reservatis">Dni. Martin Stubenbeck Tractatus In Casibus Reservatis</bibl>
                 <bibl xml:id="martini_bonacinae_tractatus_tres_de_legibus">Martini Bonacinae Tractatus Tres De Legibus, Peccatio, Et Praeceptis Decalogi</bibl>
-                <bibl xml:id="martyriologium_romanum">Martyriologium Romanum</bibl>
                 <bibl xml:id="mathematisches_lexikon_v_christian_wolf">Mathematisches Lexikon v. Christian Wolf</bibl>
                 <bibl xml:id="mathias_kramer_novo_ditionario_reale">Novo Ditionario Reale Italiano Todesco Mathias Kramer</bibl>
                 <bibl xml:id="mathias_schenberg_religions_gruende">Religions Gründe Mathias Schenberg</bibl>
@@ -691,7 +812,6 @@
                 <bibl xml:id="modus_iuste_vivendi_in_religione">Modus Iuste Vivendi In Religione</bibl>
                 <bibl xml:id="moerckhs_paur_von_p_peer">Mörckhs Paur von P. Peer</bibl>
                 <bibl xml:id="mondo_symbolico_pizzineli_waelsches_buch">Mondo Symbolico Pizzineli Wälsches Buch</bibl>
-                <bibl xml:id="moralis">moralis</bibl>
                 <bibl xml:id="moscawitische_und_persische_reisenbeschreibung_v_ascanii">Moscawitische, und Persische Reisenbeschreibung v. Ascanii</bibl>
                 <bibl xml:id="nadasi_anni_coelestis">Nadasi Anni Coelestis</bibl>
                 <bibl xml:id="narrazione_storica_del_st_simoni_di_trento">Narrazione Storica Del St. Simoni di Trento</bibl>
@@ -828,10 +948,6 @@
                 <bibl xml:id="p_naisl_speculum_cleri">Speculum Cleri P. Naisl</bibl>
                 <bibl xml:id="p_neissl_ein_stimm_des_rufenden_in_der_wiesten">Ein Stimm Des Rufenden In Der Wiesten P. Neissl</bibl>
                 <bibl xml:id="p_neustifter_theatrum_passionum_animae">Theatrum Passionum Animae P. Neistifter</bibl>
-                <bibl xml:id="p_neumayr">P. Neumayr</bibl>
-                <bibl xml:id="p_neymayr_khern_des_christenthumb">P. Neymayr Khern des Christenthumb</bibl>
-                <bibl xml:id="p_neumayr_sicher_himmels_strasse">Sicher Himmels Strasse P. Neumayrs</bibl>
-                <bibl xml:id="p_neumayr_vier_apostolicus">P. Neumayr Vier Apostolicus</bibl>
                 <bibl xml:id="p_nicolai_caussini_heilige_hofhaltung">Heilige Hofhaltung P. Nicolai Caussini</bibl>
                 <bibl xml:id="p_nicolai_elve_catholisch_schlecht_und_recht">P. Nicolai Elve Catholisch Schlecht und Recht</bibl>
                 <bibl xml:id="p_ortz_phoenix_rediviva">Phoenix Rediviva P. Ortz</bibl>
@@ -900,33 +1016,22 @@
                 <bibl xml:id="paolo_segneri_panegirici_sacri">Paolo Segneri Panegirici Sacri</bibl>
                 <bibl xml:id="parochus_florilegus">Parochus Florilegus</bibl>
                 <bibl xml:id="paetivil_proedigen">Paetivil Prödigen</bibl>
-                <bibl xml:id="parzios_ain_thail">Parzios ain Thail</bibl>
                 <bibl xml:id="passion_spiegl">Passion Spiegl</bibl>
                 <bibl xml:id="pater_elbl">Pater Elbl</bibl>
                 <bibl xml:id="pater_hueber_proedigen">Pater Hueber Von Feyrtag Prödigen</bibl>
-                <bibl xml:id="pater_iljunae">Pater Iljunae</bibl>
                 <bibl xml:id="pater_inderstorfer_in_decalogi">Pater Inderstorfer In Decalogi</bibl>
                 <bibl xml:id="pater_johanneser_proedigen">Pater Johanneser Prödigen</bibl>
-                <bibl xml:id="pater_letelies_geistliche_veldt">Pater Letelies Geistliche Veldt Pau</bibl>
                 <bibl xml:id="pater_melchior_paurn_concept">Pater Melchior Paurn Concept</bibl>
                 <bibl xml:id="pater_miel_proedigen">Pater Miel Sonn- Und Feyrtag Prödigen</bibl>
                 <bibl xml:id="pater_neppl">Pater Neppl</bibl>
-                <bibl xml:id="pater_neumayr_municulus_triplex">Pater Neumayr Municulus Triplex</bibl>
                 <bibl xml:id="pater_panholzer_sermones_breves">Pater Panholzer Sermones Breves</bibl>
                 <bibl xml:id="pater_prinzing_candelabrum_apocalipticum">Pater Prinzing Candelabrum Apocalipicum</bibl>
-                <bibl xml:id="pater_prugger_exempl_buech">Pater Prugger Exempl Buech</bibl>
                 <bibl xml:id="pater_raphael_sanct_joseph">Pater Raphael Sanct Joseph</bibl>
                 <bibl xml:id="pater_rosignolli_wunderwerckh">Pater Rosignolli, Wunderwerckh</bibl>
                 <bibl xml:id="pater_ruef_proedigen">Pater Ruef Von Feyr- und Fösstäglichen Prödigen</bibl>
-                <bibl xml:id="pater_segnari_himbel_proth">Pater Segnari Himbel Proth</bibl>
                 <bibl xml:id="pater_sporer_theologus_moralis">Pater Sporer Theologus Moralis</bibl>
                 <bibl xml:id="pater_stainmayr_lauretaenischen_voglgarthen">Pater Stainmayr Lauretänischen Voglgarthen</bibl>
-                <bibl xml:id="pater_stoz_tribunal">Pater Stoz Tribunal</bibl>
                 <bibl xml:id="pater_winterholler_messis_evangelica">Pater Winterholler Messis Evangelica</bibl>
-                <bibl xml:id="pater_wolff_rugitus_leonis">Pater Wolff Rugitus Leonis</bibl>
-                <bibl xml:id="patris_amandi_proedigen">Patris Amandi Prödigen</bibl>
-                <bibl xml:id="patris_laudri_proedigen">Patris Laudri Prödigen</bibl>
-                <bibl xml:id="patris_partingers_proedigen">Patris Partingers Prödigen</bibl>
                 <bibl xml:id="patronillus_schreger_lustige_zeit_vertreibung">Patronillus Schreger Lustige Und Nutzliche Zeit Vertreibung</bibl>
                 <bibl xml:id="pauli_segneri_prediche_de_palazzo_apostolico">Pauli Segneri Prediche De Palazzo Apostolico</bibl>
                 <bibl xml:id="peckher_schuldigistes_andenckhen">Pëckher Schuldigistes Andenckhen</bibl>
@@ -950,7 +1055,6 @@
                 <bibl xml:id="prediche_variae_del_padre_antoni_vieira">Prediche Variae del Padre Antoni Vieira</bibl>
                 <bibl xml:id="predigen_zu_zeiten_des_tuerken_kriegs">Predigen Zu Zeiten Des Türken Kriegs Anno 1683</bibl>
                 <bibl xml:id="previer_mit_diurnal">altes klains Previer samt ain Diurnal</bibl>
-                <bibl xml:id="prinzing_proedigen">Prinzing Prödigen</bibl>
                 <bibl xml:id="proprii_nomio_evangelico">Proprii Nomio Evangelico</bibl>
                 <bibl xml:id="proprium_brixinense">Proprium Brixinense so zu dem Praevier geherig, ohne Tax</bibl>
                 <bibl xml:id="protocollum_des_coloquii_zu_neuburg">Protocollum des Coloquii zu Neuburg zwischen Jakob Keller, und Jakob Hellbruner</bibl>
@@ -969,7 +1073,6 @@
                 <bibl xml:id="raimundi_de_sabunde_theologia_naturalis">Raimundi de Sabunde Theologia Naturalis</bibl>
                 <bibl xml:id="raiß_previer">Raiß Previer</bibl>
                 <bibl xml:id="reden_und_lebens_ordnung_der_heiligen_vaeter_augustini_benedicti_francisci">Reden Und Lebens Ordnung Der Heiligen Väter Augustini, Benedicti, und Francisci</bibl>
-                <bibl xml:id="reiffenstuehl_theologus">Reiffenstuehl Theologus</bibl>
                 <bibl xml:id="regul_buechlein_des_dritten_ordens_st_francisci">Regul Büchlein Des Dritten Ordens St. Francisci</bibl>
                 <bibl xml:id="regula_cleri">Regula Cleri</bibl>
                 <bibl xml:id="renatus_rapin_glaube_der_heutigen_christen">Renatus Rapin Glaube Der Heütigen Christen</bibl>
@@ -983,7 +1086,6 @@
                 <bibl xml:id="roemisches_martyrologium">Römisches Martyrologium</bibl>
                 <bibl xml:id="rudimentae_hystoricae">Rudimentae Hystoricae</bibl>
                 <bibl xml:id="sacerdotale_sive_sacerdotum_thesaurus">Sacerdotale Sive Sacerdotum Thesaurus</bibl>
-                <bibl xml:id="saintjure_erkhantnus_jesu_christi">Saintjure Erkhantnus Jesu Christi</bibl>
                 <bibl xml:id="salesius_et_bellecius">Salesius, Et Bellecius</bibl>
                 <bibl xml:id="schlechte_alte_braevier">Schlechte alte Braevier</bibl>
                 <bibl xml:id="schmelz_ofen_goettlicher_gerechtigkeit">Schmelz Ofen Göttlicher Gerechtigkeit</bibl>
@@ -1003,16 +1105,13 @@
                 <bibl xml:id="simsons_leben_geschicht">Simsons Leben Geschicht</bibl>
                 <bibl xml:id="sonn_feiertagspredigen_brediger">Der In Eül Bereitete Brediger, oder Geistreiche Sonn- und Feyrtags Bredigen</bibl>
                 <bibl xml:id="solliloquia_cum_maria">Solliloquia Cum Maria</bibl>
-                <bibl xml:id="spill">Spill</bibl>
                 <bibl xml:id="st_antonii_de_padua_concordantiae_morales_sacrorum_bibliorum">St. Antonii de Padua Concordantiae Morales Sacrorum Bibliorum</bibl>
                 <bibl xml:id="st_augustini_enchyridion">St. Augustini Enchyridion</bibl>
                 <bibl xml:id="st_salesii_philothea">St. Salesii Philothea</bibl>
                 <bibl xml:id="stanislai_hosii_drey_christliche_gespraech">Stanislai Hosii Drey Christliche Gespräch in gsch[o]bnen Pirment</bibl>
-                <bibl xml:id="strobl_geistliches_khartten">Strobl Geistliches Khartten</bibl>
                 <bibl xml:id="stubenpeck_in_casus_reservatis">Stubenpeck In Casus Reservatis</bibl>
                 <bibl xml:id="summa_corona_confessorum_antonio_berarducii">Summa Corona Confessorum Antonio Berarducii</bibl>
                 <bibl xml:id="supplementum_conferentiarum_mor_theol_p_a_kiliano_kazenberger">Supplementum Conferentiarum Mor. Theol. P. a Kiliano Kazenberger</bibl>
-                <bibl xml:id="synodus_prixinensis">Synodus Prixinensis</bibl>
                 <bibl xml:id="teuetsche_theol">Teütsche Theol.</bibl>
                 <bibl xml:id="teuetsches_martyrologium">Teütsches Martyrologium</bibl>
                 <bibl xml:id="theatrum_pacis">Theatrum Pacis, Oder Friedens Schau Blatz</bibl>
@@ -1021,7 +1120,6 @@
                 <bibl xml:id="thimothei_laubenberger_augspurger_und_leibziger_relgions_conferenz">Thimothei Laubenberger Augspurger und Leibziger Religions Conferenz</bibl>
                 <bibl xml:id="thomae_aequinatis_summae_theologiae">Thomae Aequinatis Summae Theologiae</bibl>
                 <bibl xml:id="thomas_de_kempis_de_meditatione_christi">Thomas de Kempis De Meditatione Christi</bibl>
-                <bibl xml:id="thrauner">Thrauner</bibl>
                 <bibl xml:id="titi_livii_geschicht_romischer_historien">Titi Livii Geschicht Romischer Historien</bibl>
                 <bibl xml:id="thesauri_concionatorum_de_trugillo">Thesauri Concionatorum de Trugillo</bibl>
                 <bibl xml:id="thesaurus_ciceronianus_nizollii">Thesaurus Ciceronianus Nizollii</bibl>
