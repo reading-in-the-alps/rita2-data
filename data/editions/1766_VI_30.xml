@@ -477,7 +477,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#neuburger_conciodes_moralis">Neuburger Conciodes Moralis</rs> driter Thaill pr
+                     <rs type="bibl" ref="#neuburger_conciodes_moralis">Neuburger Conciodes Moralis</rs><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Irrig für </hi>Conciones Rurales.</p></note> driter Thaill pr
                   </cell>
                   <cell>
                      30 x
@@ -485,7 +485,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#dolog_moralis">Dolog. Moralis</rs> pr
+                     <rs type="bibl" ref="#dolog_moralis">Dolog. Moralis</rs><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Vermutlich irrig für </hi>Theologia Moralis.</p></note> pr
                   </cell>
                   <cell>
                      24 x
@@ -501,7 +501,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_franz_bojerus">P. Franz Bojerus Dreyfache Cron 2 thomae</rs> pr
+                     <rs type="bibl" ref="#p_franz_bojerus">P. Franz Bojerus Dreyfache Cron</rs> 2 thomae pr
                   </cell>
                   <cell>
                      1 f 0 x
@@ -525,7 +525,7 @@
                </row>
                <row>
                   <cell>
-                     <rs type="bibl" ref="#p_riga_achti_platationi">P. Riga Achti Platationi</rs> pr
+                     <rs type="bibl" ref="#p_cyrilus_riga_horti_plantation">P. Riga Achti Platationi</rs><note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Verschrieben für </hi>Horti Plantationum.</p></note> pr
                   </cell>
                   <cell>
                      45 x
