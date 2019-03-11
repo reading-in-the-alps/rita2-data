@@ -94,6 +94,12 @@
                 <title cer="undefined">Brevier</title>
                 <exemplar/>
               </bibl>
+              <bibl xml:id="raiß_previer">
+                <author/>
+                <publisher/>
+                <title cer="undefined">Reise-Brevier</title>
+                <exemplar/>
+              </bibl>
               <bibl xml:id="breviarium_romanum">
                 <author/>
                 <publisher ref="http://d-nb.info/gnd/118792423">Pius V.</publisher>
@@ -1243,8 +1249,198 @@
                 <title cer="low">Peter Hofers Sonntag-Predigen, evtl.: "Consilium dominicum, Oder Sonntäglicher Raths-Tag, An welchem auff jeden Sonntag deß gantzen Jahrs ein heylsamber Rath-Schluß, oder Bredig, Zu Beförderung deß gemeinen Seelen-Nutzen verzeichnet worden"</title>
                 <exemplar>https://books.google.at/books?id=IYJiAAAAcAAJ</exemplar>
               </bibl>
+              <bibl xml:id="p_ludovici_michon_casus_de_sacramentis">
+                <author ref="http://d-nb.info/gnd/100310214">Ludwig Michon</author>
+                <title>Quinquaginta Selecti Casus De Septem Gratiae Fontibus Seu Sacramentis In Specie</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10526741-5</exemplar>
+              </bibl>
+              <bibl xml:id="vita_b_mariae">
+                <author/>
+                <title cer="undefined">Vita Beatae Mariae Virginis</title>
+                <exemplar/>
+              </bibl>
+              <bibl xml:id="bedenckh_und_untersuechung_der_frage">
+                <author/>
+                <title cer="undefined">Bedenckh und Untersuchung der Frage etc.</title>
+                <exemplar/>
+              </bibl>
+              <bibl xml:id="p_ubaldi_stueber_armamentarium_ecclesiastium">
+                <author ref="http://d-nb.info/gnd/100413129">Ubald Stoiber</author>
+                <title>Armamentarium Ecclesiasticum : complectens Arma spiritualia, fortissima, ad insultus diabolicos elidendos, et feliciter superandos etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10591752-4</exemplar>
+              </bibl>
+              <bibl xml:id="p_neumayr_exterminium_acediae">
+                <author ref="http://d-nb.info/gnd/11907981X">Franz Neumayr</author>
+                <title cer="undefined">Exterminium Acediae: Fructus Exhortationis Domini Nostri Jesu Christi etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11291464-5</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10265447-2</exemplar>
+              </bibl>
+              <bibl xml:id="casus_conscientia_benedicti">
+                <author ref="http://d-nb.info/gnd/118655434">Benedikt XIV.</author>
+                <title>Casus Conscientiae De Mandato Olim Eminentissimi etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11060445-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10595806-5</exemplar>
+              </bibl>
+              <bibl xml:id="apendix_ad_casus_conscientiae_benedicti">
+                <author/>
+                <title>Appendix ad Casus Conscientiae Benedicti XIV.</title>
+                <exemplar>https://books.google.at/books?id=TMxFAAAAcAAJ</exemplar>
+              </bibl>
+              <bibl xml:id="p_gelasii_de_cilia_benedict">
+                <author ref="http://d-nb.info/gnd/123994403">Gelasius de Cilia</author>
+                <title>Locupletissimus Thesaurus Continens Varias et selectissimas Benedictiones, Coniurationes, Exorcismos, Absolutiones, Ritus, Administrationem Sacramentorum, aliorumque munerum pastoralium etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10589826-9</exemplar>
+              </bibl>
+              <bibl xml:id="manuale_romanum">
+                <author/>
+                <title cer="undefined">Manuale Romanum</title>
+                <exemplar/>
+              </bibl>
+              <bibl xml:id="taverne_jean_synopsis_theologiae_practicae">
+                <author ref="http://d-nb.info/gnd/115612351">Jean Baptiste Taverne</author>
+                <title>Synopsis Theologiae Practicae: Complectens et explicans Principia Generalia Ad resolvendos Conscientiae casus particulares scitu necessaria etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10597538-6</exemplar>
+              </bibl>
+              <bibl xml:id="p_adelrici_schwarz_regulae_prudentis">
+                <author ref="http://d-nb.info/gnd/1027360440">Bertin Bertaut</author>
+                <title>Regulae Prudentis Et Pii Confessarii Seu Theologiae Moralis</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10595836-1</exemplar>
+              </bibl>
+              <bibl xml:id="p_francisci_fegebe_quaestiones_practicae">
+                <author ref="http://d-nb.info/gnd/136631592">François-Xavier de Fegely</author>
+                <title cer="undefined">Quaestiones Practicae De Munere etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10596190-4</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10596195-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10596189-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10596194-6</exemplar>
+              </bibl>
+              <bibl xml:id="p_anselmi_schnell_supplementum">
+                <author ref="http://d-nb.info/gnd/131767984">Anselm Schnell</author>
+                <author ref="http://d-nb.info/gnd/131777858">Jakob Dorsus</author>
+                <title>Instructio Confessarii [...] datis quoad plerasque et praecipuas materias Theologiae Moralis Resolutionibus practicis, brevibus, claris, et solidis [...], Pro Supplementuo suae Theologiae Moralis</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11087962-3</exemplar>
+              </bibl>
+              <bibl xml:id="p_alexii_riederer_geistliches_seelen_nez">
+                <author ref="http://d-nb.info/gnd/1016976321">Alexius Riederer</author>
+                <title>Geistliches Seelen-Netz, das ist: Hundert und fünffzig Geistreiche Betrachtungen, Oder Geheime Predigen etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10266809-2</exemplar>
+              </bibl>
+              <bibl xml:id="ars_semper_gaudendi">
+                <author/>
+                <title cer="undefined">Ars Semper Gaudendi</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10263466-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11290274-5</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11229777-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11221101-9</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10365843-6</exemplar>
+              </bibl>
+              <bibl xml:id="casparii_mandl_meditationes">
+                <author ref="http://d-nb.info/gnd/130129658">Kaspar Mändl</author>
+                <title cer="undefined">Meditationes</title>
+                <exemplar cer="low">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11082886-8</exemplar>
+              </bibl>
+              <bibl xml:id="todts_andacht">
+                <author/>
+                <title>Todts-Andacht oder Zubereithung zu Einem Guten Tod</title>
+                <exemplar cer="low">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10268850-5</exemplar>
+                <exemplar cer="low">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10222844-2</exemplar>
+                <exemplar cer="low">https://books.google.at/books?id=OWU9AAAAcAAJ</exemplar>
+                <exemplar cer="low">https://books.google.at/books?id=0Co9AAAAcAAJ</exemplar>
+                <exemplar cer="low">https://books.google.at/books?id=niVoAAAAcAAJ</exemplar>
+                <exemplar cer="low">https://books.google.at/books?id=51w9AAAAcAAJ</exemplar>
+                <exemplar cer="low">https://books.google.at/books?id=Fs5hAAAAcAAJ</exemplar>
+              </bibl>
+              <bibl xml:id="p_francisci_nepren_considerationes_christ">
+                <author ref="http://d-nb.info/gnd/100220398">François Nepveu</author>
+                <title cer="undefined">Considerationes Christianae Pro Singulis anni diebus</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10265397-9</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11082645-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10265407-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10265412-0</exemplar>
+              </bibl>
+              <bibl xml:id="praedicti_auctoris_sacer_recessus">
+                <author ref="http://d-nb.info/gnd/100220398">François Nepveu</author>
+                <title>Sacer Recessus, Sive Exercitia Spiritualia etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10265425-1</exemplar>
+              </bibl>
+              <bibl xml:id="passion_spiegl">
+                <author ref="http://d-nb.info/gnd/100620884" cer="low">Probus Schmidhueber</author>
+                <title cer="low">Unbetrüglich, heylsamister Passion-Spiegel oder: Das bitteriste Leyden unsers Erlösers Christi Jesu etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10269825-0</exemplar>
+              </bibl>
+              <bibl xml:id="joannis_adami_weeber_iter_coeleste">
+                <author ref="http://d-nb.info/gnd/124559123">Johann Adam Weber</author>
+                <title>Iter Coeleste Sive Excursio Animae Devotae Ad Deum etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10268921-7</exemplar>
+              </bibl>
+              <bibl xml:id="ausfiehrlicher_unterricht_des_heiligen_mess_opfer">
+                <author ref="http://d-nb.info/gnd/118731319" cer="low">Martin von Cochem</author>
+                <title cer="low">Erklärung des heiligen Meßopfers: ein Unterrichts- und Betrachtungsbuch für die Gläubigen der Kirche Gottes</title>
+                <exemplar cer="low">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10313398-5</exemplar>
+              </bibl>
+              <bibl xml:id="p_neumayr_khern_des_christenthumb">
+                <author ref="http://d-nb.info/gnd/11907981X">Franz Neumayr</author>
+                <title>Kern des Christenthums, Oder Christ-Catholische Glaubens- und Sittenlehre in immerwährende Uebung gesetzt etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11293104-7</exemplar>
+              </bibl>
+              <bibl xml:id="p_benedicti_rogazzi_tractatis_von_der_erkhantnus_und_liebe_gottes">
+                <author ref="http://d-nb.info/gnd/129646695">Benedetto Rogacci</author>
+                <title cer="undefined">[Einzig nothwendige] Erkhantnus und Liebe Gottes</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10270548-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10266880-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10266881-6</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10266882-2</exemplar>
+              </bibl>
+              <bibl xml:id="p_adalberti_tylkoski_jugum_grave">
+                <author ref="http://d-nb.info/gnd/118981234">Wojciech [=Adalbert] Tylkowski</author>
+                <title>Jugum Grave Super Omnes Filios Adam E Sancti Patrum Verbis Formatum</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10268616-6</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10268621-5</exemplar>
+              </bibl>
+              <bibl xml:id="proprium_brixinense">
+                <author/>
+                <title>Proprium Brixinense [zu einem Brevier gehörig, evtl. dem Brevarium Brixinense]</title>
+                <exemplar>http://manuscripta.at/m1/hs_detail.php?ID=29434</exemplar>
+              </bibl>
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 
+
+              <bibl xml:id="thomas_de_kempis_de_meditatione_christi">
+                <author ref="http://d-nb.info/gnd/"></author>
+                <title>Thomas de Kempis De Meditatione Christi http://digital.ub.uni-duesseldorf.de/ink/content/titleinfo/3436168</title>
+                <exemplar>http://</exemplar>
+              </bibl>
+              <bibl xml:id="manuscriptium_de_cahn">
+                <author ref="http://d-nb.info/gnd/"></author>
+                <title>Manuscriptum de Cahn reserv.</title>
+                <exemplar>http://</exemplar>
+              </bibl>
+              <bibl xml:id="p_nicolai_elve_catholisch_schlecht_und_recht">
+                <author ref="http://d-nb.info/gnd/"></author>
+                <title>P. Nicolai Elve Catholisch Schlecht und Recht https://books.google.at/books?id=bMhNAAAAcAAJ&pg=PA245&lpg=PA245&dq=cathol+schlecht+und+Recht&source=bl&ots=2wQBN3W36t&sig=2joZKvwZ9Zhj2HzeheJSCo12bb4&hl=de&sa=X&ved=0ahUKEwj4ov7cv67WAhXFBBoKHW5QA30Q6AEIJjAA#v=onepage&q=cathol%20schlecht%20und%20Recht&f=false
+    http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10584340_00005.html</title>
+                <exemplar>http://</exemplar>
+              </bibl>
+              <bibl xml:id="officium_hebdom_sanctae">
+                <author ref="http://d-nb.info/gnd/"></author>
+                <title>Officium Hebdom. Sanctae</title>
+                <exemplar>http://</exemplar>
+              </bibl>
+              <bibl xml:id="gotschedo_teutsche_sprach_kunst">
+                <author ref="http://d-nb.info/gnd/"></author>
+                <title>Gotschedo Teutsche Sprach Kunst</title>
+                <exemplar>http://</exemplar>
+              </bibl>
+              <bibl xml:id="rudimentae_hystoricae">
+                <author ref="http://d-nb.info/gnd/"></author>
+                <title>Rudimentae Hystoricae</title>
+                <exemplar>http://</exemplar>
+              </bibl>
+              <bibl xml:id="ebenbildt_der_naettur">
+                <author ref="http://d-nb.info/gnd/"></author>
+                <title>Ebenbildt Der Nättur Ein Kreiter Buech</title>
+                <exemplar>http://</exemplar>
+              </bibl>
 
 
               <bibl xml:id="">
@@ -1252,58 +1448,11 @@
                 <title></title>
                 <exemplar>http://</exemplar>
               </bibl>
-
-              <bibl xml:id="p_ludovici_michon_casus_de_sacramentis">P. Ludovici Michon Casus de Sacramentis</bibl>
-              <bibl xml:id="vita_b_mariae">Vita B. Mariae Virg.</bibl>
-              <bibl xml:id="bedenckh_und_untersuechung_der_frage">Bedenckh und Untersuechung der Frage etc.</bibl>
-              <bibl xml:id="raiß_previer">Raiß Previer</bibl>
-              <bibl xml:id="p_ubaldi_stueber_armamentarium_ecclesiastium">Armamentarium Ecclesiastium P. Ubaldi Stueber</bibl>
-              <bibl xml:id="p_neumayr_exterminium_acediae">
-                <author ref="http://d-nb.info/gnd/11907981X">Franz Neumayr</author>
-                <title cer="undefined">Exterminium Acediae: Fructus Exhortationis Domini Nostri Jesu Christi etc.</title>
-                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11291464-5</exemplar>
-                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10265447-2</exemplar>
+              <bibl xml:id="">
+                <author ref="http://d-nb.info/gnd/"></author>
+                <title></title>
+                <exemplar>http://</exemplar>
               </bibl>
-              <bibl xml:id="casus_conscientia_benedicti">Casus Conscientia Benedicti decim-4ti</bibl>
-              <bibl xml:id="apendix_ad_casus_conscientiae_benedicti">Apendix ad Casus Conscientiae Benedicti decim-4ti</bibl>
-              <bibl xml:id="p_gelasii_de_cilia_benedict">P. Gelasii de Cilia Benedict. et Exercismi</bibl>
-              <bibl xml:id="manuale_romanum">Manuale Romanum</bibl>
-              <bibl xml:id="p_joannis_taberna_synopsus">P. Joannis Taberna Synopsus Theolog. Pract.</bibl>
-              <bibl xml:id="p_taberna_synopsis_theologicae_practicae">Synopsis Theologicae Practicae P. Taberna</bibl>
-              <bibl xml:id="joannis_taberni_sinop_theol_practicae">Joannis Taberni Sinop. Theol. Practicae</bibl>
-              <bibl xml:id="p_adelrici_schwarz_regulae_prudentis">P. Adelrici Schwarz Regulae Prudentis et pii Confessarii</bibl>
-              <bibl xml:id="p_francisci_fegebe_quaestiones_practicae">P. Francisci Fegebe Quaestiones Practicae</bibl>
-              <bibl xml:id="p_anselmi_schnell_supplementum">P. Anselmi Schnell Supplementum Theolog. Moralis</bibl>
-              <bibl xml:id="p_alexii_riederer_geistliches_seelen_nez">P. Alexii Riederer Geistliches Seelen Nez</bibl>
-              <bibl xml:id="ars_semper_gaudendi">Ars Semper Gaudendi</bibl>
-              <bibl xml:id="casparii_mandl_meditationes">
-                <author ref="http://d-nb.info/gnd/130129658">Kaspar Mändl</author>
-                <title cer="undefined">Meditationes !!!!!!!!!!!!!KONTROLLIEREN!!!!!!!!!!!!!!!!!</title>
-                <exemplar/>
-              </bibl>
-              <bibl xml:id="todts_andacht">Todts Andacht oder Zuebereithung zu Einen Guethen Todt</bibl>
-              <bibl xml:id="p_francisci_nepren_considerationes_christ">P. Francisci Nepren Considerationes Christ.</bibl>
-              <bibl xml:id="praedicti_auctoris_sacer_recessus">Praedicti Auctoris Sacer Recessus</bibl>
-              <bibl xml:id="passion_spiegl">Passion Spiegl</bibl>
-              <bibl xml:id="joannis_adami_weeber_iter_coeleste">Joannis Adami Weeber Iter Coeleste</bibl>
-              <bibl xml:id="ausfiehrlicher_unterricht_des_heiligen_mess_opfer">Ausfiehrlicher Unterricht des Heiligen Mess Opfer</bibl>
-              <bibl xml:id="p_neumayr_khern_des_christenthumb">
-                <author ref="http://d-nb.info/gnd/11907981X">Franz Neumayr</author>
-                <title>Kern des Christenthums, Oder Christ-Catholische Glaubens- und Sittenlehre in immerwährende Uebung gesetzt etc.</title>
-                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11293104-7</exemplar>
-              </bibl>
-              <bibl xml:id="p_benedicti_rogazzi_tractatis_von_der_erkhantnus_und_liebe_gottes">P. Benedicti Rogazzi Tractatis von der Erkhantnus und Liebe Gottes</bibl>
-              <bibl xml:id="p_adalberti_tylkoski_jugum_grave">P. Adalberti Tylkoski Jugum Grave</bibl>
-              <bibl xml:id="proprium_brixinense">Proprium Brixinense so zu dem Praevier geherig, ohne Tax</bibl>
-              <bibl xml:id="thomas_de_kempis_de_meditatione_christi">Thomas de Kempis De Meditatione Christi</bibl>
-              <bibl xml:id="manuscriptium_de_cahn">Manuscriptum de Cahn reserv.</bibl>
-              <bibl xml:id="p_nicolai_elve_catholisch_schlecht_und_recht">P. Nicolai Elve Catholisch Schlecht und Recht</bibl>
-              <bibl xml:id="officium_hebdom_sanctae">Officium Hebdom. Sanctae</bibl>
-              <bibl xml:id="gotschedo_teutsche_sprach_kunst">Gotschedo Teutsche Sprach Kunst</bibl>
-              <bibl xml:id="rudimentae_hystoricae">Rudimentae Hystoricae</bibl>
-              <bibl xml:id="ebenbildt_der_naettur">Ebenbildt Der Nättur Ein Kreiter Buech</bibl>
-
-
 
 
 <!-- ähnliche fertig -->
@@ -1571,7 +1720,7 @@
                 <bibl xml:id="maldonati_commentarium">Maldonati Commentarium in 4tuor Evangelistas</bibl>
                 <bibl xml:id="malleoli_a_kempis_opera_omnia_ad_autographa_de_imitatione_christi">Malleoli à Kempis Opera Omnia Ad Autographa De Imitatione Christi</bibl>
                 <bibl xml:id="manuale_benedictionum">Manuale Benedictionum</bibl>
-                <bibl xml:id="manuale_romanum_confessariorum">Manuale Romanum Confessariorum</bibl>
+                <bibl xml:id="manuale_romanum_confessariorum">Manuale Romanum Confessariorum https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10595703_00005.html</bibl>
                 <bibl xml:id="marianische_schatz_kammer">Marianische Schatz Kammer (evtl. https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10366052_00007.html)</bibl>
                 <bibl xml:id="marianisches_tag_buch_francisci_marchese">Marianisches Tag Buch Francisci Marchese</bibl>
                 <bibl xml:id="martin_stubenbeck_tractatus_in_casibus_reservatis">Dni. Martin Stubenbeck Tractatus In Casibus Reservatis</bibl>
