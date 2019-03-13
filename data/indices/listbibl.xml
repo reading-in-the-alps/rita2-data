@@ -218,13 +218,12 @@
                 <language/>
               </bibl>
               <bibl xml:id="rogmon_biblische_geschichten">
-                <author ref="http://d-nb.info/gnd/1126808814" cer="low">Rogmon / Roja Hugmond</author>
+                <author ref="http://d-nb.info/gnd/100260055">Nicolas Fontaine [Herr von Royaumont]</author>
                 <publisher/>
                 <title cer="undefined">Biblische Geschichten</title>
-                <format>Quart</format>
-                <einband>französisch</einband>
-                <volumes/>
-                <language/>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10271920-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11116532-6</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11116198-5</exemplar>
               </bibl>
               <bibl xml:id="sargor_conferentiae_morales">
                 <author ref="http://d-nb.info/gnd/136281958">Elisaeus Sargar</author>
@@ -1500,8 +1499,109 @@
                 <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10329703-8</exemplar>
                 <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10329704-4</exemplar>
               </bibl>
+              <bibl xml:id="ecclesiastes_apreviatus">
+                <author ref="http://d-nb.info/gnd/143620347">Johann Christoph Winter</author>
+                <title cer="undefined">Ecclesiastes Abbreviatus : Kurtz und Gut [...], das ist: Feyrtägliche Predigen Des gantzen Jahrs</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11293102-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11293103-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10464589-8</exemplar>
+              </bibl>
+              <bibl xml:id="claudius_joly_seelen_euefrige_bus_predigen">
+                <author ref="http://d-nb.info/gnd/124638708">Claude Joly</author>
+                <title>Der Seelen-eyfferige Buß-Prediger, oder Lehr- und Geistreiche Predigen etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364578-8</exemplar>
+              </bibl>
+              <bibl xml:id="p_marcelinus_holzer_exempl_predigen">
+                <author ref="http://d-nb.info/gnd/12063337X">Marcellinus Pfalzer</author>
+                <title cer="undefined">Herrliche Zur Tugend Und Buß Anreitzende Beyspihl, das ist: Kurtze, Und Lehrreiche Exempel-Predigen Auf Alle Sonn- Und Feyertäg etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10365526-6</exemplar>
+              </bibl>
+              <bibl xml:id="p_marcelinus_holzer_cathecismus">
+                <author ref="http://d-nb.info/gnd/12063337X">Marcellinus Pfalzer</author>
+                <title>Christ-Catholische Glaubens-Lehr, das ist: Kurtze, Klare Und Gründliche Auslegung Des Kleinen In Fünff Haupt-Stuck Eingetheilten Catechismi etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10347721-0</exemplar>
+              </bibl>
+              <bibl xml:id="p_anecletus_weiler_instructio_practica_moralis">
+                <author ref="http://d-nb.info/gnd/107789354X">Anaklet Weiller</author>
+                <title>Instructio Practica Moralis Confessariis Neophitis Tempore Jubilaei etc.</title>
+                <exemplar>https://books.google.at/books?id=wLeZRW1rEw4C</exemplar>
+              </bibl>
+              <bibl xml:id="antoni_freisl_paurn_predigen">
+                <author ref="http://d-nb.info/gnd/">Anton Freisl</author>
+                <title>Bauren- Oder Kurtze Kinder-Lehr-Predigen etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11290675-1</exemplar>
+              </bibl>
+              <bibl xml:id="p_abraham_a_st_clara">
+                <author ref="http://d-nb.info/gnd/11850021X">Abraham a Sancta Clara</author>
+                <title/>
+                <exemplar/>
+              </bibl>
+              <bibl xml:id="p_benedict_fischer_centifolium_manianum">
+                <author ref="http://d-nb.info/gnd/129622915">Benedikt Fischer</author>
+                <title>Centifolium Marianum, das ist: Hundert Predigen Von Dem Lob, Hochheit Und Mütterlichen Fürbitt Der Allerheiligsten Allzeit Übergebenedeyten Jungfrawen Und Mutter Gottes Mariae etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364176-7</exemplar>
+              </bibl>
+              <bibl xml:id="p_heribert_von_salurn">
+                <author ref="http://d-nb.info/gnd/118641034">Heribert von Salurn</author>
+                <title/>
+                <exemplar/>
+              </bibl>
+              <bibl xml:id="hortus_viriguus">
+                <author ref="http://d-nb.info/gnd/130269360">Georg Dusseldorpiensis</author>
+                <title>Hortus Irriguum oder: Newer Geistlicher Lust- Und Myrrhen-Garten [...] das ist: New-Jahrs und Fasten-Predigen etc.</title>
+                <exemplar>https://books.google.at/books?id=J3ZlAAAAcAAJ</exemplar>
+              </bibl>
+              <bibl xml:id="georgius_pistorius_himlische_wunder_werck">
+                <author ref="http://d-nb.info/gnd/124707025">Georg Pistorius</author>
+                <title>Himmlisches Wunderwerck Maria oder: Zweinzig Catholische Lob-Predigen etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11113039-7</exemplar>
+              </bibl>
+              <bibl xml:id="p_vitus_haberius_predigen">
+                <author ref="http://d-nb.info/gnd/1090287607">Vitus Faberius</author>
+                <title cer="high">Dreissig Discursus Oder Predigten, über den Englischen Gruß, oder Ave Maria etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364149-2</exemplar>
+              </bibl>
+              <bibl xml:id="ignatius_ertl_promontorium">
+                <author ref="http://d-nb.info/gnd/118911872">Ignatius Ertl</author>
+                <title>Promontorium Bonae Spei, Oder Himmlisches Vorgebürg der guten Hoffnung deren welche das gepredigte Wort Gottes gern anhören, und selbes behalten, das ist, Neue geist- und lehrreiche Predigen auf alle Sonntag deß gantzen Jahrs etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364113-9</exemplar>
+              </bibl>
+              <bibl xml:id="jubel_in_jubl_jahr">
+                <author/>
+                <publisher ref="http://d-nb.info/gnd/1090723210">Johann Ignaz Wagner</publisher>
+                <title>Jubel In Jubel-Jahr, das ist: Kurtze Beschreibung Des In Jubilaei-Jahr 1750 etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10524671-6</exemplar>
+              </bibl>
+              <bibl xml:id="wunderschoener_einzug">
+                <author/>
+                <publisher ref="http://d-nb.info/gnd/109071890X">Michael Anton Wagner</publisher>
+                <title cer="high">Wunderschöner Einzug [...] Zu Schuldigister Verehrung deß Marianischen [...] neu-erklärten Wunder-Heiligen Peregrini Latiosi etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364012-9</exemplar>
+              </bibl>
+              <bibl xml:id="nur_kein_todsuend">
+                <author/>
+                <publisher ref="http://d-nb.info/gnd/1037539680">Anton Maximilian Heiß</publisher>
+                <title>Nur kein Todt-Sünd. Oder Sibenmahliger Streich Auf Die Todt-Sünd Gewaget Und etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10366142-0</exemplar>
+              </bibl>
+              <bibl xml:id="p_carolus_rosignoli_geistliche_betrachtung">
+                <author ref="http://d-nb.info/gnd/124164412">Carlo Gregorio Rosignoli</author>
+                <author ref="http://d-nb.info/gnd/172673712">Franz Xaver Fleischmann</author>
+                <title cer="high">Geistreiche Betrachtungen Auf Die Vornehmste Fest-Täg Deß Gantzen Jahrs</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11291733-9</exemplar>
+              </bibl>
+              <bibl xml:id="lusus_mirabiles">
+                <author ref="http://d-nb.info/gnd/118726765">Laurentius von Schnüffis</author>
+                <title>Lusus mirabiles orbis ludentis : Mirantische Wunder-Spiel der Welt ; vorstellend die zeitliche Eitelkeit, und Boßheit der Menschen, auch anweisend zur wahren, und ewigen Glückseeligkeit etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11260939-4</exemplar>
+              </bibl>
+              <bibl xml:id="truz_andacht">
+                <author ref="http://d-nb.info/gnd/124614213" cer="middle">Marcellian Dalhover</author>
+                <title cer="middle">Truz Doktor! Oder letzte Ehren-Rede etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10336489-3</exemplar>
+              </bibl>
 
-<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxx 125r in oktav-->
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxx 126r in oktav-->
 
 
               <bibl xml:id="">
@@ -1509,11 +1609,21 @@
                 <title></title>
                 <exemplar>http://</exemplar>
               </bibl>
-              <bibl xml:id="">
-                <author ref="http://d-nb.info/gnd/"></author>
-                <title></title>
-                <exemplar>http://</exemplar>
+
+
+
+              <bibl xml:id="p_pusenpaum_medulae_theol_moral">P. Pusenpaum Medulae Theol. Moral.</bibl>
+              <bibl xml:id="joann_christoph_peer_der_in_eyl_bereitete_prediger">Joann Christoph Peer Der In Eyl Bereitete Prediger</bibl>
+              <bibl xml:id="p_neumayr_2">
+                <author ref="http://d-nb.info/gnd/11907981X" cer="low">Franz Neumayr</author>
+                <title/>
+                <exemplar/>
               </bibl>
+              <bibl xml:id="p_bilibaldus_cobold_scherz_und_ernst_beysammen">Willibald Kobolt P. Bilibaldus Cobold Scherz Und Ernst Beysammen</bibl>
+              <bibl xml:id="aloysius_peletius_seelig_sterbender_christ">Aloysius Peletius Seelig Sterbender Christ</bibl>
+              <bibl xml:id="patronillus_schreger_lustige_zeit_vertreibung">Patronillus Schreger Lustige Und Nutzliche Zeit Vertreibung</bibl>
+              <bibl xml:id="chopius_christliche_betrachtung">Chopius Christliche Betrachtung</bibl>
+
 
 
 <!-- ähnliche fertig -->
@@ -1530,11 +1640,6 @@
 
              <bibl xml:id="p_neumayr">
                 <author cer="undefined">[Pater] Neumayr</author>
-                <title/>
-                <exemplar/>
-              </bibl>
-              <bibl xml:id="p_neumayr_2">
-                <author ref="http://d-nb.info/gnd/11907981X" cer="low">Franz Neumayr</author>
                 <title/>
                 <exemplar/>
               </bibl>
@@ -1585,14 +1690,32 @@
                 <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10632172-5</exemplar>
               </bibl>
 
+              <bibl xml:id="tobias_lohner_instructio_practica_ms">
+                <author ref="http://d-nb.info/gnd/123623987">Tobias Lohner</author>
+                <title cer="undefined">Instructio Practica De SS. Missae Sacrificio</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10590954-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10590859-6</exemplar>
+              </bibl>
+              <bibl xml:id="opere_del_padre_carlo_gregorio_rosignol">
+                <author ref="http://d-nb.info/gnd/124164412">Carlo Gregorio Rosignoli</author>
+                <title>Opere Spirituali e Morali Del padre Carlo Gregorio Rosignoli etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10223531-0</exemplar>
+              </bibl>
+              <bibl xml:id="p_rosignoli_wunderwerk_gottes">
+                <author ref="http://d-nb.info/gnd/124164412">Carlo Gregorio Rosignoli</author>
+                <title cer="undefined">Wunderwerck Gottes in seinen Heiligen etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10789876-6</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10789877-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11288349-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11092885-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11092883-7</exemplar>
+              </bibl>
 
 
 <!-- ähnliche -->
 
               <bibl xml:id="p_crasset_la_storia_della_chiesa_del_giappone">La Storia Della Chiesa Del Giappone P. Crasset</bibl>100091695
-              <bibl xml:id="ignatius_ertl_promontorium">Ignatius Ertl: Promontorium Bonae Spei, Oder Himmlisches Vorgebürg der guten Hoffnung deren welche das gepredigte Wort Gottes gern anhören, und selbes behalten, das ist, Neue geist- und lehrreiche Predigen auf alle Sonntag deß gantzen Jahrs etc.</bibl>
               <bibl xml:id="pater_ilhum_theol_pract">Jakob Illsung: Arbor scientiae boni et mali sive Theologia Practica Universa de bono et malo morali etc.</bibl>
-              <bibl xml:id="tobias_lohner_instructio_practica_ms">Tobias Lohner: Instructio Practica De S.S. Missae Sacrificio</bibl>
 
 <!-- noch offen -->
 
@@ -1600,7 +1723,6 @@
                 <bibl xml:id="adami_josephi_greneck_examen_iuris_canonici">Examen Iuris Canonici Adami Josephi Greneck</bibl>
                 <bibl xml:id="ad_casus_conscientiae_ad_mandatum">Ad Casus Conscientiae Ad Mandatum etc.</bibl>
                 <bibl xml:id="albertus_stephanni_geistreicher_possaunen_schall">Albertus Stephanni Geistreicher Possaunen Schall</bibl>
-                <bibl xml:id="aloysius_peletius_seelig_sterbender_christ">Aloysius Peletius Seelig Sterbender Christ</bibl>
                 <bibl xml:id="alt_katholischer_hohe_genffer_schul_francisci_de_sales">Alt Katholischer Hohe Genffer Schul Francisci de Sales</bibl>
                 <bibl xml:id="anathema_mariano_theologicum">Anathema Mariano Theologicum</bibl>
                 <bibl xml:id="annus_apostolicus_continens_conciones_pro_omnibus_diebus_dominicis">Annus Apostolicus Continens Conciones Pro Omnibus Diebus Dominicis</bibl>
@@ -1608,7 +1730,6 @@
                 <bibl xml:id="annus_pastorum_v_lamberto_abbate">Annus Pastorum v. Lamberto Abbate</bibl>
                 <bibl xml:id="anselmi_fischer_vita_interna_cum_deo">Anselmi Fischer Vita Interna Cum Deo</bibl>
                 <bibl xml:id="antiquitaeten">Antiquitäten</bibl>
-                <bibl xml:id="antoni_freisl_paurn_predigen">Antoni Freisl Paurn Predigen</bibl>
                 <bibl xml:id="antonii_a_borgundia_lapis_lydius_munbi">Antonii a Borgundia Lapis Lydius Munbi</bibl>
                 <bibl xml:id="antonii_wagner_horae_mathematico">Antonii Wagner Horae Mathematico</bibl>
                 <bibl xml:id="antonii_zara_anatomia_ingeniorum_et_scientarium">Antonii Zara Anatomia Ingeniorum, Et Scientiarum</bibl>
@@ -1629,11 +1750,9 @@
                 <bibl xml:id="catholicus_cathecismus_planci_canisiani_episcopi_vienensis">Catholicus Cathecismus Planci Canisiani Episcopi Vienensis</bibl>
                 <bibl xml:id="catholische_replic">Catholische Replic</bibl>
                 <bibl xml:id="causo_regum_inter_se_belligerantium">Causo Regum Inter Se Belligerantium</bibl>
-                <bibl xml:id="chopius_christliche_betrachtung">Chopius Christliche Betrachtung</bibl>
                 <bibl xml:id="choral_buch">Coral Buech</bibl>
                 <bibl xml:id="ciceri_predigen">Ciceri Gesamte Predigen</bibl>
                 <bibl xml:id="claudius_fleurii_historischer_cathecismus">Claudius Fleurii Historischer Cathecismus</bibl>
-                <bibl xml:id="claudius_joly_seelen_euefrige_bus_predigen">Claudius Joly Der Seelen Eüfrige Bus Bredigen</bibl>
                 <bibl xml:id="clementis_xi_orationes">Clementis XI Orationes</bibl>
                 <bibl xml:id="clericus_romanus_francolini">Clericus Romanus Francolini</bibl>
                 <bibl xml:id="compedioses_gelehrten_lexikon_d_johann_burchard_menkes">Compedioses Gelehrten Lexikon D. Johann Burchard Menkes</bibl>
@@ -1685,7 +1804,6 @@
                 <bibl xml:id="eiusdem_panegirici">Eiusdem Panegirici</bibl>
                 <bibl xml:id="eiusdem_quaresimale">Eiusdem Quaresimale</bibl>
                 <bibl xml:id="englberti_kranckenbuch">Englberti Kranckenbuch</bibl>
-                <bibl xml:id="ecclesiastes_apreviatus">Ecclesiastes Apreviatus</bibl>
                 <bibl xml:id="epistolae_st_francisci_xaveri">Epistolae St. Francisci Xaveri</bibl>
                 <bibl xml:id="erstes_jubel_jahr_v_dem_collegio_der_gesellschaft_jesu">Erstes Jubel Jahr v. dem Collegio der Gesellschaft Jesu zu Munichen</bibl>
                 <bibl xml:id="erwiesene_wahrheit_der_katholischen_religion">Die Aus Der Heiligen Schrift Erwiesene Wahrheit Der Katholischen Religion</bibl>
@@ -1697,7 +1815,6 @@
                 <bibl xml:id="fleschiers_sitten_rede">Fleschiers Sitten Rede und andere etc.</bibl>
                 <bibl xml:id="francisci_antoni_oberleutner_geistliche_baurn_regul">Francisci Antoni Oberleutner Geistliche Baurn Regul</bibl>
                 <bibl xml:id="francisci_dorn_lauertanische_lytanei">Francisci Dorn Lauertanische Lytanei</bibl>
-                <bibl xml:id="franz_anoni_reichle_groser_allgemeiner_cathecismus">Franz Anoni [sic!] Reichle Groser und Allgemeiner Cathecismus</bibl>
                 <bibl xml:id="gedanken_st_bernardi">Gedanken St. Bernardi</bibl>
                 <bibl xml:id="geist_des_heiligen_francisci_salesii">Geist Des Heiligen Francisci Salesii</bibl>
                 <bibl xml:id="geistliche_schaubuehne">Geistliche Schaubühne Oder Der Heilige Augustin In Seiner Bekehrung</bibl>
@@ -1705,7 +1822,6 @@
                 <bibl xml:id="geistlicher_krammer_laden_von_p_abraham_a_st_clara">Geistlicher Krammer Laden von P. Abraham à St. Clara</bibl>
                 <bibl xml:id="geistlicher_vatter_des_heiligen_francisci_v_sales">Geistlicher Vatter des Heiligen Francisci v. Sales</bibl>
                 <bibl xml:id="georg_zeaemans_keptisches_wunder_thier">Georg Zeämans Kemptisches Wunder Thier in gsch[o]bnen Pirment</bibl>
-                <bibl xml:id="georgius_pistorius_himlische_wunder_werck">Georgius Historicus Himlische Wunder Werck, Mariae</bibl>
                 <bibl xml:id="gilasius_de_cilio_thesourus">Gilasius de Cilio Thesourus</bibl>
                 <bibl xml:id="giuseppe_da_copertino_vita_del_venerabile_padre">Vita Del Venerabile Padre Fr. Giuseppe Da Copertino</bibl>
                 <bibl xml:id="glareani_dodecachordi">Glareani Dodecachordi</bibl>
@@ -1723,8 +1839,6 @@
                 <bibl xml:id="historischer_seelen_kalender">Historischer Seelen Kalender</bibl>
                 <bibl xml:id="homiliarius_doctorus">Homiliarius Doctorus</bibl>
                 <bibl xml:id="homo_christianus_institutus_pauli_segneri">Homo Christianus Institutus Pauli Segneri</bibl>
-                <bibl xml:id="hortus_viriguus">Hortus Viriguus</bibl>
-                <bibl xml:id="idem_cathecismus">Idem Cathecismus</bibl>
                 <bibl xml:id="ignatii_weitenauer_auxilii_st_tribunalis">Ignatii Weitenauer Auxilii St. Tribunalis</bibl>
                 <bibl xml:id="il_diocesano_istruito_fontana">Il Diocesano Istruito Fontana</bibl>
                 <bibl xml:id="il_gentiluomo_istruito_da_d_francesco_giuseppe_morelli">Il Gentiluomo Istruito etc. da D. Francesco Giuseppe Morelli</bibl>
@@ -1741,7 +1855,6 @@
                 <bibl xml:id="jacobi_gechtneri_murices_antiquitatis_catholicae">Jacobi Gechtneri Murices Antiquitatis Catholicae</bibl>
                 <bibl xml:id="jacobi_halde_lyrica_et_poemata">Jacobi Halde Lyrica Et Poemata</bibl>
                 <bibl xml:id="jacobi_schmid_baurn_legendt">Jacobi Schmid Baurn Legendt</bibl>
-                <bibl xml:id="joann_christoph_peer_der_in_eyl_bereitete_prediger">Joann Christoph Peer Der In Eyl Bereitete Prediger</bibl>
                 <bibl xml:id="joann_imhof_messis_mistica_theol_moral">Joann Imhof Messis Mistica Theol. Moral.</bibl>
                 <bibl xml:id="joann_paul_hausinger_christliches_fruehestuck">Joann Paul Hausinger Christliches Fruehestuck</bibl>
                 <bibl xml:id="joannis_belethi_rationale_divinorum_beneficiorum">Joannis Belethi Rationale Divinorum Beneficiorum</bibl>
@@ -1750,7 +1863,6 @@
                 <bibl xml:id="johann_caspar_du_fey_predigen">Johann Caspar du Fey Predigen</bibl>
                 <bibl xml:id="johann_hibners_real_statts_und_zeitungslexikon">Johann Hibners Real Statts- Und Zeitungs etc. Lexicon</bibl>
                 <bibl xml:id="johann_kristoph_peer_bredigen">Sonn- und Feyrtags Bredigen v. Johann Kristoph Peer</bibl>
-                <bibl xml:id="jubel_in_jubl_jahr">Jubel in Jubl Jahr</bibl>
                 <bibl xml:id="judas_der_erzschelm">Judas Der Erzschelm</bibl>
                 <bibl xml:id="kleine_ehrhalten_legendt_v_jakob_schmid">Kleine Ehrhalten Legendt v. Jakob Schmid</bibl>
                 <bibl xml:id="l_annuale_per_gli_parochi_di_gioseppe_musoco">L’annuale Per Gli Parochi, di Gioseppe Musoco</bibl>
@@ -1773,7 +1885,6 @@
                 <bibl xml:id="ludovici_andreae_mathematische_und_historische_beschreibung_des_ganzen_welt_gebaeuds">Mathematische Und Historische Beschreibung Des Ganzen Welt Gebäuds etc. Ludovici Andreae</bibl>
                 <bibl xml:id="ludovici_blosii_opera">Ludovici Blosii Opera</bibl>
                 <bibl xml:id="lustiges_sterb_jahr_mit_grab_schriften">Lustiges Sterb Jahr mit Grab-Schriften</bibl>
-                <bibl xml:id="lusus_mirabiles">Lusus Mirabiles</bibl>
                 <bibl xml:id="lux_cathechetica_comitis_fieger">Lux Catechetica Comitis Fieger</bibl>
                 <bibl xml:id="maldonati_commentarium">Maldonati Commentarium in 4tuor Evangelistas</bibl>
                 <bibl xml:id="malleoli_a_kempis_opera_omnia_ad_autographa_de_imitatione_christi">Malleoli à Kempis Opera Omnia Ad Autographa De Imitatione Christi</bibl>
@@ -1800,11 +1911,9 @@
                 <bibl xml:id="nattuerliches_zauberbuch">Nattürliches Zauberbuch</bibl>
                 <bibl xml:id="neu_reformierte_landesordnung">Neu Reformierte Landesordnung</bibl>
                 <bibl xml:id="neue_vermehrte_acerra_philologica">Neue Vermehrte Acerra Philologica 600 Auserlesenen Historien</bibl>
-                <bibl xml:id="nur_kein_todsuend">Nur Kein Tod Sind</bibl>
                 <bibl xml:id="opera_del_padre_cattaneo">Opera del Padre Cattaneo</bibl>
                 <bibl xml:id="opera_der_heiligen_seraphischen_jungfrauen_theresia_v_jesu">Opera Der Heiligen Seraphischen Jungfrauen Theresia V. Jesu</bibl>
                 <bibl xml:id="opera_st_fulgentii">Opera St. Fulgentii</bibl>
-                <bibl xml:id="opere_del_padre_carlo_gregorio_rosignol">Opere del Padre Carlo Gregorio Rosignol</bibl>
                 <bibl xml:id="opere_del_padre_gio_eusebio_nieremberg">Opere del Padre Gio Eusebio Nieremberg</bibl>
                 <bibl xml:id="opere_di_st_francesco_di_sales">Opere di St. Francesco di Sales</bibl>
                 <bibl xml:id="opere_spirituali_di_st_francesco_di_sales">Opere Spirituali di St. Francesco di Sales</bibl>
@@ -1812,12 +1921,10 @@
                 <bibl xml:id="orationes_josephi_ignatii_chiaberge">Orationes Josephi Ignatii Chiaberge</bibl>
                 <bibl xml:id="orazione_in_morte_di_eugenio_francesco_principae_di_savoja">Orazione In Morte Di Eugenio Francesco Principae Di Savoja</bibl>
                 <bibl xml:id="ordo_teutonicum">Ordo Teutonicum</bibl>
-                <bibl xml:id="p_aberham_a_S_Clara">P. Aberham à S. Clara</bibl>
                 <bibl xml:id="p_abraham_reim_dich_oder_ich_liess_dich">P. Abraham Reim Dich, Oder Ich Liess Dich</bibl>
                 <bibl xml:id="p_agricola_historia_provincio_soc_jesu_germaniae_superioris">Historia Provincio Soc. Jesu Germaniae Superioris P. Agricola</bibl>
                 <bibl xml:id="p_amort_dictionarium_casuum_conscientiae">Dictionarium Casuum Conscientiae P. Amort</bibl>
                 <bibl xml:id="p_anacleti_reufenstul_thol">Thol. [sic!] Mor. P. Anacleti Reufenstul</bibl>
-                <bibl xml:id="p_anecletus_weiler_instructio_practica_moralis">P. Anecletus Weiler Instructio Practica Moralis</bibl>
                 <bibl xml:id="p_antonii_de_guevara_faticinium_in_havacuc_prophetae_commentaria">P. Antonii de Guevara Faticinium In Habacuc Prophetae Commentaria</bibl>
                 <bibl xml:id="p_archdekin_theologia_tripartita">Theologia Tripartita P. Achdeckin</bibl>
                 <bibl xml:id="p_august_calmet_dictionarium_biblicum">P. August Calmet Dictionarium Biblicum</bibl>
@@ -1827,8 +1934,6 @@
                 <bibl xml:id="p_baptistae_halden_ephemerologium_ecclesiastico_rubricisticum_novum">Ephemerologium Ecclesiastico Rubricisticum Novum P. Baptistae Halden</bibl>
                 <bibl xml:id="p_bellechii_kern_der_geistlichen">Kern Der Geistlichen Lehre P. Bellechii</bibl>
                 <bibl xml:id="p_bellechii_medula_asceseos">Medula Asceseos P. Bellechii</bibl>
-                <bibl xml:id="p_benedict_fischer_centifolium_manianum">P. Benedict Fischer Centifolium Marianum</bibl>
-                <bibl xml:id="p_bilibaldus_cobold_scherz_und_ernst_beysammen">P. Bilibaldus Cobold Scherz Und Ernst Beysammen</bibl>
                 <bibl xml:id="p_biner_indifferntismus_oder_gleichgiltigkeit_in_glauben">Indifferentismus Oder Gleichgiltigkeit In Glauben P. Biner</bibl>
                 <bibl xml:id="p_biselii_illustrium_ruinarum">Illustrium Ruinarum P. Biselii</bibl>
                 <bibl xml:id="p_bisling_mons_tabor">Mons Tabor P. Bisling</bibl>
@@ -1838,7 +1943,6 @@
                 <bibl xml:id="p_burghaber_centuriae_et_selectorum_casuum">Centuriae Et Selectorum Casuum P. Burghaber</bibl>
                 <bibl xml:id="p_casalicchio_anmuthige_hundert_historien">Anmuthige Hundert Historien P. Casalicchio</bibl>
                 <bibl xml:id="p_candido_brognolo_bergomensi_manuale_exorcistarium">Manuale Exorcistarium P. Candido Brognolo Bergomensi</bibl>
-                <bibl xml:id="p_carolus_rosignoli_geistliche_betrachtung">P. Carolus Rosignoli Geistliche Betrachtung</bibl>
                 <bibl xml:id="p_casimiri_fueehslin_theatrum_gloriae_sanctorum">Theatrum Gloriae Sanctorum P. Casimiri Füehslin</bibl>
                 <bibl xml:id="p_cheruobino_mayr_recollectiones_morales">Recollectiones Morales Ex Temporanaeae P. Cherubino Mayr</bibl>
                 <bibl xml:id="p_christophori_clavii_in_sphaeram">P. Christophori Clavii In Sphaeram</bibl>
@@ -1862,7 +1966,6 @@
                 <bibl xml:id="p_halden_pastor_bonus">Pastor Bonus P. Halden</bibl>
                 <bibl xml:id="p_henrici_engelgrave_caeleste_pantheon">Caeleste Pantheon P. Henrici Engelgrave</bibl>
                 <bibl xml:id="venedien_fruchtbarer_himelsthau_bredigen">Fruchtbarer Himelsthau, Geist- Und Lehrreiche Bredigen P. Henrici Venedien</bibl>
-                <bibl xml:id="p_heribert_von_salurn">P. Heribert von Salurn</bibl>
                 <bibl xml:id="p_herzig_manuale_parochiae">P. Herzig Manuale Parochiae</bibl>
                 <bibl xml:id="p_hieronymi_florentinii_de_hominibus_dubes">P. Hieronymi Florentinii De Hominibus Dubes</bibl>
                 <bibl xml:id="p_ignatii_brentano_annus_assceticus">Annus Assceticus P. Ignatii Brentano</bibl>
@@ -1882,7 +1985,6 @@
                 <bibl xml:id="p_ludolphus_vita_domini_nostri_jesu_christi">Vita Domini Nostri Jesu Christi v. P. Ludolphus</bibl>
                 <bibl xml:id="p_luigi_granata_opere_spirituali">Opere Spirituali P. Luigi Granata</bibl>
                 <bibl xml:id="p_maffei_historiarum_indicarum">P. Maffei Historiarum Indicarum</bibl>
-                <bibl xml:id="p_marcelinus_holzer_exempl_predigen">P. Marcelinus Holzer Exempl Predigen</bibl>
                 <bibl xml:id="p_martini_becani_manuale_controversiarium">P. Martini Becani Manuale Controversiarium</bibl>
                 <bibl xml:id="p_mathias_schoenberg_das_geschaefft_des_menschen">Das Geschäfft des Menschen P. Mathias Schönberg</bibl>
                 <bibl xml:id="p_mayr_tractatus_theologicus_de_secundo_christi_adventus">Tractatus Theologicus De Secundo Christi Adventus P. Mayr</bibl>
@@ -1907,10 +2009,8 @@
                 <bibl xml:id="p_philippi_hartung_conciones_tergeminae_in_dominicas_et_festa">Conciones Tergeminae in Dominicas Et Festa P. Philippi Hartung</bibl>
                 <bibl xml:id="p_pinemonti_exercitii_spirituali">Exercitii Spirituali P. Pinemonti</bibl>
                 <bibl xml:id="p_philiputschii_de_siehensium_ritibis">De Siehensium Ritibus P. Philiputschii</bibl>
-                <bibl xml:id="p_pusenpaum_medulae_theol_moral">P. Pusenpaum Medulae Theol. Moral.</bibl>
                 <bibl xml:id="p_ribadenvira_triumpfirende_tugenden_oder_leben_der_heiligen">Triumpfirende Tugenden, oder Leben der Heiligen P. Ribadenevira</bibl>
                 <bibl xml:id="p_rodriguez_esercizio_di_perfezione">Esercizio Di Perfezione P. Rodriquez</bibl>
-                <bibl xml:id="p_rosignoli_wunderwerk_gottes">Wunderwerk Gottes In Seinen Heiligen P. Rosignoli</bibl>
                 <bibl xml:id="p_rothner_margaritha_caelestis">Margaritha Caelestis P. Rothner</bibl>
                 <bibl xml:id="p_saint_jure_erkantnis">Erkantnis, Und Liebe Des Sohn Gottes P. Saint-Jure</bibl>
                 <bibl xml:id="p_schwarz_collegia_hystorica">Collegia Hystorica P. Schwarz</bibl>
@@ -1930,7 +2030,6 @@
                 <bibl xml:id="p_udalricus_probst_betrachtung">P. Udalricus Probst Betrachtung</bibl>
                 <bibl xml:id="p_veggi_sermoni_familiari">Sermoni Familiari P. Veggi</bibl>
                 <bibl xml:id="p_vieyra_prediche_della_quaresima">Prediche Della Quaresima P. Vieyra</bibl>
-                <bibl xml:id="p_vitus_haberius_predigen">P. Vitus Haberius 30 Predigen</bibl>
                 <bibl xml:id="p_viviens_tertulianus_praedicans">Tertulianus Praedicans P. Viviens</bibl>
                 <bibl xml:id="p_voit_theologia_moralis">Theologia Moralis P. Voit</bibl>
                 <bibl xml:id="p_weselii_sontag_und_feyrtag_predigen">P. Weselii Sontag Und Feyrtag Predigen</bibl>
@@ -1941,7 +2040,6 @@
                 <bibl xml:id="padre_vieyra_la_rosa_mystica">La Rosa Mystica Padre Vieyra</bibl>
                 <bibl xml:id="paolo_segneri_panegirici_sacri">Paolo Segneri Panegirici Sacri</bibl>
                 <bibl xml:id="parochus_florilegus">Parochus Florilegus</bibl>
-                <bibl xml:id="patronillus_schreger_lustige_zeit_vertreibung">Patronillus Schreger Lustige Und Nutzliche Zeit Vertreibung</bibl>
                 <bibl xml:id="pauli_segneri_prediche_de_palazzo_apostolico">Pauli Segneri Prediche De Palazzo Apostolico</bibl>
                 <bibl xml:id="penatum_summum_malum_meditationes">Penatum Summum Malum Meditationes</bibl>
                 <bibl xml:id="perfectissimus_calepinus_parvus_sive_correctissimum_dictionarium_caesaris_calderini_mirani">Perfectissimus Calepinus Parvus Sive Correctissimum Dictionarium Caesaris Calderini Mirani</bibl>
@@ -1977,7 +2075,6 @@
                 <bibl xml:id="revellationes_caelestes_st_birgithae">Revellationes Caelestes St. Birgithae</bibl>
                 <bibl xml:id="riflessioni_christiane_del_padre_francesco_nepveu">Riflessioni Christiane del Padre Francesco Nepveu</bibl>
                 <bibl xml:id="rudimenta_historica_fir_die_schulen">Rudimenta Historica Fir Die Schulen</bibl>
-                <bibl xml:id="roja_hugmond_biblische_geschichten">Roja Hugmond Biblische Geschichten</bibl>
                 <bibl xml:id="roschmann_veldidena_urbs_antiquissima">Veldidena Urbs Antiquissima authore Roschmann</bibl>
                 <bibl xml:id="richterstuhl_christi">Richter Stuhl Kristi</bibl>
                 <bibl xml:id="rituale_romanum">Rituale Romanum</bibl>
@@ -2020,7 +2117,6 @@
                 <bibl xml:id="tractatus_theol_mor_de_casibus_reservatis">Tractatus Theol. Mor. De Casibus reservatis</bibl>
                 <bibl xml:id="tractatus_theologico_moralis_in_decem_decalogi">Tractatus Theologico Moralis In Decem Decalogi</bibl>
                 <bibl xml:id="trattenimento_istorico_spirituale_di_calino">Trattenimento Istorico Spirituale di Calino</bibl>
-                <bibl xml:id="truz_andacht">Truz Andacht</bibl>
                 <bibl xml:id="tugendschmied">Tugend Schmied P. Gansler</bibl>
                 <bibl xml:id="unterschiedliche_buecher">unterschiedliche Büechlen</bibl>
                 <bibl xml:id="v_saeles_predigen">v. Säles Predigen</bibl>
@@ -2043,7 +2139,6 @@
                 <bibl xml:id="weislinger_die_gesuchte_wahrheit">Die Gesuchte Wahrheit etc. Weislinger</bibl>
                 <bibl xml:id="werke_des_marcus_caraccioli">Werke des Marcus Caraccioli</bibl>
                 <bibl xml:id="wunderschener_einzug_des_heiligen_peregrini">Wunderschener Einzug Des Heiligen Peregrini</bibl>
-                <bibl xml:id="wunderschoener_einzug">Wunderschöner Einzug</bibl>
             </listBibl>
         </body>
     </text>
