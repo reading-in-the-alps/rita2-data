@@ -9015,7 +9015,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#messis_mysticae">Messis Mysticae, oder Reichgesamelter Frucht Schnitt Joannes Imhof</rs>.
+                        <rs type="bibl" ref="#johann_imhof_messis_mystica">Messis Mysticae, oder Reichgesamelter Frucht Schnitt Joannes Imhof</rs>.
                         <note>
                            <p rend="footnote text"> -h- <hi rend="italic">korrigiert aus</hi> -s-.</p>
                         </note>
@@ -9764,7 +9764,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <bibl>Nebst anderen mehr unterschiedliche in Octav und Duodec deren beyläufig bey 650 vorfündig sind.</bibl>
+                        <rs type="bibl" ref="#undefined11">Nebst anderen mehr unterschiedliche in Octav und Duodec deren beyläufig bey 650 vorfündig sind.</rs>
                      </cell>
                   </row>
                </table>
@@ -9773,7 +9773,7 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>Von vorstehenden Bücheren seind eines dem andern zu Hilf angeschlagen worden, als 100 Stuck Folianten à 1 f 0 x [summa] 100 f die 292 Quartisten à 30 x thutt 146 f 0 x<note><p rend="footnote text"> 146 f 0 x<hi rend="italic" xml:space="preserve"> über der Zeile eingefügt statt gestrichenem </hi>80 f 45 x.</p></note> die
+                     <cell>Von vorstehenden <bibl>Bücheren</bibl> seind eines dem andern zu Hilf angeschlagen worden, als 100 Stuck Folianten à 1 f 0 x [summa] 100 f die 292 Quartisten à 30 x thutt 146 f 0 x<note><p rend="footnote text"> 146 f 0 x<hi rend="italic" xml:space="preserve"> über der Zeile eingefügt statt gestrichenem </hi>80 f 45 x.</p></note> die
                      323<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Erste </hi>3<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>2.</p></note> Stuck Octavisten<note><p rend="footnote text"><hi rend="italic"> Am linken Rand eingefügt.</hi></p></note> à 15 x [summa] 80 f 45 x und 600 Stuck à 6 x [summa] 60 f 0 x. Zusamen</cell>
                      <cell>386 f 45 x</cell>
                   </row>
