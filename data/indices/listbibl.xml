@@ -89,7 +89,7 @@
                 <format cer="low">Oktav</format>
               </bibl>
               <bibl xml:id="undefined9">
-                <title>undefiniert: Bücher</title>
+                <title>undefiniert: mehrere Bücher</title>
               </bibl>
               <bibl xml:id="undefined10">
                 <title>undefiniert: unterschiedliche Bücher</title>
@@ -97,6 +97,36 @@
               <bibl xml:id="undefined11">
                 <title>undefiniert: etwa 650 unterschiedliche Bücher</title>
                 <format>Oktav / Duodez</format>
+              </bibl>
+              <bibl xml:id="undefined12">
+                <title>undefiniert: mehrere kleine Bücher</title>
+              </bibl>
+              <bibl xml:id="undefined13">
+                <title>undefiniert: mehrere Bücher</title>
+              </bibl>
+              <bibl xml:id="undefined14">
+                <title>undefiniert: (sämtliche) mehrere Bücher</title>
+              </bibl>
+              <bibl xml:id="undefined15">
+                <title>undefiniert: mehrere Bücher</title>
+              </bibl>
+              <bibl xml:id="undefined16">
+                <title>undefiniert: mehrere Schriftstücke</title>
+              </bibl>
+              <bibl xml:id="undefined17">
+                <title>undefiniert: mehrere Bücher</title>
+              </bibl>
+              <bibl xml:id="taufbuch">
+                <title>Taufbuch (Manuskript)</title>
+              </bibl>
+              <bibl xml:id="kalender">
+                <title>Kalender des Jahres 1797</title>
+              </bibl>
+              <bibl xml:id="aufschreibbuecher">
+                <title>Aufschreibbücher</title>
+              </bibl>
+              <bibl xml:id="paket_schriften">
+                <title>undefiniert: 2 gebundene Pakete mit Schriftstücken</title>
               </bibl>
               <bibl xml:id="brevier">
                 <author/>
@@ -770,7 +800,7 @@
               </bibl>
               <bibl xml:id="ius_canonicum_pichler">
                 <author cer="middle" ref="http://d-nb.info/gnd/100234798">Vitus Pichler</author>
-                <title cer="low">Jus Canonicum Practice Explicatum Seu Decisiones Casuum etc.</title>
+                <title cer="low">Ius Canonicum Practice Explicatum Seu Decisiones Casuum etc.</title>
                 <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10508536-7</exemplar>
               </bibl>
               <bibl xml:id="roberti">
@@ -1734,90 +1764,90 @@
                 <title>Messis Mystica Et Moralis: Reichgesammleter, Auserlesen Geistlicher Frucht-Schnitt, das ist: Ordentliche Verfassung Der HH. Evangelien etc.</title>
                 <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11292687-7</exemplar>
               </bibl>
-
-<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
-
-
               <bibl xml:id="pater_ilhum_theol_pract">
-                <author ref="http://d-nb.info/gnd/"></author>
-                <title>Jakob Illsung: Arbor scientiae boni et mali sive Theologia Practica Universa de bono et malo morali etc.</title>
-                <exemplar>http://</exemplar>
+                <author ref="http://d-nb.info/gnd/124968422">Jakob Illsung</author>
+                <title>Arbor scientiae boni et mali sive Theologia Practica Universa de bono et malo morali etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11054039-7</exemplar>
               </bibl>
               <bibl xml:id="venedien_fruchtbarer_himelsthau_bredigen">
-                <author ref="http://d-nb.info/gnd/"></author>
-                <title>Fruchtbarer Himelsthau, Geist- Und Lehrreiche Bredigen P. Henrici Venedien</title>
-                <exemplar>http://</exemplar>
+                <author ref="http://d-nb.info/gnd/172432448">Heinrich Venedien</author>
+                <title>Fruchtbarer Himmels-Thaw Zu Erquickung der Hertzen [...], das ist: Geist- Und Lehrreiche Bredigen etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10366217-6</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10480306-5</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10480308-6</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10480309-6</exemplar>
               </bibl>
               <bibl xml:id="albertus_stephanni_geistreicher_possaunen_schall">
-                <author ref="http://d-nb.info/gnd/"></author>
-                <title>Albertus Stephanni Geistreicher Possaunen Schall</title>
-                <exemplar>http://</exemplar>
+                <author ref="http://d-nb.info/gnd/1046658042">Albert Steffan</author>
+                <title cer="undefined">Tubae Sonitus [...] Geistlicher Posaunen-Schall etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330280-0</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330279-8</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330283-6</exemplar>
               </bibl>
               <bibl xml:id="teuetsche_theol">
-                <author ref="http://d-nb.info/gnd/"></author>
-                <title>Teütsche Theol.</title>
-                <exemplar>http://</exemplar>
+                <author/>
+                <title cer="undefined">Theologia (deutsch)</title>
+                <exemplar/>
               </bibl>
               <bibl xml:id="concionum_pastoralium_partus_secundus">
-                <author ref="http://d-nb.info/gnd/"></author>
-                <title>Concionum Pastoralium partus secundus</title>
-                <exemplar>http://</exemplar>
-              </bibl>
-              <bibl xml:id="p_anacleti_reufenstul_thol">
-                <author ref="http://d-nb.info/gnd/"></author>
-                <title>Thol. [sic!] Mor. P. Anacleti Reufenstul</title>
-                <exemplar>http://</exemplar>
+                <author ref="http://d-nb.info/gnd/118641034">Heribert von Salurn</author>
+                <title cer="undefined">Concionum Pastoralium Pars Secunda [...]</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10621017-5</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10621014-9</exemplar>
               </bibl>
               <bibl xml:id="ius_canonicum_andreae_valensii_carmeli_leontini">
-                <author ref="http://d-nb.info/gnd/"></author>
-                <title>Ius Canonicum Andreae Valensii Carmeli Leontini</title>
-                <exemplar>http://</exemplar>
-              </bibl>
-              <bibl xml:id="johann_kristoph_peer_bredigen">
-                <author ref="http://d-nb.info/gnd/"></author>
-                <title>Sonn- und Feyrtags Bredigen v. Johann Kristoph Peer</title>
-                <exemplar>http://</exemplar>
+                <author ref="http://d-nb.info/gnd/">André Delvaux [Andreas Vallensis]</author>
+                <title cer="undefined">Paratitla Iuris Canonici etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10508711-0</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11066550-5</exemplar>
               </bibl>
               <bibl xml:id="supplementum_conferentiarum_mor_theol_p_a_kiliano_kazenberger">
-                <author ref="http://d-nb.info/gnd/"></author>
-                <title>Supplementum Conferentiarum Mor. Theol. P. a Kiliano Kazenberger</title>
-                <exemplar>http://</exemplar>
+                <author ref="http://d-nb.info/gnd/135853893">Kilian Kazenberger</author>
+                <title cer="undefined">Supplementum Conferentiarum Theologico-Moralium etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10597269-6</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10597268-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10597267-1</exemplar>
               </bibl>
               <bibl xml:id="leben_jesu_kristi_auch_denen_4_heiligen_evangelisten">
-                <author ref="http://d-nb.info/gnd/"></author>
-                <title>Leben Jesu Kristi Auch Denen 4 Heiligen Evangelisten</title>
-                <exemplar>http://</exemplar>
+                <author ref="http://d-nb.info/gnd/116662069" cer="low">Laurenz Forer</author>
+                <author ref="http://d-nb.info/gnd/100019382" cer="low">Niccolò Avancini</author>
+                <title cer="undefined">Leben [...] Jesu Christi Auß Den [Heyligen] Vier Evangelisten etc.</title>
+                <exemplar>Forer: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10465049-7</exemplar>
+                <exemplar>Avancini: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10259668-2</exemplar>
               </bibl>
               <bibl xml:id="tractatus_theol_mor_de_casibus_reservatis">
-                <author ref="http://d-nb.info/gnd/"></author>
-                <title>Tractatus Theol. Mor. De Casibus reservatis</title>
-                <exemplar>http://</exemplar>
+                <author ref="http://d-nb.info/gnd/1132095824">Adalbert Tschaveller</author>
+                <title>Tractatus theologico-moralis de casibus reservatis, tum in genere, tum pro alma Diaecesi Brixinensi in specie etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10598046-0</exemplar>
               </bibl>
               <bibl xml:id="catechismus_auszug">
-                <author ref="http://d-nb.info/gnd/"></author>
-                <title>Auszug des Grosen Catecissmus</title>
-                <exemplar>http://</exemplar>
+                <author/>
+                <title cer="undefined">Auszug aus dem Grossen Katechismus</title>
+                <exemplar/>
               </bibl>
               <bibl xml:id="richterstuhl_christi">
-                <author ref="http://d-nb.info/gnd/"></author>
-                <title>Richter Stuhl Kristi</title>
-                <exemplar>http://</exemplar>
+                <author cer="middle" ref="http://d-nb.info/gnd/118680749">Jeremias Drexel</author>
+                <title cer="middle">Richterstuel Christi Oder Sonderbares Fürfordern und gehaimes Gericht aines jeden Menschen in seiner Sterbstund etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10262058-7</exemplar>
               </bibl>
-              <bibl xml:id="sonn_feiertagspredigen_brediger">
-                <author ref="http://d-nb.info/gnd/"></author>
-                <title>Der In Eül Bereitete Brediger, oder Geistreiche Sonn- und Feyrtags Bredigen</title>
-                <exemplar>http://</exemplar>
+              <bibl xml:id="beer_sonn_feiertagspredigen">
+                <author ref="http://d-nb.info/gnd/119470500">Johann Christoph Beer</author>
+                <title cer="undefined">Sonn- und Feiertags-Predigen</title>
+                <exemplar/>
               </bibl>
               <bibl xml:id="betbuch_augustini">
-                <author ref="http://d-nb.info/gnd/"></author>
-                <title>Bethbüchl des Heiligen Augustini</title>
-                <exemplar>http://</exemplar>
+                <author/>
+                <title cer="undefined">Betbuch des Heiligen Augustinus</title>
+                <exemplar/>
               </bibl>
-              <bibl xml:id="instructio_practica_de_sacrificio_missae">
-                <author ref="http://d-nb.info/gnd/"></author>
-                <title>Instructio Practica De Sacrificio Missae</title>
-                <exemplar>http://</exemplar>
+              <bibl xml:id="tobias_lohner_instructio_practica_ms">
+                <author ref="http://d-nb.info/gnd/123623987">Tobias Lohner</author>
+                <title cer="undefined">Instructio Practica De SS. Missae Sacrificio</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10590954-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10590859-6</exemplar>
               </bibl>
+
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 
 
               <bibl xml:id="">
@@ -1887,12 +1917,6 @@
                 <author ref="http://d-nb.info/gnd/1136803629">Thomas Hermanin von Reichenfeld</author>
                 <title>Commentarii theorico-politico-practici in jus statutarium Tyrolense</title>
                 <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10632172-5</exemplar>
-              </bibl>
-              <bibl xml:id="tobias_lohner_instructio_practica_ms">
-                <author ref="http://d-nb.info/gnd/123623987">Tobias Lohner</author>
-                <title cer="undefined">Instructio Practica De SS. Missae Sacrificio</title>
-                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10590954-7</exemplar>
-                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10590859-6</exemplar>
               </bibl>
               <bibl xml:id="opere_del_padre_carlo_gregorio_rosignol">
                 <author ref="http://d-nb.info/gnd/124164412">Carlo Gregorio Rosignoli</author>
@@ -2011,7 +2035,7 @@
                 <bibl xml:id="georg_zeaemans_keptisches_wunder_thier">Georg Zeämans Kemptisches Wunder Thier in gsch[o]bnen Pirment</bibl>
                 <bibl xml:id="giuseppe_da_copertino_vita_del_venerabile_padre">Vita Del Venerabile Padre Fr. Giuseppe Da Copertino</bibl>
                 <bibl xml:id="glareani_dodecachordi">Glareani Dodecachordi</bibl>
-                <bibl xml:id="gli_inganni_del_peccatore_nella_confessione_expositi_da_giuseppe_musoco">Gli Inganni Del Peccatore Nella Confessione expositi</bibl>
+                <bibl xml:id="gli_inganni_del_peccatore_nella_confessione_expositi_da_giuseppe_musoco">Gli Inganni [Johanni???] Del Peccatore Nella Confessione expositi</bibl>
                 <bibl xml:id="gloria_austriae">Gloria Austriae</bibl>
                 <bibl xml:id="gloria_universitatis_pragensis">Gloria Universitatis Pragensis</bibl>
                 <bibl xml:id="gramatica_hispanica_crameri">Gramatica Hispanica Crameri</bibl>
