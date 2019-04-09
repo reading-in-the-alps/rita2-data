@@ -7482,7 +7482,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_baptistae_halden_ephemerologium_ecclesiastico_rubricisticum_novum">Ephemerologium Ecclesiastico Rubricisticum Novum P. Baptistae Halden</rs> französischer Bund.
+                        <rs type="bibl" ref="#p_halden_ephemerologium_ecclesiastico_rubricisticum_novum">Ephemerologium Ecclesiastico Rubricisticum Novum P. Baptistae Halden</rs> französischer Bund.
                      </cell>
                   </row>
                   <row>
@@ -7505,19 +7505,19 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_gabrielis_schenk_dissertationes_dogmaticae_polemicae_et_historico_critico">Dissertationes Dogmaticae Polemicae Et Historico Critico P. Gabrielis Schenk</rs>, braun papieren Bund.
+                        <rs type="bibl" ref="#p_gabrielis_schenk_dissertationes_dogmaticae_polemicae_et_historico_critico">Dissertationes Dogmaticae Polemicae Et Historico Criticae P. Gabrielis Schenk</rs>, braun papieren Bund.
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_hieronymi_florentinii_de_hominibus_dubes">P. Hieronymi Florentinii De Hominibus Dubes</rs> in französischen Bund.
+                        <rs type="bibl" ref="#p_hieronymi_florentinii_de_hominibus_dubes">P. Hieronymi Florentinii De Hominibus Dubiis</rs> in französischen Bund.
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_guediselvo_kaltenhauser_theologia_scholastico_thomistica">Theologia Scholastico Thomistica P. Guediselvo Kaltenhauser</rs> 3 thom. französischer Bund.
+                        <rs type="bibl" ref="#p_guediselvo_kaltenhauser_theologia_scholastico_thomistica">Theologia Scholastico Thomistica P. Gundiselvo Kaltenhauser</rs> 3 thom. französischer Bund.
                      </cell>
                   </row>
                   <row>
@@ -7559,7 +7559,7 @@
                   <row>
                      <cell>NB</cell>
                      <cell>
-                        <rs type="bibl" ref="#de_la_volpiliere_auserlesener_lehr_und_geistvolle_predigen">Auserlesener Lehr- Und Geistvolle Predigen de la Volpiliere</rs> französischer Bund.
+                        <rs type="bibl" ref="#de_la_volpiliere_auserlesener_lehr_und_geistvolle_predigen">Auserlesene Lehr- Und Geistvolle Predigen de la Volpiliere</rs> französischer Bund.
                      </cell>
                   </row>
                   <row>
@@ -7642,7 +7642,13 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#tesoro_della_dottrina_christiana_di_monsignor_nicolo_tuclot">Tesoro Della Dottrina Christiana di Monsignor Nicolo Tuclot</rs> in pirmentem Bund.
+                        <rs type="bibl" ref="#novo_leggendario_della_vita">Novo Leggendario de la Vita di Marie vergine Alfonso de Villegas</rs> in pirmentem Bund.
+                     </cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <rs type="bibl" ref="#tesoro_della_dottrina_christiana_di_monsignor_nicolo_tuclot">Tesoro Della Dottrina Christiana di Monsignor Nicolo Turlot</rs> in pirmentem Bund.
                      </cell>
                   </row>
                   <row>
@@ -7660,7 +7666,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_joannis_de_cardenas_crisis_theologica">Crisis Theologica P. Joannis de Cardenas</rs> in Schwein Leder.
+                        <rs type="bibl" ref="#p_joannis_de_cardenas_crisis_theologica">Crisis Theologia P. Joannis de Cardenas</rs> in Schwein Leder.
                      </cell>
                   </row>
                </table>
@@ -7677,7 +7683,7 @@
                   <row>
                      <cell>NB</cell>
                      <cell>
-                        <rs type="bibl" ref="#quacesimale_del_p_d_romolo_marchelli">Quacesimale del P. D. Romolo Marchelli</rs> in wälschen Bund.
+                        <rs type="bibl" ref="#quacesimale_del_p_d_romolo_marchelli">Quaresimale del P. D. Romolo Marchelli</rs> in wälschen Bund.
                      </cell>
                   </row>
                   <row>
@@ -7838,7 +7844,7 @@
                   <row>
                      <cell>NB</cell>
                      <cell>
-                        <rs type="bibl" ref="#conciones_rurales">Conciones Rurales</rs> in alten Schwein Leder Bund.
+                        <rs type="bibl" ref="#neuburger_conciodes_moralis">Conciones Rurales</rs> in alten Schwein Leder Bund.
                      </cell>
                   </row>
                   <row>
@@ -7858,6 +7864,12 @@
                      <cell>
                         <note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Am Zeilenanfang gestrichen </hi>Eo-.</p></note>
                         <rs type="bibl" ref="#p_antonii_de_guevara_faticinium_in_havacuc_prophetae_commentaria">P. Antonii de Guevara Faticinium In Habacuc Prophetae Commentaria</rs> in Schwein Leder Bund.
+                     </cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <rs type="bibl" ref="#p_antonii_de_guevara_guldenes_sendschreiben">Antonii de Guevara Guldenes Sänd Schreiben</rs> 3 thom. in Pirmentem Bund.
                      </cell>
                   </row>
                   <row>
@@ -7887,7 +7899,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#jacobi_gechtneri_murices_antiquitatis_catholicae">Jacobi Gechtneri Murices Antiquitatis Catholicae</rs><note><p rend="footnote text"> Gechtneri<hi rend="italic" xml:space="preserve"> irrig für </hi>Gretseri.</p></note> in schlechten pirmenten Bund.
+                        <rs type="bibl" ref="#jacobi_gechtneri_murices_antiquitatis_catholicae">Jacobi Gerstneri Murices Antiquitatis Catholicae</rs><note><p rend="footnote text"> Gerstneri<hi rend="italic" xml:space="preserve"> irrig für </hi>Gretseri.</p></note> in schlechten pirmenten Bund.
                      </cell>
                   </row>
                   <row>
@@ -7922,10 +7934,10 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#antonii_a_borgundia_lapis_lydius_munbi">Antonii a Borgundia Lapis Lydius Munbi</rs>
+                        <rs type="bibl" ref="#antonii_a_borgundia_lapis_lydius_munbi">Antonii a Borgundia Lapis Lydius Mundi</rs>
                         <note>
-                           <p rend="footnote text">
-                              <hi rend="italic">Irrig für</hi> Mundi.</p>
+                           <p rend="footnote text"> -d-
+                              <hi rend="italic"> korrigiert aus </hi> -b-.</p>
                         </note>
                         in Schwein Leder
                      </cell>
@@ -7944,13 +7956,13 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#protocollum_des_coloquii_zu_neuburg">Protocollum des Coloquii zu Neuburg zwischen Jakob Keller, und Jakob Hellbruner</rs> in alten Pirment
+                        <rs type="bibl" ref="#protocollum_des_coloquii_zu_neuburg">Protocollum des Coloquii zu Neüburg zwischen Jakob Keller und Jakob Hellbruner</rs> in alten Pirment
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#corpus_iuris_canonici_appendice_pauli_cancelotti">Corpus Iuris Canonici Appendice Pauli Cancelotti</rs> in Schwein Leder.
+                        <rs type="bibl" ref="#corpus_iuris_canonici_appendice_pauli_cancelotti">Corpus Iuris Canonici Appendice Pauli Lancelotti</rs> in Schwein Leder.
                      </cell>
                   </row>
                   <row>
@@ -8410,7 +8422,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#theologia_rationalis_eius_juvenalis_ananiensis">Theologia Rationalis Eius Juvenalis Ananiensis</rs> französischer Bund,
+                        <rs type="bibl" ref="#p_juvenalis_ananiensis_theologia_rationalis_eius">Theologia Rationalis Eius Juvenalis Ananiensis</rs> französischer Bund,
                      </cell>
                   </row>
                   <row>
@@ -8533,7 +8545,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#bedenken_und_untersuchung">Bedenken Und Untersuchung etc.</rs> in franzöischen Bund.
+                        <rs type="bibl" ref="#bedenken_und_untersuchung">Bedenken Und Untersuchung etc.</rs> in französischen Bund.
                      </cell>
                   </row>
                </table>
