@@ -2768,39 +2768,147 @@
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 
 
-              <bibl xml:id="a1">
-                <author ref="http://d-nb.info/gnd/"></author>
-                <title></title>
-                <exemplar></exemplar>
-                <exemplar></exemplar>
-                <exemplar></exemplar>
+              <bibl xml:id="proprii_nomio_evangelico">
+                <author ref="http://d-nb.info/gnd/132392968">Donato Calvi</author>
+                <title>Proprinomio Evangelico Overo Evangeliche Resoluzioni etc.</title>
+                <exemplar>https://books.google.at/books?id=UUzSXU-CqgMC</exemplar>
+              </bibl>
+              <bibl xml:id="vita_magni_servi_dei_p_julii_mancinelli_s_j">
+                <author ref="http://d-nb.info/gnd/132064170">Jacobus Cellesius</author>
+                <author ref="http://d-nb.info/gnd/13206412X">Simon Mair</author>
+                <title>Vita Magni Servi Dei Pater Julii Mancinelli Societatis Jesu</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10693139-9</exemplar>
+              </bibl>
+              <bibl xml:id="anathema_mariano_theologicum">
+                <author ref="http://d-nb.info/gnd/1038744377">Romuald Maria Hueber</author>
+                <author>Stephan Maria Petinicz</author>
+                <title>Anathema Mariano-theologicum Inter Publica Patriae Suspiria Augustissmae Servorum Suorum Dominae Ac Fundatrici Mariae etc.</title>
+                <exemplar>https://books.google.at/books?id=c3piAAAAcAAJ</exemplar>
+              </bibl>
+              <bibl xml:id="leben_des_heiligen_valentini_bischof_zu_passau">
+                <author ref="http://d-nb.info/gnd/116608870">Anton Roschmann</author>
+                <title>Glaubwürdige Nachrichten Uber Das Leben, Und Vormahlig Berühmte Grabstatt Zu Mays Im Tyrol, Des Heiligen Valentini, Bischoffs Zu Passau Und Beeder Rhätien Apostels etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11298430-3</exemplar>
+              </bibl>
+              <bibl xml:id="catholische_replic">
+                <author/>
+                <title cer="low">Catholische Replic</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11070089-3</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11070090-1</exemplar>
+              </bibl>
+              <bibl xml:id="vita_della_venerabile_serva_di_dio_suor_giacintha_marescotti">
+                <author ref="http://d-nb.info/gnd/10065438X">Girolamo Ventimiglia</author>
+                <title>Vita Della Venerabile Serva Di Dio Suor Giacinta Marescotti etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11345171-0</exemplar>
+              </bibl>
+              <bibl xml:id="vita_beatae_angelae_fulginatis">
+                <author ref="http://d-nb.info/gnd/100016219">Arnaldus de Fulgineo</author>
+                <title>Beatae Angelae Fulginatis Vita Et Opuscula Cum Duplici Prologo</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10685649-7</exemplar>
+              </bibl>
+              <bibl xml:id="vita_di_st_cajetano_thiene">
+                <author ref="http://d-nb.info/gnd/1055396543">Giuseppe Silos</author>
+                <title>Vita Di San Gaetano Thiene etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10692862-4</exemplar>
+              </bibl>
+              <bibl xml:id="vita_di_san_giovanni_nepomuceno">
+                <author ref="http://d-nb.info/gnd/131739239" cer="high">Francesco Maria Galluzzi</author>
+                <title>Vita Di San Giovanni Nepomuceno</title>
+                <exemplar cer="high">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10693248-0</exemplar>
+                <exemplar cer="low">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10693251-7</exemplar>
+                <exemplar cer="low">https://books.google.at/books?id=TNNdAAAAcAAJ</exemplar>
+              </bibl>
+              <bibl xml:id="gloria_universitatis_pragensis">
+                <author ref="http://d-nb.info/gnd/121467775">Martin Xaver Volckman</author>
+                <author ref="http://d-nb.info/gnd/101059310">Georg Weis</author>
+                <title>Gloria Universitatis Carolo-Ferdinandeae Pragensis</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11064192-2</exemplar>
+              </bibl>
+              <bibl xml:id="parochus_florilegus">
+                <author ref="http://d-nb.info/gnd/120525283">Augustin Grieninger</author>
+                <title>Parochus Florilegus</title>
+                <exemplar>https://books.google.at/books?id=aKnbjgEACAAJ</exemplar>
+              </bibl>
+              <bibl xml:id="schmelz_ofen_goettlicher_gerechtigkeit">
+                <author ref="http://d-nb.info/gnd/124653200">Leopold Gramiller</author>
+                <title>Iratae Nemesis Rogus Succensus, oder: Schmeltz-Ofen Göttlicher Gerechtigkeit etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11290825-5</exemplar>
+              </bibl>
+              <bibl xml:id="predigen_zu_zeiten_des_tuerken_kriegs">
+                <author ref="http://d-nb.info/gnd/123441552">Balthasar Knellinger</author>
+                <title cer="undefined">Predigen Zu Zeit Deß Türken-Kriegs etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364624-6</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364625-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364626-6</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364627-2</exemplar>
+              </bibl>
+              <bibl xml:id="causo_regum_inter_se_belligerantium">
+                <author ref="http://d-nb.info/gnd/128483539">Johann Frischmann</author>
+                <title>Causae Regum Heri Et Hodie Inter Se Belligerantium etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10668804-0</exemplar>
+              </bibl>
+              <bibl xml:id="orazione_in_morte_di_eugenio_francesco_principae_di_savoja">
+                <author ref="http://d-nb.info/gnd/116052546">Domenico Passionei</author>
+                <title>Orazione In Morte Di Eugenio Francesco Principe Di Savoja</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10529061-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10529062-8</exemplar>
               </bibl>
 
 
-              <bibl xml:id="proprii_nomio_evangelico">Proprii Nomio Evangelico</bibl>
-              <bibl xml:id="vita_magni_servi_dei_p_julii_mancinelli_s_j">Vita Magni Servi Dei P. Julii Mancinelli S. J.</bibl>
-              <bibl xml:id="anathema_mariano_theologicum">Anathema Mariano Theologicum</bibl>
-              <bibl xml:id="leben_des_heiligen_valentini_bischof_zu_passau">Leben Des Heiligen Valentini Bischof Zu Passau</bibl>
-              <bibl xml:id="catholische_replic">Catholische Replic</bibl>
-              <bibl xml:id="vita_della_venerabile_serva_di_dio_suor_giacintha_marescotti">Vita Della Venerabile Serva Di Dio Suor Giacintha Marescotti</bibl>
-              <bibl xml:id="vita_beatae_angelae_fulginatis">Vita Beatae Angelae Fulginatis</bibl>
-              <bibl xml:id="vita_di_st_cajetano_thiene">Vita Di St. Cajetano Thiene</bibl>
-              <bibl xml:id="vita_di_san_giovanni_nepomuceno">Vita Di San Giovanni Nepomuceno</bibl>
-              <bibl xml:id="gloria_universitatis_pragensis">Gloria Universitatis Pragensis</bibl>
-              <bibl xml:id="parochus_florilegus">Parochus Florilegus</bibl>
-              <bibl xml:id="schmelz_ofen_goettlicher_gerechtigkeit">Schmelz Ofen Göttlicher Gerechtigkeit</bibl>
-              <bibl xml:id="predigen_zu_zeiten_des_tuerken_kriegs">Predigen Zu Zeiten Des Türken Kriegs Anno 1683</bibl>
-              <bibl xml:id="causo_regum_inter_se_belligerantium">Causo Regum Inter Se Belligerantium</bibl>
-              <bibl xml:id="orazione_in_morte_di_eugenio_francesco_principae_di_savoja">Orazione In Morte Di Eugenio Francesco Principae Di Savoja</bibl>
+              <bibl xml:id="crutinium_veritatis_fidei">
+                <author ref="http://d-nb.info/gnd/129095389">Johannes Franciscus Hacki</author>
+                <title cer="undefined">Scrutinium Veritatis Fidei etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10521071-0</exemplar>
+                <exemplar>http://resolver.staatsbibliothek-berlin.de/SBB000070EB00000000</exemplar>
+                <exemplar></exemplar>
+              </bibl>
+              <bibl xml:id="diskurs_in_französisch">
+                <author/>
+                <title cer="undefined">Diskurs in französischer Sprache von französischen Hofs-Begebenheiten</title>
+                <exemplar/>
+              </bibl>
+              <bibl xml:id="kleine_ehrhalten_legendt_v_jakob_schmid">
+                <author ref="http://d-nb.info/gnd/124859232">Jakob Schmid</author>
+                <title cer="undefined">Kleine Ehehalten-Legend etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11061633-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10790129-3</exemplar>
+              </bibl>
+              <bibl xml:id="philosophiae_sacrae_divo_stanislao_magistro">
+                <author ref="http://d-nb.info/gnd/131784323" cer="high">Paul Zetl</author>
+                <author ref="http://d-nb.info/gnd/100811833" cer="low">Johann Ulrich Kraus</author>
+                <title cer="high">Philosophia Sacra Sive Vita Divi Stanislai Kostka etc.</title>
+                <title cer="low">Philosophiae Sacrae Divo Stanislao Magistro Suo</title>
+                <exemplar cer="high">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10932166-6</exemplar>
+                <exemplar cer="high">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10693367-1</exemplar>
+                <exemplar cer="low">https://books.google.at/books?id=21_E_ZRI_TIC</exemplar>
+              </bibl>
+              <bibl xml:id="leben_des_heiligen_antonii_v_padua">
+                <author/>
+                <title cer="undefined">Leben Des Heiligen Antonius Von Padua</title>
+                <exemplar cer="low">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11291851-4</exemplar>
+                <exemplar cer="low">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10223675-8</exemplar>
+                <exemplar cer="low">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10789324-2</exemplar>
+                <exemplar cer="low">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11061588-8</exemplar>
+                <exemplar cer="low">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10813113-4</exemplar>
+                <exemplar cer="low">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10692734-4</exemplar>
+              </bibl>
+              <bibl xml:id="vita_st_francisci_seraphici">
+                <author ref="http://d-nb.info/gnd/135853893" cer="middle">Kilian Kazenberger</author>
+                <title cer="middle">Liber Vitae [...] S. P. Francisci Seraphici</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10030802-6</exemplar>
+              </bibl>
+              <bibl xml:id="leben_des_heiligen_sebastian">
+                <author ref="http://d-nb.info/gnd/100314465" cer="middle">Isaac Ostoviensis</author>
+                <title cer="middle">Vita Et Gesta Sancti Et Gloriosi Martyris Sebastiani [...] / Leben und Thaten Deß Heiligen Und Glor-würdigen Martyrers Sebastiani etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10928367-7</exemplar>
+              </bibl>
+              <bibl xml:id="simsons_leben_geschicht">
+                <author ref="http://d-nb.info/gnd/118636596" cer="middle">Philipp von Zesen</author>
+                <title cer="middle">Simson, Eine Helden- Und Liebes-Geschicht</title>
+                <exemplar>http://diglib.hab.de/drucke/lo-8311/start.htm</exemplar>
+              </bibl>
 
-              <bibl xml:id="crutinium_veritatis_fidei">Scrutinium Veritatis Fidei</bibl>
-              <bibl xml:id="diskurs_in_französisch">Discurs in französischer Sprach v. französischen Hofs Begebenheiten</bibl>
-              <bibl xml:id="kleine_ehrhalten_legendt_v_jakob_schmid">Kleine Ehrhalten Legendt v. Jakob Schmid</bibl>
-              <bibl xml:id="philosophiae_sacrae_divo_stanislao_magistro">Philosophiae Sacrae Divo Stanislao Magistro</bibl>
-              <bibl xml:id="leben_des_heiligen_antonii_v_padua">Leben Des Heiligen Antonii v. Padua</bibl>
-              <bibl xml:id="vita_st_francisci_seraphici">Vita St. Francisci Seraphici</bibl>
-              <bibl xml:id="leben_des_heiligen_sebastian">Leben Des Heiligen Sebastian</bibl>
-              <bibl xml:id="simsons_leben_geschicht">Simsons Leben Geschicht</bibl>
+
               <bibl xml:id="geistlicher_krammer_laden_von_p_abraham_a_st_clara">Geistlicher Krammer Laden von P. Abraham à St. Clara</bibl>
               <bibl xml:id="judas_der_erzschelm">Judas Der Erzschelm</bibl>
               <bibl xml:id="p_abraham_reim_dich_oder_ich_liess_dich">P. Abraham Reim Dich, Oder Ich Liess Dich</bibl>
