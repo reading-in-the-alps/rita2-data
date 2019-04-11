@@ -1610,8 +1610,9 @@
               <bibl xml:id="wunderschoener_einzug">
                 <author/>
                 <publisher ref="http://d-nb.info/gnd/109071890X">Michael Anton Wagner</publisher>
-                <title cer="high">Wunderschöner Einzug [...] Zu Schuldigister Verehrung deß Marianischen [...] neu-erklärten Wunder-Heiligen Peregrini Latiosi etc.</title>
+                <title>Wunder-Schöner Einzug Eines Frembden Hof-Ministers Von Der Hof-Staat Der Himmels-Königin [...] Deß [...] Neu-Erklärten Wunder-Heiligen Peregrini Latiosi etc.</title>
                 <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364012-9</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364013-4</exemplar>
               </bibl>
               <bibl xml:id="nur_kein_todsuend">
                 <author/>
@@ -2763,11 +2764,6 @@
                 <title>Narrazione Storica Del Nascimento, Martirio, E Miracoli Del Bambino S. Simone Da Trento</title>
                 <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10693363-9</exemplar>
               </bibl>
-
-
-<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
-
-
               <bibl xml:id="proprii_nomio_evangelico">
                 <author ref="http://d-nb.info/gnd/132392968">Donato Calvi</author>
                 <title>Proprinomio Evangelico Overo Evangeliche Resoluzioni etc.</title>
@@ -2853,8 +2849,6 @@
                 <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10529061-2</exemplar>
                 <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10529062-8</exemplar>
               </bibl>
-
-
               <bibl xml:id="crutinium_veritatis_fidei">
                 <author ref="http://d-nb.info/gnd/129095389">Johannes Franciscus Hacki</author>
                 <title cer="undefined">Scrutinium Veritatis Fidei etc.</title>
@@ -2907,32 +2901,156 @@
                 <title cer="middle">Simson, Eine Helden- Und Liebes-Geschicht</title>
                 <exemplar>http://diglib.hab.de/drucke/lo-8311/start.htm</exemplar>
               </bibl>
+              <bibl xml:id="geistlicher_krammer_laden_von_p_abraham_a_st_clara">
+                <author ref="http://d-nb.info/gnd/11850021X">Abraham a Santa Clara</author>
+                <title>Geistlicher Kramer-Laden Voller Apostolischen Wahren Und Wahrheiten etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10363259-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11228890-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10363261-5</exemplar>
+              </bibl>
+              <bibl xml:id="judas_der_erzschelm">
+                <author ref="http://d-nb.info/gnd/11850021X">Abraham a Santa Clara</author>
+                <title>Judas Der Ertz-Schelm Für Ehrliche Leuth, oder: Eigentlicher Entwurff Und Lebens-Beschreibung deß Iscariotischen Bößwicht etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10781519-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10781520-3</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10363242-0</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11290007-3</exemplar>
+              </bibl>
+              <bibl xml:id="p_abraham_reim_dich_oder_ich_liess_dich">
+                <author ref="http://d-nb.info/gnd/11850021X">Abraham a Santa Clara</author>
+                <title>Reimb dich Oder Ich Liß dich, das ist: Allerley Materien, Discurs, Concept Und Predigen etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11228883-2</exemplar>
+                <exemplar>http://nbn-resolving.de/urn:nbn:de:gbv:3:1-146044</exemplar>
+              </bibl>
+              <bibl xml:id="erstes_jubel_jahr_v_dem_collegio_der_gesellschaft_jesu">
+                <author/>
+                <title>Erstes Jubel-Jahr Oder Hundert-Jähriger Weltgang, Von Dem Hochlöblichen Collegio Der Gesellschafft Jesu Zu München Im Jahr 1697. Den 7. Julii Glücklich Beschlossen etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10900503-3</exemplar>
+              </bibl>
+              <bibl xml:id="p_pexenfelder_ethica_symbolica">
+                <author ref="http://d-nb.info/gnd/124410707">Michael Pexenfelder</author>
+                <title>Ethica Symbolica E Fabularum Umbris In Veritatis Lucem Varia Eruditione, Noviter Evoluta etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10007972-5</exemplar>
+              </bibl>
+              <bibl xml:id="p_pexenfelder_florus_biblicus">
+                <author ref="http://d-nb.info/gnd/124410707">Michael Pexenfelder</author>
+                <title cer="undefined">Florus Biblicus etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11022199-5</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10271772-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10212419-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10212420-5</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10212421-0</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10212422-5</exemplar>
+              </bibl>
+              <bibl xml:id="p_pexenfelder_apparatus_eruditionis">
+                <author ref="http://d-nb.info/gnd/124410707">Michael Pexenfelder</author>
+                <title>Apparatus Eruditionis, Tam Rerum Quam Verborum, Per Omnes Artes Et Scientias etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10401463-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10401467-3</exemplar>
+              </bibl>
+              <bibl xml:id="p_juvenalis_ananiensis_brevissimus_nucleus_theologiae_moralis">
+                <author ref="http://d-nb.info/gnd/100366562">Juvenalis Annaniensis</author>
+                <title>Brevissimus Nucleus Theologiae Moralis Practicae</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11060488-8</exemplar>
+              </bibl>
+              <bibl xml:id="p_juvenalis_ananiensis_solis_intelligentiae_lumen_indeficiens">
+                <author ref="http://d-nb.info/gnd/100366562">Juvenalis Annaniensis</author>
+                <title>Solis Intelligentiae, Cui Non Succedit Nox, Lumen Indeficiens, Ac Inextinguibile etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10350939-0</exemplar>
+              </bibl>
+              <bibl xml:id="p_juvenalis_ananiensis_theologia_rationalis_eius">
+                <author ref="http://d-nb.info/gnd/100366562">Juvenalis Annaniensis</author>
+                <title>Theologia Rationalis Ad Hominem, Et Ex Homine etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10350940-2</exemplar>
+              </bibl>
+              <bibl xml:id="rituale_romanum">
+                <author ref="http://d-nb.info/gnd/118697390" cer="undefined">Gregor XIII.</author>
+                <author ref="http://d-nb.info/gnd/118739530" cer="undefined">Paul V.</author>
+                <author ref="http://d-nb.info/gnd/118655434" cer="undefined">Benedikt XIV.</author>
+                <author ref="http://d-nb.info/gnd/120938456" cer="low">Hieronymus Baruffaldus</author>
+                <title cer="undefined">Rituale Romanum</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10164338-7</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10524889-9</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10591547-5</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10591549-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10591550-3</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10591554-4</exemplar>
+                <exemplar cer="low">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10524375-2</exemplar>
+              </bibl>
+              <bibl xml:id="annus_pastorum_v_lamberto_abbate">
+                <author ref="http://d-nb.info/gnd/">Lambert Höllerer</author>
+                <title cer="undefined">Annus Pastorum Ecclesiastico-politico-asceticus, id est: Pastor Bonus, In Gesta Et Festa Sanctorum Superiorum etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10693614-3</exemplar>
+              </bibl>
+              <bibl xml:id="dissertationes_historico_polemicae">
+                <author ref="http://d-nb.info/gnd/123393094">Johann Frick</author>
+                <title>Dissertationes Historico-polemicae Quibus Bulla Unigenitus Contra etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10507153-6</exemplar>
+              </bibl>
+              <bibl xml:id="institutiones_iuris_canonici_marti_antoni_cuchi">
+                <author ref="http://d-nb.info/gnd/100095356">Marco Antonio Cucchi</author>
+                <title>Institutiones Iuris Canonici etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11100154-1</exemplar>
+                <exemplar>http://nbn-resolving.de/urn:nbn:de:gbv:3:1-330810</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10206806-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10181251-0</exemplar>
+              </bibl>
+              <bibl xml:id="teuetsches_martyrologium">
+                <author/>
+                <title cer="undefined">Martyrologium (deutsch)</title>
+                <exemplar/>
+              </bibl>
+              <bibl xml:id="orationes_josephi_ignatii_chiaberge">
+                <author ref="http://d-nb.info/gnd/">Joseph Ignace Chiaberge</author>
+                <title cer="undefined">Orationes P. Josephi Ignatii Chiaberge</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10363783-2</exemplar>
+                <exemplar>http://daten.digitale-sammlungen.de/bsb00066486/image_1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11068799-5</exemplar>
+              </bibl>
+              <bibl xml:id="vocatio_ad_nuptias_filii_regis">
+                <author ref="http://d-nb.info/gnd/130836575">Georg Arnold</author>
+                <title cer="undefined">Vocatio Ad Nuptias Filii Regis etc.</title>
+                <exemplar>http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10337005-0</exemplar>
+                <exemplar>http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10336768-8</exemplar>
+              </bibl>
+              <bibl xml:id="conversio_st_augustini">
+                <author ref="http://d-nb.info/gnd/11907981X" cer="high">Franz Neumayr</author>
+                <author ref="http://d-nb.info/gnd/120172313" cer="low">Georg Maendel</author>
+                <title cer="undefined">Conversio S. Augustini</title>
+                <exemplar cer="high">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10676413-4</exemplar>
+                <exemplar cer="low">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10152421-5</exemplar>
+                <exemplar cer="low">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10609303-2</exemplar>
+              </bibl>
+              <bibl xml:id="p_babenstub_tractatus_de_iustitiam">
+                <author ref="http://d-nb.info/gnd/122883268">Ludwig Babenstuber</author>
+                <title>Tractatus De Justitia Et Jure etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10672627-1</exemplar>
+              </bibl>
+              <bibl xml:id="in_jubel_jahr_maria_hilf_bild">
+                <publisher ref="http://d-nb.info/gnd/1061222845">Johann Ignaz Wagner</publisher>
+                <title>Jubel in Jubel-Jahr, das ist: Kurtze Beschreibung des in Jubilaei-Jahr 1750 [...] Jubel-Fest, als von der ersten Ubersetzung 1650 des wunderthätigen Mariae-Hülff-Bilds [...] der [...] Stadt Insprugg etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10900132-3</exemplar>
+              </bibl>
 
 
-              <bibl xml:id="geistlicher_krammer_laden_von_p_abraham_a_st_clara">Geistlicher Krammer Laden von P. Abraham à St. Clara</bibl>
-              <bibl xml:id="judas_der_erzschelm">Judas Der Erzschelm</bibl>
-              <bibl xml:id="p_abraham_reim_dich_oder_ich_liess_dich">P. Abraham Reim Dich, Oder Ich Liess Dich</bibl>
-              <bibl xml:id="erstes_jubel_jahr_v_dem_collegio_der_gesellschaft_jesu">Erstes Jubel Jahr v. dem Collegio der Gesellschaft Jesu zu Munichen</bibl>
-              <bibl xml:id="p_pexenfelder_ethica_symbolica">Ethica Symbolica P. Pexenfelder</bibl>
-              <bibl xml:id="p_pexenfelder_florus_biblicus">Florus Biblicus P. Pexenfelder</bibl>
-              <bibl xml:id="p_pexenfelder_apparatus_eruditionis">Apparatus Eruditionis Tam Rerum, Quam Verborum P. Pexenfelder</bibl>
+<!-- -->
 
-              <bibl xml:id="p_juvenalis_ananiensis_brevissimus_nucleus_theologiae_moralis">Brevissimus Nucleus Theologiae Moralis P. Juvenalis Ananiensis</bibl>
-              <bibl xml:id="p_juvenalis_ananiensis_solis_intelligentiae_lumen_indeficiens">Solis Intelligentiae Lumen Indeficiens P. Juvenalis Ananiensis</bibl>
-              <bibl xml:id="p_juvenalis_ananiensis_theologia_rationalis_eius">Theologia Rationalis Eius Juvenalis Ananiensis</bibl>
-              <bibl xml:id="rituale_romanum">Rituale Romanum</bibl>
-              <bibl xml:id="wunderschener_einzug_des_heiligen_peregrini">Wunderschener Einzug Des Heiligen Peregrini {evtl. siehe wunderschener_einzug}</bibl>
-              <bibl xml:id="annus_pastorum_v_lamberto_abbate">Annus Pastorum v. Lamberto Abbate</bibl>
-              <bibl xml:id="dissertationes_historico_polemicae">Disserationes Historico Polemicae</bibl>
-              <bibl xml:id="institutiones_iuris_canonici_marti_antoni_cuchi">Institutiones Iuris Canonici Marti Antoni Cuchi</bibl>
-              <bibl xml:id="teuetsches_martyrologium">Teütsches Martyrologium</bibl>
-              <bibl xml:id="orationes_josephi_ignatii_chiaberge">Orationes Josephi Ignatii Chiaberge</bibl>
-              <bibl xml:id="vocatio_ad_nuptias_filii_regis">Vocatio Ad Nuptias Filii Regis</bibl>
-              <bibl xml:id="conversio_st_augustini">Conversio St. Augustini</bibl>
-              <bibl xml:id="p_babenstub_tractatus_de_iustitiam">Tractatus De Iustitiam, Et Iure P. Babenstub</bibl>
-              <bibl xml:id="in_jubel_jahr_maria_hilf_bild">In Jubel Jahr Maria Hilf Bild zu Innsbrck</bibl>
-              <bibl xml:id="croniche_de_gli_ordini_instituti_dal_p_st_francesco">Croniche De Gli Ordini Instituti dal P. St. Francesco</bibl>
-              <bibl xml:id="delle_croniche_de_frati_minori">Delle Croniche De Frati Minori parte secunda, et parte terza</bibl>
+
+
+              <bibl xml:id="croniche_de_gli_ordini_instituti_dal_p_st_francesco">
+                <author ref="http://d-nb.info/gnd/"></author>
+                <title>Croniche De Gli Ordini Instituti dal P. St. Francesco</title>
+                <exemplar></exemplar>
+                <exemplar></exemplar>
+                <exemplar></exemplar>
+              </bibl>
+              <bibl xml:id="delle_croniche_de_frati_minori">
+                <author ref="http://d-nb.info/gnd/"></author>
+                <title>Delle Croniche De Frati Minori parte secunda, et parte terza</title>
+                <exemplar></exemplar>
+                <exemplar></exemplar>
+                <exemplar></exemplar>
+              </bibl>
 
               <bibl xml:id="cronik_des_mueden_bruder_st_francisci">Cronik des müeden Bruder St. Francisci</bibl>
               <bibl xml:id="p_lambertus_von_moschburg_glaubens_licht">Glaubens Licht P. Lambertus von Moschburg</bibl>
