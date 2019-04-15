@@ -8497,7 +8497,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#eiusdem_panegirici">Eiusdem Panegirici</rs> in pirmenten Bund,
+                        <rs type="bibl" ref="#paolo_segneri_panegirici_sacri_quart">Eiusdem Panegirici</rs> in pirmenten Bund,
                      </cell>
                   </row>
                   <row>
@@ -8874,7 +8874,7 @@
                   </row>
                </table>
                <p>
-                  <bibl>In Quart</bibl>
+                  <bibl>Octavisten</bibl>
                   <note>
                      <p rend="footnote text">
                         <hi rend="italic">Durch Verweiszeichen am linken Rand nachgetragen.</hi>
@@ -9691,7 +9691,7 @@
                   <row>
                      <cell>NB</cell>
                      <cell>
-                        <rs type="bibl" ref="#paolo_segneri_panegirici_sacri">Paolo Segneri Panegirici Sacri</rs> in pirmenten Bund,
+                        <rs type="bibl" ref="#paolo_segneri_panegirici_sacri_oktav">Paolo Segneri Panegirici Sacri</rs> in pirmenten Bund,
                      </cell>
                   </row>
                   <row>
