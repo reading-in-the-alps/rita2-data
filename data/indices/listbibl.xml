@@ -2693,7 +2693,7 @@
                 <author ref="http://d-nb.info/gnd/122889576">Jakob Keller</author>
                 <author ref="http://d-nb.info/gnd/116651326">Jakob Hellbrunner</author>
                 <title>Protocollum Daß Coloquii, So Diß MDCXV Jar Zu Newburg An Der Donau Zwischen Jakob Keller [...] Und Jakob Heilbrunner [...] Offentlich Gehalten Worden etc.</title>
-                <exemplar>https://www.dhm.de/datenbank/dhm.php?seite=5&fld_0=RA007305</exemplar>
+                <exemplar>https://www.dhm.de/datenbank/dhm.php?seite=5&amp;fld_0=RA007305</exemplar>
               </bibl>
               <bibl xml:id="corpus_iuris_canonici_appendice_pauli_cancelotti">
                 <author ref="http://d-nb.info/gnd/100298885">Giovanni Paolo Lancellotti</author>
