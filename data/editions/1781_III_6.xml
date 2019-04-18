@@ -9059,11 +9059,17 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#werke_des_marcus_caraccioli">Werke des Marcus Caraccioli</rs> in braun Papir 10
+                        <rs type="bibl" ref="#werke_des_marc_caraccioli">Werke des Marc[hese] Caraccioli</rs> in braun Papir 10
                         <note>
                            <p rend="footnote text"> 1 <hi rend="italic">korrigiert aus</hi> 9.</p>
                         </note>
                         <hi xml:space="preserve"> thom.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <rs type="bibl" ref="#opere_di_padre_calino">Opere di Padre Calino</rs> 25 thom. in französischem Bund
                      </cell>
                   </row>
                   <row>
@@ -9164,7 +9170,7 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#p_grosetzs_diarium_sanctorum">Diarium Sanctorum P. Grosetzs</rs> in 2 thom. in deto Bund.
+                        <rs type="bibl" ref="#r_p_joannis_stephani_grossez_diarium">Diarium Sanctorum P. Grosetzs</rs> in 2 thom. in deto Bund.
                      </cell>
                   </row>
                   <row>
