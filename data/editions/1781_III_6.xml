@@ -9680,13 +9680,13 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#thomae_aequinatis_summae_theologiae">Thomae Aequinatis Summae Theologiae</rs> in Leder Bund.
+                        <rs type="bibl" ref="#thomae_aequinatis_summae_theologiae">Thomae Aquinatis Summae Theologiae</rs> in Leder Bund.
                      </cell>
                   </row>
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#jacobi_halde_lyrica_et_poemata">Jacobi Halde Lyrica Et Poemata</rs> 2 thom in weisen Band.
+                        <rs type="bibl" ref="#jacobi_halde_lyrica_et_poemata_1 #jacobi_halde_lyrica_et_poemata_2">Jacobi Balde Lyrica Et Poemata</rs> 2 thom in weisen Band.
                      </cell>
                   </row>
                </table>
@@ -9715,8 +9715,8 @@
                   <row>
                      <cell/>
                      <cell>
-                        <rs type="bibl" ref="#historischer_beihilf_und_unterricht_der_geographie">Historischer Beihilf Und Unterricht V. Der Geographie </rs>
-                        <note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Nach </hi>Historischer<hi rend="italic" xml:space="preserve"> gestrichen </hi>Th-.<hi rend="italic" xml:space="preserve"> Bei </hi>Beihilf<hi rend="italic" xml:space="preserve"> erstes </hi>-i-<hi rend="italic" xml:space="preserve"> korrigiert aus</hi> -y-.</p></note>
+                        <rs type="bibl" ref="#historischer_beihilf_und_unterricht_der_geographie">Historischer Behilf Und Unterricht V. Der Geographie </rs>
+                        <note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Nach </hi>Historischer<hi rend="italic" xml:space="preserve"> gestrichen </hi>Th-.<hi rend="italic" xml:space="preserve"> Bei </hi>Behilf<hi rend="italic" xml:space="preserve"> zwischen </hi>-e- <hi rend="italic" xml:space="preserve"> und </hi>-h- <hi rend="italic" xml:space="preserve"> gestrichen</hi> -y-.</p></note>
                         in französischen Bund,
                      </cell>
                   </row>
