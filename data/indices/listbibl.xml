@@ -909,9 +909,12 @@
                 <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10460290-1</exemplar>
               </bibl>
               <bibl xml:id="ches_commentarius">
-                <author cer="undefined">Ches</author>
-                <title cer="undefined">Commentarius ad Institut[iones]</title>
-                <exemplar/>
+                <author ref="http://d-nb.info/gnd/100176704">Johann Georg Kees</author>
+                <title cer="undefined">Commentarius Ad D. Iustiniani Institutionum Imperalium IV. libros</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10460290-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10628221-4</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10628223-5</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10628224-0</exemplar>
               </bibl>
               <bibl xml:id="felsenegger_catechismus_predigen">
                 <author ref="http://d-nb.info/gnd/1056145331">Sebastian Felsenecker</author>
@@ -1161,7 +1164,7 @@
                 <exemplar/>
               </bibl>
               <bibl xml:id="p_graditensis_concianes">
-                <author cer="undefined">[Pater] Graditensis</author>
+                <author cer="undefined">[Pater] Gradicensis</author>
                 <title cer="undefined">Conciones</title>
                 <exemplar/>
               </bibl>
@@ -4017,9 +4020,10 @@
                 <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10429171-8</exemplar>
               </bibl>
               <bibl xml:id="ius_canonicum_pichler_compendium">
-                <author cer="undefined">[Pater] Pichler</author>
-                <title>Compendium Iuris Canonici</title>
-                <exemplar/>
+                <author cer="high" ref="http://d-nb.info/gnd/100234798">Vitus Pichler</author>
+                <title cer="high">Candidatus Abbreviatus Iurisprudentiae Sacrae, hoc est: Iuris Canonici [...] Compendium</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10548038-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10548039-1</exemplar>
               </bibl>
               <bibl xml:id="sermoni_del_p_cheminalis">
                 <author ref="http://d-nb.info/gnd/100079202">Timoléon Cheminais de Montaigu</author>
