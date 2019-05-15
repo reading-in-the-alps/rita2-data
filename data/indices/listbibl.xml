@@ -158,11 +158,14 @@
                 <publisher ref="http://d-nb.info/gnd/119022524">Clemens VIII.</publisher>
                 <publisher ref="http://d-nb.info/gnd/118625586">Urban VIII.</publisher>
                 <title>Breviarium Romanum</title>
+                <exemplar cer="undefined">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11175101-9</exemplar>
+                <exemplar cer="undefined">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10922510-2</exemplar>
               </bibl>
               <bibl xml:id="cathecismus_romanus">
                 <author/>
                 <publisher ref="http://d-nb.info/gnd/118792423">Pius V.</publisher>
                 <title>Catechismus ex decreto Concilii Tridentini ad parochos etc.</title>
+                <exemplar>https://nbn-resolving.org/urn:nbn:de:urmel-0bdfdf70-a395-461c-adbf-8c35edc1d0671</exemplar>
                 <format>Oktav</format>
                 <einband/>
                 <volumes/>
@@ -181,10 +184,13 @@
                 <author ref="http://d-nb.info/gnd/120538520">Johannes Frisius</author>
                 <publisher/>
                 <title cer="undefined">Dictionarium</title>
+                <exemplar cer="undefined">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10585931-1</exemplar>
+                <exemplar cer="undefined">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10585934-7</exemplar>
                 <language/>
               </bibl>
               <bibl xml:id="ezechiel_koch">
                 <author ref="http://d-nb.info/gnd/136823173">Ezechiel Koch</author>
+                <exemplar cer="undefined">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11293291-9</exemplar>
                 <publisher/>
                 <title/>
                 <format>Quart</format>
@@ -207,9 +213,9 @@
                 <language/>
               </bibl>
               <bibl xml:id="pater_jordan_predigen">
-                <author>(Pater) Jordan</author>
+                <author>[Pater] Jordan</author>
                 <publisher/>
-                <title cer="undefined">Predigen</title>
+                <title>Predigen</title>
                 <format>Folio</format>
                 <einband>französisch</einband>
                 <volumes>2</volumes>
@@ -226,6 +232,8 @@
                 <author ref="http://d-nb.info/gnd/124016154">Johannes Prambhofer</author>
                 <publisher/>
                 <title>Samsonischer Hönig-Fladen für die schleckige[n] Adams-Kinder etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10464227-6</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11291623-9</exemplar>
                 <format>Quart</format>
                 <einband>Pergament</einband>
                 <volumes>3</volumes>
@@ -235,6 +243,8 @@
                 <author ref="http://d-nb.info/gnd/172252806">Mauritius von Nattenhausen</author>
                 <publisher/>
                 <title>Homo Simplex Et Rectus, Oder Der Alte Redliche Teutsche Michel, das ist: Sittliche, aus Göttlicher Heiliger Schrifft mit anmuthigen Historien, schönen Gleichnussen, nutzlichen Moralien, und Sprüchen der H.H. Vättern verfaßte Fest- und Feyertägliche Predigen etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10920775-2</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364899-0</exemplar>
                 <format>Quart</format>
                 <einband>Pergament</einband>
                 <volumes/>
@@ -244,6 +254,8 @@
                 <author ref="http://d-nb.info/gnd/118911872">Ignatius Ertl</author>
                 <publisher/>
                 <title>Sonn- und Feyer-Tägliches Tolle Lege, das ist: Geist- und Lehr-reiche Predigen, auf alle Sonn- und Feyer-Täg des gantzen Jahr-Lauffs eingerichtet etc.</title>
+                <exemplar cer="undefined">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10465103-4</exemplar>
+                <exemplar cer="undefined">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10900420-2</exemplar>
                 <format>Quart</format>
                 <einband>Pergament</einband>
                 <volumes/>
@@ -251,6 +263,7 @@
               </bibl>
               <bibl xml:id="schaz_camer_des_heiligen_rosenkranz">
                 <author/>
+                <publisher/>
                 <title>Schatz-Kammer deß Heiligen Rosenkrantz, das ist: Sattsammer, gründtlicher Bericht von der hochlöblichen Ertz-Bruderschafft deß Heiligen Rosenkrantzes, oder Psalters Jesu, Mariae</title>
                 <exemplar>https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11060201_00011.html</exemplar>
               </bibl>
@@ -272,6 +285,11 @@
                 <author ref="http://d-nb.info/gnd/136281958">Elisaeus Sargar</author>
                 <publisher/>
                 <title>Conferentiae Theologico Morales ex mateira septem sacramentorum atque justitiae de restitutione excerptae etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11255309-1</exemplar>
+                <exemplar cer="middle">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10597263-9</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10597257-6</exemplar>
+                <exemplar cer="low">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10597261-8</exemplar>
+                <exemplar cer="low">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10597262-4</exemplar>
                 <format>Oktav</format>
                 <einband/>
                 <volumes/>
@@ -281,6 +299,17 @@
                 <author ref="http://d-nb.info/gnd/123623987">Tobias Lohner</author>
                 <publisher/>
                 <title cer="undefined">Instructio Practica</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10590862-9</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10264716-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10786813-4</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10786814-9</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10786833-5</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10786031-3</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10786817-5</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10786818-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10786835-5</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10786836-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10786819-1</exemplar>
                 <format>Oktav</format>
                 <einband/>
                 <volumes/>
@@ -300,6 +329,8 @@
                 <author ref="http://d-nb.info/gnd/123441552">Balthasar Knellinger</author>
                 <publisher/>
                 <title>Predigen auf alle Festtäg deß gantzen Jahrs samt einer Ehren-Saul, so zu Lob ettwelcher Heiligen und Seeligen Gottes etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330381-1</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10329835-0</exemplar>
                 <format>Folio</format>
                 <einband>"Scheinheiten"</einband>
                 <volumes>3</volumes>
@@ -308,7 +339,14 @@
               <bibl xml:id="pater_reittmayr_lehrverfassung">
                 <author ref="http://d-nb.info/gnd/123667658">Joachim Reittmair</author>
                 <publisher/>
-                <title cer="undefined">Christliche Lehr-Verfassung</title>
+                <title>Christliche Lehr-Verfassung etc.</title>
+                <exemplar cer="undefined">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330139-2</exemplar>
+                <exemplar cer="undefined">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330140-4</exemplar>
+                <exemplar cer="undefined">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330141-0</exemplar>
+                <exemplar cer="undefined">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330142-5</exemplar>
+                <exemplar cer="undefined">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330143-0</exemplar>
+                <exemplar cer="low">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10618408-6</exemplar>
+                <exemplar cer="low">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10618401-9</exemplar>
                 <format>Folio</format>
                 <einband>Pergament</einband>
                 <volumes>2</volumes>
@@ -318,16 +356,16 @@
               <bibl xml:id="pater_ilhum">
                 <author ref="http://d-nb.info/gnd/124968422">Jakob Illsung</author>
                 <publisher/>
-                <title></title>
+                <title/>
                 <format>Folio</format>
                 <einband>Leder (Schweinsleder)</einband>
                 <volumes/>
                 <language/>
               </bibl>
               <bibl xml:id="pater_texto_trius">
-                <author cer="low">[Pater] Texto</author>
+                <author cer="low">[Pater] Texto [Textorius?]</author>
                 <publisher/>
-                <title cer="low">Trius Polagirico Morales</title>
+                <title cer="low">Trius Panegirico Morales</title>
                 <format>Folio</format>
                 <einband>Pergament</einband>
                 <volumes/>
@@ -337,6 +375,8 @@
                 <author ref="http://d-nb.info/gnd/132927411">Gerhard Pauli</author>
                 <publisher/>
                 <title cer="high">Vielfache Predigen auf alle Sonntäg des Jahrs wie auch dreyfache Fasten-, verschiedene Feyertags-, Kirchweyhe-, Primiz-, Ehren-, Professions- und andere dergleichen Predigen etc.</title>
+                <exemplar cer="undefined">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330065-6</exemplar>
+                <exemplar cer="undefined">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10330066-2</exemplar>
                 <format>Folio</format>
                 <einband>Leder (Schweinsleder)</einband>
                 <volumes/>
@@ -351,6 +391,10 @@
                 <author ref="http://d-nb.info/gnd/100194982">Lucianus Montifontanus</author>
                 <publisher/>
                 <title>Geistliches Kinder-Spill, das ist: Drey hundert sechs und zwaintzig neue Predigen etc.</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364795-9</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364796-4</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364797-9</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364798-5</exemplar>
                 <format>Folio</format>
                 <einband>französisch</einband>
                 <volumes>4</volumes>
@@ -365,6 +409,8 @@
                 <author ref="http://d-nb.info/gnd/124373356">Paul Laymann</author>
                 <publisher/>
                 <title>Theologiae Moralis in quinque libros distributa</title>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10596711-3</exemplar>
+                <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10596710-7</exemplar>
                 <format>Folio</format>
                 <einband>Pergament</einband>
                 <volumes/>
@@ -408,9 +454,6 @@
                 <volumes/>
                 <language/>
               </bibl>
-
-
-
               <bibl xml:id="pater_stophans_predigen">
                 <author cer="undefined">[Pater] Stephan</author>
                 <title>Predigen</title>
@@ -664,8 +707,10 @@
               </bibl>
               <bibl xml:id="knellingers_predigten">
                 <author ref="http://d-nb.info/gnd/123441552">Balthasar Knellinger</author>
-                <title cer="undefined">[Geschicht-]Predigen</title>
-                <exemplar/>
+                <title>Lait- Und Schreck-Stern, das ist: Geschicht-Predigen etc.</title>
+                <exemplar cer="undefined">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11294036-4</exemplar>
+                <exemplar cer="undefined">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11099664-5</exemplar>
+                <exemplar cer="undefined">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11099666-6</exemplar>
               </bibl>
               <bibl xml:id="armamentarium_terrestrium_cherubinarum">
                 <author/>
@@ -822,7 +867,7 @@
                 <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10632172-5</exemplar>
               </bibl>
               <bibl xml:id="vieria">
-                <author cer="undefined">Vieria</author>
+                <author cer="low" ref="http://d-nb.info/gnd/118626914">António Vieira</author>
                 <title/>
                 <exemplar/>
               </bibl>
@@ -1565,7 +1610,7 @@
                 <exemplar>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11290675-1</exemplar>
               </bibl>
               <bibl xml:id="p_abraham_a_st_clara">
-                <author ref="http://d-nb.info/gnd/11850021X">Abraham a Sancta Clara</author>
+                <author ref="http://d-nb.info/gnd/11850021X">Abraham a Santa Clara</author>
                 <title/>
                 <exemplar/>
               </bibl>
