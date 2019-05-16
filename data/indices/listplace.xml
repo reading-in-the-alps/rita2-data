@@ -322,9 +322,9 @@
             <place xml:id="st_martin">
                <placeName>San Martino in Badia</placeName>
                <location>
-                  <geo decls="#LatLng">46.683333 11.9</geo>
+                  <geo decls="#LatLng">46.77714 11.89806</geo>
                </location>
-               <idno type="GEONAMES">http://www.geonames.org/6534788</idno>
+               <idno type="GEONAMES">http://www.geonames.org/8950151</idno>
             </place>
             <place xml:id="ollang">
                <placeName>Valdaora</placeName>
@@ -451,9 +451,9 @@
             <place xml:id="moos">
                <placeName>Moso</placeName>
                <location>
-                  <geo decls="#LatLng">46.833333 11.166667</geo>
+                  <geo decls="#LatLng">46.76931 11.89759</geo>
                </location>
-               <idno type="GEONAMES">http://www.geonames.org/3172526</idno>
+               <idno type="GEONAMES">http://www.geonames.org/8964455</idno>
             </place>
             <place xml:id="layen">
                <placeName>Laion</placeName>
