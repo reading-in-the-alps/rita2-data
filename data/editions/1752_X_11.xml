@@ -4,6 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>1752 X 11, Saalen (in der Kaplanei) [Manucredo Marcus Aurelius (Kooperator)]</title>
+            <titleshort>Manucredo Marcus Aurelius (Kooperator)</titleshort>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -33,7 +34,7 @@
                   <msItem>
                      <locus from="1r" to="27r"/>
                      <note>
-                        <rs type="skos" ref="#inventar">Inventar</rs>
+                        <rs type="skos" ref="#inventar">Verlassenschaftsabhandlung</rs>
                      </note>
                   </msItem>
                </msContents>

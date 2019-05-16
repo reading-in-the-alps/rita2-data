@@ -4,6 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>1750 VII 8, Dietenheim (Ansitz Getreuenstein) [Stockherin Maria Ursula (Terziarschwester)]</title>
+            <titleshort>Stockherin Maria Ursula (Terziarschwester)<titleshort>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -33,7 +34,7 @@
                   <msItem>
                      <locus from="1r" to="19v"/>
                      <note>
-                        <rs type="skos" ref="#inventar">Inventar</rs>
+                        <rs type="skos" ref="#inventar">Testament; Testamentserweiterung; Inventar</rs>
                      </note>
                   </msItem>
                </msContents>

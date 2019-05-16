@@ -3,6 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title>1762 I 28, St. Lorenzen [Mitterdorfer Jakob Christoph (Kooperator)]</title>
+            <titleshort>Mitterdorfer Jakob Christoph (Kooperator)</titleshort>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -32,7 +33,7 @@
                   <msItem>
                      <locus from="53r" to="65r"/>
                      <note>
-                        <rs type="skos" ref="#inventar">Inventar</rs>
+                        <rs type="skos" ref="#inventar">Verlassenschaftsabhandlung</rs>
                      </note>
                   </msItem>
                </msContents>

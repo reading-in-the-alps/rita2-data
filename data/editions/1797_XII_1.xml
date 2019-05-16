@@ -4,6 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>1797 XII 1 – 1798 III 31, Dietenheim [Lechner Georg (Beneficiat / Priester und Lokalkaplan)]</title>
+            <titleshort>Lechner Georg (Beneficiat / Priester und Lokalkaplan)</titleshort>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -33,7 +34,7 @@
                   <msItem>
                      <locus from="208r" to="247v"/>
                      <note>
-                        <rs type="skos" ref="#inventar">Inventar</rs>
+                        <rs type="skos" ref="#inventar">Verlassenschaftsabhandlung</rs>
                      </note>
                   </msItem>
                </msContents>

@@ -4,6 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>1773 XII 17/18, St. Georgen (in der Kaplanei) und 1788 II 18/19, St. Lorenzen [Gasser Joseph (Benefiziat)]</title>
+            <titleshort>Gasser Joseph (Benefiziat)</titleshort>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -33,7 +34,7 @@
                   <msItem>
                      <locus from="117r" to="183r"/>
                      <note>
-                        <rs type="skos" ref="#inventar">Inventar</rs>
+                        <rs type="skos" ref="#inventar">Verlassenschaftsabhandlung</rs>
                      </note>
                   </msItem>
                </msContents>

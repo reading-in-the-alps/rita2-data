@@ -4,6 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>1756 III 15 – 1756 III 29, Saalen (in der Benefiziaten-Behausung) [Stainer Sebastian Joseph (Benefiziat)]</title>
+            <titleshort>Stainer Sebastian Joseph (Benefiziat)</titleshort>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -33,7 +34,7 @@
                   <msItem>
                      <locus from="42dr" to="42v"/>
                      <note>
-                        <rs type="skos" ref="#inventar">Inventar</rs>
+                        <rs type="skos" ref="#inventar">Verlassenschaftsabhandlung</rs>
                      </note>
                   </msItem>
                </msContents>

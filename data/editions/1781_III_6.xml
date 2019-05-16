@@ -4,6 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>1781 III 6 – 1781 V 1, St. Martin/Sonnenburg (in der Kaplanei des Stifts Sonnenburg und der Benefiziaten-Behausung in St. Martin) [Zöggeler Anton (Kaplan in Sonnenburg und Benefiziat in St. Martin)]</title>
+            <titleshort>Zöggeler Anton (Kaplan in Sonnenburg, Benefiziat in St. Martin)</titleshort>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -33,7 +34,7 @@
                   <msItem>
                      <locus from="1r" to="30v"/>
                      <note>
-                        <rs type="skos" ref="#inventar">Inventar</rs>
+                        <rs type="skos" ref="#inventar">Inventare; Vermögensergänzung; Versteigerungsprotokoll</rs>
                      </note>
                   </msItem>
                </msContents>

@@ -4,6 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>1766 VI 30, St. Lorenzen [Sigmayr Andreas (Kooperator)]</title>
+            <titleshort>Sigmayr Andreas (Kooperator)</titleshort>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -33,7 +34,7 @@
                   <msItem>
                      <locus from="217r" to="226r"/>
                      <note>
-                        <rs type="skos" ref="#inventar">Inventar</rs>
+                        <rs type="skos" ref="#inventar">Verlassenschaftsabhandlung</rs>
                      </note>
                   </msItem>
                </msContents>
