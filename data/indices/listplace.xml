@@ -127,68 +127,202 @@
             </place>
          </listPlace>
          <listPlace xml:id="rita2">
-            <place xml:id="brixen">
-               <placeName>Bressanone</placeName>
-               <location>
-                  <geo decls="#LatLng">46.71503 11.65598</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/3181550</idno>
-            </place>
+
+<!-- <settlement> <district> -->
+
             <place xml:id="dietenheim">
                <placeName>Dietenheim</placeName>
-               <location>
-                  <geo decls="#LatLng"/>
-               </location>
-               <idno type="URL"/>
+               <placeName type="italiano">Teodone</placeNameIt>
+               <location><geo decls="#LatLng">46.80345 11.95237</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/8949779</idno>
+               <district ref="saenct_michaelspurg">St. Michaelsburg</district>
             </place>
+            <place xml:id="getreuenstain">
+               <placeName>Getreuenstein (Ansitz)</placeName>
+               <placeName type="italiano"/>
+               <location><geo decls="#LatLng">46.803271 11.952109</geo></location>
+               <idno type="GEONAMES"/>
+               <settlement ref="dietenheim">Dietenheim</settlement>
+            </place>
+            <place xml:id="aehrn">
+               <placeName>Ahrntal</placeName>
+               <placeName type="italiano">Valle Aurina</placeNameIt>
+               <location><geo decls="#LatLng">46.99623 11.97988</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/6536019</idno>
+               <district ref="taufers">Taufers</district>
+	             <settlement/>
+            </place>
+            <place xml:id="taufers">
+               <placeName>Taufers</placeName>
+               <placeName type="italiano">Tures</placeNameIt>
+               <location><geo decls="#LatLng">46.9112 11.94835</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/9033196</idno>
+               <district/>
+	             <settlement/>
+            </place>
+            <place xml:id="saenct_michaelspurg">
+               <placeName>St. Michaelsburg</placeName>
+               <placeName type="italiano">San Michele</placeNameIt>
+               <location><geo decls="#LatLng">46.772172 11.892502</geo></location>
+               <idno type="GEONAMES"/>
+               <district/>
+	             <settlement/>
+            </place>
+            <place xml:id="innsbruck">
+               <placeName>Innsbruck</placeName>
+               <placeName type="italiano"/>
+               <location><geo decls="#LatLng">47.26266 11.39454</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/2775220</idno>
+               <district/>
+	             <settlement/>
+            </place>
+            <place xml:id="st_lorenzen">
+               <placeName>St. Lorenzen</placeName>
+               <placeName type="italiano">San Lorenzo di Sebato</placeNameIt>
+               <location><geo decls="#LatLng">46.78514 11.90812</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/3168114</idno>
+               <district ref="saenct_michaelspurg">St. Michaelsburg</district>
+	             <settlement/>
+            </place>
+            <place xml:id="brunegg">
+               <placeName>Bruneck</placeName>
+               <placeName type="italiano">Brunico</placeNameIt>
+               <location><geo decls="#LatLng">46.79942 11.93429</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/3181480</idno>
+               <district/>
+	             <settlement/>
+            </place>
+            <place xml:id="saalen">
+               <placeName>Saalen</placeName>
+               <placeName type="italiano">Sares</placeNameIt>
+               <location><geo decls="#LatLng">46.765848 11.867168</geo></location>
+               <idno type="GEONAMES"/>
+               <district/>
+	             <settlement ref="st_lorenzen">St. Lorenzen</settlement>
+            </place>
+            <place xml:id="saalen_kaplanei">
+               <placeName>Saalen (Kaplanei)</placeName>
+               <placeName type="italiano">Sares</placeNameIt>
+               <location><geo decls="#LatLng">46.765848 11.867168</geo></location>
+               <idno type="GEONAMES"/>
+               <district/>
+	             <settlement ref="saalen">Saalen</settlement>
+            </place>
+            <place xml:id="brixen">
+               <placeName>Brixen</placeName>
+               <placeName type="italiano">Bressanone</placeNameIt>
+               <location><geo decls="#LatLng">46.71503 11.65598</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/3181550</idno>
+               <district/>
+	             <settlement/>
+            </place>
+            <place xml:id="soneburg">
+               <placeName>Sonnenburg</placeName>
+               <placeName type="italiano">Castelbadia</placeNameIt>
+               <location><geo decls="#LatLng">46.78644 11.89123</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/8954327</idno>
+               <district/>
+	             <settlement/>
+            </place>
+            <place xml:id="stift_sonnenburg">
+               <placeName>Stift Sonnenburg</placeName>
+               <placeName type="italiano">Castelbadia</placeNameIt>
+               <location><geo decls="#LatLng">46.78644 11.89123</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/8954327</idno>
+               <district ref="#soneburg">Sonnenburg</district>
+	             <settlement/>
+            </place>
+            <place xml:id="stainach">
+               <placeName>Steinach am Brenner</placeName>
+               <placeName type="italiano"/>
+               <location><geo decls="#LatLng">47.08809 11.48985</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/7873623</idno>
+               <district/>
+	             <settlement/>
+            </place>
+            <place xml:id="roveredo">
+               <placeName>Rovereto</placeName>
+               <placeName type="italiano">Rovereto</placeNameIt>
+               <location><geo decls="#LatLng">45.8904 11.04053</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/3168854</idno>
+               <district/>
+	             <settlement/>
+            </place>
+            <place xml:id="cronburg">
+               <placeName>Kronburg</placeName>
+               <placeName type="italiano"/>
+               <location><geo decls="#LatLng">47.17659 10.62567</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/2773391</idno>
+               <district/>
+	             <settlement/>
+            </place>
+            <place xml:id="muehlbach">
+               <placeName>Mühlbach</placeName>
+               <placeName type="italiano">Rio di Pusteria</placeNameIt>
+               <location><geo decls="#LatLng">46.79658 11.66754</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/3169345</idno>
+               <district ref="#gericht_rodenegg">Rodeneck</district>
+	             <settlement/>
+            </place>
+            <place xml:id="rodenegg">
+               <placeName>Rodeneck</placeName>
+               <placeName type="italiano">Rodengo</placeNameIt>
+               <location><geo decls="#LatLng">46.77953 11.69048</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/6534787</idno>
+               <district ref="#gericht_rodenegg">Rodeneck</district>
+	             <settlement/>
+            </place>
+            <place xml:id="gericht_rodenegg">
+               <placeName>Rodeneck</placeName>
+               <placeName type="italiano">Rodengo</placeNameIt>
+               <location><geo decls="#LatLng">46.77953 11.69048</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/6536016</idno>
+               <district/>
+	             <settlement/>
+            </place>
+            <place xml:id="monthal">
+               <placeName>Montal</placeName>
+               <placeName type="italiano">Mantana</placeNameIt>
+               <location><geo decls="#LatLng">46.7709 11.86038</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/8951295</idno>
+               <district/>
+	             <settlement ref="st_lorenzen">St. Lorenzen</settlement>
+            </place>
+            <place xml:id="klausen">
+               <placeName>Klausen</placeName>
+               <placeName type="italiano">Chiusa</placeNameIt>
+               <location><geo decls="#LatLng">46.64001 11.56573</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/3178764</idno>
+               <district/>
+	             <settlement/>
+            </place>
+            <place xml:id="layen">
+               <placeName>Lajen</placeName>
+               <placeName type="italiano">Laion</placeNameIt>
+               <location><geo decls="#LatLng">46.60809 11.56559</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/3175236</idno>
+               <district>Gufidaun</district>
+	             <settlement/>
+            </place>
+
+<!-- 42ar von 1756_3_15 -->
+
+<!--            <place xml:id="XXX">
+               <placeName>XXX</placeName>
+               <placeName type="italiano">XXX</placeNameIt>
+               <location><geo decls="#LatLng">XXX XXX</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/XXX</idno>
+               <district ref="XXX">XXX</district>
+	             <settlement ref="XXX">XXX</settlement>
+            </place>
+-->
+
             <place xml:id="st_georgen">
                <placeName>San Giorgio</placeName>
                <location>
                   <geo decls="#LatLng">46.81254 11.93416</geo>
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3168310</idno>
-            </place>
-            <place xml:id="st_lorenzen">
-               <placeName>San Lorenzo di Sebato</placeName>
-               <location>
-                  <geo decls="#LatLng">46.783333 11.9</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/3168114</idno>
-            </place>
-            <place xml:id="saalen">
-               <placeName>Sares</placeName>
-               <location>
-                  <geo decls="#LatLng">46.757974 11.874139</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/3168114</idno>
-               <note>Ist Teil von <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
-                    </note>
-            </place>
-            <place xml:id="brunegg">
-               <placeName>Brunico</placeName>
-               <location>
-                  <geo decls="#LatLng">46.79674 11.935465</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/3181480</idno>
-            </place>
-            <place xml:id="klausen">
-               <placeName>Chiusa</placeName>
-               <location>
-                  <geo decls="#LatLng">46.633333 11.566667</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/3178764</idno>
-            </place>
-            <place xml:id="saenct_michaelspurg">
-               <placeName>St. Michaelsburg</placeName>
-               <placeName type="alt">St. Michelsburg</placeName>
-               <placeName type="alt">Michaelsburg</placeName>
-               <placeName type="alt">Michelsburg</placeName>
-               <placeName type="alt">St. Michaelspurg</placeName>
-               <location>
-                  <geo decls="#LatLng">46.772234 11.892195</geo>
-               </location>
-               <idno type="GEONAMES"/>
-               <note>Gericht</note>
             </place>
             <place xml:id="welsberg">
                <placeName>Monguelfo</placeName>
@@ -217,23 +351,6 @@
                   <geo decls="#LatLng">47.43941 11.89407</geo>
                </location>
                <idno type="GEONAMES">http://www.geonames.org/2767902</idno>
-            </place>
-            <place xml:id="soneburg">
-               <placeName>Sonnenburg</placeName>
-               <location>
-                  <geo decls="#LatLng">46.78644 11.89123</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/8954327</idno>
-               <note>Hof- und Lehengericht</note>
-            </place>
-            <place xml:id="getreuenstain">
-               <placeName>Getreuenstain</placeName>
-               <location>
-                  <geo decls="#LatLng"/>
-               </location>
-               <idno type="GEONAMES"/>
-               <note>Ansitz zu <rs type="place" ref="#dietenheim">Dietenhaimb</rs>
-                    </note>
             </place>
             <place xml:id="uttenheim">
                <placeName>Villa Ottone</placeName>
@@ -298,13 +415,6 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3176902</idno>
             </place>
-            <place xml:id="rodenegg">
-               <placeName>Rodengo</placeName>
-               <location>
-                  <geo decls="#LatLng">46.783333 11.683333</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/6534787</idno>
-            </place>
             <place xml:id="iniching">
                <placeName>San Candido</placeName>
                <location>
@@ -340,14 +450,6 @@
                </location>
                <idno type="GEONAMES"/>
             </place>
-            <place xml:id="innsbruck">
-               <placeName>Innsbruck</placeName>
-               <placeName type="alt">Innsbrugg</placeName>
-               <location>
-                  <geo decls="#LatLng">47.26266 11.39454</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/2775220</idno>
-            </place>
             <place xml:id="lemberg">
                <placeName>Lemberg</placeName>
                <location>
@@ -369,26 +471,12 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/6534793</idno>
             </place>
-            <place xml:id="stainach">
-               <placeName>Steinach am Brenner</placeName>
-               <location>
-                  <geo decls="#LatLng">47.08333 11.46667</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/7873623</idno>
-            </place>
             <place xml:id="aichholz">
                <placeName>Roverè della Luna</placeName>
                <location>
                   <geo decls="#LatLng">46.25008 11.17233</geo>
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3168860</idno>
-            </place>
-            <place xml:id="aehrn">
-               <placeName>Valle Aurina</placeName>
-               <location>
-                  <geo decls="#LatLng">46.99623 11.97988</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/6536019</idno>
             </place>
             <place xml:id="stoerzing">
                <placeName>Vipiteno</placeName>
@@ -411,28 +499,12 @@
                </location>
                <idno type="GEONAMES"/>
             </place>
-            <place xml:id="muehlbach">
-               <placeName>Rio di Pusteria</placeName>
-               <placeName type="alt">Mühlbach</placeName>
-               <placeName type="alt">Mihlwach</placeName>
-               <location>
-                  <geo decls="#LatLng">46.8 11.666667</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/3169345</idno>
-            </place>
             <place xml:id="stephansdorf">
                <placeName>Santo Stefano</placeName>
                <location>
                   <geo decls="#LatLng">46.783333 11.9</geo>
                </location>
                <idno type="GEONAMES"/>
-            </place>
-            <place xml:id="taufers">
-               <placeName>Tubre</placeName>
-               <location>
-                  <geo decls="#LatLng">46.65 10.466667</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/3165124</idno>
             </place>
             <place xml:id="grasstein">
                <placeName>Le Cave</placeName>
@@ -455,20 +527,6 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/8964455</idno>
             </place>
-            <place xml:id="layen">
-               <placeName>Laion</placeName>
-               <location>
-                  <geo decls="#LatLng">46.60809 11.56559</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/3175236</idno>
-            </place>
-            <place xml:id="cronburg">
-               <placeName>Cronburg</placeName>
-               <location>
-                  <geo decls="#LatLng">47.17659 10.62567</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/2773391</idno>
-            </place>
             <place xml:id="st_vigili">
                <placeName>San Vigilio di Marebbe</placeName>
                <location>
@@ -489,13 +547,6 @@
                   <geo decls="#LatLng">46.818917 11.850953</geo>
                </location>
                <idno type="GEONAMES"/>
-            </place>
-            <place xml:id="roveredo">
-               <placeName>Roveredo</placeName>
-               <location>
-                  <geo decls="#LatLng">45.883333 11.05</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/3168854</idno>
             </place>
             <place xml:id="sillian">
                <placeName>Sillian</placeName>
