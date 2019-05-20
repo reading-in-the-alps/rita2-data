@@ -336,7 +336,7 @@
                <placeName>St. Georg (Kirche)</placeName>
                <placeName type="italiano">San Giorgio</placeName>
                <settlement ref="#st_georgen">St. Georgen</settlement>
-               <location><geo decls="#LatLng">46.816003, 11.933442</geo></location>
+               <location><geo decls="#LatLng">46.816003 11.933442</geo></location>
             </place>
             <place xml:id="steegen">
                <placeName>Stegen</placeName>
