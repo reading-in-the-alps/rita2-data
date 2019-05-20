@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>1756 III 15 – 1756 III 29, Saalen (in der Benefiziaten-Behausung) [Stainer Sebastian Joseph (Benefiziat)]</title>
-            <titleshort>Stainer Sebastian Joseph (Benefiziat)</titleshort>
+            <title type="short">Stainer Sebastian Joseph (Benefiziat)</title>
             <respStmt>
                <resp>Transkription und Annotation</resp>
                <name>
@@ -116,7 +116,7 @@
             <p>Ohnegeverde.</p>
             <p>Zu wahren Urkhundt, hat der wohledl gestreng, unnd hochgelehrte herr <rs type="person" ref="#lunz_christian">Christian Lunz</rs>, beeder Rechten Lit. hochfürstlich Brixnerischer Statrichter zu <rs type="place" ref="#klausen">Clausen</rs>, unnd Gerichts Verwalter zu <rs type="place" ref="#lazfonns">Lazfonns</rs> und <rs type="place" ref="#verdings">Verdings</rs>, von Obrigkheitlichen Ambts unnd in Sonderheit auf voreinkhombnes Siglpith wegen, dero angebohrnes Insigl (doch anderwerts ohne Schaden) hierfirgestölt unnd anmit disen Gwalt pösten dessen verförth-, unnd becröfftiget. Actum ut supra.</p>
             <p>[Oblatensiegel]
-            <p>
+            
                <pb n="Titel"/>
             </p>
             <p>[Kanzleivermerk:] Coll.</p>
@@ -3075,7 +3075,7 @@
                   <cell>15 f 0 x</cell>
                </row>
                <row>
-                  <cell>Item so seint auch vor die in der loblichen <rs type="place" ref"#saalen_kaplanei">Laureta Capellen</rs><note><p rend="footnote text"> Laureta<hi rend="italic" xml:space="preserve"> am linken Rand nachgetragen.</hi></p></note> zu <rs type="place" ref="#saalen">Saallen</rs>, item Unser Lieben Frauen Himblfahrts Bruederschafft in der Pfarr <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>, und der <rs type="place" ref="#heiligkreuz_franewiese">Heilligen Creuz Khirchen auf der Franewisen</rs> verschafene jehrlig weltebige drei</cell>
+                  <cell>Item so seint auch vor die in der loblichen <rs type="place" ref="#saalen_kaplanei">Laureta Capellen</rs><note><p rend="footnote text"> Laureta<hi rend="italic" xml:space="preserve"> am linken Rand nachgetragen.</hi></p></note> zu <rs type="place" ref="#saalen">Saallen</rs>, item Unser Lieben Frauen Himblfahrts Bruederschafft in der Pfarr <rs type="place" ref="#st_lorenzen">Sanct Lorenzen</rs>, und der <rs type="place" ref="#heiligkreuz_franewiese">Heilligen Creuz Khirchen auf der Franewisen</rs> verschafene jehrlig weltebige drei</cell>
                   <cell/>
                </row>
                <row>
@@ -3566,7 +3566,7 @@
             </p>
             <p>landt, unnd Seeligmachers Jesu Christi in sibenzöchenhundert söchsundtfunfzigisten Jahr.</p>
             <p>[aufgedrückte Oblatensiegel des <rs type="person" ref="#ingramb_joseph_mathias">Joseph Matthias Ingram</rs> und <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignaz Englmohr</rs>]</p>
-         </p></div>
+   </div>
       </body>
    </text>
 </TEI>
