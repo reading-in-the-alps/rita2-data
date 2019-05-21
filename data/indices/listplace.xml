@@ -345,7 +345,7 @@
 	             <settlement ref="reischach">Reischach</settlement>
             </place>
             <place xml:id="reischach">
-               <placeName>reischach</placeName>
+               <placeName>Reischach</placeName>
                <placeName type="italiano">Riscone</placeNameIt>
                <location><geo decls="#LatLng">46.77685 11.95149</geo></location>
                <idno type="GEONAMES">http://www.geonames.org/7601924</idno>
