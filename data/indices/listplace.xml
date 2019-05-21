@@ -321,15 +321,23 @@
 	             <settlement/>
             </place>
             <place xml:id="heiligkreuz_franewiese">
-               <placeName>Hl.-Kreuz-Kirche auf der Fronwiese</placeName>
+               <placeName>St. Lorenzen (Hl.-Kreuz-Kirche auf der Fronwiese)</placeName>
                <placeName type="italiano">Santa Croce</placeNameIt>
                <location><geo decls="#LatLng">46.786494 11.910330</geo></location>
                <idno type="GEONAMES"/>
                <district/>
 	             <settlement ref="st_lorenzen">St. Lorenzen</settlement>
             </place>
+            <place xml:id="st_lorenzen_kirche">
+               <placeName>St. Lorenzen (Kirche)</placeName>
+               <placeName type="italiano">Chiesa di S. Lorenzo</placeNameIt>
+               <location><geo decls="#LatLng">46.783527 11.902577</geo></location>
+               <idno type="GEONAMES"/>
+               <district/>
+	             <settlement ref="st_lorenzen">St. Lorenzen</settlement>
+            </place>
             <place xml:id="tschogglerhof">
-               <placeName>tschogglerhof</placeName>
+               <placeName>Tschogglerhof</placeName>
                <placeName type="italiano"/>
                <location><geo decls="#LatLng">46.771901 11.936413</geo></location>
                <idno type="GEONAMES"/>
@@ -488,7 +496,6 @@
                <settlement ref="dietenheim">Dietenheim</settlement>
             </place>
 
-<!-- bis 20r 1761 -->
 
             <place xml:id="XXX">
                <placeName>XXX</placeName>

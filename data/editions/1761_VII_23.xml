@@ -108,7 +108,7 @@
             <p>
                <pb n="1r"/>
             </p>
-            <p>Actum in der Beneficiaten Behausung zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs> den sibenzechende<note>
+            <p>Actum in der <rs type="place" ref="#st_georgen_kirche">Beneficiaten Behausung</rs> zu <rs type="place" ref="#st_georgen">Sanct Georgen</rs> den sibenzechende<note>
                   <p rend="footnote text"> zechende <hi rend="italic">über der Zeile eingefügt statt gestrichenem </hi>zenden.
                   </p>
             </note> <date when="1761-08-10">Tag Manaths Augusti änno sibenzechenhundert ainundsechzig</date>
@@ -948,7 +948,7 @@
                </row>
                <row>
                   <cell>
-                            <rs type="person" ref="#pfeiffhofer_gregori">Gregori Pfeiffhofer</rs> Miller zu Steegen umb abgebnen Getraidt finf Gulden, nein Khreizer sage</cell>
+                            <rs type="person" ref="#pfeiffhofer_gregori">Gregori Pfeiffhofer</rs> Miller zu <rs type="place" ref="#steegen">Steegen</rs> umb abgebnen Getraidt finf Gulden, nein Khreizer sage</cell>
                   <cell>5 f 9 x</cell>
                </row>
                <row>
