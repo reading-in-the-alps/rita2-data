@@ -394,7 +394,7 @@
                <idno type="GEONAMES">http://www.geonames.org/8973747</idno>
             </place>
             <place xml:id="rasen">
-               <placeName>Rasen</placeName>
+               <placeName>Rasen / Altrasen</placeName>
                <placeName type="italiano">Rasun</placeName>
                <district>Rasen</district>
                <location><geo decls="#LatLng">46.77853 12.04729</geo></location>
@@ -427,6 +427,12 @@
                <district ref="#uttenheim">Uttenheim</district>
                <location><geo decls="#LatLng">46.83658 11.94931</geo></location>
                <idno type="GEONAMES">http://www.geonames.org/3176410</idno>
+            </place>
+            <place xml:id="gais_kirche">
+               <placeName>Gais (St.-Johannes-Kirche)</placeName>
+               <placeName type="italiano">Chiesa di S. Giovanni Evangelista</placeName>
+               <settlement ref="#gais">Gais</settlement>
+               <location><geo decls="#LatLng">46.833052 11.947658</geo></location>
             </place>
             <place xml:id="dietenheim_jakob">
                <placeName>St. Jakob (Kirche)</placeName>
@@ -488,9 +494,114 @@
                <location><geo decls="#LatLng">46.78225 11.89223</geo></location>
                <idno type="GEONAMES">http://www.geonames.org/3176902</idno>
             </place>
+            <place xml:id="england">
+               <placeName>Königreich Großbritannien</placeName>
+               <location><geo decls="#LatLng">54 -2</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/2648147</idno>
+            </place>
+            <place xml:id="neustift">
+               <placeName>Neustift</placeName>
+               <placeName type="italiano">Novacella</placeName>
+               <district>Neustift</district>
+               <location><geo decls="#LatLng">46.74313 11.64801</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/3172196</idno>
+            </place>
+            <place xml:id="iniching">
+               <placeName>Innichen</placeName>
+               <placeName type="italiano">San Candido</placeName>
+               <district>Innichen / Heunfels</district>
+               <location><geo decls="#LatLng">46.7324 12.27855</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/3168508</idno>
+            </place>
+            <place xml:id="sterzing">
+               <placeName>Sterzing</placeName>
+               <placeName type="italiano">Vipiteno</placeName>
+               <district>Sterzing</district>
+               <location><geo decls="#LatLng">46.89253 11.43007</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/6535984</idno>
+            </place>
+            <place xml:id="naudersberg">
+               <placeName>Naudersberg</placeName>
+               <district>Naudersberg</district>
+               <location><geo decls="#LatLng">46.88746 10.54071</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/7873665</idno>
+            </place>
+            <place xml:id="st_martin">
+               <placeName>St. Martin</placeName>
+               <placeName type="italiano">San Martino</placeName>
+	             <settlement ref="st_lorenzen">St. Lorenzen</settlement>
+               <location><geo decls="#LatLng">46.77714 11.89806</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/8950151</idno>
+            </place>
+            <place xml:id="st_gotthard">
+               <placeName>St.-Gotthard-und-St.-Erhard-Kirche</placeName>
+               <placeName type="italiano">Chiesa di San Gottardo e Sant'Erardo</placeName>
+               <district ref="brixen">Brixen</district>
+               <location><geo decls="#LatLng">46.715864 11.655517</geo></location>
+            </place>
+            <place xml:id="onach">
+               <placeName>Onach</placeName>
+               <placeName type="italiano">Onies</placeName>
+	             <settlement ref="st_lorenzen">St. Lorenzen</settlement>
+               <location><geo decls="#LatLng">46.74843 11.86496</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/8955949</idno>
+            </place>
+            <place xml:id="mahr">
+               <placeName>In der Mahr</placeName>
+               <placeName type="italiano">La Mara</placeName>
+               <district ref="brixen">Brixen</district>
+               <location><geo decls="#LatLng">46.696169 11.641767</geo></location>
+            </place>
+            <place xml:id="st_johannes">
+               <placeName>St. Johannes</placeName>
+            </place>
+            <place xml:id="ulten">
+               <placeName>Ultental</placeName>
+               <placeName type="italiano">Val d'Ultimo</placeName>
+               <district>Ulten</district>
+               <location><geo decls="#LatLng">46.51151 10.90741</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/3165053</idno>
+            </place>
+            <place xml:id="passeier">
+               <placeName>Passeiertal</placeName>
+               <placeName type="italiano">Val Passina</placeName>
+               <district>Passeier</district>
+               <location><geo decls="#LatLng">46.81282 11.24577</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/6535925</idno>
+            </place>
+            <place xml:id="sarnthal">
+               <placeName>Sarntal</placeName>
+               <placeName type="italiano">Val Sarentino</placeName>
+               <district>Sarnthein</district>
+               <location><geo decls="#LatLng">46.64352 11.35577</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/6535928</idno>
+            </place>
+            <place xml:id="olang_kirche">
+               <placeName>St. Petrus und St. Agnes (Kirche)</placeName>
+               <placeName type="italiano">Parrocchia Valdaora Di Sotto</placeName>
+	             <settlement ref="niederolang">Niederolang</settlement>
+               <location><geo decls="#LatLng">46.767856 12.016395</geo></location>
+            </place>
+            <place xml:id="niederolang">
+               <placeName>Niederolang</placeName>
+               <placeName type="italiano">Valdaora Di Sotto</placeName>
+	             <settlement ref="ollang">Olang</settlement>
+               <location><geo decls="#LatLng">46.7681 12.01818</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/9036159</idno>
+            </place>
+            <place xml:id="ollang">
+               <placeName>Olang</placeName>
+               <placeName type="italiano">Valdaora</placeName>
+               <district ref="#rasen">Rasen</district>
+               <location><geo decls="#LatLng">46.75983 12.03099</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/6535938</idno>
+            </place>
 
-<!-- bis inkl 1771 VI
- 
+
+
+
+<!-- Zöggeller 1781 III bis -1206-
+
             <place xml:id="XXX">
                <placeName>XXX</placeName>
                <placeName type="italiano">XXX</placeName>
@@ -508,34 +619,6 @@
                   <geo decls="#LatLng">46.75774 12.10556</geo>
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3173140</idno>
-            </place>
-            <place xml:id="iniching">
-               <placeName>San Candido</placeName>
-               <location>
-                  <geo decls="#LatLng">46.733333 12.266667</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/3168508</idno>
-            </place>
-            <place xml:id="sterzing">
-               <placeName>Vipiteno</placeName>
-               <location>
-                  <geo decls="#LatLng">46.897321 11.431832</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/3164065</idno>
-            </place>
-            <place xml:id="st_martin">
-               <placeName>San Martino in Badia</placeName>
-               <location>
-                  <geo decls="#LatLng">46.77714 11.89806</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/8950151</idno>
-            </place>
-            <place xml:id="ollang">
-               <placeName>Valdaora</placeName>
-               <location>
-                  <geo decls="#LatLng">46.766667 12.033333</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/3164949</idno>
             </place>
             <place xml:id="st_oswald">
                <placeName>Sant'Osvaldo</placeName>
@@ -572,26 +655,12 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3168860</idno>
             </place>
-            <place xml:id="stoerzing">
-               <placeName>Vipiteno</placeName>
-               <location>
-                  <geo decls="#LatLng">46.897321 11.431832</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/3164065</idno>
-            </place>
             <place xml:id="kiens">
                <placeName>Chienes</placeName>
                <location>
                   <geo decls="#LatLng">46.806667 11.836667</geo>
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3178820</idno>
-            </place>
-            <place xml:id="naudersberg">
-               <placeName>Naudersberg</placeName>
-               <location>
-                  <geo decls="#LatLng">46.88859 10.50126</geo>
-               </location>
-               <idno type="GEONAMES"/>
             </place>
             <place xml:id="stephansdorf">
                <placeName>Santo Stefano</placeName>
