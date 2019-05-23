@@ -55,9 +55,6 @@
             <place xml:id="auf-der-scheibe-neustift">
                <placeName>auf der Scheibe (Neustift)</placeName>
             </place>
-            <place xml:id="neustift">
-               <placeName>Neustift</placeName>
-            </place>
             <place xml:id="rain-neustift">
                <placeName>Rain (Neustift)</placeName>
             </place>
@@ -596,6 +593,27 @@
                <location><geo decls="#LatLng">46.75983 12.03099</geo></location>
                <idno type="GEONAMES">http://www.geonames.org/6535938</idno>
             </place>
+            <place xml:id="st_sigmund">
+               <placeName>St. Sigmund</placeName>
+               <placeName type="italiano">San Sigismondo</placeName>
+               <district ref="scheneck">Schöneck</district>
+               <location><geo decls="#LatLng">46.81151 11.80267</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/3167727</idno>
+            </place>
+            <place xml:id="pfalzen">
+               <placeName>Pfalzen</placeName>
+               <placeName type="italiano">Falzes</placeName>
+               <district ref="scheneck">Schöneck</district>
+               <location><geo decls="#LatLng">46.81359 11.88308</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/3177231</idno>
+            </place>
+            <place xml:id="moos">
+               <placeName>Moso</placeName>
+               <location>
+                  <geo decls="#LatLng">46.76931 11.89759</geo>
+               </location>
+               <idno type="GEONAMES">http://www.geonames.org/8964455</idno>
+            </place>
 
 
 
@@ -682,13 +700,6 @@
                   <geo decls="#LatLng">46.866667 11.3</geo>
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3180015</idno>
-            </place>
-            <place xml:id="moos">
-               <placeName>Moso</placeName>
-               <location>
-                  <geo decls="#LatLng">46.76931 11.89759</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/8964455</idno>
             </place>
             <place xml:id="st_vigili">
                <placeName>San Vigilio di Marebbe</placeName>

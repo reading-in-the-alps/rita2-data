@@ -6208,7 +6208,7 @@
               </p>
                <p>[spätere Notiz:] 1 Staats-Zeitungs Lexikon Johann Hübners</p>
                <p>[Rubrum:] 1781<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Zweite </hi>1 <hi rend="italic" xml:space="preserve">korrigiert aus </hi>0.</p></note></p>
-               <p>Des wohl ehrwürdig wohlgelehrten Herrn <rs type="person" ref="#zoeggeler_anton">Anton Zeggeler</rs> gewest Stifft Sonnenburgischen Kaplan ad <rs type="place" ref="#st_martin">St. Martinum</rs> vorgangene</p>
+               <p>Des wohl ehrwürdig wohlgelehrten Herrn <rs type="person" ref="#zoeggeler_anton">Anton Zeggeler</rs> gewest <rs type="place" ref="#stift_sonnenburg"> Stifft Sonnenburgischen</rs> Kaplan ad <rs type="place" ref="#st_martin">St. Martinum</rs> vorgangene</p>
                <p>Vermägensabhandlung</p>
                <p>[späterer Archivvermerk:] No -1206-</p>
                <p>
@@ -9925,17 +9925,16 @@
                   <pb n="23r"/>
                </p>
                <p>Schulden herein</p>
-               <p>Die bestehen haubtsächlich in den Beneficial Einkünfften pro rato temporis des Kaplaney Beneficii von 7 Monath 1 Wochen von Georgi 1780 bis Andrey darauf geraith,<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>und bestehen in folgenden.</p></note> gleichwie aber solche von dem ganzen jährlichen Beneficial Gehalt abzusondern, und die Grundt- auch andere Zinsn und Gefäll zu zerstucken nicht wohl thuenlich,
-               und zerstuckter einbringlich zu machen noch hörter fallet, als hat mann bey ein- so andern Umständen von Seiten des geist- und weldtlichen Abhandlungs Gericht am besten zu sein erachtet,
+               <p>Die bestehen haubtsächlich in den Beneficial Einkünfften pro rato temporis des <rs type="place" ref="#stift_sonnenburg">Kaplaney Beneficii</rs> von 7 Monath 1 Wochen von Georgi 1780 bis Andrey darauf geraith,<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>und bestehen in folgenden.</p></note> gleichwie aber solche von dem ganzen jährlichen Beneficial Gehalt abzusondern, und die Grundt- auch andere Zinsn und Gefäll zu zerstucken nicht wohl thuenlich, und zerstuckter einbringlich zu machen noch hörter fallet, als hat mann bey ein- so andern Umständen von Seiten des geist- und weldtlichen Abhandlungs Gericht am besten zu sein erachtet,
                samentliche Jahrs Gefäll sovillen annoch in Ausstand<note><p rend="footnote text"> sovillen annoch in Ausstand<hi rend="italic" xml:space="preserve"> am linken Rand eingefügt.</hi></p></note> alda als ein Vermägen firzutragen, hingegen was dem geistlichen Herrn Successori oder
                andern v. denen Beneficial Einkünften gebihrig,<note><p rend="footnote text"> v. denen Beneficial Einkünften gebihrig<hi rend="italic" xml:space="preserve"> und Beistrich am linken Rand eingefügt statt gestrichenem </hi>hievor gebihrig.</p></note> pro rato temporis hinach denen Abzügen per Schuld hinaus einzuverleiben.</p>
                <table rend="rules">
                   <row>
-                     <cell>Als der Piterle zu St. Sigmundt</cell>
+                     <cell>Als der Piterle zu <rs type="place" ref="#st_sigmund">St. Sigmundt</rs></cell>
                      <cell>24 x</cell>
                   </row>
                   <row>
-                     <cell>Elzenbaumer zu Pfalzen in Geldt</cell>
+                     <cell>Elzenbaumer zu <rs type="place" ref="#pfalzen">Pfalzen</rs> in Geldt</cell>
                      <cell/>
                   </row>
                   <row>
