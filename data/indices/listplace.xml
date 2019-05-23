@@ -239,6 +239,13 @@
                <location><geo decls="#LatLng">46.79658 11.66754</geo></location>
                <idno type="GEONAMES">http://www.geonames.org/3169345</idno>
             </place>
+            <place xml:id="muehlbach_bei_gais">
+               <placeName>Mühlbach</placeName>
+               <placeName type="italiano">Riomolino</placeName>
+               <district ref="#uttenheim">Uttenheim</district>
+               <location><geo decls="#LatLng">46.84745 11.98062</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/7627828</idno>
+            </place>
             <place xml:id="rodenegg">
                <placeName>Rodeneck</placeName>
                <placeName type="italiano">Rodengo</placeName>
@@ -607,18 +614,95 @@
                <location><geo decls="#LatLng">46.81359 11.88308</geo></location>
                <idno type="GEONAMES">http://www.geonames.org/3177231</idno>
             </place>
+            <place xml:id="scheneck">
+               <placeName>Schöneck</placeName>
+               <location><geo decls="#LatLng">46.820236 11.847940</geo></location>
+            </place>
             <place xml:id="moos">
-               <placeName>Moso</placeName>
-               <location>
-                  <geo decls="#LatLng">46.76931 11.89759</geo>
-               </location>
+               <placeName>Moos</placeName>
+               <placeName type="italiano">Moja</placeName>
+	             <settlement ref="st_lorenzen">St. Lorenzen</settlement>
+               <location><geo decls="#LatLng">46.76931 11.89759</geo></location>
                <idno type="GEONAMES">http://www.geonames.org/8964455</idno>
+            </place>
+            <place xml:id="lothen">
+               <placeName>Lothen</placeName>
+               <placeName type="italiano">Campolino</placeName>
+	             <settlement ref="st_lorenzen">St. Lorenzen</settlement>
+               <location><geo decls="#LatLng">46.79238 11.88692</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/8966079</idno>
+            </place>
+            <place xml:id="goslbichl">
+               <placeName>Goslbichl</placeName>
+            </place>
+            <place xml:id="stephansdorf">
+               <placeName>Stefansdorf</placeName>
+               <placeName type="italiano">Santo Stefano</placeName>
+	             <settlement ref="st_lorenzen">St. Lorenzen</settlement>
+               <location><geo decls="#LatLng">46.7702 11.92189</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/8951978</idno>
+            </place>
+            <place xml:id="picolein">
+               <placeName>Pikolein</placeName>
+               <placeName type="italiano">Piccolino</placeName>
+	             <settlement ref="st_martin_thurn">St. Martin in Thurn</settlement>
+               <location><geo decls="#LatLng">46.68724 11.89539</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/8956202</idno>
+            </place>
+            <place xml:id="st_martin_thurn">
+               <placeName>St. Martin in Thurn</placeName>
+               <placeName type="italiano">San Martino in Badia</placeName>
+               <district ref="thurn">Thurn</district>
+               <location><geo decls="#LatLng">46.68153, 11.89809</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/6536017</idno>
+            </place>
+            <place xml:id="thurn">
+               <placeName>Thurn</placeName>
+               <placeName type="italiano">Badia</placeName>
+               <location><geo decls="#LatLng">46.680773, 11.893280</geo></location>
+            </place>
+            <place xml:id="sorega">
+               <placeName>Sorega</placeName>
+               <placeName type="italiano">Sorega</placeName>
+	             <settlement ref="st_kassian">St. Kassian</settlement>
+               <location><geo decls="#LatLng">46.56688 11.93478</geo></location>
+            </place>
+            <place xml:id="st_kassian">
+               <placeName>St. Kassian</placeName>
+               <placeName type="italiano">San Cassiano</placeName>
+	             <district ref="ennenberg">Enneberg</district>
+               <location><geo decls="#LatLng">46.57007 11.93606</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/3168493</idno>
+            </place>
+            <place xml:id="ennenberg">
+               <placeName>Enneberg</placeName>
+               <placeName type="italiano">Marebbe</placeName>
+               <location><geo decls="#LatLng">46.698 11.9315</geo></location>
+            </place>
+            <place xml:id="obvill">
+               <placeName>Obvill</placeName>
+            </place>
+            <place xml:id="glurnhor_hebenstreit">
+               <placeName>Glurnhör (Ansitz Hebenstreit)</placeName>
+               <district ref="#soneburg">Sonnenburg</district>
+               <location><geo decls="#LatLng">46.7878 11.8895</geo></location>
+            </place>
+            <place xml:id="fassing">
+               <placeName>Fassing</placeName>
+               <placeName type="italiano">Fassine</placeName>
+	             <settlement ref="st_lorenzen">St. Lorenzen</settlement>
+               <location><geo decls="#LatLng">46.7915 11.8967</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/8971263</idno>
+            </place>
+            <place xml:id="sillian">
+               <placeName>Sillian</placeName>
+               <district>Heunfels</district>
+               <location><geo decls="#LatLng">46.75278 12.42111</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/2765044</idno>
             </place>
 
 
-
-
-<!-- Zöggeller 1781 III bis -1206-
+<!-- Zöggeller 1781 III bis -1207-
 
             <place xml:id="XXX">
                <placeName>XXX</placeName>
@@ -680,27 +764,6 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/3178820</idno>
             </place>
-            <place xml:id="stephansdorf">
-               <placeName>Santo Stefano</placeName>
-               <location>
-                  <geo decls="#LatLng">46.783333 11.9</geo>
-               </location>
-               <idno type="GEONAMES"/>
-            </place>
-            <place xml:id="grasstein">
-               <placeName>Le Cave</placeName>
-               <location>
-                  <geo decls="#LatLng">46.819 11.535</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/3174954</idno>
-            </place>
-            <place xml:id="gasteig">
-               <placeName>Gasteig</placeName>
-               <location>
-                  <geo decls="#LatLng">46.866667 11.3</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/3180015</idno>
-            </place>
             <place xml:id="st_vigili">
                <placeName>San Vigilio di Marebbe</placeName>
                <location>
@@ -708,38 +771,10 @@
                </location>
                <idno type="GEONAMES">http://www.geonames.org/8643247</idno>
             </place>
-            <place xml:id="ennenberg">
-               <placeName>Marebbe</placeName>
-               <location>
-                  <geo decls="#LatLng">46.7 11.933333</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/3173977</idno>
-            </place>
-            <place xml:id="scheneck">
-               <placeName>Schöneck</placeName>
-               <location>
-                  <geo decls="#LatLng">46.818917 11.850953</geo>
-               </location>
-               <idno type="GEONAMES"/>
-            </place>
-            <place xml:id="sillian">
-               <placeName>Sillian</placeName>
-               <location>
-                  <geo decls="#LatLng">46.7475 12.4175</geo>
-               </location>
-               <idno type="GEONAMES">http://www.geonames.org/2765044</idno>
-            </place>
             <place xml:id="oberfellach">
                <placeName>Oberfellach</placeName>
                <location>
                   <geo decls="#LatLng"/>
-               </location>
-               <idno type="GEONAMES"/>
-            </place>
-            <place xml:id="thurn">
-               <placeName>Thurn</placeName>
-               <location>
-                  <geo decls="#LatLng">46.680769 11.893309</geo>
                </location>
                <idno type="GEONAMES"/>
             </place>

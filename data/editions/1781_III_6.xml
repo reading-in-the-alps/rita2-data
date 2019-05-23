@@ -9925,7 +9925,7 @@
                   <pb n="23r"/>
                </p>
                <p>Schulden herein</p>
-               <p>Die bestehen haubtsächlich in den Beneficial Einkünfften pro rato temporis des <rs type="place" ref="#stift_sonnenburg">Kaplaney Beneficii</rs> von 7 Monath 1 Wochen von Georgi 1780 bis Andrey darauf geraith,<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>und bestehen in folgenden.</p></note> gleichwie aber solche von dem ganzen jährlichen Beneficial Gehalt abzusondern, und die Grundt- auch andere Zinsn und Gefäll zu zerstucken nicht wohl thuenlich, und zerstuckter einbringlich zu machen noch hörter fallet, als hat mann bey ein- so andern Umständen von Seiten des geist- und weldtlichen Abhandlungs Gericht am besten zu sein erachtet,
+               <p>Die bestehen haubtsächlich in den Beneficial Einkünfften pro rato temporis des Kaplaney Beneficii von 7 Monath 1 Wochen von Georgi 1780 bis Andrey darauf geraith,<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>und bestehen in folgenden.</p></note> gleichwie aber solche von dem ganzen jährlichen Beneficial Gehalt abzusondern, und die Grundt- auch andere Zinsn und Gefäll zu zerstucken nicht wohl thuenlich, und zerstuckter einbringlich zu machen noch hörter fallet, als hat mann bey ein- so andern Umständen von Seiten des geist- und weldtlichen Abhandlungs Gericht am besten zu sein erachtet,
                samentliche Jahrs Gefäll sovillen annoch in Ausstand<note><p rend="footnote text"> sovillen annoch in Ausstand<hi rend="italic" xml:space="preserve"> am linken Rand eingefügt.</hi></p></note> alda als ein Vermägen firzutragen, hingegen was dem geistlichen Herrn Successori oder
                andern v. denen Beneficial Einkünften gebihrig,<note><p rend="footnote text"> v. denen Beneficial Einkünften gebihrig<hi rend="italic" xml:space="preserve"> und Beistrich am linken Rand eingefügt statt gestrichenem </hi>hievor gebihrig.</p></note> pro rato temporis hinach denen Abzügen per Schuld hinaus einzuverleiben.</p>
                <table rend="rules">
@@ -9955,7 +9955,7 @@
                      <cell>32 x</cell>
                   </row>
                   <row>
-                     <cell><rs type="person" ref="#mutschlechner_simon">Simon Mutschlechnerische</rs> Verlassenschafft zu Lothen</cell>
+                     <cell><rs type="person" ref="#mutschlechner_simon">Simon Mutschlechnerische</rs> Verlassenschafft zu <rs type="place" ref="#lothen">Lothen</rs></cell>
                      <cell>18¾ x</cell>
                   </row>
                   <row>
@@ -9967,7 +9967,7 @@
                      <cell>5 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Titl. Herr von Millstetterische Verlassenschafft von Goslbichl</cell>
+                     <cell>Titl. Herr von Millstetterische Verlassenschafft von <rs type="place" ref="#goslbichl">Goslbichl</rs></cell>
                      <cell>4 x</cell>
                   </row>
                   <row>
@@ -10001,7 +10001,7 @@
                      <cell>19 f 50 x</cell>
                   </row>
                   <row>
-                     <cell>Auer Hof in Millbach pro anno 1780 Geldt</cell>
+                     <cell>Auer Hof in <rs type="place" ref="#muehlbach">Millbach</rs> pro anno 1780 Geldt</cell>
                      <cell>2 f 0 x</cell>
                   </row>
                   <row>
@@ -10009,7 +10009,7 @@
                      <cell>1 f 30 x</cell>
                   </row>
                   <row>
-                     <cell>Johann Vidsoth ob Picolein von Jahr 1780 Geldt</cell>
+                     <cell>Johann Vidsoth ob <rs type="place" ref="#picolein">Picolein</rs> von Jahr 1780 Geldt</cell>
                      <cell>3 f 12 x</cell>
                   </row>
                   <row>
@@ -10022,11 +10022,11 @@
                      <cell>4 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Hanns Domenicus Plänätscher zu Soregä Geldt pro anno 1780 32 x weiterer Ausstandt 1778 et 1779 ab 2 Jahr 1 f 4 x</cell>
+                     <cell>Hanns Domenicus Plänätscher zu <rs type="place" ref="#sorega">Soregä</rs> Geldt pro anno 1780 32 x weiterer Ausstandt 1778 et 1779 ab 2 Jahr 1 f 4 x</cell>
                      <cell>1 f 36 x</cell>
                   </row>
                   <row>
-                     <cell>Das fürstliche Stifft Sonnenburg gibt disem Kaplaney Beneficio all jährlichen zu einem Beytrag 15 Stär Roggen à 52 x macht 13 f 0 x weiters fir die gnädig zugesagte Mahlgelder ab 11 Monath von Neü Jahr 1780 bis zum Tottfall geraith 27 f 30 x fir seit Neü Jahr 1780 bis zum Sterbfall 9 gröser gehaltenen Jahrtäg 2 f 0 x fir ordentlichen kleinern Jahrtäge samt Vigiliis et Patrociniis 11 f 52 x fir ordentliche Ablass Mesen und Psalieren 5 f 6 x von Egererischen</cell>
+                     <cell>Das fürstliche <rs type="place" ref="#stift_sonnenburg">Stifft Sonnenburg</rs> gibt disem Kaplaney Beneficio all jährlichen zu einem Beytrag 15 Stär Roggen à 52 x macht 13 f 0 x weiters fir die gnädig zugesagte Mahlgelder ab 11 Monath von Neü Jahr 1780 bis zum Tottfall geraith 27 f 30 x fir seit Neü Jahr 1780 bis zum Sterbfall 9 gröser gehaltenen Jahrtäg 2 f 0 x fir ordentlichen kleinern Jahrtäge samt Vigiliis et Patrociniis 11 f 52 x fir ordentliche Ablass Mesen und Psalieren 5 f 6 x von Egererischen</cell>
                      <cell/>
                   </row>
                   <row>
@@ -10044,13 +10044,13 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>Jahrtag 36 x und fir 5 Yh. Klausner Wein à 5 f 30 x thutt 27 f 30 x zusamen was das gnädige Stifft<note><p rend="footnote text"><hi rend="italic">Am linken Rand eingefügt.</hi></p></note> anhero zu vergüeten 87 f 34 x hat aber wegen etwas Jahren hero mehrfältig verrichten Fuehren laut
+                     <cell>Jahrtag 36 x und fir 5 Yh. Klausner Wein à 5 f 30 x thutt 27 f 30 x zusamen was das gnädige <rs type="place" ref="#stift_sonnenburg">Stifft</rs><note><p rend="footnote text"><hi rend="italic">Am linken Rand eingefügt.</hi></p></note> anhero zu vergüeten 87 f 34 x hat aber wegen etwas Jahren hero mehrfältig verrichten Fuehren laut
                      eingestelten Conto zu begehren 44 f 34<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> In der nächsten Zeile </hi>34 x<hi rend="italic" xml:space="preserve"> geschrieben und nur </hi>34 <hi rend="italic">wieder gestrichen.</hi></p></note> x und willen all jährlich zu
-                     entgelten habender Reparation 5 f 0 x macht der Abzug 49<note><p rend="footnote text"><hi rend="italic">Über Rasur geschrieben.</hi></p></note> f 34 x restriert also noch<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>das.</p></note> wohl ersagtes Stifft</cell>
+                     entgelten habender Reparation 5 f 0 x macht der Abzug 49<note><p rend="footnote text"><hi rend="italic">Über Rasur geschrieben.</hi></p></note> f 34 x restriert also noch<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>das.</p></note> wohl ersagtes <rs type="place" ref="#stift_sonnenburg">Stifft</rs></cell>
                      <cell>38 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Jakob nun Peter<note><p rend="footnote text"> nun Peter<hi rend="italic" xml:space="preserve"> am linken Rand eingefügt.</hi></p></note> Kanerätä zu Obvill ob Picolein pro anno 1780</cell>
+                     <cell>Jakob nun Peter<note><p rend="footnote text"> nun Peter<hi rend="italic" xml:space="preserve"> am linken Rand eingefügt.</hi></p></note> Kanerätä zu <rs type="place" ref="#obvill">Obvill</rs> ob <rs type="place" ref="#picolein">Picolein</rs> pro anno 1780</cell>
                      <cell>3 f 5½ x</cell>
                   </row>
                   <row>
@@ -10058,7 +10058,7 @@
                      <cell>26½ x</cell>
                   </row>
                   <row>
-                     <cell>Kristian Mutschlechner zu Steegen pro anno 1780 4 x und Ausstandt pro anno 1779 4 x</cell>
+                     <cell>Kristian Mutschlechner zu <rs type="place" ref="#stegen">Steegen</rs> pro anno 1780 4 x und Ausstandt pro anno 1779 4 x</cell>
                      <cell>8 x</cell>
                   </row>
                </table>
@@ -10073,7 +10073,7 @@
                      <cell>20 f 0 x</cell>
                   </row>
                   <row>
-                     <cell>Peter Hueber Miller in Millbüchl</cell>
+                     <cell>Peter Hueber Miller in <rs type="place" ref="#muehlbach_bei_gais">Millbüchl</rs></cell>
                      <cell>18 f 0 x</cell>
                   </row>
                   <row>
@@ -10091,7 +10091,7 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>Joseph Klamer Klampperer zu St. Martin</cell>
+                     <cell>Joseph Klamer Klampperer zu <rs type="place" ref="#st_martin">St. Martin</rs></cell>
                      <cell>10 f 0 x</cell>
                   </row>
                   <row>
@@ -10105,11 +10105,11 @@
                   <row>
                      <cell>
                         <p>Die Jungfrau Häuserin Ursula Niderwangerin hat wehrenden Kranksein des geistlichen Herrn Tschöggeles, und hinach post mortem wohl deselben von zerschidenen <unclear>Clehiten</unclear> an Geldt eingenommen,</p>
-                        <p>als von Mathes Mayr zu Sonnenburg in Glurnhör 31 x</p>
-                        <p>von Stocker zu Vassing Franz Gatterer 33 x</p>
+                        <p>als von Mathes Mayr zu <rs type="place" ref="#soneburg">Sonnenburg</rs> in <rs type="place" ref="#glurnhor_hebenstreit">Glurnhör</rs> 31 x</p>
+                        <p>von Stocker zu <rs type="place" ref="#fassing">Vassing</rs> Franz Gatterer 33 x</p>
                         <p>von Pargger Miller einschlüesslich des Rests pro anno 1779 1 f 40 x</p>
-                        <p>von Michael Steürer Millermeister an der Pfarr Ollang 1 f 2 x</p>
-                        <p>von Hausstettern zu Stöphansdorf 46½ x</p>
+                        <p>von Michael Steürer Millermeister an der Pfarr <rs type="place" ref="#niederolang">Ollang</rs> 1 f 2 x</p>
+                        <p>von Hausstettern zu <rs type="place" ref="#stephansdorf">Stöphansdorf</rs> 46½ x</p>
                         <p>von Ätte-</p>
                      </cell>
                      <cell/>
@@ -10125,12 +10125,12 @@
                <table rend="rules">
                   <row>
                      <cell>
-                        <p>ler zu Uttenheim 1 f 12 x</p>
+                        <p>ler zu <rs type="place" ref="#uttenheim">Uttenheim</rs> 1 f 12 x</p>
                         <p>von Jakob Acherer von sogenanten Kränebiter Haus 36 x</p>
                         <p>von Hortmiller Joseph Stainer 6 x</p>
                         <p>von Auer Miller Joseph Planer 10 f</p>
                         <p>und von Hanns Mutschlechner dortselbs von Ängerle bey der Beneficial Behausung 6<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Davor gestrichen </hi>1.</p></note> f 0 x</p>
-                        <p>von Simon Nidermayr Pichler zu Stöphansdorf 33 f<note><p rend="footnote text"><hi rend="italic">Gesamter Eintrag samt Betrag am linken Rand eingefügt.</hi></p></note></p>
+                        <p>von Simon Nidermayr Pichler zu <rs type="place" ref="#stephansdorf">Stöphansdorf</rs> 33 f<note><p rend="footnote text"><hi rend="italic">Gesamter Eintrag samt Betrag am linken Rand eingefügt.</hi></p></note></p>
                         <p>Macht diser Einnam</p>
                      </cell>
                      <cell>55 f 26 x</cell>
@@ -10140,7 +10140,7 @@
                         <p>Von solchen wurden bezalt aus Hand titl. Herrn Johann Joseph Turneretscher Hofamtmanns als dern Erben bestelten Vertrettern<note><p rend="footnote text"> aus Hand titl. Herrn Johann Joseph Turneretscher Hofamtmanns als dern Erben bestelten Vertrettern<hi rend="italic" xml:space="preserve"> am linken Rand eingefügt.</hi></p></note></p>
                         <p>dem geistlichen Herrn Supernumerario<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>aus.</p></note> Johannes<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>fir vahende.</p></note> Zäch 6 f</p>
                         <p>dann fir<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>leicht.</p></note> 8 Leichtrager samt was dabei sag Conto der Aichholzerin 8 f 5 x</p>
-                        <p>und fir der Fuhr von Gschlierer hinter Saalen abhollen gelasenen 1 Stär Roggen und 1 Stär Gersten 7 x</p>
+                        <p>und fir der Fuhr von Gschlierer hinter <rs type="place" ref="#saalen">Saalen</rs> abhollen gelasenen 1 Stär Roggen und 1 Stär Gersten 7 x</p>
                         <p>Betragt solcher Hindanfall 14 f 12 x, erscheint also noch überling, so titl. Herr Hofamtmann als Vertrettern dern sich legitimierenden Erben von der Ursula Niderwangerin<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>be-.</p></note> ausgehändiget<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>worden.</p></note> und alda per Vermägen getragen werden</p>
                      </cell>
                      <cell>41 f 14½ x</cell>
@@ -10208,12 +10208,12 @@
                   </row>
                   <row>
                      <cell>No 3: v</cell>
-                     <cell>Martin Hilber Schmid in Pflaurenz Sagconto</cell>
+                     <cell>Martin Hilber Schmid in <rs type="place" ref="#pflaurenz">Pflaurenz</rs> Sagconto</cell>
                      <cell>2 f 7 x</cell>
                   </row>
                   <row>
                      <cell>No 4: v</cell>
-                     <cell>Martin Fräs Radermeister in Pflaurenz</cell>
+                     <cell>Martin Fräs Radermeister in <rs type="place" ref="#pflaurenz">Pflaurenz</rs></cell>
                      <cell>4 f 9 x</cell>
                   </row>
                   <row>
@@ -10229,7 +10229,7 @@
                            <p rend="footnote text">
                               <hi rend="italic">Kürzungsstrich versehentlich auf zweitem</hi> -n- <hi rend="italic">statt</hi> -m- <hi rend="italic">gesetzt.</hi>
                            </p>
-                        </note> Amt, so Ihro Hochwürden und Gnaden Herrn Herrn Dechandt und Pfarrherrn zu Brunegg das Geldt<note><p rend="footnote text"> das Geldt <hi rend="italic" xml:space="preserve">nachträglich eingefügt, </hi>Geldt<hi rend="italic" xml:space="preserve"> am linken Rand.</hi></p></note> ausgehändiget worden</cell>
+                        </note> Amt, so Ihro Hochwürden und Gnaden Herrn Herrn Dechandt und Pfarrherrn zu <rs type="place" ref="#brunegg">Brunegg</rs> das Geldt<note><p rend="footnote text"> das Geldt <hi rend="italic" xml:space="preserve">nachträglich eingefügt, </hi>Geldt<hi rend="italic" xml:space="preserve"> am linken Rand.</hi></p></note> ausgehändiget worden</cell>
                      <cell>17 f 33 x</cell>
                   </row>
                   <row>
@@ -10244,12 +10244,12 @@
                   </row>
                   <row>
                      <cell>No 8: v</cell>
-                     <cell>Titl. Herr Johann Anton Vestner Statt Physico zu Brunegg</cell>
+                     <cell>Titl. Herr Johann Anton Vestner Statt Physico zu <rs type="place" ref="#brunegg">Brunegg</rs></cell>
                      <cell>1 f 12 x</cell>
                   </row>
                   <row>
                      <cell>No 9: v</cell>
-                     <cell>Herrn Franz Xaveri Kipperer als Kirchprobsten zu Brunegg fir der armen Seelen Bruederschafft</cell>
+                     <cell>Herrn Franz Xaveri Kipperer als Kirchprobsten zu <rs type="place" ref="#brunegg">Brunegg</rs> fir der armen Seelen Bruederschafft</cell>
                      <cell>52 x</cell>
                   </row>
                   <row>
@@ -10264,12 +10264,12 @@
                <table rend="rules">
                   <row>
                      <cell>v</cell>
-                     <cell>Quidecimal Steür zu Handen Ihro Hochwürden und Gnaden Herrn Herrn Dechandt zu Brunegg in Cameral Patent ist zalt worden<note><p rend="footnote text"> zu Handen Ihro Hochwürden und Gnaden Herrn Herrn Dechandt zu Brunegg in Cameral Patent ist zalt worden<hi rend="italic" xml:space="preserve"> am linken Rand eingefügt statt gestrichenem </hi>Ihro Hochwürden.</p></note></cell>
+                     <cell>Quidecimal Steür zu Handen Ihro Hochwürden und Gnaden Herrn Herrn Dechandt zu <rs type="place" ref="#brunegg">Brunegg</rs> in Cameral Patent ist zalt worden<note><p rend="footnote text"> zu Handen Ihro Hochwürden und Gnaden Herrn Herrn Dechandt zu Brunegg in Cameral Patent ist zalt worden<hi rend="italic" xml:space="preserve"> am linken Rand eingefügt statt gestrichenem </hi>Ihro Hochwürden.</p></note></cell>
                      <cell>1 f 0 x</cell>
                   </row>
                   <row>
                      <cell>No 10: v</cell>
-                     <cell>Dem Mesner bey St. Martin Joseph Klamer Klampperer Besoldung<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>a-.</p></note> von 1 Jahr</cell>
+                     <cell>Dem Mesner bey <rs type="place" ref="#st_martin">St. Martin</rs> Joseph Klamer Klampperer Besoldung<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>a-.</p></note> von 1 Jahr</cell>
                      <cell>5 f 0 x</cell>
                   </row>
                   <row>
@@ -10305,12 +10305,12 @@
                            <p rend="footnote text">
                               <hi rend="italic">Links vom Text nachgetragen.</hi>
                            </p>
-                        </note> bey denen P. P. Capucinern zu Brunegg andergleichen</cell>
+                        </note> bey denen <rs type="place" ref="#brunegg_kappuziner">P. P. Capucinern zu Brunegg</rs> andergleichen</cell>
                      <cell>20 f 0 x</cell>
                   </row>
                   <row>
                      <cell>v</cell>
-                     <cell>Ittem denen Haus Armen zu Sonnenburg und St. Martin zum Tag des 30ist Heiligen Gottesdenst zu einen Allmosen auszutheillen</cell>
+                     <cell>Ittem denen Haus Armen zu <rs type="place" ref="#soneburg">Sonnenburg</rs> und <rs type="place" ref="#st_martin">St. Martin</rs> zum Tag des 30ist Heiligen Gottesdenst zu einen Allmosen auszutheillen</cell>
                      <cell>30 f 0 x</cell>
                   </row>
                   <row>
@@ -10332,17 +10332,17 @@
                <table rend="rules">
                   <row>
                      <cell>v</cell>
-                     <cell>bene und taxierte Krippen wurde vermacht denen hochwürdigen Convent Frauen zu Sonnenburg in Tax per</cell>
+                     <cell>bene und taxierte Krippen wurde vermacht denen hochwürdigen Convent Frauen zu <rs type="place" ref="#stift_sonnenburg">Sonnenburg</rs> in Tax per</cell>
                      <cell>19 f 24 x</cell>
                   </row>
                   <row>
                      <cell>v</cell>
-                     <cell>Die zwo neüe Kamod Kasten dem Stiffts Gottshaus zu Sonnenburg zum Aufbehalt der Kirchen Paramenten, so taxieret worden per</cell>
+                     <cell>Die zwo neüe Kamod Kasten dem <rs type="place" ref="#stift_sonnenburg">Stiffts Gottshaus zu Sonnenburg</rs> zum Aufbehalt der Kirchen Paramenten, so taxieret worden per</cell>
                      <cell>11 f 0 x</cell>
                   </row>
                   <row>
                      <cell>v</cell>
-                     <cell>Der Heiligen Kreiz Kirchen auf der Franewisen 4 zinnen Tafl<note>
+                     <cell>Der <rs type="place" ref="#heiligkreuz_franewiese">Heiligen Kreiz Kirchen auf der Franewisen</rs> 4 zinnen Tafl<note>
                            <p rend="footnote text">
                               <hi rend="italic">Am linken Rand eingefügt.</hi>
                            </p>
@@ -10433,7 +10433,7 @@
                <table rend="rules">
                   <row>
                      <cell/>
-                     <cell>Herrn Johann Gampper gewesten Junckmeister zu Brunegg nunmehro Orgänisten zu Sillian wurde
+                     <cell>Herrn Johann Gampper gewesten Junckmeister zu <rs type="place" ref="#brunegg">Brunegg</rs> nunmehro Orgänisten zu <rs type="place" ref="#sillian">Sillian</rs> wurde
                        ebnermassen<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Zwischen </hi>ebner-<hi rend="italic" xml:space="preserve"> und </hi>-massen<hi rend="italic" xml:space="preserve"> gestrichen </hi>-mei-.</p></note> laut vorallegierten Testament vertestieret
                        das ad Inventarium beschribene Orgeln mit 15 f welche<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>ald-<hi rend="italic" xml:space="preserve"> mit eingefügtem </hi>-l-.</p></note> alda abzusezen seind id est</cell>
                      <cell>15 f 0 x</cell>
@@ -10458,7 +10458,7 @@
                      <cell>1000 f 0 x</cell>
                   </row>
                </table>
-               <p>Also ergänzt zu Sonnenburg in hofrichterlichen Amts Behausung den 14. Merzen 1781.</p>
+               <p>Also ergänzt zu <rs type="place" ref="#soneburg">Sonnenburg</rs> in hofrichterlichen Amts Behausung den <date when="1781-03-14">14. Merzen 1781</date>.</p>
                <p>Vor- und zugegen auch Actuante ut ante.</p>
             </div>
             <div>
@@ -10471,7 +10471,7 @@
                <p>
                   <pb n="Titel verso"/>
                </p>
-               <p>Angefangen den 1. May 1781<note>
+               <p>Angefangen den <date when="1781-05-01">1. May 1781</date><note>
                      <p rend="footnote text">
                         <hi rend="italic">War ein Dienstag.</hi>
                      </p>
