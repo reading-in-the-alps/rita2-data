@@ -1689,7 +1689,7 @@
                   <cell>36 f 32 x</cell>
                </row>
                <row>
-                  <cell>Der Kapploney daselbs</cell>
+                  <cell>Der <rs type="place" ref="#st_georgen_kirche">Kapploney daselbs</rs></cell>
                   <cell>24 f 0 x</cell>
                </row>
                <row>
@@ -1743,7 +1743,7 @@
                   <cell>100 f 0 x</cell>
                </row>
                <row>
-                  <cell>Der <rs type="place" ref="#st_georgen_kirche">Kapploney</rs> daselbs gegen abhalten lassenden ewigen Jahrtag</cell>
+                  <cell>Der <rs type="place" ref="#st_georgen_kirche">Kapploney daselbs</rs> gegen abhalten lassenden ewigen Jahrtag</cell>
                   <cell>100 f 0 x</cell>
                </row>
                <row>

@@ -24,7 +24,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <msDesc type="invetory">
+            <msDesc type="inventory">
                <msIdentifier>
                   <institution>Südtiroler Landesarchiv (SLA)</institution>
                   <repository>Verfachbuch St. Michaelsburg 1798</repository>
@@ -62,17 +62,17 @@
             </p>
             <p>In Namen der allerheiligsten Dreyfaltigkeit Gottes Vaters, des Sohns und des Heiligen Geistes Amen.</p>
             <p>Nachdem ich <rs type="person" ref="#lechner_georg">Georg Lechner</rs> Priester, und Localcaplan zu <rs type="place" ref="#dietenheim">Diethenheim</rs>, in meinem zimlich hochen Alter, immer mit Kranckheiten von Gott heimgesuchet werde, so habe mich entschlossen folgende meine leze Willens Mainung zu verfassen, und zu erklären. Zum Bericht zeuge an, dass ich kein ererbtes Vermögen habe, was ich aber gesohnen, und erübriget, bestehet in weniger Baarschaft, etwas Silber Geschmeid, <bibl>Birchern</bibl>, gewise Mobilien, und Haus Rath, wie auch 100 f sage hundert Gulden anligendes Capital. Hiezu ist mein ungezweifelter einziger Erb (ab intestato) mein leiblicher Bruder <rs type="person" ref="#lechner_johan_babtist">Johan Babtist Lechner</rs>, ledigen Stands, für welchen ich aber eine weltliche Obrigkeit bitte für diesen armseligen Menschen der seiner nicht fächig ist, und das wenige Vermögen selbs nicht besorgen kann, eine gute sorgfältige Vorsorge zu treffen. Schulden hinaus habe keine, verlange aber das von diesen meinen Vermögen folgende Legata genauist sollen praestiert werden.</p>
-            <p>1mo verlange auf mein Absterben die <hi rend="strikethrough">Gott</hi> Bestatnis meines Körpers auf eine für einen Priester anständige Weise mit 6 Ämtern und einen Jahrtag.</p>
+            <p>1mo verlange auf mein Absterben die<note><p rend="footnote text"><hi rend="italic"> Folgt gestrichen </hi>Gott.</p></note> Bestatnis meines Körpers auf eine für einen Priester anständige Weise mit 6 Ämtern und einen Jahrtag.</p>
             <p>2do sollen für meine abgeschidene Seele um 50 f sage fünfzig Gulden Heilige Messen gelessen werden eine a 30 x, wovon die Helfte dennen P. P. Cappucinern in <rs type="place" ref="#brunegg">Bruneck</rs>, die Helfte aber andern Priestern zur baldigen Abfertigung ohne Verweilung sollen gegeben werden.</p>
             <p>
                <pb n="208v"/>
             </p>
             <p>3tio schencke denen P. P. Cappucinern in <rs type="place" ref="#brunegg">Bruneck</rs> für geleistete Dienste, und gehabte Mühe Almosen dreysig Gulden.</p>
             <p>4to: Denen Frauen Ursulinern in <rs type="place" ref="#brunegg">Bruneck</rs> zechen Gulden.</p>
-            <p>5to: Denen Armen zu <rs type="place" ref="#dietenheim">Diethenheim</rs>, und Luns zechen Gulden wovon aber den alten Muz einen armen Mann in <rs type="place" ref="#dietenheim">Diethenheim</rs> ein Species Thaler alein zu geben ist.</p>
+            <p>5to: Denen Armen zu <rs type="place" ref="#dietenheim">Diethenheim</rs>, und <rs type="place" ref="#luns">Luns</rs> zechen Gulden wovon aber den alten Muz einen armen Mann in <rs type="place" ref="#dietenheim">Diethenheim</rs> ein Species Thaler alein zu geben ist.</p>
             <p>6to: Meiner Dienst Magdt <rs type="person" ref="#burger_gertraud">Gertraud Burgerin</rs> in Rücksicht ihrer treu geleisteten Dienste, und besonders in meinen schon lang währigen Unbeslichkeiten geleisteten Liebe, vermache hundert Gulden, und den ganzen Lohn des laufenden Jahrs, samt den Gewandkasten.</p>
-            <p>7timo: Den armen <rs type="person" ref="#weisel_vincenz">Weisel Vincenz</rs>, welchen ich bisher in meinen Widum uns Erbarmnis behalten habe, verschaffe zu Erlehrnung einer Handthierung, weil er doch zum Studieren nicht scheinet tauglich zu sein dreysig Gulden, welches Geld aber nicht in den Händen der Mutter sollen gegeben werden. Soll er aber vor Erlehrnung einer Handthierung sterben so sollen diese dreysig Gulden für mein Seelen Heil mit Heiligen Messen verwendet werden.</p>
-            <p>8t[a]vo: Der löblichen St. Jacobs Kirchen in <rs type="place" ref="#dietenheim">Diethenheim</rs> schencke mein ligendes Kriskindlein, die 4 Piramider mit Gold Schneid Arbeit geziehret, die 4 grösseren, und 8 kleinern saubern Buschen Stöck</p>
+            <p>7timo: Den armen <rs type="person" ref="#weisel_vincenz">Weisel Vincenz</rs>, welchen ich bisher in meinen <rs type="place" ref="#dietenheim_jakob">Widum</rs> uns Erbarmnis behalten habe, verschaffe zu Erlehrnung einer Handthierung, weil er doch zum Studieren nicht scheinet tauglich zu sein dreysig Gulden, welches Geld aber nicht in den Händen der Mutter sollen gegeben werden. Soll er aber vor Erlehrnung einer Handthierung sterben so sollen diese dreysig Gulden für mein Seelen Heil mit Heiligen Messen verwendet werden.</p>
+            <p>8t[a]vo: Der löblichen <rs type="place" ref="#dietenheim_jakob">St. Jacobs Kirchen</rs> in <rs type="place" ref="#dietenheim">Diethenheim</rs> schencke mein ligendes Kriskindlein, die 4 Piramider mit Gold Schneid Arbeit geziehret, die 4 grösseren, und 8 kleinern saubern Buschen Stöck</p>
             <p>
                <pb n="209r"/>
             </p>
@@ -94,11 +94,11 @@
                <pb n="213v"/>
             </p>
             <p>[Rubrum:] 1797. Sperr Protokoll</p>
-            <p>So auf Absterben des hochwürdigen Herrn <rs type="person" ref="#lechner_georg">Georg Lechner</rs> k.k. Lokalkaplaney zu <rs type="place" ref="#dietenheim">Diettenhein</rs>, in den Kapplaney Wiedum instehend errichtet worden.</p>
+            <p>So auf Absterben des hochwürdigen Herrn <rs type="person" ref="#lechner_georg">Georg Lechner</rs> k.k. Lokalkaplaney zu <rs type="place" ref="#dietenheim">Diettenhein</rs>, in den <rs type="place" ref="#dietenheim_jakob">Kapplaney Wiedum</rs> instehend errichtet worden.</p>
             <p>
                <pb n="210r"/>
             </p>
-            <p>Actum <rs type="place" ref="#dietenheim">Diettenheim</rs> in dem k.k. Lokal Kaplaney Widum den <date when="1797-12-26">26t. December 1797</date>
+            <p>Actum <rs type="place" ref="#dietenheim">Diettenheim</rs> in dem <rs type="place" ref="#dietenheim_jakob">k.k. Lokal Kaplaney Widum</rs> den <date when="1797-12-26">26t. December 1797</date>
                 </p>
             <p>Aus Verordnung loblicher Landgerichtsobrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>
                 </p>
@@ -178,7 +178,7 @@
             <p>
                <pb n="212v"/>
             </p>
-            <p>als sich einzig meldender Erbe sich eben auch dermalen allda in den Lokal Kaplaney Widum einfindet.</p>
+            <p>als sich einzig meldender Erbe sich eben auch dermalen allda in den Lokal <rs type="place" ref="#dietenheim_jakob">Kaplaney Widum</rs> einfindet.</p>
             <p>Zur Bestettigung dessen folget die allseitige Fertigung des Protokolls.</p>
             <p>[eigenhändige Unterschrift:] <rs type="person" ref="#von_hebenstreit_johann_nepomuck">Johann Nepomuck v. Hebenstreit</rs> Priester</p>
             <p>[eigenhändige Unterschrift:] <rs type="person" ref="#rogen_johann_michael">Johann Michael Rogen</rs> m.p.</p>
@@ -192,10 +192,10 @@
             <p>[Kanzleivermerk:] Exped. 1 Abschrift v. der Inventur, und Handlung.</p>
                <pb n="214r"/>
 
-            <p>Actum <rs type="place" ref="#dietenheim">Dietenheim</rs> in dem Lokal Widum den <date when="1798-01-19">19ten Jänner 1798</date>.</p>
+            <p>Actum <rs type="place" ref="#dietenheim">Dietenheim</rs> in dem Lokal <rs type="place" ref="#dietenheim_jakob">Widum</rs> den <date when="1798-01-19">19ten Jänner 1798</date>.</p>
             <p>Vor loblicher Landgerichts Obrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>.</p>
             <p>Zugegen Herr <rs type="person" ref="#rogen_johann_michael">Johann Michael Rogen</rs> Gerichts Ausschus zu <rs type="place" ref="#dietenheim">Dietenheim</rs>, und <rs type="person" ref="#strasser_johan">Johann Strasser</rs> Mesner daselbs.</p>
-            <p>Den <date when="1797-12-25">25ten December abgewichnen Jahrs</date> verableibte der hochehrwirdige Herr <rs type="person" ref="#lechner_georg">Georg Lechner</rs> gewester Beneficiat des aufgelassenen Stifts Soneburg zu <rs type="place" ref="#st_martin">St. Martin</rs>, und Lokalkaplan zu <rs type="place" ref="#dietenheim">Dietenheim</rs>. Auf beschehene Anzeüge solchen Todtfals<note>
+            <p>Den <date when="1797-12-25">25ten December abgewichnen Jahrs</date> verableibte der hochehrwirdige Herr <rs type="person" ref="#lechner_georg">Georg Lechner</rs> gewester Beneficiat des aufgelassenen <rs type="place" ref="#stift_sonnenburg">Stifts Soneburg</rs> zu <rs type="place" ref="#st_martin">St. Martin</rs>, und Lokalkaplan zu <rs type="place" ref="#dietenheim">Dietenheim</rs>. Auf beschehene Anzeüge solchen Todtfals<note>
                   <p rend="footnote text">
                      <hi rend="italic"> Folgt durch Strichlierung unter der Zeile gestrichenes </hi>wurde.
                   </p>
@@ -208,7 +208,7 @@
                     <rs type="person" ref="#lechner_johan_babtist">Johann Babtista Lechner</rs><note><p rend="footnote text"> Johann<hi rend="italic" xml:space="preserve"> auf vorheriger Seite geschrieben.</hi></p></note>, den er auch zu sich genomen, und unterhielte, weil der selbe nicht im Stande war, sich selbst das Brod zu verdienen. Zu einen Vertröter und Kuratore desselben, liese sich titl. etc. Herr Gubernial Rath <rs type="person" ref="#von_groebner_joseph_anton">Joseph Anton v. Gröbner</rs> gebrauchen. Da dan der Universal Erb mit einen Kuratore versechen, so wurde des Herrn Ableibers untern <date when="1797-12-01">1ten December 1797</date> errichte Testament der Ordnung gemas erwitteret.</p>
             <p>Facta Publicatione</p>
             <p>Titl. der <rs type="person" ref="#lechner_johan_babtist">Johan Babtista Lechnerische</rs> Herr Herr <rs type="person" ref="#von_groebner_joseph_anton">Kurator</rs> bedanket sich willen Eröfnung des Testaments, und bittet seinen Curanden darbey zu manutenieren, und mit der Inventur fürzuschreiten.</p>
-            <p>Weil dann das Beneficium von <rs type="place" ref="#st_martin">St. Martin</rs> nach <rs type="place" ref="#dietenheim">Dietenheim</rs> trasverieret worden ist, und Herr Kaplan sel. auch die Rechten von dem aufgelassnen Stift bezohen hat, als wurde wegen allenfalls habenden Einflus des aufgelassnen Stifts titl. Herr Rentamtmann und Hof Richter zu <rs type="place" ref="#soneburg">Soneburg</rs> <rs type="person" ref="#von_zaun">von Zaun</rs> hierzu fürgeladen, so auch beygekomen, dahero wurde nach recognosciert und unbedencklich befundener Secretur geschriten zu folgender</p>
+            <p>Weil dann das Beneficium von <rs type="place" ref="#st_martin">St. Martin</rs> nach <rs type="place" ref="#dietenheim">Dietenheim</rs> trasverieret worden ist, und Herr Kaplan sel. auch die Rechten von dem <rs type="place" ref="#stift_sonnenburg">aufgelassnen Stift</rs> bezohen hat, als wurde wegen allenfalls habenden Einflus des <rs type="place" ref="#stift_sonnenburg">aufgelassnen Stifts</rs> titl. Herr Rentamtmann und Hof Richter zu <rs type="place" ref="#soneburg">Soneburg</rs> <rs type="person" ref="#von_zaun">von Zaun</rs> hierzu fürgeladen, so auch beygekomen, dahero wurde nach recognosciert und unbedencklich befundener Secretur geschriten zu folgender</p>
             <p>Inventur</p>
             <p>Und zwar anfänglich in dem</p>
             <p>
@@ -755,7 +755,7 @@
                   <cell>130 [f] 30 [x]</cell>
                </row>
             </table>
-            <p>Diese Sachen hat Ableiber loblichem Gottshaus vermacht</p>
+            <p>Diese Sachen hat Ableiber <rs type="place" ref="#dietenheim_jakob">loblichem Gottshaus</rs> vermacht</p>
             <table rend="rules">
                <row>
                   <cell>6 Sössl mit Gais Fües a 24 x</cell>
@@ -1770,7 +1770,7 @@
             </table>
             <table rend="rules">
                <row>
-                  <cell>Summa der Inventur, sovielen Auswurf hat, und mit jenen Sachen, so Herr Ableiber dem Gottshaus zu Dietenheim vermacht, und hievor ad marginem mit 130 f 30 x in Anschlag gebracht worden</cell>
+                  <cell>Summa der Inventur, sovielen Auswurf hat, und mit jenen Sachen, so Herr Ableiber dem <rs type="place" ref="#dietenheim_jakob">Gottshaus</rs> zu <rs type="place" ref="#dietenheim">Dietenheim</rs> vermacht, und hievor ad marginem mit 130 f 30 x in Anschlag gebracht worden</cell>
                   <cell>[456 f 42 x]<note>
                         <p rend="footnote text">
                            <hi rend="italic">Nebenrechnung am linken Rand:</hi> 326 f 12 [x] + 130 [f] 30 [x] = 456 [f] 42[x].</p>
@@ -1891,7 +1891,7 @@
             <p>An Bachtzins von Haus und Gütteren</p>
             <table rend="rules">
                <row>
-                  <cell>Titl. Herr Kreis Schul Komisär <rs type="person" ref="#von_batig_">v. Batig</rs> ist wegen genossnen Kapplanei Haus zu <rs type="place" ref="#st_martin">St. Martin</rs> an Mietzins Ratum herein und zwar von bis zum Todt von ganzen Jahr 33 f, so aber ganz bezahlet und unter die Baarschaft befindlich
+                  <cell>Titl. Herr Kreis Schul Komisär <rs type="person" ref="#von_batig_">v. Batig</rs> ist wegen genossnen <rs type="place" ref="#st_martin_kaplanei">Kapplanei Haus</rs> zu <rs type="place" ref="#st_martin">St. Martin</rs> an Mietzins Ratum herein und zwar von bis zum Todt von ganzen Jahr 33 f, so aber ganz bezahlet und unter die Baarschaft befindlich
                   seyn solle.<note><p rend="footnote text"> so aber ganz bezahlet und unter die Baarschaft befindlich seyn solle<hi rend="italic" xml:space="preserve"> von anderer Hand nachgetragen.</hi></p></note></cell>
                   <cell/>
                </row>
@@ -1930,7 +1930,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>Die Kinder des gewesten Mayr zu Grasstain zu zahlen um willen eines Angerl unter Schwarzhörn v. 2 Tagmad</cell>
+                  <cell>Die Kinder des gewesten Mayr zu Grasstain zu Gasteig zahlen um willen eines Angerl unter Schwarzhörn v. 2 Tagmad</cell>
                   <cell>11 f 0 x</cell>
                </row>
                <row>
@@ -1938,7 +1938,7 @@
                   <cell>15 f 0 x</cell>
                </row>
                <row>
-                  <cell><rs type="person" ref="#lechner_johann">Johann Lechner</rs> Wolleschlager daselbs von einen Angerl nächst der Kirche bey <rs type="place" ref="#st_martin">St. Martin</rs> und das Ängerl bey dem Beneficiaten Haus</cell>
+                  <cell><rs type="person" ref="#lechner_johann">Johann Lechner</rs> Wolleschlager daselbs von einen Angerl nächst der <rs type="place" ref="#st_martin_kaplanei">Kirche</rs> bey <rs type="place" ref="#st_martin">St. Martin</rs> und das Ängerl bey dem <rs type="place" ref="#st_martin_kaplanei">Beneficiaten Haus</rs></cell>
                   <cell>28 f 0 x</cell>
                </row>
             </table>
@@ -1951,7 +1951,8 @@
             <p>
                <pb n="228v"/>
             </p>
-            <p>stälten Kurator <rs type="person" ref="#strasser_johan">Strasser</rs> zur getreyen, und richtigen Betreibung gegen deme übergeben, das solche seiner Zeit getreylich dem Universal Erb verrechnet, und sodann zum Vermögen refundieret werden, worunter auch die Posten von dem Köfelegut zu <rs type="place" ref="#st_martin">St. Martin</rs> in <rs type="place" ref="#muehlbach">Mihlbächl</rs>, und zwar von dem dermaligen Häuslerischen Eheleithen daselbs mit jährlich betrofenden 3 Stär Roggen einschlüsslich von Jahr 1787 (von welcher Zeit der jetztige Häusler <rs type="person" ref="#mutschlechner_johann">Johann Mutschlechner</rs> nicht mehr bezahlet) begrifen ist; welche Posten vielmehr titl. Herr <rs type="person" ref="#von_gall_">v. Gall</rs> in <rs type="place" ref="#brunegg">Brunegg</rs> zu bezahlen die Verbündlichkeit haben därfte, weil urspringlich diese Abgabe an das Stift Soneburg auf wohlselben beruhete, und erst in der Zeitfolge von wohl selben einem jeweiligen Köfeler in <rs type="place" ref="#muehlbach">Mihlbächl</rs> gegen Geschweigung wohl seines zu beziehenden Grundtzinses diese Abgabe an das Stift mitlst mündlichen, oder stilschweigenden Einverständnus auferladen wurde, westwegen diese, und</p>
+            <p>stälten Kurator <rs type="person" ref="#strasser_johan">Strasser</rs> zur getreyen, und richtigen Betreibung gegen deme übergeben, das solche seiner Zeit getreylich dem Universal Erb verrechnet, und sodann zum Vermögen refundieret werden, worunter auch die Posten von dem Köfelegut zu <rs type="place" ref="#st_martin">St. Martin</rs> in <rs type="place" ref="#muehlbach">Mihlbächl</rs>, und zwar von dem dermaligen Häuslerischen Eheleithen daselbs mit jährlich betrofenden 3 Stär Roggen einschlüsslich von Jahr 1787 (von welcher Zeit der jetztige Häusler <rs type="person" ref="#mutschlechner_johann">Johann Mutschlechner</rs> nicht mehr bezahlet) begrifen ist;
+            welche Posten vielmehr titl. Herr <rs type="person" ref="#von_gall_">v. Gall</rs> in <rs type="place" ref="#brunegg">Brunegg</rs> zu bezahlen die Verbündlichkeit haben därfte, weil urspringlich diese Abgabe an das Stift Soneburg auf wohlselben beruhete, und erst in der Zeitfolge von wohl selben einem jeweiligen Köfeler in <rs type="place" ref="#muehlbach">Mihlbächl</rs> gegen Geschweigung wohl seines zu beziehenden Grundtzinses diese Abgabe an das <rs type="place" ref="#stift_sonnenburg">Stift</rs> mitlst mündlichen, oder stilschweigenden Einverständnus auferladen wurde, westwegen diese, und</p>
             <p>
                <pb n="229r"/>
             </p>
@@ -1980,19 +1981,19 @@
                   <cell>12 f 0 x</cell>
                </row>
                <row>
-                  <cell>Weiters hat Herr Ableiber zu Lesung Heiliger Messen zur Helfte denen P. Capucinern in <rs type="place" ref="#brunegg">Brunegg</rs>, zur anderen Helfte aber anderweiten Priestern legieret pr Mess à 30 x</cell>
+                  <cell>Weiters hat Herr Ableiber zu Lesung Heiliger Messen zur Helfte denen <rs type="place" ref="#brunegg_kappuziner">P. Capucinern</rs> in <rs type="place" ref="#brunegg">Brunegg</rs>, zur anderen Helfte aber anderweiten Priestern legieret pr Mess à 30 x</cell>
                   <cell>50 f 0 x</cell>
                </row>
                <row>
-                  <cell>Weiters denen P. Capuciern [sic!] dortselbs zu Abreichung eines Allmosen</cell>
+                  <cell>Weiters denen <rs type="place" ref="#brunegg_kappuziner">P. Capuciern</rs> [sic!] dortselbs zu Abreichung eines Allmosen</cell>
                   <cell>30 f 0 x</cell>
                </row>
                <row>
-                  <cell>Denen Frauen Ursulinerkloster zu <rs type="place" ref="#brunegg">Brunegg</rs> per modus eines Allmosen</cell>
+                  <cell>Denen Frauen <rs type="place" ref="#brunegg_ursulinen">Ursulinerkloster</rs> zu <rs type="place" ref="#brunegg">Brunegg</rs> per modus eines Allmosen</cell>
                   <cell>10 f 0 x</cell>
                </row>
                <row>
-                  <cell>Denen Armen der Gemeinde <rs type="place" ref="#dietenheim">Dietenheim</rs> und Luns an Allmosen</cell>
+                  <cell>Denen Armen der Gemeinde <rs type="place" ref="#dietenheim">Dietenheim</rs> und <rs type="place" ref="#luns">Luns</rs> an Allmosen</cell>
                   <cell>10 f 0 x</cell>
                </row>
                <row>
@@ -2017,7 +2018,7 @@
                   <cell>30 f 0 x</cell>
                </row>
                <row>
-                  <cell>Der loblichen St. Jacobs Kirche in <rs type="place" ref="#dietenheim">Dietenheim</rs> (bei welcher Herr Ableiber die Seelsorge ausgeübet) wurde vermacht das liegende Kristkindl, die 4 mit Goldschneid Arbeith gezierten Piramiden die 4 grösseren und 8 kleinere Buschen Stöcke, dann der gebluemte Paltekin.</cell>
+                  <cell>Der loblichen <rs type="place" ref="#dietenheim_jakob">St. Jacobs Kirche</rs> in <rs type="place" ref="#dietenheim">Dietenheim</rs> (bei welcher Herr Ableiber die Seelsorge ausgeübet) wurde vermacht das liegende Kristkindl, die 4 mit Goldschneid Arbeith gezierten Piramiden die 4 grösseren und 8 kleinere Buschen Stöcke, dann der gebluemte Paltekin.</cell>
                   <cell/>
                </row>
                <row>
@@ -2148,7 +2149,7 @@
                 </p>
             <p>Vor loblicher Landgerichts Obrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>.</p>
             <p>Zugegen Herrn <rs type="person" ref="#rogen_johann_michael">Johann Michael Rogen</rs> Ausschuß und <rs type="person" ref="#strasser_johan">Johann Strasser</rs> als verpflichter Kurator.</p>
-            <p>Nach einsmal vorhin gepflogener Vermiegens Ergänzung und Entwurf hat sich die Obrigkeit zu ein so anderen Ende nacher Diettenhaim verfüget, um einen endlichen Vermögens Entwurf zu formiren, und das gesamte Vermögen des <rs type="person" ref="#lechner_johann">Johann Lechner</rs> seiner Anweltläufigkeit wegen dem</p>
+            <p>Nach einsmal vorhin gepflogener Vermiegens Ergänzung und Entwurf hat sich die Obrigkeit zu ein so anderen Ende nacher <rs type="place" ref="#dietenheim">Diettenhaim</rs> verfüget, um einen endlichen Vermögens Entwurf zu formiren, und das gesamte Vermögen des <rs type="person" ref="#lechner_johann">Johann Lechner</rs> seiner Anweltläufigkeit wegen dem</p>
             <p>
                <pb n="233r"/>
             </p>
@@ -2213,7 +2214,7 @@
                         <p rend="footnote text"> v- <hi rend="italic">korrigiert aus</hi> f-.</p>
                      </note> werden können, und mögen.</p>
                   <p>Weiters kammen auch auszuscheiden die unter den Abzügen eingekommenen Gerichts Taxen pr 84 f 0 x, welche aus der Baarschaft des Ableibers an Gehörde abgerichtet worden sind.</p>
-                  <p>Nicht minder ist die der löblichen Kirche zu <rs type="place" ref="#dietenheim">Diettenheim</rs> testamentsweis zugedachte Legat Post in<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>mat-.</p></note> natura</p></cell>
+                  <p>Nicht minder ist die der löblichen <rs type="place" ref="#dietenheim_jakob">Kirche</rs> zu <rs type="place" ref="#dietenheim">Diettenheim</rs> testamentsweis zugedachte Legat Post in<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>mat-.</p></note> natura</p></cell>
                   <cell/>
                </row>
             </table>
@@ -2292,7 +2293,7 @@
             <p>
                <pb n="238r"/>
             </p>
-            <p>Actum <rs type="place" ref="#dietenheim">Dietenheim</rs> in dem Lokal Widum den <date notBefore="1798-02-23" notAfter="1798-02-24">23 et 24ten Februar 1798</date></p>
+            <p>Actum <rs type="place" ref="#dietenheim">Dietenheim</rs> in dem Lokal <rs type="place" ref="#dietenheim_jakob">Widum</rs> den <date notBefore="1798-02-23" notAfter="1798-02-24">23 et 24ten Februar 1798</date></p>
             <p>Vor loblicher Landgerichts Oberkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>.</p>
             <p>Als den <date when="1798-01-19">19ten Jänner d. J.</date> auf Hinscheiden des hochehrwirdigen Herrn <rs type="person" ref="#lechner_georg">Georg Lechners</rs> gewesten Localkaplan zu <rs type="place" ref="#dietenheim">Dietenheim</rs> die Inventur, und den <date when="1798-02-03">3ten d. M.</date> die Vermögens Ergänzung vor sich gegangen, und weil des Herrn Ableibers einzig hinterlassene eheleibliche
             Bruder <rs type="person" ref="#lechner_johann">Johann Lechner</rs> in bledsinigen Stand sich befündet, so wurde mit Einflus desselben verpflichten Kurator des wohlgeachten <rs type="person" ref="#strasser_johan">Johann Strassers</rs> Schneidermeister und Mesner daselbs zu <rs type="place" ref="#dietenheim">Dietenheim</rs> die Verliebnus getroffen, zum Nutzen des Universal Erben die Inventurs Stüke licitando
@@ -2911,7 +2912,7 @@
                </row>
                <row>
                   <cell>dt.</cell>
-                  <cell>deto<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Vermutlich bezieht sich dieser Eintrag auf den Pfleger zu <rs type="place" ref="#gais">Gais</rs>, nicht auf Herrn Strasser</hi></p></note></cell>
+                  <cell>deto<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Vermutlich bezieht sich dieser Eintrag auf den Pfleger zu Gais, nicht auf Herrn Strasser</hi></p></note></cell>
                   <cell>1 Suppen Topf samt den Luck von Zin, wägt 2¼ Pfund à 32 x</cell>
                   <cell>1 f 12 x</cell>
                   <cell>3 f 40 x</cell>

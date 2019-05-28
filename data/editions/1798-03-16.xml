@@ -24,7 +24,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <msDesc type="invetory">
+            <msDesc type="inventory">
                <msIdentifier>
                   <institution>Südtiroler Landesarchiv (SLA)</institution>
                   <repository>Verfachbuch St. Michaelsburg 1797; Verfachbuch St. Michaelsburg 1798</repository>
@@ -57,7 +57,7 @@
                <p>
                   <pb n="669v / 670r"/>
                </p>
-               <p>Kund und zuwissen wirdet angefügt männlichen, wie daß von dem Landrichter Amt der Pfandsherrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> auf Vorstellen des Priesters Herrn <rs type="person" ref="#manucredo_antany_sebastian">Anton Sebastian Manucredo</rs> mit Einfluß seines obrigkeitlich verpflichten Kurators Herrn <rs type="person" ref="#mayr_thomas">Thomas Mayr</rs> Burger allda in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> auf den <date when="1798-09-21">21ten dies Monats September</date> um 9 bis 10 Uhr Vormittag in alldaiger Gerichts Kanzley an nachstehende Effeten Versteigerungs Tagsazung anberaumet wird; wobey jeder Kaufslustige zu erscheinen vorgeladen ist. Es wird nemmlich dem Meistbote feilgestellet; als die Baurecht und Gerechtigkeit einer Behausung im Markte <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> auf den Platz liegend mit No. 16 signiret, mit derselben Ein- und Zugehörung, Backen, und Kreütle Garten. Über welch diese Behausung und Zugehörde ist die aufgehobene Maria Himmelfahrts Bruderschaft allda Grundherrschaft, und zinst man dahin jährlich auf Martini zu Handen eines jedweiligen Herrn Administrators 1 f 36 x, vorbehältlich der Steüer und anderen nachbarlichen Oblagen. Dazu gehören auch zwey Gemeinds Grundstücke auf der Frohnwiese liegend.</p>
+               <p>Kund und zuwissen wirdet angefügt männlichen, wie daß von dem Landrichter Amt der Pfandsherrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> auf Vorstellen des Priesters Herrn <rs type="person" ref="#manucredo_antany_sebastian">Anton Sebastian Manucredo</rs> mit Einfluß seines obrigkeitlich verpflichten Kurators Herrn <rs type="person" ref="#mayr_thomas">Thomas Mayr</rs> Burger allda in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> auf den <date when="1798-09-21">21ten dies Monats September</date> um 9 bis 10 Uhr Vormittag in alldaiger Gerichts Kanzley an nachstehende Effeten Versteigerungs Tagsazung anberaumet wird; wobey jeder Kaufslustige zu erscheinen vorgeladen ist. Es wird nemmlich dem Meistbote feilgestellet; als die Baurecht und Gerechtigkeit einer Behausung im Markte <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> auf den Platz liegend mit No. 16 signiret, mit derselben Ein- und Zugehörung, Backen, und Kreütle Garten. Über welch diese Behausung und Zugehörde ist die aufgehobene Maria Himmelfahrts Bruderschaft allda Grundherrschaft, und zinst man dahin jährlich auf Martini zu Handen eines jedweiligen Herrn Administrators 1 f 36 x, vorbehältlich der Steüer und anderen nachbarlichen Oblagen. Dazu gehören auch zwey Gemeinds Grundstücke auf der <rs type="place" ref="#heiligkreuz_franewiese">Frohnwiese</rs> liegend.</p>
                <p>Bedingnüsse.</p>
                <p>1mo: Wird für diese Behausung samt den darzu gehörigen Gemeindsstüken zum ersten Ausrufspreis bestimmet, und festgesezet 1600 f.</p>
                <p>2do: Wird kein minderer Darbot als die Erfellung des ersten Ausrufspreises angenommen.</p>
@@ -94,7 +94,7 @@
                      <cell>38 x</cell>
                   </row>
                   <row>
-                     <cell>Edicte der Obrigkeit Michaelsburg hiefür Siglgeld</cell>
+                     <cell>Edicte der Obrigkeit <rs type="place" ref="#saenct_michaelspurg">Michaelsburg</rs> hiefür Siglgeld</cell>
                      <cell>1 f 12 x</cell>
                   </row>
                   <row>
@@ -142,7 +142,7 @@
                      <cell>2 f 36 x</cell>
                   </row>
                </table>
-               <p>Es hat der geistliche Herr <rs type="person" ref="#manucredo_antany_sebastian">Anton Sebastian Manucredo</rs> mit Einfluß seines hohen Alters wegen verpflichten Kurators Herrn <rs type="person" ref="#mayr_thomas">Thomas Mayr</rs> Burger allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> um eine öffentliche Versteigerung seiner daselbst besizenden Behausung mit No. 16 signieret, samt der Zugehörde, und denen zugetheilten Gemeinds Grundstücken auf der Frohnwiese gelegen, bey loblicher Landgerichts Obrigkeit angelanget; Zu diesem Ende wurden untern 1ten dies die diesfälligen Versteigerungsedikte ausgefertiget, und sohin in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>, in <rs type="place" ref="#brunegg">Bruneck</rs>, und <rs type="place" ref="#scheneck">Scheneck</rs> behörig kundgemachet. Da dann zu solcher Versteigerung auf heut dato</p>
+               <p>Es hat der geistliche Herr <rs type="person" ref="#manucredo_antany_sebastian">Anton Sebastian Manucredo</rs> mit Einfluß seines hohen Alters wegen verpflichten Kurators Herrn <rs type="person" ref="#mayr_thomas">Thomas Mayr</rs> Burger allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> um eine öffentliche Versteigerung seiner daselbst besizenden Behausung mit No. 16 signieret, samt der Zugehörde, und denen zugetheilten Gemeinds Grundstücken auf der <rs type="place" ref="#heiligkreuz_franewiese">Frohnwiese</rs> gelegen, bey loblicher Landgerichts Obrigkeit angelanget; Zu diesem Ende wurden untern 1ten dies die diesfälligen Versteigerungsedikte ausgefertiget, und sohin in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>, in <rs type="place" ref="#brunegg">Bruneck</rs>, und <rs type="place" ref="#scheneck">Scheneck</rs> behörig kundgemachet. Da dann zu solcher Versteigerung auf heut dato</p>
                <p>
                   <pb n="667v"/>
                </p>
@@ -768,7 +768,7 @@
                      <cell/>
                   </row>
                </table>
-               <p>Den 18ten vorigen Monats ist der hochehrwürdige Priester Herr <rs type="person" ref="#manucredo_antany_sebastian">Anton Sebastian Manukredo</rs> allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> seel. welcher von keiner Kuratpfründe, sondern von eigenen Mittlen lebte, im 76ten Jahr seines Alters eines natürlichen Todes verstorben.</p>
+               <p>Den <date when="1798-02-18">18ten vorigen Monats</date> ist der hochehrwürdige Priester Herr <rs type="person" ref="#manucredo_antany_sebastian">Anton Sebastian Manukredo</rs> allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> seel. welcher von keiner Kuratpfründe, sondern von eigenen Mittlen lebte, im 76ten Jahr seines Alters eines natürlichen Todes verstorben.</p>
                <p>Es kommt daher dessen ganzes Vermögen lediglich nur unter dessen 2 Geschwisterte zu vertheilen, so da sind</p>
                <p>I. Herr <rs type="person" ref="#manucredo_johann_jakob">Johann Manucredo Gerichts</rs> Anwald zu <rs type="place" ref="#sterzing">Sterzing</rs>, und</p>
                <p>II. Frau <rs type="person" ref="#manucredo_anna">Anna Manucredo</rs> des Herrn <rs type="person" ref="#mitscha_michael">Michael Mitscha</rs> Weissgarbermeisters zu <rs type="place" ref="#roveredo">Roveredo</rs> Ehegattin.</p>
@@ -808,7 +808,7 @@
                <p>Vermogensergänzung.</p>
                <table rend="rules">
                   <row>
-                     <cell>Die Inventur betragt laut Protokoll von gestrigen Datum</cell>
+                     <cell>Die Inventur betragt laut Protokoll von <date when="1798-03-16">gestrigen Datum</date></cell>
                      <cell>138 f 32½ x</cell>
                   </row>
                   <row>
@@ -851,7 +851,7 @@
                </p>
                <table rend="rules">
                   <row>
-                     <cell>No 1: Funeral Conto in loblichem Pfarrwidum allda</cell>
+                     <cell>No 1: Funeral Conto in <rs type="place" ref="#st_lorenzen_kirche">loblichem Pfarrwidum</rs> allda</cell>
                      <cell>18 f 33 x</cell>
                   </row>
                   <row>
@@ -900,7 +900,7 @@
                      <cell>1 f 30 x</cell>
                   </row>
                   <row>
-                     <cell>Der loblichen Pfarrkirche fur das Messgewandt, so dem Herrn Ableiber ins Grab mitgegeben worden</cell>
+                     <cell>Der loblichen <rs type="place" ref="#st_lorenzen_kirche">Pfarrkirche</rs> fur das Messgewandt, so dem Herrn Ableiber ins Grab mitgegeben worden</cell>
                      <cell>5 f 0 x</cell>
                   </row>
                   <row>

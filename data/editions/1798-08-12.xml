@@ -24,7 +24,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <msDesc type="invetory">
+            <msDesc type="inventory">
                <msIdentifier>
                   <institution>Südtiroler Landesarchiv (SLA)</institution>
                   <repository>Verfachbuch St. Michaelsburg 1798</repository>
@@ -57,10 +57,10 @@
                <p>
                   <pb n="637r"/>
                </p>
-               <p>Actum beym Heiligen Kreütz auf der Fronewis den <date notBefore="1798-07-12" notAfter="1798-07-13">12. et 13. July 1798</date>.</p>
+               <p>Actum beym <rs type="place" ref="#heiligkreuz_franewiese">Heiligen Kreütz auf der Fronewis</rs> den <date notBefore="1798-07-12" notAfter="1798-07-13">12. et 13. July 1798</date>.</p>
                <p>Vor loblicher Landgerichts Obrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>.</p>
                <p>Licitationsprotokol.</p>
-               <p>Jener Mobillien betröfend so der nun in Gott ruhende wohlehrwürdige Herr Beneficiat bey Heiligen Kreütz allda <rs type="person" ref="#steger_leopold">Leopold Steger</rs> zurückgelassen.</p>
+               <p>Jener Mobillien betröfend so der nun in Gott ruhende wohlehrwürdige Herr Beneficiat bey <rs type="place" ref="#heiligkreuz_franewiese">Heiligen Kreütz</rs> allda <rs type="person" ref="#steger_leopold">Leopold Steger</rs> zurückgelassen.</p>
                <table rend="rules">
                   <row>
                      <cell>No</cell>
@@ -854,7 +854,7 @@
                   <row>
                      <cell>88</cell>
                      <cell>1 vierzinige Tunget Gabl<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>1 Erde Schaufl.</p></note> 1 Acker Hau und 1 hirsche Kralln</cell>
-                     <cell>Reicherer von Sonneberg dt.</cell>
+                     <cell>Reicherer von <rs type="place" ref="#soneburg">Sonneburg</rs> dt.</cell>
                      <cell>30 x</cell>
                      <cell>44 x</cell>
                   </row>
@@ -1623,7 +1623,7 @@
                   <row>
                      <cell>178</cell>
                      <cell>1 Raifmesser 1 Schlaghammerle 1 Kuglmodl 1 Schlapfer Schraufer</cell>
-                     <cell>Unterweger zu Mauer dt.</cell>
+                     <cell>Unterweger zu <rs type="place" ref="#mauern">Mauer</rs> dt.</cell>
                      <cell>18 x</cell>
                      <cell>30 x</cell>
                   </row>
@@ -2282,7 +2282,7 @@
                   <pb n="674v"/>
                </p>
                <p>[Rubrum:] 1798</p>
-               <p>Weilend des hochehrwürdigen Herrn <rs type="person" ref="#steger_leopold">Leopold Stegers</rs> gewesten Beneficiat beym Heiligen Kreutz seel.</p>
+               <p>Weilend des hochehrwürdigen Herrn <rs type="person" ref="#steger_leopold">Leopold Stegers</rs> gewesten Beneficiat beym <rs type="place" ref="#heiligkreuz_franewiese">Heiligen Kreutz</rs> seel.</p>
                <p>Erbstheilung</p>
                <p>[Kanzleivermerk:] Exped.</p>
                <p>
@@ -2366,8 +2366,8 @@
                      <cell/>
                   </row>
                </table>
-               <p>Den <date when="1798-04-02">2ten April<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen vermutlich </hi>obfir-.</p></note> dies Jahrs</date> ist der hochehrwürdige Herr <rs type="person" ref="#steger_leopold">Leopold Steger</rs> im Leben gewester Beneficiat beym Heiligen Kreitz auf der Fronwiese nach einer ausgestandenen langwirigen Krankheit im 76ten Jahr seines Alters mit Zurucklassung einer letztwilligen Verordnung verstorben.</p>
-               <p>Zu Auferbung dessen zuruckgelassenen Vermögens sind laut des anschlüssigen Stammenbaums folgende nächste Anverwante vom Gesetze berufen, nach dem das Gotteshauss zum Heiligen Kreitz bey von Herrn Ableiber zuruckgelassenen Testament ehehin vom Erbrechte ausgeschlosen ist.</p>
+               <p>Den <date when="1798-04-02">2ten April<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen vermutlich </hi>obfir-.</p></note> dies Jahrs</date> ist der hochehrwürdige Herr <rs type="person" ref="#steger_leopold">Leopold Steger</rs> im Leben gewester Beneficiat beym <rs type="place" ref="#heiligkreuz_franewiese">Heiligen Kreitz auf der Fronwiese</rs> nach einer ausgestandenen langwirigen Krankheit im 76ten Jahr seines Alters mit Zurucklassung einer letztwilligen Verordnung verstorben.</p>
+               <p>Zu Auferbung dessen zuruckgelassenen Vermögens sind laut des anschlüssigen Stammenbaums folgende nächste Anverwante vom Gesetze berufen, nach dem das <rs type="place" ref="#heiligkreuz_franewiese">Gotteshauss zum Heiligen Kreitz</rs> bey von Herrn Ableiber zuruckgelassenen Testament ehehin vom Erbrechte ausgeschlosen ist.</p>
                <p>
                   <pb n="661v"/>
                </p>
@@ -2385,7 +2385,7 @@
                <p>
                   <pb n="662r"/>
                </p>
-               <p>Cooperator zu <rs type="place" ref="#sillian">Sillian</rs>, Pater Theowald Exfranziscaner im Gerichts Kals exponiert,<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Frau.</p></note> diese 2 geistlichen Herrn werden von Herrn <rs type="person" ref="#salcher_johann_nepomuk">Johann Nepomuk Salcher</rs> Religionsfond Advocat allda vertretten, dann Frau <rs type="person" ref="#pernlachner_anna">Anna verehelichte Pernlachnerin</rs> allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>, Frau Hellena bey Herrn Häring Portenmacher zu <rs type="place" ref="#lienz">Lienz</rs> beed seel. erzeugt, und zuruckgelassene Sohn Johann, annoch minderjahrig und ist zum heutigen Ackt von dessen Vormund Herrn <rs type="person" ref="#obkircher_johann">Johann Obkircher</rs> obgesagter Herr <rs type="person" ref="#salcher_johann_nepomuk">Johann Nepomuk Salcher</rs> bevollmächtigt.</p>
+               <p>Cooperator zu <rs type="place" ref="#sillian">Sillian</rs>, Pater Theowald Exfranziscaner im <rs type="place" ref="#kals_gericht">Gerichts Kals</rs> exponiert,<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Frau.</p></note> diese 2 geistlichen Herrn werden von Herrn <rs type="person" ref="#salcher_johann_nepomuk">Johann Nepomuk Salcher</rs> Religionsfond Advocat allda vertretten, dann Frau <rs type="person" ref="#pernlachner_anna">Anna verehelichte Pernlachnerin</rs> allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>, Frau Hellena bey Herrn Häring Portenmacher zu <rs type="place" ref="#lienz">Lienz</rs> beed seel. erzeugt, und zuruckgelassene Sohn Johann, annoch minderjahrig und ist zum heutigen Ackt von dessen Vormund Herrn <rs type="person" ref="#obkircher_johann">Johann Obkircher</rs> obgesagter Herr <rs type="person" ref="#salcher_johann_nepomuk">Johann Nepomuk Salcher</rs> bevollmächtigt.</p>
                <p>IV: Herr <rs type="person" ref="#steger_karl">Karl Steger</rs> bey Frau <rs type="person" ref="#kletenhamer_anna">Anna Kletenhamerin</rs> beeder seel. erzeugte Frau Tochter <rs type="person" ref="#steger_anna">Anna Stegerin</rs> welche bereits auch verstorben, und mit Herrn <rs type="person" ref="#rindler_anton">Anton Rindler</rs>, Wurth und Gastgeb zu <rs type="place" ref="#sillian">Sillian</rs> 5 Kinder zuruckgelassen hat namens Joseph, Anton, Anna, Maria, Katharina wofur Herr <rs type="person" ref="#kletenhamer_michael">Michael Kletenhamer</rs> Gerhab und zur heutigen Vertrettung oftgemelter Herr <rs type="person" ref="#salcher_johann">Johann Salcher</rs> begwältiget ist.</p>
                <p>V: Frau <rs type="person" ref="#steger_maria_2">Maria Stegerin</rs> mit titl. Herrn <rs type="person" ref="#kerschpaember_johan">Johann v. Kerschbaumer</rs> gewesten Landgerichtschreiber der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> ehelich erzeugte 6<note>
                      <p rend="footnote text">
@@ -2394,7 +2394,7 @@
                <p>
                   <pb n="662v"/>
                </p>
-               <p><rs type="person" ref="#von_kerschbaumer_anton">Anton v. Kerschbaumer</rs> Pfleger und Landrichter der Herrschaft Falkenstein zu <rs type="place" ref="#oberfellach">Oberfellach</rs>, Frau <rs type="person" ref="#von_kerschbaumer_maria_elisabet">Maria Elisabet</rs>,<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>bey.</p></note> mit titl. Herrn <rs type="person" ref="#von_leys_ignatz_josef">Ignatz Joseph v. Leyss</rs> Pfleger und Landgerichtschreiber allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> in Band der Ehe erzeugte 4 Kinder namens Herr <rs type="person" ref="#von_leys_leopold">Leopold</rs>, dann die Freulen<note>
+               <p><rs type="person" ref="#von_kerschbaumer_anton">Anton v. Kerschbaumer</rs> Pfleger und Landrichter der Herrschaft <rs type="place" ref="#falkenstein">Falkenstein</rs> zu <rs type="place" ref="#oberfellach">Oberfellach</rs>, Frau <rs type="person" ref="#von_kerschbaumer_maria_elisabet">Maria Elisabet</rs>,<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>bey.</p></note> mit titl. Herrn <rs type="person" ref="#von_leys_ignatz_josef">Ignatz Joseph v. Leyss</rs> Pfleger und Landgerichtschreiber allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> in Band der Ehe erzeugte 4 Kinder namens Herr <rs type="person" ref="#von_leys_leopold">Leopold</rs>, dann die Freulen<note>
                      <p rend="footnote text"> F- <hi rend="italic">korrigiert aus begonnenem</hi> H-.</p>
                </note> <rs type="person" ref="#von_leys_elisabeth">Elisabeth</rs>, <rs type="person" ref="#von_leys_hellene">Hellene</rs> und <rs type="person" ref="#von_leys_cresentia">Cresentia v. Leys</rs>, wofur dessen Herr Vater Gerhab ist, dann die Freulen <rs type="person" ref="#von_kerschbaumer_magdalena">Magdalena</rs>, <rs type="person" ref="#von_kerschbaumer_maria_anna">Maria Anna</rs>, <rs type="person" ref="#von_kerschbaumer_maria_josepha">Maria Josepha</rs>, und <rs type="person" ref="#von_kerschbaumer_agnes">Agnes v. Kerschbaumer</rs> alle allda zu <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>. Dieser ganze Hauptstollen wird von ebengesagten titl. Herrn Pfleger <rs type="person" ref="#von_leys_ignatz_josef">v. Leyss</rs> dato vertretten.</p>
                <p>Vor allen wird bemerket, dass bey Durchsuchung der Verlassenschaftsschriften ein Aufsatz eines Testaments so zwar von Herrn Erblasser unterschrieben, und gesiglt, der Inhalt aber von einer fremden Hand geschrieben, und uberhaupt an vorgeschriebenen Förmlichkeiten mangelhaft ist, in die Hande gekommen, da aber dessen Inhalt theils von keinem Belange, theils von denen Herrn Erben in Rucksicht der frommen Vermög aus eigenen Antriebe bereits vollzogen worden</p>
@@ -2440,7 +2440,7 @@
                <p>Nammlichen ein Stuckl Erdrich von einer Achen gross genannt das Lerch Akerle in <rs type="place" ref="#st_lorenzen">Lorenzner</rs> Felder nahe beym Sturmbichl Landgerichts <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> mit allen dessen Recht, und Gerechtigkeit liegend, stost gegen Morgend zum Theil<note><p rend="footnote text"> zum theil<hi rend="italic" xml:space="preserve"> am linken Rand geschrieben.</hi></p></note> an des
                Herrn <rs type="person" ref="#von_gall_">v. Gall</rs> Mooss, und zum Theil<note><p rend="footnote text"> und zum Theil<hi rend="italic" xml:space="preserve"> über der Zeile geschrieben statt gestrichenem </hi>gegen Mittag.</p></note> an hinnach hieher gehorigen Stuckl Pichl, gegen Mittag wieder an Herrn <rs type="person" ref="#von_gall_">v. Gall</rs> Moss, und zum Theil an Mayr zu Gasteig Acker, gegen Abend an
                Herrn <rs type="person" ref="#wachtler_georg">Georg Wachtlers</rs> Acker<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Über der Zeile eingefügt.</hi></p></note>, und<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>anvor.</p></note> Stegerischen Lechenstuck, und gegen Mitternacht an Herrn v. Elzenbaumers Pizet Stuck,
-               vorbehältlich der mehr und besseren um- und anstossenden<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen vermutlich </hi>wahr-.</p></note> Koherenzen, und verzinsst man von geredten Lerch Akerl mit dessen Zugehör und Gerechtigkeit der lobwürdigen Unser Lieben Frauen Pfarrkirche in <rs type="place" ref="#ennenberg">Ennenberg</rs> als daruber ordentlichen
+               vorbehältlich der mehr und besseren um- und anstossenden<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen vermutlich </hi>wahr-.</p></note> Koherenzen, und verzinsst man von geredten Lerch Akerl mit dessen Zugehör und Gerechtigkeit der lobwürdigen <rs type="place" ref="#enneberg_maria">Unser Lieben Frauen Pfarrkirche</rs> in <rs type="place" ref="#ennenberg">Ennenberg</rs> als daruber ordentlichen
                Grundherrschaft<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>mo-.</p></note> jährlich und weltewiglichen auch eines jeden Jahrs besonders allwegen zu gewohnlich Grund- und Herren</p>
                <p>
                   <pb n="664r"/>

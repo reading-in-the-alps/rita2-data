@@ -295,7 +295,7 @@
                <idno type="GEONAMES">http://www.geonames.org/8951089</idno>
             </place>
             <place xml:id="heiligkreuz_franewiese">
-               <placeName>Hl.-Kreuz-Kirche auf der Fronwiese</placeName>
+               <placeName>Hl.-Kreuz-Kirche / Fronwiese</placeName>
                <placeName type="italiano">Santa Croce</placeName>
                <settlement ref="#st_lorenzen">St. Lorenzen</settlement>
                <location><geo decls="#LatLng">46.786494 11.910330</geo></location>
@@ -678,7 +678,8 @@
             <place xml:id="ennenberg">
                <placeName>Enneberg</placeName>
                <placeName type="italiano">Marebbe</placeName>
-               <location><geo decls="#LatLng">46.698 11.9315</geo></location>
+               <location><geo decls="#LatLng">46.69792 11.93544</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/3173977</idno>
             </place>
             <place xml:id="obvill">
                <placeName>Obvill</placeName>
@@ -792,9 +793,62 @@
             <place xml:id="keselanger">
                <placeName>Keselanger</placeName>
             </place>
+            <place xml:id="luns">
+               <placeName>Luns</placeName>
+               <placeName type="italiano">Lunes</placeName>
+               <district ref="saenct_michaelsburg">St. Michaelsburg</district>
+               <location><geo decls="#LatLng">46.79643 11.96948</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/8961704</idno>
+            </place>
+            <place xml:id="st_martin_kaplanei">
+               <placeName>St. Martin (Kirche)</placeName>
+	             <settlement ref="st_lorenzen">St. Lorenzen</settlement>
+               <location><geo decls="#LatLng">46.776636 11.895204</geo></location>
+            </place>
+            <place xml:id="brunegg_ursulinen">
+               <placeName>Bruneck (Ursulinenkirche)</placeName>
+               <placeName type="italiano">Chiesa di Orsoline</placeName>
+	             <settlement ref="brunegg">Bruneck</settlement>
+               <location><geo decls="#LatLng">46.795207 11.936215</geo></location>
+            </place>
+            <place xml:id="st_vigili">
+               <placeName>St. Vigil</placeName>
+               <placeName type="italiano">San Vigilio di Marebbe</placeName>
+               <district ref="ennenberg">Enneberg</district>
+               <location><geo decls="#LatLng">46.69884 11.93104</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/8643247</idno>
+            </place>
+            <place xml:id="kals_gericht">
+               <placeName>Kals</placeName>
+               <location><geo decls="#LatLng">47 12.65</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/2774897</idno>
+            </place>
+            <place xml:id="oberfellach">
+               <placeName>Obervellach</placeName>
+               <district ref="falkenstein">Oberfalkenstein</district>
+               <location><geo decls="#LatLng">46.93309 13.19738</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/7871655</idno>
+            </place>
+            <place xml:id="falkenstein">
+               <placeName>Oberfalkenstein</placeName>
+               <location><geo decls="#LatLng">46.922775 13.240425</geo></location>
+            </place>
+            <place xml:id="enneberg_maria">
+               <placeName>Maria vom Guten Rat (Kirche)</placeName>
+               <placeName type="italiano">Pieve di Marebbe</placeName>
+	             <settlement ref="ennenberg_pfarre">Enneberg-Pfarre</settlement>
+               <location><geo decls="#LatLng">46.718899 11.919184</geo></location>
+            </place>
+            <place xml:id="enneberg_pfarre">
+               <placeName>Enneberg-Pfarre</placeName>
+               <placeName type="italiano">Pieve di Marebbe</placeName>
+               <district ref="ennenberg">Enneberg</district>
+               <location><geo decls="#LatLng">46.71901 11.91694</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/3170749</idno>
+            </place>
 
 
-<!--  bis exkl. 1797
+<!--  bis 1798-0812 s.664r
             <place xml:id="XXX">
                <placeName>XXX</placeName>
                <placeName type="italiano">XXX</placeName>
@@ -814,16 +868,6 @@
                <placeName>Roverè della Luna</placeName>
                <location><geo decls="#LatLng">46.25008 11.17233</geo></location>
                <idno type="GEONAMES">http://www.geonames.org/3168860</idno>
-            </place>
-            <place xml:id="st_vigili">
-               <placeName>San Vigilio di Marebbe</placeName>
-               <location><geo decls="#LatLng">46.69884 11.93104</geo></location>
-               <idno type="GEONAMES">http://www.geonames.org/8643247</idno>
-            </place>
-            <place xml:id="oberfellach">
-               <placeName>Oberfellach</placeName>
-               <location><geo decls="#LatLng"/></location>
-               <idno type="GEONAMES"/>
             </place>
          </listPlace>
       </body>
