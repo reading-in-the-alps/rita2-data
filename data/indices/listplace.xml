@@ -654,13 +654,13 @@
                <placeName>St. Martin in Thurn</placeName>
                <placeName type="italiano">San Martino in Badia</placeName>
                <district ref="thurn">Thurn</district>
-               <location><geo decls="#LatLng">46.68153, 11.89809</geo></location>
+               <location><geo decls="#LatLng">46.68153 11.89809</geo></location>
                <idno type="GEONAMES">http://www.geonames.org/6536017</idno>
             </place>
             <place xml:id="thurn">
                <placeName>Thurn</placeName>
                <placeName type="italiano">Badia</placeName>
-               <location><geo decls="#LatLng">46.680773, 11.893280</geo></location>
+               <location><geo decls="#LatLng">46.680773 11.893280</geo></location>
             </place>
             <place xml:id="sorega">
                <placeName>Sorega</placeName>
