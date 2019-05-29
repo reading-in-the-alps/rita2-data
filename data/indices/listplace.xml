@@ -655,12 +655,19 @@
                <placeName type="italiano">San Martino in Badia</placeName>
                <district ref="thurn">Thurn</district>
                <location><geo decls="#LatLng">46.68153 11.89809</geo></location>
-               <idno type="GEONAMES">http://www.geonames.org/6536017</idno>
+               <idno type="GEONAMES">http://www.geonames.org/6534788</idno>
+            </place>
+            <place xml:id="thurn_schloss">
+               <placeName>Schloss Thurn</placeName>
+               <placeName type="italiano">Castel Tor</placeName>
+               <settlement ref="st_martin_thurn">St. Martin in Thurn</settlement>
+               <location><geo decls="#LatLng">46.6807 11.89325</geo></location>
             </place>
             <place xml:id="thurn">
                <placeName>Thurn</placeName>
                <placeName type="italiano">Badia</placeName>
-               <location><geo decls="#LatLng">46.680773 11.893280</geo></location>
+               <location><geo decls="#LatLng">46.68153 11.89809</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/6536017</idno>
             </place>
             <place xml:id="sorega">
                <placeName>Sorega</placeName>
@@ -846,28 +853,33 @@
                <location><geo decls="#LatLng">46.71901 11.91694</geo></location>
                <idno type="GEONAMES">http://www.geonames.org/3170749</idno>
             </place>
-
-
-<!--  bis 1798-0812 s.664r
-            <place xml:id="XXX">
-               <placeName>XXX</placeName>
-               <placeName type="italiano">XXX</placeName>
-               <district ref="XXX">XXX</district>
-	             <settlement ref="XXX">XXX</settlement>
-               <location><geo decls="#LatLng">XXX XXX</geo></location>
-               <idno type="GEONAMES">http://www.geonames.org/XXX</idno>
+            <place xml:id="lovara">
+               <placeName>Lovara</placeName>
+               <placeName type="italiano">Lovara</placeName>
+	             <settlement ref="st_martin_thurn">St. Martin in Thurn</settlement>
+               <location><geo decls="#LatLng">46.67374 11.899791</geo></location>
             </place>
- -->
-
-            <place xml:id="welsberg">
-               <placeName>Monguelfo</placeName>
-               <location><geo decls="#LatLng">46.75774 12.10556</geo></location>
-               <idno type="GEONAMES">http://www.geonames.org/3173140</idno>
+            <place xml:id="enneberg_gericht">
+               <placeName>Gerichtshaus Enneberg</placeName>
+	             <settlement ref="st_vigili">St. Vigil</settlement>
+               <location><geo decls="#LatLng">46.69831 11.930725</geo></location>
             </place>
-            <place xml:id="aichholz">
-               <placeName>Roverè della Luna</placeName>
-               <location><geo decls="#LatLng">46.25008 11.17233</geo></location>
-               <idno type="GEONAMES">http://www.geonames.org/3168860</idno>
+            <place xml:id="klettenheim">
+               <placeName>Klettenheim</placeName>
+            </place>
+            <place xml:id="ahornach">
+               <placeName>Ahornach</placeName>
+               <placeName type="italiano">Acereto</placeName>
+	             <settlement ref="sand">Sand in Taufers</settlement>
+               <location><geo decls="#LatLng">46.9264 11.9789</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/3183545</idno>
+            </place>
+            <place xml:id="sand">
+               <placeName>Sand in Taufers</placeName>
+               <placeName type="italiano">Campo Tures</placeName>
+	             <district ref="taufers">Taufers</district>
+               <location><geo decls="#LatLng">46.91882 11.953575</geo></location>
+               <idno type="GEONAMES">http://www.geonames.org/3180908</idno>
             </place>
          </listPlace>
       </body>
