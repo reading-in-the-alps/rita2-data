@@ -2854,7 +2854,7 @@
             <p>Schulden herein</p>
             <table rend="rules">
                <row>
-                  <cell>Als erstlichen solle <rs type="person" ref="#steeger_peter_paul">Peter Paul Steeger</rs>, auf den <rs type="place" ref="tschogglerhof">Tschoggler Hoff</rs> ligendes Cäpitäll, </cell>
+                  <cell>Als erstlichen solle <rs type="person" ref="#steger_peter_paul">Peter Paul Steeger</rs>, auf den <rs type="place" ref="tschogglerhof">Tschoggler Hoff</rs> ligendes Cäpitäll, </cell>
                   <cell>600 f 0 x</cell>
                </row>
                <row>
@@ -3270,7 +3270,7 @@
             <table rend="rules">
                <row>
                   <cell>
-                            <rs type="person" ref="#stainer_christoph">Christoph Stainerischen</rs> Haubtstollen, nemblichen den finf hievon verhandenen Khindern, <rs type="person" ref="#stainer_michael">Michael</rs>, <rs type="person" ref="#stainer_joseph">Joseph</rs>, <rs type="person" ref="#stainer_anthoni">Antani</rs>, <rs type="person" ref="#stainer_franz">Franz</rs>, und <rs type="person" ref="#stainer_mariae">Märiä</rs>, und respective davon weitters verlassenen Descendenz, miteinander Herr vätterliche Erbschafft aintausent zwaihundert achtzöchen Gulden vierzig Khreizer id est</cell>
+                            <rs type="person" ref="#stainer_christoph">Christoph Stainerischen</rs> Haubtstollen, nemblichen den finf hievon verhandenen Khindern, <rs type="person" ref="#stainer_michael">Michael</rs>, <rs type="person" ref="#stainer_joseph">Joseph</rs>, <rs type="person" ref="#stainer_anthoni">Antani</rs>, <rs type="person" ref="#stainer_franz">Franz</rs>, und <rs type="person" ref="#stainer_mariae_4">Märiä</rs>, und respective davon weitters verlassenen Descendenz, miteinander Herr vätterliche Erbschafft aintausent zwaihundert achtzöchen Gulden vierzig Khreizer id est</cell>
                   <cell>1218 f 40 x</cell>
                </row>
                <row>
@@ -3481,7 +3481,7 @@
                   <cell>2 f 46⅔ x</cell>
                </row>
                <row>
-                  <cell>Bei <rs type="person" ref="#steeger_peter_paul">Peter Paul Steeger</rs> aus den Capitäll</cell>
+                  <cell>Bei <rs type="person" ref="#steger_peter_paul">Peter Paul Steeger</rs> aus den Capitäll</cell>
                   <cell>300 f 0 x</cell>
                </row>
                <row>
@@ -3518,7 +3518,7 @@
                   <cell>2 f 46⅔ x</cell>
                </row>
                <row>
-                  <cell>Bei <rs type="person" ref="#steeger_peter_paul">Petern Paul Steeger</rs> aus den Cäpitäll</cell>
+                  <cell>Bei <rs type="person" ref="#steger_peter_paul">Petern Paul Steeger</rs> aus den Cäpitäll</cell>
                   <cell>300 f 0 x</cell>
                </row>
             </table>
@@ -3551,7 +3551,7 @@
             <p>
                <pb n="41v"/>
             </p>
-            <p>wie auch <rs type="person" ref="#hinterseer_johann_chrisostomus">Johan Chrisostomus Hinterseer</rs>, nöbst seinen zwo Schwöstern <rs type="person" ref="#hinterseer_maeriae">Märiä</rs> und <rs type="person" ref="#hinterseer_aennae_elisaebeth">Ännä Elisäbeth Hinterseerinen</rs>, sambt, und nöben dern Anweiser Herrn <rs type="person" ref="#steger_johann_anton">Johan Antani Steeger</rs>, vor hoch wohl belobt, Ihro Hochwirden, und Gnaden, dem Herrn Döchandt, unnd vorwohl eingefierten Herrn Pflöger, mit Mundt, und Handen gelobt, und zu Aussenförtigung, dreiersollicher Thaillungen die Sigl Pith erstath.</p>
+            <p>wie auch <rs type="person" ref="#hinterseer_johann_chrisostomus">Johan Chrisostomus Hinterseer</rs>, nöbst seinen zwo Schwöstern <rs type="person" ref="#hinterseer_maeriae">Märiä</rs> und <rs type="person" ref="#hinterseer_aennae_elisaebeth">Ännä Elisäbeth Hinterseerinen</rs>, sambt, und nöben dern Anweiser Herrn <rs type="person" ref="#steger_johann_anton">Johan Antani Steeger</rs>, vor hoch wohl belobt, Ihro Hochwirden, und Gnaden, dem <rs type="person" ref="#ingramb_joseph_mathias">Herrn Döchandt</rs>, unnd vorwohl eingefierten <rs type="person" ref="#englmohr_joseph_ignaeti">Herrn Pflöger</rs>, mit Mundt, und Handen gelobt, und zu Aussenförtigung, dreiersollicher Thaillungen die Sigl Pith erstath.</p>
             <p>Ohnegeverde.</p>
             <p>Hierauf und des zu wahren Urkhundt, seint demnach drei gleichlautende Erbsthaillungen aines Inhalt expediert, und ausgeschriben, und zwar jede in Sonderheit unter und mit vor hochwohl gedacht Ihro Hochwirden, und Gnaden, des Herrn Döchandt, und Comissarii, <rs type="person" ref="#ingramb_joseph_mathias">Joseph Mathias Yngramb von Liebenstain, und Fragburg etc.</rs> und vorwohl eingefiehrts Ihro gstreng des Herrn Pfleger, und Landtricht-</p>
             <p>
@@ -3563,7 +3563,7 @@
                <pb n="42v"/>
             </p>
             <p>landt, unnd Seeligmachers Jesu Christi in sibenzöchenhundert söchsundtfunfzigisten Jahr.</p>
-            <p>[aufgedrückte Oblatensiegel des <rs type="person" ref="#ingramb_joseph_mathias">Joseph Matthias Ingram</rs> und <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignaz Englmohr</rs>]</p>
+            <p>[aufgedrückte Oblatensiegel des Joseph Matthias Ingram und Joseph Ignaz Englmohr]</p>
    </div>
       </body>
    </text>

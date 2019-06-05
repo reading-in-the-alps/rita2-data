@@ -242,6 +242,7 @@
                <note type="function">Anweiser von <rs type="person" ref="#wachtler_maria_ursulae">Maria Ursula Wachtlerin (1752)</rs></note>
                <note type="function">Kirchenpropst</note>
                <note type="function">Gerichtsverpflichteter</note>
+               <note type="function">Schuldner des <rs type="person" ref="#stainer_sebastian">Sebastian Joseph Stainer</rs></note>
             </person>
             <person xml:id="kerschpaember_johan">
                <persName>
@@ -827,11 +828,12 @@
                </persName>
                <note type="function">Häuserin des <rs type="person" ref="#stainer_sebastian">Sebastian Joseph Stainer</rs></note>
             </person>
-            <person xml:id="steeger_peter_paul">
+            <person xml:id="steger_peter_paul">
                <persName>
                   <forename>Peter Paul</forename>
                   <surname>Steeger</surname>
                </persName>
+               <note type="family">Sohn von <rs type="person" ref="#steger_joseph_markus">Joseph Markus Steeger</rs> und <rs type="person" ref="#hueber_maria_magdalena">Maria Magdalena Hueberin</rs></note>
                <note type="function">Schuldner des <rs type="person" ref="#stainer_sebastian">Sebastian Joseph Stainer</rs></note>
             </person>
             <person xml:id="puel_franz_xaveri">
@@ -851,6 +853,7 @@
                   <surname>Schmölzer</surname>
                </persName>
                <note type="placing"><rs type="place" ref="#klausen">Klausen</rs></note>
+               <note type="function">Schuldner des <rs type="person" ref="#stainer_sebastian">Sebastian Joseph Stainer</rs></note>
             </person>
             <person xml:id="stocker_priester">
                <persName>
@@ -1039,66 +1042,112 @@
                <note type="placing"><rs type="place" ref="#brixen">Brixen</rs></note>
             </person>
 
-
-<!-- bis 56, bl. 35r    Vor allen aber, wirdet zu Bericht -->
-
-
-
-
-<!-- names in work -->
+<!-- names 1761_07_23 -->
             <person xml:id="fezl_christoph">
                <persName>
                   <forename>Christoph Sebastian</forename>
+                  <forename type="alt">Sebastian Christoph</forename>
+                  <forename type="alt">Christoph</forename>
                   <surname>Fezl</surname>
                </persName>
-               <note type="function">Priester und Benefiziat in <rs type="place" ref="#st_georgen">Sankt Georgen</rs>
-                    </note>
+               <note type="function">Priester und Benefiziat in <rs type="place" ref="#st_georgen">Sankt Georgen</rs></note>
             </person>
             <person xml:id="graf_zu_lodron_dumbherr">
                <persName>
-                  <forename>Sebastian</forename>
-                  <surname>Graf Lodron</surname>
+                  <forename>Sebastian Franz Joseph Gaudentius</forename>
+                  <surname>Graf von Lodron</surname>
                </persName>
-               <note type="function">Domherr und geistlicher Rat</note>
+               <note type="function">Domherr, Konsistorialrat und Stadtpfarrer von <rs type="place" ref="#brixen">Brixen</rs></note>
             </person>
             <person xml:id="tangl_georg">
                <persName>
                   <forename>Georg</forename>
                   <surname>Tangl</surname>
                </persName>
-               <note type="function">Hofsekretär</note>
+               <note type="function">Konsistorialsekretär und Hofkaplan</note>
             </person>
             <person xml:id="fezl_joseph_wolfgang">
                <persName>
                   <forename>Joseph Wolfgang</forename>
                   <surname>Fezl</surname>
                </persName>
+               <note type="family">Bruder von <rs type="person" ref="#fezl_christoph">Christoph Sebastian Fezl</rs></note>
             </person>
             <person xml:id="saliet_joseph">
                <persName>
                   <forename>Joseph</forename>
                   <surname>Saliet</surname>
                </persName>
+               <note type="function">Benefiziums-Provisor</note>
             </person>
             <person xml:id="fezl_johannes">
                <persName>
                   <forename>Johannes</forename>
                   <surname>Fezl</surname>
                </persName>
+               <note type="function">in Dienst beim württembergischen Dragoner-Regiment "Herzogin Maria Auguste"</note>
             </person>
             <person xml:id="valtiner_peter">
                <persName>
                   <forename>Peter</forename>
                   <surname>Valtiner</surname>
                </persName>
-               <note type="function">Hufschmied in <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
+               <occupation>Hufschmied</occupation>
+               <note type="function">Kurator von <rs type="person" ref="#fezl_johannes">Johannes Fezl</rs></note>
+               <note type="placing"><rs type="place" ref="#brunegg">Bruneck</rs></note>
+            </person>
+            <person xml:id="ursicin">
+               <persName>
+                  <forename>Ursicin</forename>
+                  <surname/>
+               </persName>
+               <occupation>Geistlicher</occupation>
+               <note type="function">Kapuziner-Pater</note>
             </person>
             <person xml:id="vestner_maria">
                <persName>
                   <forename>Maria</forename>
                   <surname>Vestnerin</surname>
                </persName>
+               <note type="function">Häuserin von <rs type="person" ref="#fezl_christoph">Christoph Sebastian Fezl</rs></note>
+            </person>
+            <person xml:id="khachler_andre">
+               <persName>
+                  <forename>Andre</forename>
+                  <surname>Kachler</surname>
+                  <vulgo>Brugger</vulgo>
+               </persName>
+               <note type="placing"><rs type="place" ref="#st_georgen">St. Georgen</rs></note>
+            </person>
+            <person xml:id="stegen_obermutschlechner">
+               <persName>
+                  <forename/>
+                  <surname/>
+                  <vulgo>Obermutschlechner</vulgo>
+               </persName>
+               <note type="placing"><rs type="place" ref="#steegen">Stegen</rs></note>
+            </person>
+            <person xml:id="merl">
+               <persName>
+                  <forename/>
+                  <surname>Mörl</surname>
+               </persName>
+               <note type="placing"><rs type="place" ref="#st_georgen">St. Georgen</rs></note>
+            </person>
+            <person xml:id="troyer">
+               <persName>
+                  <forename/>
+                  <surname>Graf von Troyer</surname>
+               </persName>
+               <note type="placing"><rs type="place" ref="#st_georgen">St. Georgen</rs></note>
+            </person>
+            <person xml:id="kunzental_obmayr">
+               <persName>
+                  <forename/>
+                  <surname/>
+                  <vulgo>Obmayr</vulgo>
+               </persName>
+               <note type="placing"><rs type="place" ref="#kuenzenthall">Künzental</rs></note>
             </person>
             <person xml:id="mitterhofer_hanns">
                <persName>
@@ -1117,18 +1166,13 @@
                <persName>
                   <forename>Johann</forename>
                   <surname>Pifrader</surname>
+                  <vulgo>Kuchlmayr</vulgo>
                </persName>
             </person>
             <person xml:id="tinckhhauser_hanns">
                <persName>
                   <forename>Johann</forename>
                   <surname>Tinkhauser</surname>
-               </persName>
-            </person>
-            <person xml:id="khachler_andre">
-               <persName>
-                  <forename>Andre</forename>
-                  <surname>Kachler</surname>
                </persName>
             </person>
             <person xml:id="sell_franz_joseph">
@@ -1142,21 +1186,48 @@
                <persName>
                   <forename>Peter</forename>
                   <surname>Wanger</surname>
+                  <vulgo>Kachler</vulgo>
                </persName>
+               <note type="placing"><rs type="place" ref="#st_georgen">St. Georgen</rs></note>
             </person>
             <person xml:id="pifrader_andree">
                <persName>
                   <forename>Andre</forename>
                   <surname>Pifrader</surname>
+                  <vulgo>Brandlechner</vulgo>
                </persName>
-               <note type="function">Prantlechner in <rs type="place" ref="#st_georgen">Sankt Georgen</rs>
-                    </note>
+               <note type="placing"><rs type="place" ref="#st_georgen">Sankt Georgen</rs></note>
             </person>
             <person xml:id="stainer_blaesi">
                <persName>
                   <forename>Blasius</forename>
                   <surname>Stainer</surname>
                </persName>
+               <note type="function">Gerhab der Kinder des <rs type="person" ref="#stainer_andree">Andre Stainer</rs></note>
+               <note type="placing"><rs type="place" ref="#neunhaeusern">Neunhäusern</rs></note>
+            </person>
+            <person xml:id="stainer_andree">
+               <persName>
+                  <forename>Andre</forename>
+                  <surname>Stainer</surname>
+                  <vulgo>Frischhueber</vulgo>
+               </persName>
+            </person>
+            <person xml:id="stainer_mariae_3">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Stainerin</surname>
+               </persName>
+               <note type="family">Ehefrau von <rs type="person" ref="#lercher_georg">Georg Lercher</rs>
+                    </note>
+            </person>
+            <person xml:id="lercher_georg">
+               <persName>
+                  <forename>Georg</forename>
+                  <surname>Lercher</surname>
+                  <vulgo>Gatterer</vulgo>
+               </persName>
+               <note type="placing"><rs type="place" ref="#tesselberg">Tesselberg</rs></note>
             </person>
             <person xml:id="pacher_maria">
                <persName>
@@ -1164,12 +1235,12 @@
                   <surname>Pacherin</surname>
                </persName>
             </person>
-            <person xml:id="stainer_andree">
-               <persName>
-                  <forename>Andre</forename>
-                  <surname>Stainer</surname>
-               </persName>
-            </person>
+
+<!-- bis 61 12r seeligen zwohundert neinundtneinzig Gulden  -->
+
+
+
+<!-- names in work -->
             <person xml:id="gasmayr_maria">
                <persName>
                   <forename>Maria</forename>
@@ -2800,24 +2871,7 @@
                   <forename>Matthias</forename>
                   <surname>Hueber</surname>
                </persName>
-               <note type="family">Sohn von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs> und <rs type="person" ref="#auer_maria">Maria Auerin</rs>
-                    </note>
-            </person>
-            <person xml:id="stainer_mariae_3">
-               <persName>
-                  <forename>Maria</forename>
-                  <surname>Stainerin</surname>
-               </persName>
-               <note type="family">Ehefrau von <rs type="person" ref="#lercher_georg">Georg Lercher</rs>
-                    </note>
-            </person>
-            <person xml:id="lercher_georg">
-               <persName>
-                  <forename>Georg</forename>
-                  <surname>Lercher</surname>
-               </persName>
-               <note type="function">Gatterer am Tesselberg im Amtsgericht <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
+               <note type="family">Sohn von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs> und <rs type="person" ref="#auer_maria">Maria Auerin</rs></note>
             </person>
             <person xml:id="von_hoeberstreith_partlmae">
                <persName>
@@ -2913,14 +2967,6 @@
                   <surname>Lunz</surname>
                </persName>
                <note type="function">Advokat des Konsistoriums und Fiskalamtsverwalter in <rs type="place" ref="#brixen">Brixen</rs></note>
-            </person>
-            <person xml:id="steger_peter_paul">
-               <persName>
-                  <forename>Peter Paul</forename>
-                  <surname>Steeger</surname>
-               </persName>
-               <note type="family">Sohn von <rs type="person" ref="#steger_joseph_markus">Joseph Markus Steeger</rs> und <rs type="person" ref="#hueber_maria_magdalena">Maria Magdalena Hueberin</rs>
-                    </note>
             </person>
             <person xml:id="steger_jakob">
                <persName>
