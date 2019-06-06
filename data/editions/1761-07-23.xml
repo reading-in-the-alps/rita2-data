@@ -617,7 +617,7 @@
                </row>
                <row>
                   <cell>
-                            <rs type="person" ref="#techterle_mathies">Mathies Techterle</rs> Huefschmidt in <rs type="place" ref="#antholz_mittertal">Mitterthall Antholz</rs> sessig, solle auch aus Ybergeben der <rs type="person" ref="#techterle_simon">Simon Techterlischen</rs> Kinderen, und Geschwistrigeten inhalt Ybergab, Quittung und Schultbrief de däto <rs type="place" ref="#antholz_mittertal">Äntholz</rs> <date when="1745-12-22">zwoundtzwainzigisten December änno sibenzechenhundert finfundtvierzig</date> Capitall zwohundert<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Gulden.</p></note> funfzig Gulden, so Herr Ableiber seeligen von dessen Frauen Muetter Maria</cell>
+                            <rs type="person" ref="#techterle_mathies">Mathies Techterle</rs> Huefschmidt in <rs type="place" ref="#antholz_mittertal">Mitterthall Antholz</rs> sessig, solle auch aus Ybergeben der <rs type="person" ref="#techterle_simon">Simon Techterlischen</rs> Kinderen, und Geschwistrigeten inhalt Ybergab, Quittung und Schultbrief de däto <rs type="place" ref="#antholz_mittertal">Äntholz</rs> <date when="1745-12-22">zwoundtzwainzigisten December änno sibenzechenhundert finfundtvierzig</date> Capitall zwohundert<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>Gulden.</p></note> funfzig Gulden, so Herr Ableiber seeligen von dessen Frauen Muetter</cell>
                   <cell/>
                </row>
             </table>
@@ -627,11 +627,11 @@
             <table rend="rules">
                <row>
                   <cell>
-                            <rs type="person" ref="#pacher_maria">Pacherin</rs> seeligen erörbt id est mit</cell>
+                            <rs type="person" ref="#pacher_maria">Maria Pacherin</rs><note><p rend="footnote text"> Maria<hi rend="italic" xml:space="preserve"> auf der letzten Seite geschrieben.</hi></p></note> seeligen erörbt id est mit</cell>
                   <cell>250 f 0 x</cell>
                </row>
                <row>
-                  <cell>Mehr solle er <rs type="person" ref="#techterle_mathies">Mathies Techterle</rs> crafft Ybergab de däto <rs type="place" ref="#rasen">Räsen</rs> <date when="1751-06-29">neinundt zwainzigisten Juni änno sibenzechenhundert ainundtfunfzig</date> auf Ybergeben seines Brueder <rs type="person" ref="#techterle_simon">Simon Techterle</rs> zu <rs type="place" ref="#rasen">Räsen</rs> ebenfahls von dessen Frau Muetter herrierendes Capitall vierundtsibenzig Gulden, vierzig Kreizer id est</cell>
+                  <cell>Mehr solle er <rs type="person" ref="#techterle_mathies">Mathies Techterle</rs> crafft Ybergab de däto <rs type="place" ref="#rasen">Räsen</rs> <date when="1751-06-29">neinundt zwainzigisten Juni änno sibenzechenhundert ainundtfunfzig</date> auf Ybergeben seines Brueder <rs type="person" ref="#techterle_simon">Simon Techterle</rs> zu <rs type="place" ref="#rasen">Räsen</rs> ebenfahls von dessen Frau <rs type="person" ref="#pacher_maria">Muetter</rs> herrierendes Capitall vierundtsibenzig Gulden, vierzig Kreizer id est</cell>
                   <cell>74 f 40 x</cell>
                </row>
                <row>
@@ -753,7 +753,7 @@
             </p>
             <table rend="rules">
                <row>
-                  <cell>ficium jährlichen ainhundert sechzig Gulden zu beziechen gehabt, unnd weillen deme seit <date when="1760-09-20">zwainzigisten Sebtember sibenzechenhundert sechzig</date> bis <date when="1761-07-20">zwainzigisten Julli sibenzechenhundert ainundtsechzig</date> als ervolgten Totfahl von dreissig Wochen das ratum mit zwoundtneinzig Gulden, zwainzig Khreizer angebirig, hingegen wohl derselbe hieran neinundtvierzig Gulden, sechsundtfunfzig Khreizer empfangen, als verbleibt yber deren Abzug gemelte Nachparschafft, oder vilmer dero bestelte Casier <rs type="person" ref="#renzler_martin">Martin Renzler</rs> yber deme weitters in Handen gelassnen ain Gulden, noch ain undtvierzig Gulden, vierundt zwainzig Khreizer schuldig, so derselbe däto dem Herren Brueder <rs type="person" ref="#fezl_joseph_wolfgang">Joseph Wolfgang Fezl</rs> bezalt hat, unnd mithin dise bei ihme Herren Fezl allda pr Vermigen getragen wurde<note>
+                  <cell>ficium jährlichen ainhundert sechzig Gulden zu beziechen gehabt, unnd weillen deme seit <date when="1760-09-20">zwainzigisten Sebtember sibenzechenhundert sechzig</date> bis <date when="1761-07-20">zwainzigisten Julli sibenzechenhundert ainundtsechzig</date> als ervolgten Totfahl von dreissig Wochen das ratum mit zwoundtneinzig Gulden, zwainzig Khreizer angebirig, hingegen wohl derselbe hieran neinundtvierzig Gulden, sechsundtfunfzig Khreizer empfangen, als verbleibt yber deren Abzug gemelte Nachparschafft, oder vilmer dero bestelte Casier <rs type="person" ref="#renzler_martin">Martin Renzler</rs> yber deme weitters in Handen gelassnen ain Gulden, noch ain undtvierzig Gulden, vierundt zwainzig Khreizer schuldig, so derselbe däto dem Herren Brueder <rs type="person" ref="#fezl_joseph_wolfgang">Joseph Wolfgang Fezl</rs> bezalt hat, unnd mithin dise bei ihme <rs type="person" ref="#fezl_christoph">Herren Fezl</rs> allda pr Vermigen getragen wurde<note>
                         <p rend="footnote text">
                            <hi rend="italic">Links neben dem Text eingefügt.</hi>
                         </p>
@@ -791,7 +791,7 @@
             <p>Schulden hinaus</p>
             <table rend="rules">
                <row>
-                  <cell>Ihro Hochwirden dem Herren Pfarrer zu <rs type="place" ref="#gais">Gais</rs> fir der Begrebnusgotts Dienst, unnd Vigill acht Gulden id est</cell>
+                  <cell>Ihro Hochwirden dem <rs type="person" ref="#seeber_felix">Herren Pfarrer</rs> zu <rs type="place" ref="#gais">Gais</rs> fir der Begrebnusgotts Dienst, unnd Vigill acht Gulden id est</cell>
                   <cell>8 f 0 x</cell>
                </row>
                <row>
@@ -837,7 +837,7 @@
                   <cell>30 f 0 x</cell>
                </row>
                <row>
-                  <cell>Fir dem gewohnlichen Jahrstag sambt Bitten, unnd Vigill wohl gemelten Herrn Pfarrer zwo Gulden, finf undtvierzig Khreizer, sage</cell>
+                  <cell>Fir dem gewohnlichen Jahrstag sambt Bitten, unnd Vigill wohl gemelten <rs type="person" ref="#seeber_felix">Herrn Pfarrer</rs> zwo Gulden, finf undtvierzig Khreizer, sage</cell>
                   <cell>2 f 45 x</cell>
                </row>
                <row>
@@ -850,7 +850,7 @@
                </row>
                <row>
                   <cell>
-                     <p>Wegen erkhaufften Prugger Stuckh ist Herr Ableiber noch volgende Capitallien yberpendenermasser zu bezahlen schuldig,</p>
+                     <p>Wegen erkhaufften <rs type="person" ref="#khachler_andre">Prugger</rs> Stuckh ist Herr Ableiber noch volgende Capitallien yberpendenermasser zu bezahlen schuldig,</p>
                      <p>Als dem loblichen <rs type="place" ref="#st_georgen_kirche">Sanct Georgen</rs>
                             </p>
                   </cell>
@@ -866,7 +866,7 @@
                   <cell>608 f 0 x</cell>
                </row>
                <row>
-                  <cell>Interesse Ausstandt dem gewesten Khirchprobsten <rs type="person" ref="#khachler_hanns">Hannsen Khachler</rs> auf verwichen Liechtmössen sibenzechenhundert ainundtsechzig verfallen von ain Jahr vierundt zwainzig Gulden neinzechen Khreizer, daran ihme der Nachparschaffts Cassier, das deme von der <rs type="place" ref="#st_georgen_kirche">Kirch</rs> aus zu empfangen gehabte Deputat inhanden gelassen mit funfzechen Gulden, sechs Khreizer, Rest noch ihme Khirchprobst nein Gulden, dreizechen Khreizer id est</cell>
+                  <cell>Interesse Ausstandt dem gewesten Khirchprobsten <rs type="person" ref="#khachler_hanns">Hannsen Khachler</rs> auf verwichen Liechtmössen sibenzechenhundert ainundtsechzig verfallen von ain Jahr vierundt zwainzig Gulden neinzechen Khreizer, daran ihme der <rs type="person" ref="#renzler_martin">Nachparschaffts Cassier</rs>, das deme von der <rs type="place" ref="#st_georgen_kirche">Kirch</rs> aus zu empfangen gehabte Deputat inhanden gelassen mit funfzechen Gulden, sechs Khreizer, Rest noch ihme Khirchprobst nein Gulden, dreizechen Khreizer id est</cell>
                   <cell>9 f 13 x</cell>
                </row>
                <row>
@@ -1081,7 +1081,7 @@
                   <p rend="footnote text">
                      <hi rend="italic">Irrig für</hi> und.</p>
                </note> obrigkheitlichen Ambts dero hoch, unnd wohl adelich angebohrne Insigler (jedoch daran anderwerts ohne Schaden) hierfirgestelt, unnd anmit gegenwertiges Instrument bestermassen verfertiget unnd bekhrefftiget. Actum et testes ut supra.</p>
-            <p>[aufgedrückte Oblatensiegel des <rs type="person" ref="#ingramb_joseph_mathias">Joseph Matthias Ingram</rs> und <rs type="person" ref="#englmohr_joseph_ignaeti">Joseph Ignaz Englmohr</rs>]</p>
+            <p>[aufgedrückte Oblatensiegel des Joseph Matthias Ingram und Joseph Ignaz Englmohr]</p>
          </div>
       </body>
    </text>
