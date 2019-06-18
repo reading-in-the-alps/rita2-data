@@ -40,7 +40,7 @@
                </msContents>
                <history>
                   <origin notBefore="1781-03-06" notAfter="1781-05-01">
-                     <rs type="place" ref="#st_martin">St. Martin/Sonnenburg</rs>
+                     <rs type="place" ref="#st_martin">St. Martin / Sonnenburg</rs>
                   </origin>
                </history>
             </msDesc>
@@ -61,7 +61,7 @@
                <p>
                   <pb n="1r"/>
                </p>
-               <p>Des wohlehrwürdigen Herrn <rs type="person" ref="#zoeggeler_anton">Anton Tscheggeler</rs> in Leben gewest Stifft Sonnenburgischen Caplan und Beneficiaten bey <rs type="place" ref="#st_martin">St. Martin</rs> untern <date when="1781-03-06">6ten Marz 1781</date> beschriebene</p>
+               <p>Des wohlehrwürdigen Herrn <rs type="person" ref="#zoeggeler_anton">Anton Tscheggeler</rs> in Leben gewest <rs type="place" ref="#stift_sonnenburg">Stifft Sonnenburgischen</rs> Caplan und Beneficiaten bey <rs type="place" ref="#st_martin">St. Martin</rs> untern <date when="1781-03-06">6ten Marz 1781</date> beschriebene</p>
                <p>Inventur<note>
                      <p rend="footnote text">
                         <hi rend="italic">In der Regel wurden die Vermerke über den Verkauf von Inventarsposten in der linken Spalte mit Bleistift geschrieben.</hi>

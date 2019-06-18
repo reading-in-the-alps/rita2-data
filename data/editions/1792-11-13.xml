@@ -1236,7 +1236,7 @@
                   <cell>1 f 12 x</cell>
                </row>
                <row>
-                  <cell>In die Stadt Apoteck zu <rs type="place" ref="#brunegg">Bruneck</rs> an Medicamenten</cell>
+                  <cell>In die <rs type="person" ref="#apotheker_bruneck">Stadt Apoteck</rs> zu <rs type="place" ref="#brunegg">Bruneck</rs> an Medicamenten</cell>
                   <cell>2 f 0 x</cell>
                </row>
                <row>
