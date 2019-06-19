@@ -2157,7 +2157,7 @@
                   <forename/>
                   <surname/>
                </persName>
-               <note type="function">Häuserin des <rs type="person" ref="#sigmayr_andree">Andreas Sigmayr</rs></note>
+               <note type="function">Häuserin des <rs type="person" ref="#jais_celestin_johan">Coelestin Johann Jais</rs></note>
             </person>
 
 <!-- names 1773_12_17 -->
@@ -2393,49 +2393,299 @@
                <note type="function">Benefiziat in <rs type="place" ref="#st_martin">St. Martin</rs></note>
                <note type="function">Erblasser</note>
             </person>
-
-
-
-<!-- names in work -->
-
-            <person xml:id="von_call_johann_leonhard">
+            <person xml:id="wirt_saalen">
                <persName>
-                  <forename>Johann Leonhard</forename>
-                  <surname>von Call</surname>
+                  <forename/>
+                  <surname/>
                </persName>
-               <note type="function">Arzt und Hof- und Lehenrichter des Stifts <rs type="place" ref="#soneburg">Sonnenburg</rs> und Abgeordneter des Stifts</note>
+               <occupation>Wirt</occupation>
+               <note type="placing"><rs type="place" ref="#saalen">Saalen</rs></note>
             </person>
-            <person xml:id="gassmeyr_johann_franz">
+            <person xml:id="von_wiser">
                <persName>
-                  <forename>Johann Franz</forename>
-                  <surname>Gassmayr</surname>
+                  <forename/>
+                  <surname>von Wiser</surname>
                </persName>
-               <note type="function">Arzt und Hof- und Lehenrichter des Stifts <rs type="place" ref="#soneburg">Sonnenburg</rs> und Abgeordneter des Stifts</note>
+            </person>
+            <person xml:id="pachlechner">
+               <persName>
+                  <forename/>
+                  <surname>Bachlechner</surname>
+               </persName>
+            </person>
+            <person xml:id="wiser_hans">
+               <persName>
+                  <forename>Hans</forename>
+                  <forename type="alt">Johann</forename>
+                  <surname>Wiser</surname>
+               </persName>
+            </person>
+            <person xml:id="pecken_toni">
+               <persName>
+                  <forename>Anton</forename>
+                  <surname/>
+                  <vulgo>Becken-Toni</vulgo>
+                  <occupation>Bäcker</occupation>
+               </persName>
+            </person>
+            <person xml:id="aichholzerin">
+               <persName>
+                  <forename/>
+                  <surname/>
+                  <vulgo>Aichholzerin</vulgo>
+               </persName>
+            </person>
+            <person xml:id="hernegger_georg">
+               <persName>
+                  <forename>Georg</forename>
+                  <forename type="alt">Johann</forename>
+                  <surname>Hernegger</surname>
+               </persName>
+            </person>
+            <person xml:id="schmid_lorenzen">
+               <persName>
+                  <forename/>
+                  <surname/>
+                  <occupation>Schmied</occupation>
+                  <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
+               </persName>
+            </person>
+            <person xml:id="maz">
+               <persName>
+                  <forename/>
+                  <surname>Maz</surname>
+                  <occupation>Müller</occupation>
+               </persName>
+            </person>
+            <person xml:id="mazin">
+               <persName>
+                  <forename/>
+                  <surname>Mazin</surname>
+               </persName>
+            </person>
+            <person xml:id="ortnerin">
+               <persName>
+                  <forename/>
+                  <surname>Ortnerin</surname>
+                  <occupation>Wirtin</occupation>
+               </persName>
+            </person>
+            <person xml:id="laurenzen_gerber">
+               <persName>
+                  <forename/>
+                  <surname/>
+                  <occupation>Gerber</occupation>
+                  <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
+               </persName>
+            </person>
+            <person xml:id="pflaurenz_gerber">
+               <persName>
+                  <forename/>
+                  <surname/>
+                  <occupation>Gerber</occupation>
+                  <note type="placing"><rs type="place" ref="#pflaurenz">Pflaurenz</rs></note>
+               </persName>
+            </person>
+            <person xml:id="hortnagl">
+               <persName>
+                  <forename/>
+                  <surname>Hörtnagl</surname>
+               </persName>
+            </person>
+            <person xml:id="luck_beck">
+               <persName>
+                  <forename/>
+                  <surname>Luck</surname>
+                  <occupation>Bäcker</occupation>
+                  <note type="placing"><rs type="place" ref="#brunegg">Bruneck</rs></note>
+               </persName>
+            </person>
+            <person xml:id="spielpichler_matthias">
+               <persName>
+                  <forename>Matthias</forename>
+                  <surname>Spielbichler</surname>
+               </persName>
+            </person>
+            <person xml:id="huberbacher">
+               <persName>
+                  <forename/>
+                  <surname>Huberbacher</surname>
+               </persName>
+            </person>
+            <person xml:id="steurerin">
+               <persName>
+                  <forename/>
+                  <surname>von Steurerin</surname>
+                  <surname type="birth">Kompatscherin</surname>
+               </persName>
+            </person>
+            <person xml:id="lorenzen_buechsenmacher">
+               <persName>
+                  <forename/>
+                  <surname/>
+                  <occupation>Büchsenmacher [Gewehrmacher]</occupation>
+                  <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
+               </persName>
+            </person>
+            <person xml:id="lorenzen_buechsenmacher_ehefrau">
+               <persName>
+                  <forename/>
+                  <surname/>
+                  <note type="family">Ehefrau des <rs type="person" ref="#lorenzen_buechsenmacher">Büchsenmachers aus St. Lorenzen</rs></note>
+                  <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
+               </persName>
             </person>
             <person xml:id="turneretscher_johann_joseph">
                <persName>
                   <forename>Johann Joseph</forename>
                   <surname>Turneretscher</surname>
                </persName>
-               <note type="function">Hof- und Urbaramtmann, Amtschreiber
-                    </note>
+               <note type="function">Hof- und Urbaramtmann des <rs type="place" ref="#stift_sonnenburg">Stifts Sonnenburg</rs></note>
+               <note type="function">Vertreter der Erben im Rahmen der Verlassenschaftsabhandlung des <rs type="person" ref="#zoeggeler_anton">Anton Zöggeler</rs></note>
+            </person>
+            <person xml:id="sonnenburg_mesner">
+               <persName>
+                  <forename/>
+                  <surname/>
+               </persName>
+               <note type="function">Pfarrmesner im <rs type="place" ref="#stift_sonnenburg">Stift Sonnenburg</rs></note>
+               <note type="placing"><rs type="place" ref="#soneburg">Sonnenburg</rs></note>
+            </person>
+            <person xml:id="sonnenburg_mesnerin">
+               <persName>
+                  <forename/>
+                  <surname/>
+               </persName>
+               <note type="family">Ehefrau des <rs type="person" ref="#sonnenburg_mesner">Pfarrmesners in Sonnenburg</rs></note>
+               <note type="placing"><rs type="place" ref="#soneburg">Sonnenburg</rs></note>
+            </person>
+            <person xml:id="linsbichler">
+               <persName>
+                  <forename/>
+                  <surname>Linsbichler</surname>
+               </persName>
+            </person>
+            <person xml:id="niderwanger_ursula">
+               <persName>
+                  <forename>Ursula</forename>
+                  <surname>Niederwangerin</surname>
+               </persName>
+               <note type="family">Schwester von <rs type="person" ref="#niderwanger_joseph">Joseph Niederwanger</rs></note>
+               <note type="function">Häuserin von <rs type="person" ref="#zoeggeler_anton">Anton Zöggeler</rs></note>
+            </person>
+            <person xml:id="niderkofler_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Niederhofer</surname>
+                  <surname type="alt">Niederhofer</surname>
+               </persName>
+            </person>
+            <person xml:id="gasser_christian">
+               <persName>
+                  <forename>Christian</forename>
+                  <surname>Gasser</surname>
+               </persName>
+            </person>
+            <person xml:id="mayr_am_anger">
+               <persName>
+                  <forename/>
+                  <surname/>
+                  <vulgo>Mayr am Anger</vulgo>
+               </persName>
+            </person>
+            <person xml:id="mayr_jakob">
+               <persName>
+                  <forename>Jakob</forename>
+                  <surname>Mayr</surname>
+                  <vulgo>Graspeintner</vulgo>
+                  <vulgo type="alt">Grasbeinter</vulgo>
+                  <note type="function">Beisitzer im Rahmen der Verlassenschaft von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs></note>
+               </persName>
+            </person>
+            <person xml:id="lechner_georg_unsure">
+               <persName>
+                  <forename/>
+                  <surname>Lechner</surname>
+               </persName>
+               <note type="function">Geistlicher</note>
+            </person>
+            <person xml:id="lechner_georg_unsure_haeuserin">
+               <persName>
+                  <forename/>
+                  <surname/>
+               </persName>
+               <note type="function">Häuserin des Geistlichen <rs type="person" ref="#lechner_georg_unsure">Lechner</rs></note>
+            </person>
+            <person xml:id="von_groebner_joseph_anton">
+               <persName>
+                  <forename>Joseph Anton</forename>
+                  <forename type="alt">Joseph Maria Anton</forename>
+                  <surname>von Grebner zu Wolfsthurn</surname>
+               </persName>
+               <note type="function">Gubernialrat</note>
+               <note type="function">Kreishauptmann im Pustertal und Eisacktal</note>
+            </person>
+            <person xml:id="von_leys_ignatz_josef">
+               <persName>
+                  <forename>Ignaz Joseph</forename>
+                  <surname>von Leys</surname>
+               </persName>
+               <note type="function">Landgerichtschreiber in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
+               <note type="function">Pfleger in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
+               <note type="function">Vertreter im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#steeger_leopoldt_niclaus">Leopold Nikolaus Steeger</rs></note>
+               <note type="function">Zeuge im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#stocker_franz_xaver">Franz Xaver Stocker</rs></note>
+            </person>
+            <person xml:id="heleiter_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Helleitner</surname>
+                  <note type="function">Benefiziat in <rs type="place" ref="#brunegg">Bruneck</rs></note>
+                  <note type="function">Bruder von <rs type="person" ref="#helleitner_maria">Maria Helleitnerin</rs></note>
+                  <note type="function">Onkel von <rs type="person" ref="#zoeggeler_anton">Anton Zöggeler</rs></note>
+               </persName>
+            </person>
+            <person xml:id="von_call_johann_leonhard">
+               <persName>
+                  <forename>Johann Leonhard</forename>
+                  <surname>von Call</surname>
+               </persName>
+               <note type="function">Doktor beider Rechte</note>
+               <note type="function">Hof- und Lehenrichter des <rs type="place" ref="#stift_sonnenburg">Stifts Sonnenburg</rs></note>
+               <note type="function">Abgeordneter (Deputierter) des <rs type="place" ref="#stift_sonnenburg">Stifts Sonnenburg</rs> im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#zoeggeler_anton">Anton Zöggeler</rs></note>
+            </person>
+            <person xml:id="gassmeyr_johann_franz">
+               <persName>
+                  <forename>Johann Franz</forename>
+                  <surname>Gassmayr</surname>
+               </persName>
+               <note type="function">Kommissionsschreiber und Amtgerichtschreiber in <rs type="place" ref="#brunegg">Bruneck</rs></note>
+               <note type="placing"><rs type="place" ref="#brunegg">Bruneck</rs></note>
+            </person>
+            <person xml:id="schenfelder">
+               <persName>
+                  <forename/>
+                  <surname>Schönfelder</surname>
+                  <note type="function">Kaplan in der <rs type="place=" ref="#st_gotthard">St.-Gotthard-und-St.-Erhard-Kirche</rs></note>
+               </persName>
             </person>
             <person xml:id="niderwanger_joseph">
                <persName>
                   <forename>Joseph</forename>
                   <surname>Niederwanger</surname>
                </persName>
+               <note type="family">Bruder von <rs type="person" ref="#niderwanger_ursula">Ursula Niederwanger</rs></note>
+               <note type="function">Anweiser von <rs type="person" ref="#niderwanger_ursula">Ursula Niederwanger (1781)</rs></note>
+               <note type="function">Schulhalter in <rs type="place" ref="#gais">Gais</rs></note>
             </person>
+
+<!-- bis zöggeler 1205 3r Nach welch pro et contra gemachten Äuserun -->
+
+<!-- names in work -->
+
             <person xml:id="pranter_barbara">
                <persName>
                   <forename>Barbara</forename>
                   <surname>Pranterin</surname>
-               </persName>
-            </person>
-            <person xml:id="niderwanger_ursula">
-               <persName>
-                  <forename>Ursula</forename>
-                  <surname>Niederwanger</surname>
                </persName>
             </person>
             <person xml:id="kamerer_hanns">
@@ -2450,6 +2700,12 @@
                <persName>
                   <forename>Elisabeth</forename>
                   <surname>Eggerin</surname>
+               </persName>
+            </person>
+            <person xml:id="prantner_michael">
+               <persName>
+                  <forename>Michael</forename>
+                  <surname>Prantner</surname>
                </persName>
             </person>
             <person xml:id="lercher_joseph">
@@ -2473,6 +2729,14 @@
                   <surname>Lercher</surname>
                </persName>
             </person>
+            <person xml:id="helleitner_maria_2">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Helleitnerin</surname>
+               </persName>
+            </person>
+
+
             <person xml:id="niderbacher_hans">
                <persName>
                   <forename>Johann</forename>
@@ -2483,18 +2747,6 @@
                <persName>
                   <forename>Joseph</forename>
                   <surname>Fischnaller</surname>
-               </persName>
-            </person>
-            <person xml:id="heleiter_joseph">
-               <persName>
-                  <forename>Joseph</forename>
-                  <surname>Helleitner</surname>
-               </persName>
-            </person>
-            <person xml:id="prantner_michael">
-               <persName>
-                  <forename>Michael</forename>
-                  <surname>Prantner</surname>
                </persName>
             </person>
             <person xml:id="nideregger_hanns">
@@ -2644,14 +2896,6 @@
                   <surname>Anrather</surname>
                </persName>
                <note type="function">Chirurg in <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
-            </person>
-            <person xml:id="von_leys_ignatz_josef">
-               <persName>
-                  <forename>Ignaz Josef</forename>
-                  <surname>von Leys</surname>
-               </persName>
-               <note type="function">Landgerichtschreiber in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
                     </note>
             </person>
             <person xml:id="erlacher_maria_theresia">
@@ -3053,13 +3297,6 @@
                <note type="function">Oberschreiber in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs>
                     </note>
             </person>
-            <person xml:id="von_groebner_joseph_anton">
-               <persName>
-                  <forename>Joseph Anton</forename>
-                  <surname>von Gröbner</surname>
-               </persName>
-               <note type="function">Gubernialrat</note>
-            </person>
             <person xml:id="renzler_maria">
                <persName>
                   <forename>Maria</forename>
@@ -3312,13 +3549,6 @@
                </persName>
                <note type="function">Landrichter der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>
                     </note>
-            </person>
-            <person xml:id="mayr_jakob">
-               <persName>
-                  <forename>Jakob</forename>
-                  <surname>Mayr</surname>
-               </persName>
-               <note type="function">Graspeintner</note>
             </person>
             <person xml:id="hueber_jakob">
                <persName>
