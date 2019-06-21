@@ -558,7 +558,7 @@
                <location><geo decls="#LatLng">46.696169 11.641767</geo></location>
             </place>
             <place xml:id="st_johannes">
-               <placeName>St. Johannes</placeName>
+               <placeName>St. Johannes (eventuell <rs type="place" ref="gais_kirche">St. Johannes in Gais</rs>)</placeName>
             </place>
             <place xml:id="ulten">
                <placeName>Ultental</placeName>
@@ -580,12 +580,6 @@
                <district>Sarnthein</district>
                <location><geo decls="#LatLng">46.64352 11.35577</geo></location>
                <idno type="GEONAMES">http://www.geonames.org/6535928</idno>
-            </place>
-            <place xml:id="olang_kirche">
-               <placeName>St. Petrus und St. Agnes (Kirche)</placeName>
-               <placeName type="italiano">Parrocchia Valdaora Di Sotto</placeName>
-	             <settlement ref="niederolang">Niederolang</settlement>
-               <location><geo decls="#LatLng">46.767856 12.016395</geo></location>
             </place>
             <place xml:id="niederolang">
                <placeName>Niederolang</placeName>
