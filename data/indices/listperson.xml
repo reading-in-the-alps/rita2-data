@@ -396,7 +396,15 @@
                   <surname>Puellin</surname>
                </persName>
                <note type="family">Tochter von <rs type="person" ref="#wachtler_jacob">Jakob Wachtler</rs> und <rs type="person" ref="#manucredo_maria_ursulae">Maria Ursula Manucredin</rs></note>
-               <note type="family">Witwe von [N.] Puell</note>
+               <note type="family">Witwe von <rs type="person" ref="#puell_1">[N.] Puel</rs></note>
+               <note type="placing"><rs type="place" ref="#brunegg">Bruneck</rs></note>
+            </person>
+            <person xml:id="puell_1">
+               <persName>
+                  <forename/>
+                  <surname>Puel</surname>
+               </persName>
+               <note type="family">Ehemann von <rs type="person" ref="#puell_maria_theresia">Maria Theresian Wachtlerin</rs></note>
                <note type="placing"><rs type="place" ref="#brunegg">Bruneck</rs></note>
             </person>
             <person xml:id="wachtler_maria_ursulae">
@@ -476,7 +484,8 @@
                </persName>
                <occupation>Wirt "an der Rose" in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></occupation>
                <note type="family">Bruder von <rs type="person" ref="#wachtler_joseph_antany">Joseph Anton Wachtler</rs></note>
-               <note type="function">Schuldner des <rs type="person" ref="#stainer_sebastian">Sebastian Joseph Stainer</rs></note>
+               <note type="function">Schuldner von <rs type="person" ref="#stainer_sebastian">Sebastian Joseph Stainer</rs></note>
+               <note type="function">Zeuge bei der Verlassenschaftsabhandlung von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs></note>
             </person>
             <person xml:id="wachtler_maria_theresa">
                <persName>
@@ -723,7 +732,7 @@
                   <surname type="birth">Stainerin</surname>
                </persName>
                <note type="family">Schwester von <rs type="person" ref="#stainer_sebastian">Sebastian Joseph Stainer</rs></note>
-               <note type="family">Ehefrau von <rs type="person" ref="#planer_Stephan">Stephan Planer</rs></note>
+               <note type="family">Ehefrau von <rs type="person" ref="#planer_Stephan">Stefan Planer</rs></note>
             </person>
             <person xml:id="planer_stephan">
                <persName>
@@ -738,7 +747,7 @@
                   <surname>Planer</surname>
                </persName>
                <occupation>Wirt (Bestandswirt) "am Bären" in <rs type="place" ref="#klausen">Klausen</rs></occupation>
-               <note type="family">Sohn von <rs type="person" ref="#planer_Stephan">Stephan Planer</rs> und <rs type="person" ref="#stainer_mariae">Maria Stainerin</rs></note>
+               <note type="family">Sohn von <rs type="person" ref="#planer_Stephan">Stefan Planer</rs> und <rs type="person" ref="#stainer_mariae">Maria Stainerin</rs></note>
                <note type="family">Ehemann von <rs type="person" ref="#riglin_elisabeth">Elisabeth Riglin</rs></note>
             </person>
             <person xml:id="riglin_elisabeth">
@@ -2204,20 +2213,11 @@
                <note type="function">Kurator von <rs type="person" ref="#gasser_joseph_2">Joseph Gasser</rs></note>
                <note type="placing"><rs type="place" ref="#brixen">Brixen</rs></note>
             </person>
-            <person xml:id="tratter_mathes">
-               <persName>
-                  <forename>Matthias</forename>
-                  <surname>Tratter</surname>
-                  <vulgo>Tratter</vulgo>
-               </persName>
-               <note type="family">Bruder von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs></note>
-               <note type="placing"><rs type="place" ref="#st_georgen">St. Georgen</rs></note>
-            </person>
             <person xml:id="thalackerin_maria">
                <persName>
                   <forename>Maria</forename>
                   <surname>Talackerin</surname>
-                  <vulgo>Tratter</vulgo>
+                  <vulgo>Tratterin</vulgo>
                </persName>
                <note type="placing"><rs type="place" ref="#st_georgen">St. Georgen</rs></note>
             </person>
@@ -2335,16 +2335,6 @@
                </persName>
                <note type="placing"><rs type="place" ref="#brixen">brixen</rs></note>
             </person>
-            <person xml:id="tratter_joseph">
-               <persName>
-                  <forename>Joseph</forename>
-                  <surname>Tratter</surname>
-               </persName>
-               <note type="family">Bruder von <rs type="person" ref="#tratter_mathes">Matthias Tratter</rs></note>
-               <note type="function">Benefiziat in <rs type="place" ref="#st_georgen">St. Georgen</rs> (1773)</note>
-               <note type="function">Kaplan in <rs type="place" ref="#st_georgen">St. Georgen</rs> (1792)</note>
-               <note type="placing"><rs type="place" ref="#st_georgen">St. Georgen</rs></note>
-            </person>
             <person xml:id="plank_ursula">
                <persName>
                   <forename>Ursula</forename>
@@ -2359,6 +2349,7 @@
                   <surname>Salcher</surname>
                </persName>
                <note type="function">Amtschreiber in <rs type="place" ref="#soneburg">Sonnenburg</rs></note>
+               <note type="function">Gewalthaber von <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs> und ihren Kindern (1784)</note>
             </person>
             <person xml:id="von_klausner_peter">
                <persName>
@@ -3620,7 +3611,7 @@
                   <forename/>
                   <surname>Steinbergerin</surname>
                </persName>
-               <note type="family">Ehefrau des <rs type="person" ref="#steinburger_johann_stephann">Johann Stefan Steinberger</rs></note>
+               <note type="family">Ehefrau von <rs type="person" ref="#steinburger_johann_stephann">Johann Stefan Steinberger</rs></note>
             </person>
             <person xml:id="baecker_lorenzen">
                <persName>
@@ -3682,6 +3673,7 @@
                   <surname>von Elzenbaum</surname>
                </persName>
                <note type="function">Expeditor (1781)</note>
+               <note type="function">Anweiser von <rs type="person" ref="#von_aschauer_maria_agnes">Maria Agnes Gassmayrin</rs>, <rs type="person" ref="#gassmayr_maria_notburga">Maria Notburga Gassmayrin</rs> und <rs type="person" ref="#gassmayr_joseph">Joseph Candidus Gassmayr</rs> (1784)</note>
             </person>
             <person xml:id="stocker_antoni">
                <persName>
@@ -3830,14 +3822,6 @@
                <occupation>Chirurg</occupation>
                <note type="placing"><rs type="place" ref="#brunegg">Bruneck</rs></note>
             </person>
-            <person xml:id="anrather_franz">
-               <persName>
-                  <forename>Franz</forename>
-                  <surname>Anrather</surname>
-               </persName>
-               <occupation>Chirurg</occupation>
-               <note type="placing"><rs type="place" ref="#brunegg">Bruneck</rs></note>
-            </person>
             <person xml:id="baurmiller_">
                <persName>
                   <forename/>
@@ -3853,9 +3837,48 @@
                   <forename>Anton Ignaz</forename>
                   <surname>Gassmayr</surname>
                </persName>
+               <note type="family">Sohn von <rs type="person" ref="#gassmayr_antoni_senior">Anton Gassmayr</rs> und <rs type="person" ref="#zaecher_elisabeth">Elisabeth Zächerin</rs></note>
                <note type="function">Erblasser</note>
-               <note type="function">Priester</note>
-               <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
+               <note type="function">Priester in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
+               <note type="placing">wohnhaft bei <rs type="person" ref="#gassmayr_joseph">Joseph Candidus Gassmayr</rs> in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
+            </person>
+            <person xml:id="gassmayr_antoni_senior">
+               <persName>
+                  <forename>Johann Anton</forename>
+                  <surname>Gassmayr</surname>
+               </persName>
+               <note type="family">Vater von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs>, <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs>, <rs type="person" ref="#von_aschauer_maria_agnes">Maria Agnes Gassmayrin</rs>, <rs type="person" ref="#gassmayr_maria_notburga">Maria Notburga Gassmayrin</rs> und <rs type="person" ref="#gassmayr_joseph">Joseph Candidus Gassmayr</rs></note>
+               <note type="family">Ehemann von <rs type="person" ref="#zaecher_elisabeth">Elisabeth Zächerin</rs></note>
+               <note type="family">Ehemann von <rs type="person" ref="#von_wagner_maria_ursula">Maria Ursula von Wagner</rs></note>
+               <note type="family">Ehemann von <rs type="person" ref="#von_eiberg_maria_anna">Maria Anna von Eiberg</rs></note>
+               <note type="function">Faktor des Kupferbergwerks im <rs type="place" ref="#aehrn">Ahrntal</rs></note>
+            </person>
+            <person xml:id="zaecher_elisabeth">
+               <persName>
+                  <forename>Elisabeth</forename>
+                  <surname type="birth">Zächerin</surname>
+                  <surname>Gassmayrin</surname>
+               </persName>
+               <note type="family">erste Ehefrau von <rs type="person" ref="#gassmayr_antoni_senior">Anton Gassmayr</rs></note>
+               <note type="family">Mutter von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs></note>
+            </person>
+            <person xml:id="von_wagner_maria_ursula">
+               <persName>
+                  <forename>Maria Ursula</forename>
+                  <surname type="birth">von Wagner</surname>
+                  <surname>Gassmayrin</surname>
+               </persName>
+               <note type="family">zweite Ehefrau von <rs type="person" ref="#gassmayr_antoni_senior">Anton Gassmayr</rs></note>
+               <note type="family">Mutter von <rs type="person" ref="#von_aschauer_maria_agnes">Maria Agnes Gassmayrin</rs></note>
+            </person>
+            <person xml:id="von_eiberg_maria_anna">
+               <persName>
+                  <forename>Maria Anna</forename>
+                  <surname type="birth">von Eiberg</surname>
+                  <surname>Gassmayrin</surname>
+               </persName>
+               <note type="family">dritte Ehefrau von <rs type="person" ref="#gassmayr_antoni_senior">Anton Gassmayr</rs></note>
+               <note type="family">Mutter von <rs type="person" ref="#gassmayr_maria_notburga">Maria Notburga Gassmayrin</rs> und <rs type="person" ref="#gassmayr_joseph">Joseph Candidus Gassmayr</rs></note>
             </person>
             <person xml:id="erlacher_maria_theresia">
                <persName>
@@ -3864,6 +3887,72 @@
                   <surname>Erlacherin</surname>
                </persName>
                <note type="family">Schwester von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs></note>
+               <note type="family">Ehefrau von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs></note>
+            </person>
+            <person xml:id="von_erlach_franz_bernhart">
+               <persName>
+                  <forename>Franz Bernhard</forename>
+                  <surname>von Erlach</surname>
+               </persName>
+               <note type="function">Vizefaktor des k. k. Berg- und Schmelzwerkhandels in <rs type="place" ref="#schwaz">Schwaz</rs></note>
+               <note type="family">Ehemann von <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs></note>
+            </person>
+            <person xml:id="erlacher_leopold">
+               <persName>
+                  <forename>Leopold</forename>
+                  <surname>von Erlach</surname>
+               </persName>
+               <note type="family">Sohn von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs></note>
+               <note type="function">Professe im <rs type="place" ref="#brixen_neustift">Kloster Neustift</rs></note>
+               <note type="placing"><rs type="place" ref="#brixen">Brixen</rs></note>
+            </person>
+            <person xml:id="erlacher_johann_martin">
+               <persName>
+                  <forename>Johann Martin</forename>
+                  <surname>von Erlach</surname>
+               </persName>
+               <note type="family">Sohn von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs></note>
+               <note type="function">k.k. Waldamtpraktikant</note>
+            </person>
+            <person xml:id="erlacher_notburga">
+               <persName>
+                  <forename>Notburga</forename>
+                  <surname>von Erlach</surname>
+               </persName>
+               <note type="family">Tochter von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs></note>
+               <note type="placing">wohnhaft in <rs type="place" ref="#lemberg">Lemberg</rs> (Polen)</note>
+            </person>
+            <person xml:id="klinger_maria_veronica">
+               <persName>
+                  <forename>Maria Veronika</forename>
+                  <surname type="birth">von Erlach</surname>
+                  <surname>Klinglerin</surname>
+               </persName>
+               <note type="family">Tochter von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs></note>
+               <note type="family">Ehefrau von <rs type="person" ref="#klinger_johann_niclaus">Johann Nikolaus Klingler</rs></note>
+            </person>
+            <person xml:id="klinger_johann_niclaus">
+               <persName>
+                  <forename>Johann Nikolaus</forename>
+                  <surname>Klingler</surname>
+               </persName>
+               <note type="family">Ehemann von <rs type="person" ref="#klinger_maria_veronica">Maria Veronika von Erlach</rs></note>
+               <note type="function">k. k. Bergschreiber in <rs type="place" ref="#schwaz">Schwaz</rs></note>
+               <note type="function">Anweiser von <rs type="person" ref="#klinger_maria_veronica">Maria Veronika von Erlach</rs></note>
+            </person>
+            <person xml:id="erlacher_anna_theresia">
+               <persName>
+                  <forename>Anna Theresia</forename>
+                  <surname>von Erlach</surname>
+               </persName>
+               <note type="family">Tochter von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs></note>
+            </person>
+            <person xml:id="erlacher_maria_catharina">
+               <persName>
+                  <forename>Maria Katharina</forename>
+                  <surname>von Erlach</surname>
+                  <note type="family">Tochter von <rs type="person" ref="#von_erlach_franz_bernhart">Franz Bernhard von Erlach</rs> und <rs type="person" ref="#erlacher_maria_theresia">Maria Theresia Gassmayrin</rs></note>
+               </persName>
             </person>
             <person xml:id="von_aschauer_maria_agnes">
                <persName>
@@ -3872,7 +3961,7 @@
                   <surname>von Aschauer von Achenrain</surname>
                </persName>
                <note type="family">Ehefrau von <rs type="person" ref="#von_aschauer_franz_carl">Franz Karl von Aschauer von Achenrain</rs></note>
-               <note type="family">Schwester von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs></note>
+               <note type="family">Halbschwester von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs></note>
             </person>
             <person xml:id="von_aschauer_franz_carl">
                <persName>
@@ -3886,72 +3975,16 @@
                   <forename>Maria Notburga</forename>
                   <surname>Gassmayrin</surname>
                </persName>
-               <note type="family">Schwester von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs></note>
+               <note type="family">Halbschwester von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs></note>
             </person>
             <person xml:id="gassmayr_joseph">
                <persName>
                   <forename>Joseph Candidus</forename>
                   <surname>Gassmayr</surname>
                </persName>
-               <note type="family">Bruder von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs></note>
+               <note type="family">Halbbruder von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs></note>
                <note type="function">Pfarrer in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
-            </person>
-
-<!-- bis 1784 414r Unsern freundlichen Gruß, und Dienst anvor: -->
-
-
-<!-- names in work -->
-            <person xml:id="von_sonvicis_joseph_ignaz">
-               <persName>
-                  <forename>Joseph Ignaz</forename>
-                  <surname>von Sonvicis</surname>
-               </persName>
-               <note type="function">Kurator der Notburga Erlachin, wohnhaft in <rs type="place" ref="#lemberg">Lemberg</rs> (Polen)
-                    </note>
-            </person>
-            <person xml:id="erlacher_johann_martin">
-               <persName>
-                  <forename>Johann Martin</forename>
-                  <surname>Erlacher</surname>
-               </persName>
-               <note type="function">k.k. Waldamtpraktikant</note>
-            </person>
-            <person xml:id="klinger_maria_veronica">
-               <persName>
-                  <forename>Maria Veronika</forename>
-                  <surname>Klinglerin</surname>
-               </persName>
-               <note type="family">gebohrene Erlacherin</note>
-            </person>
-            <person xml:id="klinger_johann_niclaus">
-               <persName>
-                  <forename>Johann Nikolaus</forename>
-                  <surname>Klingler</surname>
-               </persName>
-            </person>
-            <person xml:id="erlacher_anna_theresia">
-               <persName>
-                  <forename>Anna Theresia</forename>
-                  <surname>Erlacherin</surname>
-               </persName>
-            </person>
-            <person xml:id="erlacher_leopold">
-               <persName>
-                  <forename>Leopold</forename>
-                  <surname>Erlacher</surname>
-               </persName>
-            </person>
-            <person xml:id="erlacher_maria_catharina">
-               <persName>
-                  <forename>Maria Katharina</forename>
-                  <surname>Erlacherin</surname>
-               </persName>
-            </person>
-            <person xml:id="eysankh_von_marienfels_ignati_benedict">
-               <persName>
-                  <forename>Ignaz Benedikt</forename>
-                  <surname>Eysank von Marienfels</surname>
-               </persName>
+               <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </person>
             <person xml:id="pirchstaller_johann_baptist">
                <persName>
@@ -3965,68 +3998,64 @@
                   <forename>Kaspar Sebastian</forename>
                   <surname>von Luz zu Gwelfenstein</surname>
                </persName>
-               <note type="function">Apostolischer Protonotarius, Ratsherr in <rs type="place" ref="#brixen">Brixen</rs> und Dechant und Pfarrer in <rs type="place" ref="#brunegg">Bruneck</rs>
-                    </note>
+               <note type="function">Apostolischer Protonotarius</note>
+               <note type="function">Ratsherr in <rs type="place" ref="#brixen">Brixen</rs></note>
+               <note type="function">Dechant und Pfarrer in <rs type="place" ref="#brunegg">Bruneck</rs></note>
             </person>
             <person xml:id="klammer_josef">
                <persName>
                   <forename>Joseph</forename>
                   <surname>Klammer</surname>
                </persName>
-               <note type="function">Kaplan in Kronburg</note>
-            </person>
-            <person xml:id="von_erlach_franz_bernhart">
-               <persName>
-                  <forename>Franz Bernhard</forename>
-                  <surname>von Erlach</surname>
-               </persName>
+               <note type="function">Kaplan [Presbyter] in <rs type="place" ref="#brixen">Brixen</rs></note>
             </person>
             <person xml:id="durregger_jacob">
                <persName>
                   <forename>Jakob</forename>
                   <surname>Duregger</surname>
+                  <vulgo>Oberlinder</vulgo>
                </persName>
-               <note type="function">Oberlinder in <rs type="place" ref="#stainhaus">Steinhaus</rs> im Landgericht <rs type="place" ref="#taufers">Taufers</rs></note>
+               <note type="placing"><rs type="place" ref="#stainhaus">Steinhaus</rs> im Landgericht <rs type="place" ref="#taufers">Taufers</rs></note>
             </person>
             <person xml:id="niederkofler_josef">
                <persName>
                   <forename>Joseph</forename>
                   <surname>Niederkofler</surname>
+                  <vulgo>Brugger</vulgo>
                </persName>
-               <note type="function">Brugger in <rs type="place" ref="#stainhaus">Steinhaus</rs> im Landgericht <rs type="place" ref="#taufers">Taufers</rs>
-                    </note>
+               <note type="placing"><rs type="place" ref="#stainhaus">Steinhaus</rs> im Landgericht <rs type="place" ref="#taufers">Taufers</rs></note>
             </person>
-            <person xml:id="zaecher_elisabeth">
+            <person xml:id="aichholzer_wirt">
                <persName>
-                  <forename>Elisabeth</forename>
-                  <surname>Zächerin</surname>
+                  <forename/>
+                  <surname/>
+                  <vulgo>Aichholzer</vulgo>
                </persName>
+               <occupation>Wirt "Aichholzer"</occupation>
+            </person>
+            <person xml:id="von_sonvicis_joseph_ignaz">
+               <persName>
+                  <forename>Joseph Ignaz</forename>
+                  <surname>von Sonvicis</surname>
+               </persName>
+               <note type="function">Kurator der <rs type="person" ref="#erlacher_notburga">Notburga Erlachin</rs></note>
+            </person>
+            <person xml:id="eysankh_von_marienfels_ignati_benedict">
+               <persName>
+                  <forename>Ignaz Benedikt</forename>
+                  <surname>Eysank von Marienfels</surname>
+               </persName>
+               <note type="function">Anweiser im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#gassmayr_antoni_ignati">Anton Ignaz Gassmayr</rs></note>
             </person>
             <person xml:id="von_elzenbaum_christoph">
                <persName>
                   <forename>Christoph</forename>
                   <surname>von Elzenbaum</surname>
                </persName>
+               <note type="function">Verraiter im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#zaecher_elisabeth">Elisabeth Zächerin</rs> (1710)</note>
             </person>
-            <person xml:id="gassmayr_johan_anton">
-               <persName>
-                  <forename>Johann Anton</forename>
-                  <surname>Gassmayr</surname>
-               </persName>
-            </person>
-            <person xml:id="von_wagner_maria_ursula">
-               <persName>
-                  <forename>Maria Ursula</forename>
-                  <surname>von Wagner</surname>
-               </persName>
-            </person>
-            <person xml:id="von_eiberg_maria_anna">
-               <persName>
-                  <forename>Maria Anna</forename>
-                  <surname>Gassmayrin</surname>
-               </persName>
-                <note type="family">geb. von Eiberg, Witwe des Anton Gassmayr</note>
-            </person>
+
+<!-- names 1784_04_17 -->
             <person xml:id="hueber_christian">
                <persName>
                   <forename>Christian</forename>
@@ -4034,47 +4063,84 @@
                </persName>
                <note type="function">Mesner in <rs type="place" ref="#st_georgen">St. Georgen</rs></note>
             </person>
+            <person xml:id="tratter_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Tratter</surname>
+               </persName>
+               <note type="family">Bruder von <rs type="person" ref="#tratter_mathes">Matthias Tratter</rs></note>
+               <note type="function">Benefiziat in <rs type="place" ref="#st_georgen">St. Georgen</rs> (1773)</note>
+               <note type="function">Kaplan in <rs type="place" ref="#st_georgen">St. Georgen</rs> (1792)</note>
+               <note type="function">Erblasser (1792)</note>
+               <note type="placing"><rs type="place" ref="#st_georgen">St. Georgen</rs></note>
+            </person>
+            <person xml:id="tratter_mathes">
+               <persName>
+                  <forename>Matthias</forename>
+                  <surname>Tratter</surname>
+                  <vulgo>Tratter</vulgo>
+               </persName>
+               <note type="family">Bruder von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs></note>
+               <note type="placing"><rs type="place" ref="#st_georgen">St. Georgen</rs></note>
+            </person>
             <person xml:id="tratter_maria">
                <persName>
                   <forename>Maria</forename>
-                  <surname>Tratterin</surname>
+                  <surname type="birth">Tratterin</surname>
+                  <surname>Pifraderin Prantlechnerin</surname>
                </persName>
-               <note type="family">verwittwete Pifraderin</note>
+               <note type="family">Schwester von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs></note>
             </person>
             <person xml:id="tratter_balthasar">
                <persName>
                   <forename>Balthasar</forename>
                   <surname>Tratter</surname>
                </persName>
-               <note type="function">Kooperator in <rs type="place" ref="#latzfons">Latzfons</rs>
-                    </note>
+               <note type="family">Bruder von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs></note>
+               <note type="function">Kooperator in <rs type="place" ref="#latzfons">Latzfons</rs></note>
+               <note type="placing"><rs type="place" ref="#st_georgen">St. Georgen</rs></note>
             </person>
             <person xml:id="peintner_georg">
                <persName>
                   <forename>Georg</forename>
                   <surname>Peintner</surname>
+                  <vulgo>Kachler (Kachler-Wirt)</vulgo>
                </persName>
-               <note type="function">Kachler-Wirt</note>
+               <occupation>Wirt</occupation>
+               <note type="function">Kurator und Vertreter von <rs type="person" ref="#tratter_veit">Veit Tratter</rs>, <rs type="person" ref="#tratter_ursula">Ursula Tratterin</rs> und <rs type="person" ref="#tratter_katharina">Katharina Tratterin</rs></note>
             </person>
             <person xml:id="tratter_veit">
                <persName>
                   <forename>Veit</forename>
                   <surname>Tratter</surname>
                </persName>
-               <note type="function">Weißgerbermeister in <rs type="place" ref="#stoerzing">Sterzing</rs>
-                    </note>
+               <note type="family">Bruder von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs></note>
+               <note type="family">Ehemann von <rs type="person" ref="#tratter_anna">Anna Ofnerin</rs></note>
+               <note type="function">Weißgerbermeister in <rs type="place" ref="#stoerzing">Sterzing</rs></note>
+            </person>
+            <person xml:id="tratter_anna">
+               <persName>
+                  <forename>Anna</forename>
+                  <surname type="birth">Ofnerin</surname>
+                  <surname>Tratterin</surname>
+               </persName>
+               <note type="family">Ehefrau von <rs type="person" ref="#tratter_veit">Veit Tratter</rs></note>
             </person>
             <person xml:id="tratter_ursula">
                <persName>
                   <forename>Ursula</forename>
                   <surname>Tratterin</surname>
                </persName>
+               <note type="family">Schwester von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs></note>
+               <note type="placing"><rs type="place" ref="#borgo">Borgo Sacco</rs></note>
             </person>
             <person xml:id="tratter_katharina">
                <persName>
                   <forename>Katharina</forename>
                   <surname>Tratterin</surname>
                </persName>
+               <note type="family">Schwester von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs></note>
+               <note type="placing"><rs type="place" ref="#pasln">Baslan</rs></note>
             </person>
             <person xml:id="harrasser_joseph">
                <persName>
@@ -4082,54 +4148,78 @@
                   <surname>Harrasser</surname>
                </persName>
                <note type="function">Müllermeister</note>
+               <note type="function">Mitglied des Landgerichtsausschusses</note>
+               <note type="function">Taxator und Beisitzer im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs></note>
+            </person>
+            <person xml:id="aktuar_tratter">
+               <persName>
+                  <forename/>
+                  <surname/>
+               </persName>
+               <note type="function">Aktuar im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs></note>
             </person>
             <person xml:id="pifrader_joseph">
                <persName>
                   <forename>Joseph</forename>
                   <surname>Pifrader</surname>
                </persName>
+               <note type="function">Gemeinschaftsführer im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs></note>
             </person>
             <person xml:id="felser_joseph">
                <persName>
                   <forename>Joseph</forename>
                   <surname>Felser</surname>
+                  <vulgo>halber Kaltenhauser</vulgo>
                </persName>
+               <note type="function">Anweiser (in assistentia) von <rs type="person" ref="#tratter_maria">Maria Tratterin</rs></note>
+               <note type="placing"><rs type="place" ref="#st_georgen">St. Georgen</rs></note>
             </person>
             <person xml:id="lechner_anna">
                <persName>
                   <forename>Anna</forename>
                   <surname>Lechnerin</surname>
                </persName>
+               <note type="function">in Dienst bei <rs type="person" ref="#puell_2">[N.] Puel</rs></note>
+               <note type="placing"><rs type="place" ref="#brunegg">Bruneck</rs></note>
             </person>
+            <person xml:id="puell_2">
+               <persName>
+                  <forename/>
+                  <surname>Puel</surname>
+               </persName>
+               <note type="function">Dienstgeber von <rs type="person" ref="#lechner_anna">Anna Lechnerin</rs></note>
+               <note type="placing"><rs type="place" ref="#brunegg">Bruneck</rs></note>
+            </person>
+
+<!-- bis 92, 489r Begehren laut der Schulden hinaus 202 f 0 x mithin zusammen 830 -->
+
+
             <person xml:id="tratter_maria_2">
                <persName>
                   <forename>Maria</forename>
+                  <surname type="birth">Kammererin</surname>
                   <surname>Tratterin</surname>
                </persName>
-               <note type="family">geb. Kammererin, Mutter von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs>
-                    </note>
+               <note type="family">Mutter von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs></note>
             </person>
             <person xml:id="tratter_margaretha">
                <persName>
                   <forename>Margaretha</forename>
+                  <surname type="birth">Mayrin</surname>
                   <surname>Tratterin</surname>
                </persName>
-               <note type="family">geb. Mayrin</note>
             </person>
+
+
+<!-- names in work -->
+
+
             <person xml:id="herrnegger_johann">
                <persName>
                   <forename>Johann</forename>
                   <surname>Hernegger</surname>
                </persName>
                <note type="function">Schneidermeister in <rs type="place" ref="#soneburg">Sonnenburg</rs>
-                    </note>
-            </person>
-            <person xml:id="tratter_anna">
-               <persName>
-                  <forename>Anna</forename>
-                  <surname>Tratterin</surname>
-               </persName>
-               <note type="family">geb. Ofnerin, Ehefrau von <rs type="person" ref="#tratter_veit">Veit Tratter</rs>
                     </note>
             </person>
             <person xml:id="pifrader_paul">
@@ -5037,7 +5127,7 @@
             </person>
             <person xml:id="stern-stephan">
                <persName>
-                  <forename>Stephan</forename>
+                  <forename>Stefan</forename>
                   <surname>Stern (Auten)</surname>
                </persName>
             </person>

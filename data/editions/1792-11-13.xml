@@ -67,7 +67,7 @@
                 </p>
             <p>Vor loblicher Landgerichts Obrigkeit der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs>.</p>
             <p>Deto hierfür samt Schreibgeld 1 f 2 x, so in Verfachbüchl eingeschrieben worden.
-               <note><p rend="footnote text"><hi rend="italic">Gesamte Anmerkung am linken Rand geschrieben.</hi></p></note>
+               <note><p rend="footnote text"><hi rend="italic"> Gesamte Anmerkung am linken Rand geschrieben.</hi></p></note>
             </p>
             <p>Erscheint <rs type="person" ref="#hueber_christian">Christian Hueber</rs> Mesner allda mit dem Anbringen, dass, weilen am dato für weilend den hochehrwürdigen Herrn <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs> gewest daselbstigen Kapplans der dreysigst Heilige Gottesdienst abgehalten worden, und eben desselben Erben zugegen seynd, er sich schuldig befinde anzuzeigen, dass der nun abgeleibte geistliche Herr Kapplan, nachdem dieser von der vorigen Krankheit wiederum die Genessung erhalten, sich zu ihne vernemmen gelassen,<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>das.</p></note> er seye entschlossen mit seiner zeitlichen Habschaft noch bey seiner Gesundheit eine würkliche Disposition aufzurichten, und seinen diesfälligen lesten Willen der Landgerichts Obrigkeit zu <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> zur behörigen Aufzeichnung, damit seiner Zeit alles ordentlich berichtiget werden könne, dahin zu eröffnen, es solle nämlich all das jenige, was er nämlich von seinen Eltern ererbet, auf seinen Abgang seinen Ge-</p>
             <p>
@@ -161,7 +161,7 @@
                   <cell>4 f 48 x</cell>
                </row>
                <row>
-                  <cell>Dem Actuario</cell>
+                  <cell>Dem <rs type="person" ref="#aktuar_tratter">Actuario</rs></cell>
                   <cell>24 x</cell>
                </row>
                <row>
@@ -265,7 +265,7 @@
             <p>
                <pb n="481v"/>
             </p>
-            <p>erbnemmenden geistlichen Herrn Bruder mit den <rs type="bibl" ref="#brevier">alten Breviren</rs> zum Gedenkzeichen in Voraus überlassen pr Bht.</p>
+            <p>erbnemmenden geistlichen <rs type="person" ref="#tratter_balthasar">Herrn Bruder</rs> mit den <rs type="bibl" ref="#brevier">alten Breviren</rs> zum Gedenkzeichen in Voraus überlassen pr Bht.</p>
             <p>Haus Fahrnussen.</p>
             <table rend="rules">
                <row>
@@ -1102,7 +1102,7 @@
                      <hi rend="italic">Über der Zeile nachgetragen.</hi>
                   </p>
                </note>
-               einen<note><p rend="footnote text"><hi rend="italic">Über der Zeile korrigiert aus gestrichenem </hi>die.</p></note> hochfreyherrlichen v. Sternbachische<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>und geistlichen Herrn Mutschlechnerische.</p></note> Stift Mess dieses Jahr gelesen,
+               einen<note><p rend="footnote text"><hi rend="italic"> Über der Zeile korrigiert aus gestrichenem </hi>die.</p></note> hochfreyherrlichen v. Sternbachische<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen </hi>und geistlichen Herrn Mutschlechnerische.</p></note> Stift Mess dieses Jahr gelesen,
                und doch nicht nur für diese, sonder auch für die andere Sternbachische Stiftmess, und Herrn Mutschlechnerischen Jahrtag die völlige Gebühr per 4 f 12 x, einfolgsam um 2 f 42 x zu viel empfangen. Auf gleiche Weis hat wohl derselbe auch einschlüsslich Quartal Crucis die übrigen Einkünfte, und noch darzu auch für das Quartal Luciae vorhinein 40 f erhalten, so das alldaige Verlassenschaft, weilen Herrn Erblasser an lesten Quartal nur 2 Wochen erlebet, auch an diesem dem Herrn Successor von 11 Wochen die Gebühr pr 33 f<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt gestrichen unlesbare Ziffer und </hi>8½.</p></note> 50 x, mithin in allen 36 f 32 x zu ersetzen habe, so hienach per Schuld hinaus einzutragen komet pr Bht.</p>
             <p>Hingegen, da laut sonderbaren Protokolls von gestrigen dato die alldaige Nachbaurschaft den Bstandzins von<note>
                   <p rend="footnote text"> v- <hi rend="italic">korrigiert aus</hi> d-.</p>
@@ -1145,7 +1145,7 @@
             <p>Der Funeral Conto bestehet in folgenden, als</p>
             <table rend="rules">
                <row>
-                  <cell>Ihro<note><p rend="footnote text">I-<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>H-.</p></note> Hochwürden dem Herrn Pfarrer zu <rs type="place" ref="#gais">Gais</rs> für der Begräbnis, gehaltenen Heiligen Gottesdiensten, Bestattnis sieben, und dreysigst jedesmal mit Seel- und Lobamt samt Vigill, gleichwie von verstorbenen
+                  <cell>Ihro<note><p rend="footnote text"> I-<hi rend="italic" xml:space="preserve"> korrigiert aus </hi>H-.</p></note> Hochwürden dem Herrn Pfarrer zu <rs type="place" ref="#gais">Gais</rs> für der Begräbnis, gehaltenen Heiligen Gottesdiensten, Bestattnis sieben, und dreysigst jedesmal mit Seel- und Lobamt samt Vigill, gleichwie von verstorbenen
                   geistlichen Herrn <rs type="person" ref="#gasser_joseph">Joseph Gasser</rs> auch gewesten Kapplon allhier anno 1773 bezahlt worden</cell>
                   <cell>8 f 0 x</cell>
                </row>
