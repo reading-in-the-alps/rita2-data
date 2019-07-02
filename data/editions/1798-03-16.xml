@@ -748,7 +748,7 @@
                      <cell>2 f 46 x</cell>
                   </row>
                   <row>
-                     <cell>Tonig extra</cell>
+                     <cell><rs type="person" ref="#tonig">Tonig</rs> extra</cell>
                      <cell>12 x</cell>
                   </row>
                   <row>
@@ -867,7 +867,7 @@
                      <cell>6 f 12 x</cell>
                   </row>
                   <row>
-                     <cell>[No] 5: Dem Herrn <rs type="person" ref="#salcher_johann">Johann Salcher</rs> Kameralad(ministrat)or an<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt erneut irrig </hi>an.</p></note> alt ausständigen Kapital- und Grundzinsen</cell>
+                     <cell>[No] 5: Dem Herrn <rs type="person" ref="#salcher_johann_nepomuk">Johann Salcher</rs> Kameralad(ministrat)or an<note><p rend="footnote text"><hi rend="italic" xml:space="preserve"> Folgt erneut irrig </hi>an.</p></note> alt ausständigen Kapital- und Grundzinsen</cell>
                      <cell>12 f 42 x</cell>
                   </row>
                   <row>

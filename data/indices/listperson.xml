@@ -247,8 +247,9 @@
             <person xml:id="kerschpaember_johan">
                <persName>
                   <forename>Johann</forename>
-                  <surname>Kerschbaumer</surname>
+                  <surname>von Kerschbaumer</surname>
                </persName>
+               <note type="family">Ehemann von <rs type="person" ref="#steger_maria_2">Maria Steegerin</rs></note>
                <note type="function">Landgerichtschreiber in <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs> / <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
                <note type="function">Gemeinschaftsführer im Rahmen der Verlassenschaftsabhandlung des <rs type="person" ref="#sigmayr_andree">Andreas Sigmayr</rs></note>
             </person>
@@ -847,6 +848,8 @@
                   <surname>Steeger</surname>
                </persName>
                <note type="family">Sohn von <rs type="person" ref="#steger_joseph_markus">Joseph Markus Steeger</rs> und <rs type="person" ref="#hueber_maria_magdalena">Maria Magdalena Hueberin</rs></note>
+               <note type="family">Ehemann von <rs type="person" ref="#holzer_anna_maria_2">Anna Maria Holzerin</rs></note>
+               <note type="family">Vater von <rs type="person" ref="#steger_jakob">Jakob Steeger</rs> und <rs type="person" ref="#steger_magdalena">Magdalena Steeger</rs></note>
                <note type="function">Schuldner des <rs type="person" ref="#stainer_sebastian">Sebastian Joseph Stainer</rs></note>
             </person>
             <person xml:id="puel_franz_xaveri">
@@ -997,6 +1000,7 @@
                   <surname>Steeger</surname>
                </persName>
                <note type="family">Sohn von <rs type="person" ref="#steger_joseph_markus">Joseph Markus Steeger</rs> und <rs type="person" ref="#hueber_maria_magdalena">Maria Magdalena Hueberin</rs></note>
+               <note type="family">Ehemann von <rs type="gasteiger_catharina">Katharina Gasteigerin</rs></note>
                <note type="function">Anweiser von <rs type="person" ref="#hinterseer_maeriae">Maria Hinterseerin</rs> und <rs type="person" ref="#hinterseer_aennae_elisaebeth">Anna Elisabeth Hinterseerin</rs></note>
                <note type="function">Schreibereibediensteter in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
                <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
@@ -2530,7 +2534,7 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <occupation>Büchsenmacher [Gewehrmacher]</occupation>
+                  <occupation>Büchsenmacher</occupation>
                   <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
                </persName>
             </person>
@@ -2644,10 +2648,13 @@
                   <forename>Ignaz Joseph</forename>
                   <surname>von Leys</surname>
                </persName>
+               <note type="family">Ehemann von <rs type="person" ref="#von_kerschbaumer_maria_elisabet">Maria Elisabeth von Kerschbaumerin</rs></note>
                <note type="function">Landgerichtschreiber in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
                <note type="function">Pfleger in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
                <note type="function">Vertreter im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#steeger_leopoldt_niclaus">Leopold Nikolaus Steeger</rs></note>
                <note type="function">Zeuge im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#stocker_franz_xaver">Franz Xaver Stocker</rs></note>
+               <note type="function">Vertreter seiner Kinder und Schwäger(innen) im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#steger_leopold">Leopold Steeger</rs></note>
+               <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </person>
             <person xml:id="heleiter_joseph">
                <persName>
@@ -3153,6 +3160,7 @@
                   <surname>Pruggnaller</surname>
                </persName>
                <note type="function">Amtsdiener in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
+               <note type="function">Vertreter von <rs type="person" ref="#steger_maria">Maria Steegerin</rs> im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#steger_leopold">Leopold Steeger</rs></note>
             </person>
             <person xml:id="noeckler_maria">
                <persName>
@@ -3551,14 +3559,6 @@
                   <vulgo>Brandenburger</vulgo>
                </persName>
             </person>
-            <person xml:id="unterweger_">
-               <persName>
-                  <forename/>
-                  <surname/>
-                  <vulgo>Unterweger</vulgo>
-               </persName>
-               <note type="placing"><rs type="place" ref="#mauern">Mauern</rs></note>
-            </person>
             <person xml:id="oberstaller_maria">
                <persName>
                   <forename>Maria</forename>
@@ -3650,9 +3650,8 @@
             </person>
             <person xml:id="mayr_matzl">
                <persName>
-                  <forename>Matzl</forename>
+                  <forename>Matthias</forename>
                   <forename type="alt">Martin</forename>
-                  <forename type="alt">Matthias</forename>
                   <surname>Mayr</surname>
                </persName>
             </person>
@@ -4704,6 +4703,12 @@
                </persName>
                <occupation>Schuhmacher</occupation>
             </person>
+            <person xml:id="primus_jj">
+               <persName>
+                  <forename/>
+                  <surname>Primus</surname>
+               </persName>
+            </person>
             <person xml:id="niedermayr_agnes">
                <persName>
                   <forename>Agnes</forename>
@@ -4855,7 +4860,7 @@
             <person xml:id="dam_franz">
                <persName>
                   <forename>Franz</forename>
-                  <surname>Dam</surname>
+                  <surname>Damm</surname>
                </persName>
                <occupation>Büchsenmachermeister</occupation>
                <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
@@ -4938,13 +4943,6 @@
                <occupation>Schneidermeister</occupation>
                <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </person>
-            <person xml:id="salcher_johann">
-               <persName>
-                  <forename>Johann</forename>
-                  <surname>Salcher</surname>
-               </persName>
-               <note type="function">Kameraladministrator</note>
-            </person>
             <person xml:id="wachtler_marcus">
                <persName>
                   <forename>Markus</forename>
@@ -4967,6 +4965,7 @@
                   <vulgo>Strutzer</vulgo>
                </persName>
                <occupation>Metzger</occupation>
+               <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </person>
             <person xml:id="tischler_lorenzen">
                <persName>
@@ -5124,20 +5123,237 @@
                   <forename>Leopold</forename>
                   <surname>Steeger</surname>
                </persName>
+               <note type="function">Erblasser</note>
+               <note type="function">Benefiziat in der <rs type="place" ref="#heiligkreuz_franewiese">Heiligkreuzkirche</rs> in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </person>
-
-<!-- names in work -->
-
+            <person xml:id="hebreer">
+               <persName>
+                  <forename/>
+                  <surname/>
+                  <vulgo>Hebreer</vulgo>
+               </persName>
+            </person>
+            <person xml:id="pinter_veit">
+               <persName>
+                  <forename>Veit</forename>
+                  <surname/>
+                  <vulgo>Pinter-Veitl</vulgo>
+               </persName>
+            </person>
+            <person xml:id="pranter_martin">
+               <persName>
+                  <forename>Martin</forename>
+                  <surname>Pranter</surname>
+               </persName>
+            </person>
+            <person xml:id="gartner_">
+               <persName>
+                  <forename/>
+                  <surname>Gartner</surname>
+               </persName>
+            </person>
+            <person xml:id="salcher_salcherin_2">
+               <persName>
+                  <forename/>
+                  <surname>Salcherin</surname>
+               </persName>
+            </person>
+            <person xml:id="salcher_xxx">
+               <persName>
+                  <forename/>
+                  <surname>Salcher</surname>
+               </persName>
+            </person>
+            <person xml:id="lorenzen_buechsenmacher_2">
+               <persName>
+                  <forename/>
+                  <surname/>
+                  <occupation>Büchsenmacher</occupation>
+                  <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
+               </persName>
+            </person>
+            <person xml:id="lorenzen_buechsenmacher_ehefrau_2">
+               <persName>
+                  <forename/>
+                  <surname/>
+                  <note type="family">Ehefrau des <rs type="person" ref="#lorenzen_buechsenmacher">Büchsenmachers aus St. Lorenzen</rs></note>
+                  <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
+               </persName>
+            </person>
+            <person xml:id="veitl">
+               <persName>
+                  <forename>Veit</forename>
+                  <surname/>
+               </persName>
+            </person>
+            <person xml:id="helweger_martin">
+               <persName>
+                  <forename>Martin</forename>
+                  <surname>Hellweger</surname>
+               </persName>
+            </person>
+            <person xml:id="tonig">
+               <persName>
+                  <forename/>
+                  <surname>Tonig</surname>
+               </persName>
+            </person>
+            <person xml:id="hilber_">
+               <persName>
+                  <forename/>
+                  <surname>Tonig</surname>
+               </persName>
+            </person>
+            <person xml:id="hilber-christian">
+               <persName>
+                  <forename>Christian</forename>
+                  <surname>Hilber</surname>
+               </persName>
+            </person>
+            <person xml:id="hilber-gregori">
+               <persName>
+                  <forename>Gregor</forename>
+                  <surname>Hilber</surname>
+               </persName>
+            </person>
+            <person xml:id="mar_">
+               <persName>
+                  <forename/>
+                  <surname>Mar</surname>
+               </persName>
+            </person>
+            <person xml:id="bartele_">
+               <persName>
+                  <forename/>
+                  <surname>Bartele</surname>
+                  <surname type="alt">Partele</surname>
+               </persName>
+            </person>
+            <person xml:id="mayr_agnes">
+               <persName>
+                  <forename>Agnes</forename>
+                  <surname>Mayrin</surname>
+               </persName>
+               <note type="function">Häuserin von <rs type="person" ref="#steger_leopold">Leopold Steeger</rs></note>
+            </person>
+            <person xml:id="niedermayr_jakob">
+               <persName>
+                  <forename>Jakob</forename>
+                  <surname>Niedermayr</surname>
+               </persName>
+            </person>
+            <person xml:id="jenewein_">
+               <persName>
+                  <forename/>
+                  <surname>Jenewein</surname>
+               </persName>
+            </person>
+            <person xml:id="joergen_fraz">
+               <persName>
+                  <forename>Jörg (?)</forename>
+                  <surname>Fraz (?)</surname>
+               </persName>
+            </person>
+            <person xml:id="jaeger">
+               <persName>
+                  <forename/>
+                  <surname>Jäger</surname>
+               </persName>
+            </person>
+            <person xml:id="steger_xxx">
+               <persName>
+                  <forename/>
+                  <surname>Steeger</surname>
+               </persName>
+               <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
+            </person>
+            <person xml:id="steger_beck">
+               <persName>
+                  <forename/>
+                  <surname>Steeger</surname>
+               </persName>
+               <occupation>Bäcker</occupation>
+            </person>
+            <person xml:id="reicherer_sonnenburg">
+               <persName>
+                  <forename/>
+                  <surname>Reicherer</surname>
+               </persName>
+               <note type="placing"><rs type="place" ref="#soneburg">Sonnenburg</rs></note>
+            </person>
+            <person xml:id="feltone_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Feltone</surname>
+                  <surname type="alt">Veltoner</surname>
+               </persName>
+            </person>
+            <person xml:id="harrasser">
+               <persName>
+                  <forename/>
+                  <surname>Harrasser</surname>
+               </persName>
+            </person>
             <person xml:id="stauder_mathias">
                <persName>
                   <forename>Matthias</forename>
                   <surname>Stauder</surname>
                </persName>
             </person>
-            <person xml:id="feltone_johann">
+            <person xml:id="conn">
                <persName>
-                  <forename>Johann</forename>
-                  <surname>Feltone</surname>
+                  <forename/>
+                  <surname>Conn</surname>
+               </persName>
+            </person>
+            <person xml:id="zitauer">
+               <persName>
+                  <forename/>
+                  <surname>Zitauer</surname>
+               </persName>
+            </person>
+            <person xml:id="golser">
+               <persName>
+                  <forename>Martin</forename>
+                  <surname>Golser</surname>
+               </persName>
+            </person>
+            <person xml:id="auricher">
+               <persName>
+                  <forename/>
+                  <surname>Auricher</surname>
+               </persName>
+               <note type="placing"><rs type="place" ref="#brunegg">Bruneck</rs></note>
+            </person>
+            <person xml:id="mayr_jorgl">
+               <persName>
+                  <forename>Georg</forename>
+                  <forename type="alt">Jörg</forename>
+                  <surname>Mayr</surname>
+               </persName>
+            </person>
+            <person xml:id="nest">
+               <persName>
+                  <forename/>
+                  <surname>Nest</surname>
+               </persName>
+            </person>
+            <person xml:id="fleischstoeflin">
+               <persName>
+                  <forename/>
+                  <surname>Fleischstöflin</surname>
+               </persName>
+            </person>
+            <person xml:id="fleischstoefl">
+               <persName>
+                  <forename/>
+                  <surname>Fleischstöfl</surname>
+               </persName>
+            </person>
+            <person xml:id="mosser">
+               <persName>
+                  <forename/>
+                  <surname>Mosser</surname>
                </persName>
             </person>
             <person xml:id="unterweger_jakob">
@@ -5145,253 +5361,366 @@
                   <forename>Jakob</forename>
                   <surname>Unterweger</surname>
                </persName>
+               <note type="function">Mitglied des Gerichtsausschusses in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs> (1798)</note>
+               <note type="function">Beisitzer im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#steger_leopold">Leopold Steeger</rs></note>
+               <note type="placing"><rs type="place" ref="#mauern">Mauern</rs></note>
             </person>
             <person xml:id="steger_joseph_markus">
                <persName>
                   <forename>Joseph Markus</forename>
                   <surname>Steeger</surname>
                </persName>
+               <note type="family">Ehemann von <rs type="person" ref="#hueber_maria_magdalena">Maria Magdalena Hueberin</rs></note>
+               <note type="family">Vater von <rs type="person" ref="#steger_leopold">Leopold Steeger</rs> und seinen fünf Geschwistern</note>
+               <note type="function">Landgerichtschreiber der Herrschaft <rs type="place" ref="#saenct_michaelspurg">St. Michaelsburg</rs></note>
             </person>
             <person xml:id="hueber_maria_magdalena">
                <persName>
                   <forename>Maria Magdalena</forename>
-                  <surname>Hueberin</surname>
+                  <surname type="birth">Hueberin</surname>
+                  <surname>Steegerin</surname>
                </persName>
-               <note type="family">Ehefrau von <rs type="person" ref="#steger_joseph_markus">Joseph Markus Steeger</rs>
-                    </note>
+               <note type="family">Ehefrau von <rs type="person" ref="#steger_joseph_markus">Joseph Markus Steeger</rs></note>
+               <note type="family">Mutter von <rs type="person" ref="#steger_leopold">Leopold Steeger</rs> und seinen fünf Geschwistern</note>
             </person>
             <person xml:id="steger_joseph_felix">
                <persName>
                   <forename>Joseph Felix</forename>
                   <surname>Steeger</surname>
                </persName>
-               <note type="family">Sohn von <rs type="person" ref="#steger_joseph_markus">Joseph Markus Steeger</rs> und <rs type="person" ref="#hueber_maria_magdalena">Maria Magdalena Hueberin</rs>
-                    </note>
+               <note type="family">Sohn von <rs type="person" ref="#steger_joseph_markus">Joseph Markus Steeger</rs> und <rs type="person" ref="#hueber_maria_magdalena">Maria Magdalena Hueberin</rs></note>
+               <note type="family">Ehemann von <rs type="person" ref="#kerschbaumer_maria">Maria Kerschbaumerin</rs></note>
             </person>
             <person xml:id="kerschbaumer_maria">
                <persName>
                   <forename>Maria</forename>
-                  <surname>Kerschbaumerin</surname>
+                  <surname type="birth">Kerschbaumerin</surname>
+                  <surname>Steegerin</surname>
                </persName>
+               <note type="family">Ehefrau von <rs type="person" ref="#steger_joseph_felix">Joseph Felix Steeger</rs></note>
             </person>
             <person xml:id="steger_maria">
                <persName>
                   <forename>Maria</forename>
-                  <surname>Steegerin</surname>
+                  <surname type="birth">Steegerin</surname>
+                  <surname>Lunzin</surname>
                </persName>
-               <note type="family">Tochter von <rs type="person" ref="#steger_joseph_felix">Joseph Felix Steeger</rs> und <rs type="person" ref="#kerschbaumer_maria">Maria Kerschbaumerin</rs>
-                    </note>
-            </person>
-            <person xml:id="steger_maria_2">
-               <persName>
-                  <forename>Maria</forename>
-                  <surname>Steegerin</surname>
-               </persName>
-               <note type="family">Tochter von <rs type="person" ref="#steger_joseph_markus">Joseph Markus Steeger</rs> und <rs type="person" ref="#hueber_maria_magdalena">Maria Magdalena Hueberin</rs>
-                    </note>
-               <note type="family">Ehefrau von <rs type="person" ref="#kerschpaember_johan">Johann Kerschbaumer</rs>
-                    </note>
+               <note type="family">Tochter von <rs type="person" ref="#steger_joseph_felix">Joseph Felix Steeger</rs> und <rs type="person" ref="#kerschbaumer_maria">Maria Kerschbaumerin</rs></note>
+               <note type="family">Ehefrau von <rs type="person" ref="#kerschbaumer_maria">Maria Kerschbaumerin</rs></note>
             </person>
             <person xml:id="lunz_felix">
                <persName>
                   <forename>Felix</forename>
                   <surname>Lunz</surname>
                </persName>
+               <note type="family">Ehemann von <rs type="person" ref="#steger_maria">Maria Steegerin</rs></note>
                <note type="function">Advokat des Konsistoriums und Fiskalamtsverwalter in <rs type="place" ref="#brixen">Brixen</rs></note>
+            </person>
+            <person xml:id="holzer_anna_maria_2">
+               <persName>
+                  <forename>Anna Maria</forename>
+                  <surname type="birth">Holzerin</surname>
+                  <surname>Steegerin</surname>
+               </persName>
+               <note type="family">Ehefrau von <rs type="person" ref="#steger_peter_paul">Peter Paul Steeger</rs></note>
+               <note type="family">Ehemann von <rs type="person" ref="#holzer_anna_maria_2">Anna Maria Holzerin</rs></note>
+               <note type="family">Mutter von <rs type="person" ref="#steger_jakob">Jakob Steeger</rs> und <rs type="person" ref="#steger_magdalena">Magdalena Steeger</rs></note>
             </person>
             <person xml:id="steger_jakob">
                <persName>
                   <forename>Jakob</forename>
                   <surname>Steeger</surname>
                </persName>
-               <note type="function">Kooperator in <rs type="place" ref="#sillian">Sillian</rs>
-                    </note>
-               <note type="family">Sohn von <rs type="person" ref="#steger_peter_paul">Peter Paul Steeger</rs> und <rs type="person" ref="#holzer_anna_maria">Anna Holzerin</rs>
-                    </note>
+               <note type="function">Kooperator in <rs type="place" ref="#sillian">Sillian</rs></note>
+               <note type="family">Sohn von <rs type="person" ref="#steger_peter_paul">Peter Paul Steeger</rs> und <rs type="person" ref="#holzer_anna_maria_2">Anna Holzerin</rs></note>
             </person>
             <person xml:id="steger_magdalena">
                <persName>
                   <forename>Magdalena</forename>
                   <surname>Steegerin</surname>
                </persName>
-               <note type="family">Tochter von <rs type="person" ref="#steger_peter_paul">Peter Paul Steeger</rs> und <rs type="person" ref="#holzer_anna_maria">Anna Holzerin</rs>
-                    </note>
+               <note type="family">Tochter von <rs type="person" ref="#steger_peter_paul">Peter Paul Steeger</rs> und <rs type="person" ref="#holzer_anna_maria_2">Anna Holzerin</rs></note>
+               <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
+            </person>
+            <person xml:id="kuttner_innocenz">
+               <persName>
+                  <forename>Innozenz</forename>
+                  <surname>Kuttner</surname>
+               </persName>
+               <note type="function">k. k. Kreisamtskanzler in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
+               <note type="function">Vertreter von <rs type="person" ref="#steger_jakob">Jakob Steeger</rs> und <rs type="person" ref="#steger_magdalena">Magdalena Steeger</rs></note>
+               <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </person>
             <person xml:id="gasteiger_catharina">
                <persName>
                   <forename>Katharina</forename>
-                  <surname>Gasteiger</surname>
+                  <surname type="birth">Gasteiger</surname>
+                  <surname>Steegerin</surname>
                </persName>
-               <note type="family">Ehefrau von <rs type="steger_johann_anton">Johann Anton Steeger</rs>
-                    </note>
+               <note type="family">Ehefrau von <rs type="steger_johann_anton">Johann Anton Steeger</rs></note>
             </person>
             <person xml:id="steger_franz">
                <persName>
                   <forename>Franz</forename>
                   <surname>Steeger</surname>
                </persName>
-               <note type="function">Kooperator in <rs type="place" ref="#sillian">Sillian</rs>
-                    </note>
-               <note type="family">Sohn von <rs type="steger_johann_anton">Johann Anton Steeger</rs> und <rs type="person" ref="#gasteiger_catharina">Katharina Gasteigerin</rs>
-                    </note>
+               <note type="function">Kooperator in <rs type="place" ref="#sillian">Sillian</rs></note>
+               <note type="family">Sohn von <rs type="steger_johann_anton">Johann Anton Steeger</rs> und <rs type="person" ref="#gasteiger_catharina">Katharina Gasteigerin</rs></note>
+               <note type="placing"><rs type="place" ref="#sillian">Sillian</rs></note>
+            </person>
+            <person xml:id="steger_theowald">
+               <persName>
+                  <forename>Theobald</forename>
+                  <surname>Steeger</surname>
+               </persName>
+               <note type="function">ehemaliger Franziskaner in <rs type="place" ref="#kals_gericht">Kals</rs></note>
+               <note type="family">Sohn von <rs type="steger_johann_anton">Johann Anton Steeger</rs> und <rs type="person" ref="#gasteiger_catharina">Katharina Gasteigerin</rs></note>
+               <note type="placing"><rs type="place" ref="#kals_gericht">Kals</rs></note>
             </person>
             <person xml:id="salcher_johann_nepomuk">
                <persName>
                   <forename>Johann Nepomuk</forename>
                   <surname>Salcher</surname>
                </persName>
-               <note type="function">Religionsfond-Advokat</note>
+               <note type="function">Kameraladministrator</note>
+               <note type="function">Gerichtsprokurator in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
+               <note type="function">Religionsfond-Advokat in <rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
+               <note type="function">Vertreter von <rs type="steger_franz">Franz Steeger</rs> und <rs type="person" ref="#steger_theowald">Theobald Steeger</rs></note>
+               <note type="function">Vertreter von <rs type="haering_johann">Johann Häring</rs></note>
+               <note type="function">Vertreter von <rs type="person" ref="#rindler_joseph">Joseph Rindler</rs>, <rs type="person" ref="#rindler_anton_2">Anton Rindler</rs>, <rs type="person" ref="#rindler_anna">Anna Rindlerin</rs>, <rs type="person" ref="#rindler_maria">Maria Rindlerin</rs> und <rs type="person" ref="#rindler_katharina">Katharina Rindlerin</rs></note>
+               <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </person>
             <person xml:id="pernlachner_anna">
                <persName>
                   <forename>Anna</forename>
+                  <surname type="birth">Steegerin</surname>
                   <surname>Pernlachnerin</surname>
                </persName>
-               <note type="family">Tochter von <rs type="steger_johann_anton">Johann Anton Steeger</rs> und <rs type="person" ref="#gasteiger_catharina">Katharina Gasteigerin</rs>
-                    </note>
+               <note type="family">Tochter von <rs type="steger_johann_anton">Johann Anton Steeger</rs> und <rs type="person" ref="#gasteiger_catharina">Katharina Gasteigerin</rs></note>
+               <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
+            </person>
+            <person xml:id="steger_helena">
+               <persName>
+                  <forename>Helena</forename>
+                  <surname type="birth">Steegerin</surname>
+                  <surname>Häringin</surname>
+               </persName>
+               <note type="family">Tochter von <rs type="steger_johann_anton">Johann Anton Steeger</rs> und <rs type="person" ref="#gasteiger_catharina">Catharina Gasteiger</rs></note>
+               <note type="family">Ehefrau von N. <rs type="haering">Häring</rs></note>
+               <note type="family">Mutter von <rs type="haering_johann">Johann Häring</rs></note>
+            </person>
+            <person xml:id="haering">
+               <persName>
+                  <forename/>
+                  <surname>Häring</surname>
+               </persName>
+               <occupation>Portenmacher</occupation>
+               <note type="family">Ehemann von <rs type="steger_helena">Helena Steegerin</rs></note>
+               <note type="family">Vater von <rs type="haering_johann">Johann Häring</rs></note>
+               <note type="placing"><rs type="place" ref="#lienz">Lienz</rs></note>
+            </person>
+            <person xml:id="haering_johann">
+               <persName>
+                  <forename>Johann</forename>
+                  <surname>Häring</surname>
+                  </persName>
+               <note type="family">Sohn von N. <rs type="haering">Häring</rs> und <rs type="person" ref="#steger_helena">Helena Steegerin</rs></note>
             </person>
             <person xml:id="obkircher_johann">
                <persName>
                   <forename>Johann</forename>
                   <surname>Obkircher</surname>
                </persName>
+               <note type="function">Vormund von <rs type="haering_johann">Johann Häring</rs></note>
             </person>
             <person xml:id="steger_karl">
                <persName>
                   <forename>Karl</forename>
                   <surname>Steeger</surname>
                </persName>
-               <note type="family">Sohn von <rs type="person" ref="#steger_joseph_markus">Joseph Markus Steeger</rs> und <rs type="person" ref="#hueber_maria_magdalena">Maria Magdalena Hueberin</rs>
-                    </note>
+               <note type="family">Sohn von <rs type="person" ref="#steger_joseph_markus">Joseph Markus Steeger</rs> und <rs type="person" ref="#hueber_maria_magdalena">Maria Magdalena Hueberin</rs></note>
+               <note type="family">Ehemann von <rs type="person" ref="#kletenhamer_anna">Anna Klettenhammerin</rs></note>
             </person>
             <person xml:id="kletenhamer_anna">
                <persName>
                   <forename>Anna</forename>
-                  <surname>Klettenhammerin</surname>
+                  <surname type="birth">Klettenhammerin</surname>
+                  <surname>Steegerin</surname>
                </persName>
-               <note type="family">Ehefrau von <rs type="person" ref="#steger_karl">Karl Steeger</rs>
-                    </note>
+               <note type="family">Ehefrau von <rs type="person" ref="#steger_karl">Karl Steeger</rs></note>
             </person>
             <person xml:id="steger_anna">
                <persName>
                   <forename>Anna</forename>
-                  <surname>Steegerin</surname>
+                  <surname type="birth">Steegerin</surname>
+                  <surname>Rindlerin</surname>
                </persName>
-               <note type="family">Tochter von <rs type="person" ref="#steger_karl">Karl Steeger</rs> und <rs type="person" ref="#kletenhamer_anna">Anna Klettenhammerin</rs>
-                    </note>
+               <note type="family">Tochter von <rs type="person" ref="#steger_karl">Karl Steeger</rs> und <rs type="person" ref="#kletenhamer_anna">Anna Klettenhammerin</rs></note>
+               <note type="family">Ehefrau von <rs type="person" ref="#steger_karl">Karl Steeger</rs></note>
             </person>
             <person xml:id="rindler_anton">
                <persName>
                   <forename>Anton</forename>
                   <surname>Rindler</surname>
                </persName>
-               <note type="function">Wirt in <rs type="place" ref="#sillian">Sillian</rs>
-                    </note>
+               <occupation>Wirt</occupation>
+               <note type="family">Ehemann von <rs type="person" ref="#steger_anna">Anna Steegerin</rs></note>
+               <note type="placing"><rs type="place" ref="#sillian">Sillian</rs></note>
+            </person>
+            <person xml:id="rindler_joseph">
+               <persName>
+                  <forename>Joseph</forename>
+                  <surname>Rindler</surname>
+               </persName>
+               <note type="family">Sohn von <rs type="person" ref="#rindler_anton">Anton Rindler</rs> und <rs type="person" ref="#steger_anna">Anna Steegerin</rs></note>
+            </person>
+            <person xml:id="rindler_anton_2">
+               <persName>
+                  <forename>Anton</forename>
+                  <surname>Rindler</surname>
+               </persName>
+               <note type="family">Sohn von <rs type="person" ref="#rindler_anton">Anton Rindler</rs> und <rs type="person" ref="#steger_anna">Anna Steegerin</rs></note>
+            </person>
+            <person xml:id="rindler_anna">
+               <persName>
+                  <forename>Anna</forename>
+                  <surname>Rindlerin</surname>
+               </persName>
+               <note type="family">Tochter von <rs type="person" ref="#rindler_anton">Anton Rindler</rs> und <rs type="person" ref="#steger_anna">Anna Steegerin</rs></note>
+            </person>
+            <person xml:id="rindler_maria">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname>Rindlerin</surname>
+               </persName>
+               <note type="family">Tochter von <rs type="person" ref="#rindler_anton">Anton Rindler</rs> und <rs type="person" ref="#steger_anna">Anna Steegerin</rs></note>
+            </person>
+            <person xml:id="rindler_katharina">
+               <persName>
+                  <forename>Katharina</forename>
+                  <surname>Rindlerin</surname>
+               </persName>
+               <note type="family">Tochter von <rs type="person" ref="#rindler_anton">Anton Rindler</rs> und <rs type="person" ref="#steger_anna">Anna Steegerin</rs></note>
             </person>
             <person xml:id="kletenhamer_michael">
                <persName>
                   <forename>Michael</forename>
                   <surname>Klettenhammer</surname>
                </persName>
+               <note type="function">Gerhab von <rs type="person" ref="#rindler_joseph">Joseph Rindler</rs>, <rs type="person" ref="#rindler_anton_2">Anton Rindler</rs>, <rs type="person" ref="#rindler_anna">Anna Rindlerin</rs>, <rs type="person" ref="#rindler_maria">Maria Rindlerin</rs> und <rs type="person" ref="#rindler_katharina">Katharina Rindlerin</rs></note>
+            </person>
+            <person xml:id="steger_maria_2">
+               <persName>
+                  <forename>Maria</forename>
+                  <surname type="birth">von Kerschbaumerin</surname>
+                  <surname>Steegerin</surname>
+               </persName>
+               <note type="family">Tochter von <rs type="person" ref="#steger_joseph_markus">Joseph Markus Steeger</rs> und <rs type="person" ref="#hueber_maria_magdalena">Maria Magdalena Hueberin</rs></note>
+               <note type="family">Ehefrau von <rs type="person" ref="#kerschpaember_johan">Johann von Kerschbaumer</rs></note>
             </person>
             <person xml:id="von_kerschbaumer_anton">
                <persName>
                   <forename>Anton</forename>
                   <surname>von Kerschbaumer</surname>
                </persName>
-               <note type="family">Sohn von <rs type="person" ref="#steger_maria_2">Maria Steegerin</rs> und Johann von Kerschbaumer
-                    </note>
+               <note type="family">Sohn von <rs type="person" ref="#steger_maria_2">Maria Steegerin</rs> und <rs type="person" ref="#kerschpaember_johan">Johann von Kerschbaumer</rs></note>
+               <note type="function">Pfleger der Herrschaft <rs type="place" ref="#falkenstein">Falkenstein</rs></note>
+               <note type="function">Landrichter der Herrschaft <rs type="place" ref="#falkenstein">Falkenstein</rs></note>
             </person>
             <person xml:id="von_kerschbaumer_maria_elisabet">
                <persName>
                   <forename>Maria Elisabeth</forename>
-                  <surname>von Kerschbaumer</surname>
+                  <surname>von Kerschbaumerin</surname>
                </persName>
-               <note type="family">Tochter von <rs type="person" ref="#steger_maria_2">Maria Steegerin</rs> und Johann von Kerschbaumer
-                    </note>
-               <note type="family">Ehefrau von <rs type="person" ref="#von_leys_ignatz_josef">Ignaz Joseph von Leys</rs>
-                    </note>
+               <note type="family">Tochter von <rs type="person" ref="#steger_maria_2">Maria Steegerin</rs> und <rs type="person" ref="#kerschpaember_johan">Johann von Kerschbaumer</rs></note>
+               <note type="family">Ehefrau von <rs type="person" ref="#von_leys_ignatz_josef">Ignaz Joseph von Leys</rs></note>
+               <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </person>
             <person xml:id="von_leys_leopold">
                <persName>
                   <forename>Leopold</forename>
                   <surname>von Leys</surname>
                </persName>
-               <note type="family">Sohn von <rs type="person" ref="#von_leys_ignatz_josef">Ignaz Joseph von Leys</rs> und <rs type="person" ref="#von_kerschbaumer_maria_elisabet">Maria Elisabeth von Kerschbaumer</rs>
-                    </note>
+               <note type="family">Sohn von <rs type="person" ref="#von_leys_ignatz_josef">Ignaz Joseph von Leys</rs> und <rs type="person" ref="#von_kerschbaumer_maria_elisabet">Maria Elisabeth von Kerschbaumer</rs></note>
             </person>
             <person xml:id="von_leys_elisabeth">
                <persName>
                   <forename>Elisabeth</forename>
-                  <surname>von Leys</surname>
+                  <surname>von Leysin</surname>
                </persName>
-               <note type="family">Tochter von <rs type="person" ref="#von_leys_ignatz_josef">Ignaz Joseph von Leys</rs> und <rs type="person" ref="#von_kerschbaumer_maria_elisabet">Maria Elisabeth von Kerschbaumer</rs>
-                    </note>
+               <note type="family">Tochter von <rs type="person" ref="#von_leys_ignatz_josef">Ignaz Joseph von Leys</rs> und <rs type="person" ref="#von_kerschbaumer_maria_elisabet">Maria Elisabeth von Kerschbaumer</rs></note>
             </person>
             <person xml:id="von_leys_hellene">
                <persName>
                   <forename>Helene</forename>
-                  <surname>von Leys</surname>
+                  <surname>von Leysin</surname>
                </persName>
-               <note type="family">Tochter von <rs type="person" ref="#von_leys_ignatz_josef">Ignaz Joseph von Leys</rs> und <rs type="person" ref="#von_kerschbaumer_maria_elisabet">Maria Elisabeth von Kerschbaumer</rs>
-                    </note>
+               <note type="family">Tochter von <rs type="person" ref="#von_leys_ignatz_josef">Ignaz Joseph von Leys</rs> und <rs type="person" ref="#von_kerschbaumer_maria_elisabet">Maria Elisabeth von Kerschbaumer</rs></note>
             </person>
             <person xml:id="von_leys_cresentia">
                <persName>
                   <forename>Crescentia</forename>
-                  <surname>von Leys</surname>
+                  <surname>von Leysin</surname>
                </persName>
-               <note type="family">Tochter von <rs type="person" ref="#von_leys_ignatz_josef">Ignaz Joseph von Leys</rs> und <rs type="person" ref="#von_kerschbaumer_maria_elisabet">Maria Elisabeth von Kerschbaumer</rs>
-                    </note>
+               <note type="family">Tochter von <rs type="person" ref="#von_leys_ignatz_josef">Ignaz Joseph von Leys</rs> und <rs type="person" ref="#von_kerschbaumer_maria_elisabet">Maria Elisabeth von Kerschbaumer</rs></note>
             </person>
             <person xml:id="von_kerschbaumer_magdalena">
                <persName>
                   <forename>Magdalena</forename>
-                  <surname>von Kerschbaumer</surname>
+                  <surname>von Kerschbaumerin</surname>
                </persName>
-               <note type="family">Tochter von <rs type="person" ref="#steger_maria_2">Maria Steegerin</rs> und Johann von Kerschbaumer
-                    </note>
+               <note type="family">Tochter von <rs type="person" ref="#steger_maria_2">Maria Steegerin</rs> und <rs type="person" ref="#kerschpaember_johan">Johann von Kerschbaumer</rs></note>
+               <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </person>
             <person xml:id="von_kerschbaumer_maria_anna">
                <persName>
                   <forename>Maria Anna</forename>
-                  <surname>von Kerschbaumer</surname>
+                  <surname>von Kerschbaumerin</surname>
                </persName>
-               <note type="family">Tochter von <rs type="person" ref="#steger_maria_2">Maria Steegerin</rs> und Johann von Kerschbaumer
-                    </note>
+               <note type="family">Tochter von <rs type="person" ref="#steger_maria_2">Maria Steegerin</rs> und <rs type="person" ref="#kerschpaember_johan">Johann von Kerschbaumer</rs></note>
+               <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </person>
             <person xml:id="von_kerschbaumer_maria_josepha">
                <persName>
                   <forename>Maria Josepha</forename>
-                  <surname>von Kerschbaumer</surname>
+                  <surname>von Kerschbaumerin</surname>
                </persName>
-               <note type="family">Tochter von <rs type="person" ref="#steger_maria_2">Maria Steegerin</rs> und Johann von Kerschbaumer
-                    </note>
+               <note type="family">Tochter von <rs type="person" ref="#steger_maria_2">Maria Steegerin</rs> und <rs type="person" ref="#kerschpaember_johan">Johann von Kerschbaumer</rs></note>
+               <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </person>
             <person xml:id="von_kerschbaumer_agnes">
                <persName>
                   <forename>Agnes</forename>
-                  <surname>von Kerschbaumer</surname>
+                  <surname>von Kerschbaumerin</surname>
                </persName>
-               <note type="family">Tochter von <rs type="person" ref="#steger_maria_2">Maria Steegerin</rs> und Johann von Kerschbaumer
-                    </note>
+               <note type="family">Tochter von <rs type="person" ref="#steger_maria_2">Maria Steegerin</rs> und <rs type="person" ref="#kerschpaember_johan">Johann von Kerschbaumer</rs></note>
+               <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </person>
-            <person xml:id="mayr_agnes">
+            <person xml:id="mayr_zu_gasteig">
                <persName>
-                  <forename>Agnes</forename>
-                  <surname>Mayrin</surname>
+                  <forename/>
+                  <surname/>
+                  <vulgo>Mayr zu Gasteig</vulgo>
                </persName>
+               <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </person>
             <person xml:id="wachtler_georg">
                <persName>
                   <forename>Georg</forename>
                   <surname>Wachtler</surname>
                </persName>
+               <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </person>
             <person xml:id="von_elzenbaum_joseph_martin">
                <persName>
                   <forename>Joseph Martin</forename>
                   <surname>von Elzenbaum</surname>
+               </persName>
+            </person>
+            <person xml:id="zingerl_bartlme">
+               <persName>
+                  <forename>Bartlme</forename>
+                  <surname>Zingerl</surname>
                </persName>
             </person>
             <person xml:id="zingerl_joseph">
@@ -5400,12 +5729,19 @@
                   <surname>Zingerl</surname>
                </persName>
             </person>
+            <person xml:id="miller_nn">
+               <persName>
+                  <forename/>
+                  <surname>Miller</surname>
+               </persName>
+               <note type="placing"><rs type="place" ref="#lovara">Lavara</rs></note>
+            </person>
             <person xml:id="agreiter_domenig">
                <persName>
                   <forename>Dominik</forename>
                   <surname>Agreiter</surname>
+                  <vulgo>Mayr zu Söck</vulgo>
                </persName>
-               <note type="function">Mayr zu Söck</note>
             </person>
             <person xml:id="agreiter_christian">
                <persName>
@@ -5413,20 +5749,34 @@
                   <surname>Agreiter</surname>
                </persName>
             </person>
+            <person xml:id="millerin_martin">
+               <persName>
+                  <forename/>
+                  <surname>Millerin</surname>
+               </persName>
+               <note type="placing"><rs type="place" ref="#st_martin_thurn">St. Martin</rs></note>
+            </person>
+            <person xml:id="beck_wiese">
+               <persName>
+                  <forename/>
+                  <surname/>
+                  <vulgo>Beck an der Wiese</vulgo>
+               </persName>
+            </person>
+
+<!-- bis 666v urgerlicher Würth und Gastgeb an der Sonnen allda zu -->
+
+
+
+<!-- names in work -->
+
+
             <person xml:id="oberkircher_johann">
                <persName>
                   <forename>Johann</forename>
                   <surname>Oberkircher</surname>
                </persName>
                <note type="function">Ratsbürger, und Handlsmann, in der Stadt <rs type="place" ref="#lienz">Lienz</rs>
-                    </note>
-            </person>
-            <person xml:id="steger_helena">
-               <persName>
-                  <forename>Helena</forename>
-                  <surname>Steeger</surname>
-               </persName>
-               <note type="family">Tochter von <rs type="steger_johann_anton">Johann Anton Steeger</rs> und <rs type="person" ref="#gasteiger_catharina">Catharina Gasteiger</rs>
                     </note>
             </person>
             <person xml:id="haring_ignatz">
@@ -5479,13 +5829,11 @@
                   <surname>Pernlachner</surname>
                </persName>
             </person>
-            <person xml:id="kuttner_innocenz">
-               <persName>
-                  <forename>Innozenz</forename>
-                  <surname>Kuttner</surname>
-               </persName>
-            </person>
          </listPerson>
+
+
+
+
          <listPerson xml:id="rita1">
             <person xml:id="blasius-trolf-bläsi">
                <persName>
@@ -5694,12 +6042,6 @@
                         <surname>Wieser</surname>
                     </persName>
             </person>
-            <person xml:id="hilber-christian">
-               <persName>
-                        <forename>Christian</forename>
-                        <surname>Hilber</surname>
-                    </persName>
-            </person>
             <person xml:id="greyer-wolfgang">
                <persName>
                         <forename>Wolfgang</forename>
@@ -5761,12 +6103,6 @@
                         <surname>Siller</surname>
                     </persName>
             </person>
-            <person xml:id="hilber-gregori">
-               <persName>
-                        <forename>Gregori</forename>
-                        <surname>Hilber</surname>
-                    </persName>
-            </person>
             <person xml:id="mayr-veit">
                <persName>
                         <forename>Veit</forename>
@@ -5779,12 +6115,6 @@
                   <surname>Schmid</surname>
                </persName>
                <note type="family">ledig</note>
-            </person>
-            <person xml:id="pranter_martin">
-               <persName>
-                  <forename>Martin</forename>
-                  <surname>Pranter</surname>
-               </persName>
             </person>
          </listPerson>
       </body>
