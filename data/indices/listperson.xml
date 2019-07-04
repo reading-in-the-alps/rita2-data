@@ -100,7 +100,7 @@
                <persName>
                   <forename>Joseph</forename>
                   <surname>Hueber</surname>
-                  <vulgo>Niedermayr</vulgo>
+                  <addName>Niedermayr</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#dietenheim">Dietenheim</rs></note>
                <note type="function">Taxator</note>
@@ -234,7 +234,7 @@
                <persName>
                   <forename>Johann</forename>
                   <surname>Hueber</surname>
-                  <vulgo>Rindler</vulgo>
+                  <addName>Rindler</addName>
                </persName>
                <occupation>Wirt in <rs type="place" ref="#saalen">Saalen</rs></occupation>
                <note type="function">Taxator (1752)</note>
@@ -439,7 +439,7 @@
                <persName>
                   <forename>Peter</forename>
                   <surname>Lanz</surname>
-                  <vulgo>Krinner</vulgo>
+                  <addName>Krinner</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#saalen">Saalen</rs></note>
             </person>
@@ -500,7 +500,7 @@
                <persName>
                   <forename>Mattias</forename>
                   <surname>Hueber</surname>
-                  <vulgo>Gasteiger</vulgo>
+                  <addName>Gasteiger</addName>
                </persName>
             </person>
             <person xml:id="saalen_mesner">
@@ -856,7 +856,7 @@
                <persName>
                   <forename>Franz Xaver</forename>
                   <surname>Puel</surname>
-                  <vulgo>Ortner</vulgo>
+                  <addName>Ortner</addName>
                </persName>
                <note type="function">Schuldner des <rs type="person" ref="#stainer_sebastian">Sebastian Joseph Stainer</rs></note>
             </person>
@@ -901,7 +901,7 @@
                <persName>
                   <forename>Georg</forename>
                   <surname>Schmidt</surname>
-                  <vulgo>Obwegser</vulgo>
+                  <addName>Obwegser</addName>
                </persName>
                <note type="function">Kirchenpropst (Nachfolger von <rs type="person" ref="#hueber_hans">Johann Hueber</rs> (?)</note>
             </person>
@@ -991,7 +991,7 @@
                <persName>
                   <forename>Jakob</forename>
                   <surname>Mitterhofer</surname>
-                  <vulgo>Aichholzer</vulgo>
+                  <addName>Aichholzer</addName>
                </persName>
             </person>
             <person xml:id="steger_johann_anton">
@@ -1146,7 +1146,7 @@
                <persName>
                   <forename>Andreas</forename>
                   <surname>Kachler</surname>
-                  <vulgo>Brugger</vulgo>
+                  <addName>Brugger</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#st_georgen">St. Georgen</rs></note>
             </person>
@@ -1154,7 +1154,7 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <vulgo>Obermutschlechner</vulgo>
+                  <addName>Obermutschlechner</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#steegen">Stegen</rs></note>
             </person>
@@ -1176,7 +1176,7 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <vulgo>Obmayr</vulgo>
+                  <addName>Obmayr</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#kuenzenthall">Künzental</rs></note>
             </person>
@@ -1200,7 +1200,7 @@
                <persName>
                   <forename>Johann</forename>
                   <surname>Pifrader</surname>
-                  <vulgo>Kuchlmayr</vulgo>
+                  <addName>Kuchlmayr</addName>
                </persName>
             </person>
             <person xml:id="tinckhhauser_hanns">
@@ -1220,7 +1220,7 @@
                <persName>
                   <forename>Peter</forename>
                   <surname>Wanger</surname>
-                  <vulgo>Kachler</vulgo>
+                  <addName>Kachler</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#st_georgen">St. Georgen</rs></note>
             </person>
@@ -1228,7 +1228,7 @@
                <persName>
                   <forename>Andreas</forename>
                   <surname>Pifrader</surname>
-                  <vulgo>Brandlechner</vulgo>
+                  <addName>Brandlechner</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#st_georgen">St. Georgen</rs></note>
             </person>
@@ -1244,7 +1244,7 @@
                <persName>
                   <forename>Andreas</forename>
                   <surname>Stainer</surname>
-                  <vulgo>Frischhueber</vulgo>
+                  <addName>Frischhueber</addName>
                </persName>
                <note type="family">Ehemann von <rs type="person" ref="#gasmayr_maria">Maria Gassmayrin</rs></note>
             </person>
@@ -1261,7 +1261,7 @@
                <persName>
                   <forename>Georg</forename>
                   <surname>Lercher</surname>
-                  <vulgo>Gatterer</vulgo>
+                  <addName>Gatterer</addName>
                </persName>
                <note type="family">Ehemann von <rs type="person" ref="#stainer_mariae_3">Maria Stainerin</rs></note>
                <note type="placing"><rs type="place" ref="#tesselberg">Tesselberg</rs></note>
@@ -1311,7 +1311,7 @@
                <persName>
                   <forename>Martin</forename>
                   <surname>Mayr</surname>
-                  <vulgo>Kaltenhauser</vulgo>
+                  <addName>Kaltenhauser</addName>
                </persName>
                <note type="family">Ehemann von <rs type="person" ref="#unterweger_maria">Maria Unterwegerin</rs></note>
                <note type="placing"><rs type="place" ref="#st_georgen">St. Georgen</rs></note>
@@ -1342,8 +1342,8 @@
                <persName>
                   <forename>Martin</forename>
                   <surname>Gogl</surname>
-                  <vulgo>Stampfer</vulgo>
-                  <vulgo>Wieser</vulgo>
+                  <addName>Stampfer</addName>
+                  <addName>Wieser</addName>
                </persName>
             </person>
             <person xml:id="laehner_jacob">
@@ -1351,9 +1351,9 @@
                   <forename>Jakob</forename>
                   <surname>Lehner</surname>
                   <surname type="alt">Lähner</surname>
-                  <vulgo>Fohrer</vulgo>
-                  <vulgo type="alt">Forcher</vulgo>
-                  <vulgo type="alt">Forchner</vulgo>
+                  <addName>Fohrer</addName>
+                  <addName type="alt">Forcher</addName>
+                  <addName type="alt">Forchner</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#oberwiellenpach">Oberwielenbach</rs></note>
             </person>
@@ -1361,7 +1361,7 @@
                <persName>
                   <forename>Joseph</forename>
                   <surname>Mayr</surname>
-                  <vulgo>Mayr</vulgo>
+                  <addName>Mayr</addName>
                </persName>
                <note type="function">Käufer des Fohrer-Gutes von <rs type="person" ref="#laehner_jacob">Jakob Lehner</rs></note>
                <note type="placing"><rs type="place" ref="#oberwiellenpach">Oberwielenbach</rs></note>
@@ -1555,8 +1555,8 @@
                <persName>
                   <forename>Johannes</forename>
                   <surname>Planer</surname>
-                  <occupation>Sattler</occupation>
                </persName>
+               <occupation>Sattler</occupation>
                <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </person>
             <person xml:id="stieger_andree">
@@ -1649,7 +1649,7 @@
                <persName>
                   <forename>Apollonia Notburga</forename>
                   <surname>Toschin</surname>
-                  <vulgo>Schuster-Purgl</vulgo>
+                  <addName>Schuster-Purgl</addName>
                </persName>
             </person>
 
@@ -1699,7 +1699,7 @@
                <persName>
                   <forename>Katharina</forename>
                   <surname>Mitterhoferin</surname>
-                  <vulgo>Aichholzerin</vulgo>
+                  <addName>Aichholzerin</addName>
                </persName>
                <occupation>Wirtin beim "Aichholzer"</occupation>
                <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
@@ -2158,15 +2158,15 @@
                <persName>
                   <forename>Ursula</forename>
                   <surname>Prassin</surname>
-                  <occupation>Dienstmagd</occupation>
                </persName>
+               <occupation>Dienstmagd</occupation>
             </person>
             <person xml:id="wiellandt_gerdrauth">
                <persName>
                   <forename>Gertraud</forename>
                   <surname>Wielandin</surname>
-                  <occupation>Dienstmagd</occupation>
                </persName>
+               <occupation>Dienstmagd</occupation>
             </person>
             <person xml:id="von_egerwin_diern">
                <persName>
@@ -2231,7 +2231,7 @@
                <persName>
                   <forename>Maria</forename>
                   <surname>Talackerin</surname>
-                  <vulgo>Tratterin</vulgo>
+                  <addName>Tratterin</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#st_georgen">St. Georgen</rs></note>
             </person>
@@ -2239,7 +2239,7 @@
                <persName>
                   <forename>Joseph</forename>
                   <surname>Mayr</surname>
-                  <vulgo>Kuchlmayr</vulgo>
+                  <addName>Kuchlmayr</addName>
                </persName>
                <note type="function">Administrator der Kaplanei in <rs type="place" ref="#st_georgen">St. Georgen</rs></note>
                <note type="placing"><rs type="place" ref="#st_georgen">St. Georgen</rs></note>
@@ -2280,7 +2280,7 @@
                <persName>
                   <forename>Christian</forename>
                   <surname>Fischnaller</surname>
-                  <vulgo>Mayr</vulgo>
+                  <addName>Mayr</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#rodenegg">Rodeneck</rs></note>
             </person>
@@ -2288,7 +2288,7 @@
                <persName>
                   <forename>Michael</forename>
                   <surname>Ehrnhauser</surname>
-                  <vulgo>Hinteregger</vulgo>
+                  <addName>Hinteregger</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#neustift">Neustift</rs></note>
             </person>
@@ -2432,15 +2432,15 @@
                <persName>
                   <forename>Anton</forename>
                   <surname/>
-                  <vulgo>Becken-Toni</vulgo>
-                  <occupation>Bäcker</occupation>
+                  <addName>Becken-Toni</addName>
                </persName>
+               <occupation>Bäcker</occupation>
             </person>
             <person xml:id="aichholzerin">
                <persName>
                   <forename/>
                   <surname/>
-                  <vulgo>Aichholzerin</vulgo>
+                  <addName>Aichholzerin</addName>
                </persName>
             </person>
             <person xml:id="hernegger_georg">
@@ -2455,16 +2455,16 @@
                   <forename>Martin</forename>
                   <forename type="alt">Märtl</forename>
                   <surname/>
-                  <occupation>Schmied</occupation>
-                  <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
                </persName>
+               <occupation>Schmied</occupation>
+               <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </person>
             <person xml:id="maz">
                <persName>
                   <forename/>
                   <surname>Maz</surname>
-                  <occupation>Müller</occupation>
                </persName>
+               <occupation>Müller</occupation>
                <note type="placing"><rs type="place" ref="#pflaurenz">Pflaurenz</rs></note>
             </person>
             <person xml:id="mazin">
@@ -2477,24 +2477,24 @@
                <persName>
                   <forename/>
                   <surname>Ortnerin</surname>
-                  <occupation>Wirtin</occupation>
                </persName>
+               <occupation>Wirtin</occupation>
             </person>
             <person xml:id="laurenzen_gerber">
                <persName>
                   <forename/>
                   <surname/>
-                  <occupation>Gerber</occupation>
-                  <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
                </persName>
+               <occupation>Gerber</occupation>
+               <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </person>
             <person xml:id="pflaurenz_gerber">
                <persName>
                   <forename/>
                   <surname/>
-                  <occupation>Gerber</occupation>
-                  <note type="placing"><rs type="place" ref="#pflaurenz">Pflaurenz</rs></note>
                </persName>
+               <occupation>Gerber</occupation>
+               <note type="placing"><rs type="place" ref="#pflaurenz">Pflaurenz</rs></note>
             </person>
             <person xml:id="hortnagl">
                <persName>
@@ -2506,10 +2506,10 @@
                <persName>
                   <forename>Lukas</forename>
                   <surname/>
-                  <vulgo>Luck-Beck</vulgo>
-                  <occupation>Bäcker</occupation>
-                  <note type="placing"><rs type="place" ref="#brunegg">Bruneck</rs></note>
+                  <addName>Luck-Beck</addName>
                </persName>
+               <occupation>Bäcker</occupation>
+               <note type="placing"><rs type="place" ref="#brunegg">Bruneck</rs></note>
             </person>
             <person xml:id="spielpichler_matthias">
                <persName>
@@ -2534,17 +2534,17 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <occupation>Büchsenmacher</occupation>
-                  <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
                </persName>
+               <occupation>Büchsenmacher</occupation>
+               <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </person>
             <person xml:id="lorenzen_buechsenmacher_ehefrau">
                <persName>
                   <forename/>
                   <surname/>
-                  <note type="family">Ehefrau des <rs type="person" ref="#lorenzen_buechsenmacher">Büchsenmachers aus St. Lorenzen</rs></note>
-                  <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
                </persName>
+               <note type="family">Ehefrau des <rs type="person" ref="#lorenzen_buechsenmacher">Büchsenmachers aus St. Lorenzen</rs></note>
+               <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </person>
             <person xml:id="turneretscher_johann_joseph">
                <persName>
@@ -2607,15 +2607,15 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <vulgo>Mayr am Anger</vulgo>
+                  <addName>Mayr am Anger</addName>
                </persName>
             </person>
             <person xml:id="mayr_jakob">
                <persName>
                   <forename>Jakob</forename>
                   <surname>Mayr</surname>
-                  <vulgo>Graspeintner</vulgo>
-                  <vulgo type="alt">Grasbeinter</vulgo>
+                  <addName>Graspeintner</addName>
+                  <addName type="alt">Grasbeinter</addName>
                   <note type="function">Beisitzer im Rahmen der Verlassenschaft von <rs type="person" ref="#hueber_jakob">Jakob Hueber</rs></note>
                </persName>
             </person>
@@ -2738,7 +2738,7 @@
                <persName>
                   <forename>Joseph</forename>
                   <surname>Lercher</surname>
-                  <vulgo>Lercher</vulgo>
+                  <addName>Lercher</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#onach">Onach</rs></note>
             </person>
@@ -2746,7 +2746,7 @@
                <persName>
                   <forename>Andreas</forename>
                   <surname>Lercher</surname>
-                  <vulgo>Lercher</vulgo>
+                  <addName>Lercher</addName>
                </persName>
                <note type="family">Großvater von <rs type="person" ref="#lercher_joseph">Joseph Lercher</rs></note>
                <note type="family">Ehemann von <rs type="person" ref="#helleitner_maria_2">Maria Helleitnerin</rs></note>
@@ -2791,7 +2791,7 @@
                <persName>
                   <forename>Johann</forename>
                   <surname>Niederbacher</surname>
-                  <vulgo>Kröll</vulgo>
+                  <addName>Kröll</addName>
                </persName>
             </person>
             <person xml:id="prugger_geistlicher">
@@ -2861,7 +2861,7 @@
                <persName>
                   <forename>Johann</forename>
                   <surname>Gruber</surname>
-                  <vulgo>Erschbaumer</vulgo>
+                  <addName>Erschbaumer</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#moos">Moos</rs></note>
             </person>
@@ -2950,14 +2950,14 @@
                <persName>
                   <forename>Jakob</forename>
                   <surname>Hueber</surname>
-                  <vulgo>Mayr zu Gasteig</vulgo>
+                  <addName>Mayr zu Gasteig</addName>
                </persName>
             </person>
             <person xml:id="hueber_peter">
                <persName>
                   <forename>Peter</forename>
                   <surname>Hueber</surname>
-                  <vulgo>Miller</vulgo>
+                  <addName>Miller</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#muehlbach_bei_gais">Mühlbach</rs></note>
             </person>
@@ -2965,14 +2965,14 @@
                <persName>
                   <forename>Matthias</forename>
                   <surname>Mitterhofer</surname>
-                  <vulgo>Mayr zu Grasstein</vulgo>
+                  <addName>Mayr zu Grasstein</addName>
                </persName>
             </person>
             <person xml:id="klamer_joseph">
                <persName>
                   <forename>Joseph</forename>
                   <surname>Klamer</surname>
-                  <vulgo>Klamperer</vulgo>
+                  <addName>Klamperer</addName>
                </persName>
                <note type="function">Mesner in <rs type="place" ref="#st_martin">St. Martin</rs></note>
                <note type="placing"><rs type="place" ref="#st_martin">St. Martin</rs></note>
@@ -2988,7 +2988,7 @@
                <persName>
                   <forename>Johann</forename>
                   <surname>Mutschlechner</surname>
-                  <vulgo>Kirchsteiger</vulgo>
+                  <addName>Kirchsteiger</addName>
                </persName>
                <note type="function">Bestandsmann (1781)</note>
             </person>
@@ -2996,7 +2996,7 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <vulgo>Hinterkirchsteiger</vulgo>
+                  <addName>Hinterkirchsteiger</addName>
                </persName>
                <note type="function">Bestandsmann (1781)</note>
             </person>
@@ -3011,7 +3011,7 @@
                <persName>
                   <forename>Franz</forename>
                   <surname>Gatterer</surname>
-                  <vulgo>Stocker</vulgo>
+                  <addName>Stocker</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#fassing">Fassing</rs></note>
             </person>
@@ -3019,7 +3019,7 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <vulgo>Pargger</vulgo>
+                  <addName>Pargger</addName>
                </persName>
                <occupation>Müller</occupation>
             </person>
@@ -3035,7 +3035,7 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <vulgo>Hausstetter</vulgo>
+                  <addName>Hausstetter</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#stephansdorf">Stefansdorf</rs></note>
             </person>
@@ -3043,7 +3043,7 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <vulgo>Ätteler</vulgo>
+                  <addName>Ätteler</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#uttenheim">Uttenheim</rs></note>
             </person>
@@ -3054,12 +3054,12 @@
                </persName>
                <note type="placing">Kranebiter-Haus</note>
             </person>
-            <person xml:id="stainer_joseph">
+            <person xml:id="stainer_joseph_3">
                <persName>
                   <forename>Joseph</forename>
                   <surname>Stainer</surname>
-                  <vulgo>Hurtmüller</vulgo>
-                  <vulgo type="alt">Hortmiller</vulgo>
+                  <addName>Hurtmüller</addName>
+                  <addName type="alt">Hortmiller</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#stephansdorf">Stefansdorf</rs></note>
             </person>
@@ -3067,7 +3067,7 @@
                <persName>
                   <forename>Joseph</forename>
                   <surname>Planer</surname>
-                  <vulgo>Auermüller</vulgo>
+                  <addName>Auermüller</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#st_martin">St. Martin</rs></note>
             </person>
@@ -3075,7 +3075,7 @@
                <persName>
                   <forename>Simon</forename>
                   <surname>Niedermayr</surname>
-                  <vulgo>Pichler</vulgo>
+                  <addName>Pichler</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#stephansdorf">Stefansdorf</rs></note>
             </person>
@@ -3083,7 +3083,7 @@
                <persName>
                   <forename>Joseph</forename>
                   <surname>Niedermayr</surname>
-                  <vulgo>Pichler</vulgo>
+                  <addName>Pichler</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#stephansdorf">Stefansdorf</rs></note>
             </person>
@@ -3217,7 +3217,7 @@
                <persName>
                   <forename>Peter</forename>
                   <surname/>
-                  <vulgo>Mayr zu Grasstein</vulgo>
+                  <addName>Mayr zu Grasstein</addName>
                </persName>
             </person>
             <person xml:id="radmacher_bruneck">
@@ -3278,7 +3278,7 @@
                <persName>
                   <forename>Joseph</forename>
                   <surname>Kammerer</surname>
-                  <vulgo>Grünbacher</vulgo>
+                  <addName>Grünbacher</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#kiens">Kiens</rs></note>
             </person>
@@ -3312,7 +3312,7 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <vulgo>Hueberin in Feld</vulgo>
+                  <addName>Hueberin in Feld</addName>
                </persName>
             </person>
             <person xml:id="kerschbaumer_magdalena">
@@ -3356,7 +3356,7 @@
                <persName>
                   <forename>Joseph</forename>
                   <surname>Hueber</surname>
-                  <vulgo>Winkler</vulgo>
+                  <addName>Winkler</addName>
                </persName>
                <note type="function">Gerichtsausschuss in <rs type="place" ref="#saalen">Saalen</rs></note>
                <note type="placing"><rs type="place" ref="#saalen">Saalen</rs></note>
@@ -3391,7 +3391,7 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <vulgo>Pichler</vulgo>
+                  <addName>Pichler</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#stephansdorf">Stefansdorf</rs></note>
             </person>
@@ -3408,31 +3408,31 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <occupation>Sattler</occupation>
                </persName>
+               <occupation>Sattler</occupation>
                <note type="placing"><rs type="place" ref="#brunegg">Bruneck</rs></note>
             </person>
             <person xml:id="eisenkramer">
                <persName>
                   <forename/>
                   <surname/>
-                  <occupation>Eisenhändler</occupation>
                </persName>
+               <occupation>Eisenhändler</occupation>
             </person>
             <person xml:id="tischler_gais">
                <persName>
                   <forename/>
                   <surname/>
-                  <occupation>Tischler</occupation>
-                  <note type="placing"><rs type="place" ref="#gais">Gais</rs></note>
                </persName>
+               <occupation>Tischler</occupation>
+               <note type="placing"><rs type="place" ref="#gais">Gais</rs></note>
             </person>
             <person xml:id="manucredo_">
                <persName>
                   <forename/>
                   <surname>Manucredo</surname>
-                  <note type="function">Geistlicher</note>
                </persName>
+               <note type="function">Geistlicher</note>
             </person>
             <person xml:id="mayr_franz_3">
                <persName>
@@ -3444,8 +3444,8 @@
                <persName>
                   <forename>Krempe (?)</forename>
                   <surname>Pider</surname>
-                  <note type="placing"><rs type="place" ref="#ellen">Ellen</rs></note>
                </persName>
+               <note type="placing"><rs type="place" ref="#ellen">Ellen</rs></note>
             </person>
             <person xml:id="pachlechnerin">
                <persName>
@@ -3457,14 +3457,14 @@
                <persName>
                   <forename/>
                   <surname>Hueberin (?)</surname>
-                  <vulgo>Mayrin zu Gasteig</vulgo>
+                  <addName>Mayrin zu Gasteig</addName>
                </persName>
             </person>
             <person xml:id="mahlerin_lorenzen">
                <persName>
                   <forename/>
                   <surname/>
-                  <vulgo>Malerin</vulgo>
+                  <addName>Malerin</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </person>
@@ -3528,7 +3528,7 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <vulgo>Ausluger</vulgo>
+                  <addName>Ausluger</addName>
                </persName>
             </person>
             <person xml:id="salcher_salcherin">
@@ -3548,7 +3548,7 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <vulgo>Blechbichler</vulgo>
+                  <addName>Blechbichler</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#moos">Moos (?)</rs></note>
             </person>
@@ -3556,7 +3556,7 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <vulgo>Brandenburger</vulgo>
+                  <addName>Brandenburger</addName>
                </persName>
             </person>
             <person xml:id="oberstaller_maria">
@@ -3596,7 +3596,7 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <vulgo>Harassackerer</vulgo>
+                  <addName>Harassackerer</addName>
                </persName>
             </person>
             <person xml:id="niderer_benedict">
@@ -3630,9 +3630,9 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <occupation>Bäcker</occupation>
-                  <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
                </persName>
+               <occupation>Bäcker</occupation>
+               <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </person>
             <person xml:id="suitner_">
                <persName>
@@ -3645,7 +3645,7 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <vulgo>Weliser</vulgo>
+                  <addName>Weliser</addName>
                </persName>
             </person>
             <person xml:id="mayr_matzl">
@@ -3772,7 +3772,7 @@
                <persName>
                   <forename>Franz</forename>
                   <surname>Huber</surname>
-                  <vulgo>Rindler</vulgo>
+                  <addName>Rindler</addName>
                </persName>
                <note type="function">Wirt in <rs type="place" ref="#saalen">Saalen</rs></note>
             </person>
@@ -3797,13 +3797,6 @@
                   <surname/>
                </persName>
                <note type="function">Organist in <rs type="place" ref="#saalen">Saalen</rs> (?)</note>
-            </person>
-            <person xml:id="saalen_mesner">
-               <persName>
-                 <forename/>
-                 <surname/>
-               </persName>
-               <note type="function">Mesner in <rs type="place" ref="#saalen">Saalen</rs></note>
             </person>
             <person xml:id="saalen_haeuserin">
                <persName>
@@ -4025,7 +4018,7 @@
                <persName>
                   <forename>Jakob</forename>
                   <surname>Duregger</surname>
-                  <vulgo>Oberlinder</vulgo>
+                  <addName>Oberlinder</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#stainhaus">Steinhaus</rs> im Landgericht <rs type="place" ref="#taufers">Taufers</rs></note>
             </person>
@@ -4033,7 +4026,7 @@
                <persName>
                   <forename>Joseph</forename>
                   <surname>Niederkofler</surname>
-                  <vulgo>Brugger</vulgo>
+                  <addName>Brugger</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#stainhaus">Steinhaus</rs> im Landgericht <rs type="place" ref="#taufers">Taufers</rs></note>
             </person>
@@ -4041,7 +4034,7 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <vulgo>Aichholzer</vulgo>
+                  <addName>Aichholzer</addName>
                </persName>
                <occupation>Wirt "Aichholzer"</occupation>
             </person>
@@ -4092,7 +4085,7 @@
                <persName>
                   <forename>Matthias</forename>
                   <surname>Tratter</surname>
-                  <vulgo>Tratter</vulgo>
+                  <addName>Tratter</addName>
                </persName>
                <note type="family">Bruder von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs></note>
                <note type="family">Sohn von <rs type="person" ref="#tratter_matthias">Matthias Tratter</rs> und <rs type="person" ref="#tratter_maria_2">Maria Kammererin</rs></note>
@@ -4104,7 +4097,7 @@
                   <forename>Maria</forename>
                   <surname type="birth">Tratterin</surname>
                   <surname>Pifraderin</surname>
-                  <vulgo>Brandlechnerin</vulgo>
+                  <addName>Brandlechnerin</addName>
                </persName>
                <note type="family">Schwester von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs></note>
                <note type="family">Tochter von <rs type="person" ref="#tratter_matthias">Matthias Tratter</rs> und <rs type="person" ref="#tratter_maria_2">Maria Kammererin</rs></note>
@@ -4123,7 +4116,7 @@
                <persName>
                   <forename>Georg</forename>
                   <surname>Peintner</surname>
-                  <vulgo>Kachler (Kachler-Wirt)</vulgo>
+                  <addName>Kachler (Kachler-Wirt)</addName>
                </persName>
                <occupation>Wirt</occupation>
                <note type="function">Kurator und Vertreter von <rs type="person" ref="#tratter_veit">Veit Tratter</rs>, <rs type="person" ref="#tratter_ursula">Ursula Tratterin</rs> und <rs type="person" ref="#tratter_katharina">Katharina Tratterin</rs></note>
@@ -4192,7 +4185,7 @@
                <persName>
                   <forename>Joseph</forename>
                   <surname>Pifrader</surname>
-                  <vulgo>Brandlechner</vulgo>
+                  <addName>Brandlechner</addName>
                </persName>
                <note type="family">Sohn von <rs type="person" ref="#tratter_maria">Maria Tratterin</rs></note>
                <note type="function">Gemeinschaftsführer im Rahmen der Verlassenschaftsabhandlung von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs></note>
@@ -4201,7 +4194,7 @@
                <persName>
                   <forename>Joseph</forename>
                   <surname>Felser</surname>
-                  <vulgo>halber Kaltenhauser</vulgo>
+                  <addName>halber Kaltenhauser</addName>
                </persName>
                <note type="function">Anweiser von <rs type="person" ref="#tratter_maria">Maria Tratterin</rs></note>
                <note type="placing"><rs type="place" ref="#st_georgen">St. Georgen</rs></note>
@@ -4251,7 +4244,7 @@
                <persName>
                   <forename>Joseph</forename>
                   <surname>Steeger</surname>
-                  <vulgo>Häuslmayr</vulgo>
+                  <addName>Häuslmayr</addName>
                </persName>
                <note type="function">Schuldner und Erbempfänger von <rs type="person" ref="#tratter_joseph">Joseph Tratter</rs></note>
                <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
@@ -4275,7 +4268,7 @@
                <persName>
                   <forename>Paul</forename>
                   <surname>Pifrader</surname>
-                  <vulgo>Bartlmayr</vulgo>
+                  <addName>Bartlmayr</addName>
                </persName>
                <note type="function">Bestandsmann am <rs type="place" ref="#keselanger">Keselanger</rs></note>
             </person>
@@ -4283,7 +4276,7 @@
                <persName>
                   <forename>Sebastian</forename>
                   <surname>Unterwolfsgruber</surname>
-                  <vulgo>Raderbauer</vulgo>
+                  <addName>Raderbauer</addName>
                </persName>
                <note type="function">Bestandsmann am <rs type="place" ref="#keselanger">Keselanger</rs></note>
             </person>
@@ -4374,7 +4367,7 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <vulgo>Rader</vulgo>
+                  <addName>Rader</addName>
                </persName>
                <occupation>Bauer</occupation>
                <note type="placing"><rs type="place" ref="#st_georgen">St. Georgen</rs></note>
@@ -4513,7 +4506,7 @@
                   <forename>Maria</forename>
                   <surname type="birth">Renzlerin</surname>
                   <surname>Mitterhoferin</surname>
-                  <vulgo>Mayrin zu Grasstein</vulgo>
+                  <addName>Mayrin zu Grasstein</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#st_martin">St. Martin</rs></note>
             </person>
@@ -4537,7 +4530,7 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <vulgo>Tschan-Müller</vulgo>
+                  <addName>Tschan-Müller</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#pflaurenz">Pflaurenz</rs></note>
             </person>
@@ -4545,7 +4538,7 @@
                <persName>
                   <forename>Johann</forename>
                   <surname>Planer</surname>
-                  <vulgo>Auer-Müller</vulgo>
+                  <addName>Auer-Müller</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#muehlbach">Mühlbach</rs></note>
             </person>
@@ -4553,7 +4546,7 @@
                <persName>
                   <forename>Johann</forename>
                   <surname>Hueber</surname>
-                  <vulgo>Jorgl-Müller</vulgo>
+                  <addName>Jorgl-Müller</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#muehlbach">Mühlbach</rs></note>
             </person>
@@ -4561,14 +4554,14 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <vulgo>Mayr zu Grasstein zu Gasteig</vulgo>
+                  <addName>Mayr zu Grasstein zu Gasteig</addName>
                </persName>
             </person>
             <person xml:id="oberkirchsteiger">
                <persName>
                   <forename/>
                   <surname/>
-                  <vulgo>Oberkirchsteiger</vulgo>
+                  <addName>Oberkirchsteiger</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#moos">Moos</rs></note>
             </person>
@@ -4815,7 +4808,7 @@
               <persName>
                  <forename/>
                  <surname/>
-                 <vulgo>Lämb-Wirt</vulgo>
+                 <addName>Lämb-Wirt</addName>
               </persName>
               <occupation>Wirt "zum Lamm"</occupation>
             </person>
@@ -4954,7 +4947,7 @@
                <persName>
                   <forename>Anton</forename>
                   <surname>Mayr</surname>
-                  <vulgo>Aichholzer</vulgo>
+                  <addName>Aichholzer</addName>
                </persName>
                <occupation>Wirt (?)</occupation>
             </person>
@@ -4962,7 +4955,7 @@
                <persName>
                   <forename>Veit</forename>
                   <surname>Wiser</surname>
-                  <vulgo>Strutzer</vulgo>
+                  <addName>Strutzer</addName>
                </persName>
                <occupation>Metzger</occupation>
                <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
@@ -5051,7 +5044,7 @@
                <persName>
                   <forename>Michael</forename>
                   <surname>Hueber</surname>
-                  <vulgo>Perlbauer am <rs type="place" ref="#sand">Sand in Taufers</rs></vulgo>
+                  <addName>Perlbauer am <rs type="place" ref="#sand">Sand in Taufers</rs></addName>
                </persName>
                <occupation>Bauer</occupation>
                <note type="family">Ehemann von <rs type="person" ref="#mayr_katharina">Katharina Mayrin</rs></note>
@@ -5072,7 +5065,7 @@
                <persName>
                   <forename>Johann</forename>
                   <surname>Forer</surname>
-                  <vulgo>Perlbauer am <rs type="place" ref="#sand">Sand in Taufers</rs></vulgo>
+                  <addName>Perlbauer am <rs type="place" ref="#sand">Sand in Taufers</rs></addName>
                </persName>
                <occupation>Bauer</occupation>
                <note type="placing"><rs type="place" ref="#sand">Sand in Taufers</rs></note>
@@ -5090,8 +5083,8 @@
                <persName>
                   <forename>Georg</forename>
                   <surname>Steeger</surname>
+                  <addName>Schraffl-Wirt</addName>
                </persName>
-               <vulgo>Schraffl-Wirt</vulgo>
                <occupation>Wirt</occupation>
             </person>
             <person xml:id="hueber_johann_3">
@@ -5130,14 +5123,14 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <vulgo>Hebreer</vulgo>
+                  <addName>Hebreer</addName>
                </persName>
             </person>
             <person xml:id="pinter_veit">
                <persName>
                   <forename>Veit</forename>
                   <surname/>
-                  <vulgo>Pinter-Veitl</vulgo>
+                  <addName>Pinter-Veitl</addName>
                </persName>
             </person>
             <person xml:id="pranter_martin">
@@ -5168,17 +5161,17 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <occupation>Büchsenmacher</occupation>
-                  <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
                </persName>
+               <occupation>Büchsenmacher</occupation>
+               <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </person>
             <person xml:id="lorenzen_buechsenmacher_ehefrau_2">
                <persName>
                   <forename/>
                   <surname/>
-                  <note type="family">Ehefrau des <rs type="person" ref="#lorenzen_buechsenmacher">Büchsenmachers aus St. Lorenzen</rs></note>
-                  <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
                </persName>
+               <note type="family">Ehefrau des <rs type="person" ref="#lorenzen_buechsenmacher">Büchsenmachers aus St. Lorenzen</rs></note>
+               <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </person>
             <person xml:id="veitl">
                <persName>
@@ -5701,7 +5694,7 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <vulgo>Mayr zu Gasteig</vulgo>
+                  <addName>Mayr zu Gasteig</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#st_lorenzen">St. Lorenzen</rs></note>
             </person>
@@ -5744,8 +5737,8 @@
                <persName>
                   <forename>Dominik</forename>
                   <surname>Agreiter</surname>
-                  <vulgo>Mayr zu Söck</vulgo>
-                  <vulgo>Mayr zu Sack</vulgo>
+                  <addName>Mayr zu Söck</addName>
+                  <addName>Mayr zu Sack</addName>
                </persName>
                <note type="placing"><rs type="place" ref="#ennenberg">Enneberg</rs></note>
             </person>
@@ -5766,8 +5759,8 @@
                <persName>
                   <forename/>
                   <surname/>
-                  <occupation>Binder (?)</occupation>
                </persName>
+               <occupation>Binder (?)</occupation>
             </person>
             <person xml:id="rutner">
                <persName>
