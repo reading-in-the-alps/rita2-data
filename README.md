@@ -1,6 +1,6 @@
 # rita2-data
 
-This repo cotains xml-tei data created in the project ["Reading in the Alps"](https://www.oeaw.ac.at/acdh/projects/rita/)
+This repo contains xml-tei data created in the project ["Reading in the Alps"](https://www.oeaw.ac.at/acdh/projects/rita/)
 
 ## structure
 
