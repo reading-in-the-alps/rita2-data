@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="18.1">
+<project version="21.1">
     <meta>
         <filters directoryPatterns="" filePatterns="rita-data.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
-            <serialized version="18.1" xml:space="preserve">
+            <serialized version="21.1" xml:space="preserve">
                 <serializableOrderedMap>
                     <entry>
                         <String>enable.parser.caching</String>
@@ -16,6 +16,21 @@
                     <entry>
                         <String>scenario.associations</String>
                         <scenarioAssociation-array>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>excel/oag_bruneck.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>excel_to_summary</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>excel/</String>
@@ -184,9 +199,6 @@
                                 <field name="openInBrowser">
                                     <Boolean>false</Boolean>
                                 </field>
-                                <field name="outputFile">
-                                    <File>${pd}/data/inventare/${cfn}.xml</File>
-                                </field>
                                 <field name="outputResource">
                                     <String>${pd}/data/inventare/${cfn}.xml</String>
                                 </field>
@@ -270,9 +282,6 @@
                                 <field name="openInBrowser">
                                     <Boolean>false</Boolean>
                                 </field>
-                                <field name="outputFile">
-                                    <File>${pd}/data/temp/${cfne}</File>
-                                </field>
                                 <field name="outputResource">
                                     <String>${pd}/data/temp/${cfne}</String>
                                 </field>
@@ -355,9 +364,6 @@
                                 </field>
                                 <field name="openInBrowser">
                                     <Boolean>false</Boolean>
-                                </field>
-                                <field name="outputFile">
-                                    <File>${pd}/data/temp/${cfne}</File>
                                 </field>
                                 <field name="outputResource">
                                     <String>${pd}/data/temp/${cfne}</String>
@@ -590,9 +596,6 @@
                                 </field>
                                 <field name="openInBrowser">
                                     <Boolean>false</Boolean>
-                                </field>
-                                <field name="outputFile">
-                                    <null/>
                                 </field>
                                 <field name="outputResource">
                                     <null/>
