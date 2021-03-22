@@ -4,7 +4,7 @@
         <acdh:DefaultLang>de</acdh:DefaultLang>
         <acdh:AppBaseURL>http://127.0.1.1:8080/exist/apps/rita</acdh:AppBaseURL>
     </acdh:Constanst>
-
+    
     <!-- definition of agents mentioned in the Metadata as e.g. PI, Curator, ... but not yet in ARCHE -->
     <acdh:MetaAgents>
         <acdh:Person rdf:about="https://d-nb.info/gnd/1133094783">
@@ -14,6 +14,7 @@
         </acdh:Person>
         <acdh:Person rdf:about="https://d-nb.info/gnd/129199176">
             <acdh:hasTitle xml:lang="de">Brigitte Mazohl</acdh:hasTitle>
+            <acdh:hasPersonalTitle>em. o. Univ.-Prof. Dr. phil.</acdh:hasPersonalTitle>
             <acdh:hasLastName xml:lang="de">Mazohl</acdh:hasLastName>
             <acdh:hasFirstName xml:lang="de">Brigitte</acdh:hasFirstName>
         </acdh:Person>
@@ -33,7 +34,7 @@
             <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/1043833846"/>
             <acdh:hasContact rdf:resource="https://d-nb.info/gnd/1133094783"/>
             <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1043833846"/>
-             <acdh:hasDescription xml:lang="de">Ziel dieses Projekts ist die systematische Erforschung des privaten Buchbesitzes im katholisch
+            <acdh:hasDescription xml:lang="de">Ziel dieses Projekts ist die systematische Erforschung des privaten Buchbesitzes im katholisch
                 dominierten Zentralalpenraum, genauergesagt in Tirol, für den Zeitraum von 1750 bis 1800.</acdh:hasDescription>
             <acdh:hasRelatedCollection rdf:resource="https://id.acdh.oeaw.ac.at/rita"/>
             <acdh:hasStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-06</acdh:hasStartDate>
@@ -48,35 +49,40 @@
             <acdh:hasSubject xml:lang="de">Tirol</acdh:hasSubject>
             <acdh:hasSubject xml:lang="de">18. Jahrhundert</acdh:hasSubject>
         </acdh:Project>
-        <!-- <acdh:Image rdf:about="https://id.acdh.oeaw.ac.at/rita/title-img.jpg">
-          <acdh:hasTitle xml:lang="de">Darlehensbuch Satzbuch CD (1438-1473)</acdh:hasTitle>
-          <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/2060831-7"/>
-          <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/2060831-7"/>
-          <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/2060831-7"/>
-          <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/2060831-7"/>
-          <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-nc-nd-4-0"/>
-          <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
-          <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/rita/facs"/>
-          <acdh:isTitleImageOf rdf:resource="https://id.acdh.oeaw.ac.at/rita"/>
-          <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/1043833846"/>
-          <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1043833846"/>
-        </acdh:Image> -->
+        <rdf:Description rdf:about="https://id.acdh.oeaw.ac.at/rita/title-img.jpg">
+            <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0" />
+            <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/1133094783" />
+            <acdh:isTitleImageOf rdf:resource="https://id.acdh.oeaw.ac.at/rita" />
+            <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image" />
+            <acdh:hasSubject xml:lang="de"></acdh:hasSubject>
+            <acdh:hasTitle xml:lang="de">Alte Bücher im Tiroler Landesmuseum Ferdinandeum</acdh:hasTitle>
+            <acdh:hasContact rdf:resource="https://d-nb.info/gnd/1133094783" />
+            <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1133094783" />
+            <rdf:type rdf:resource="https://vocabs.acdh.oeaw.ac.at/schema#Resource" />
+            <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/rita" />
+            <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/1043833846" />
+            <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1043833846" />
+            <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/1133094783" />
+            <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/1133094783" />
+            <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
+            <!--            <acdh:hasHosting rdf:resource="https://arche.acdh.oeaw.ac.at/api/3313"/>-->
+        </rdf:Description>
     </acdh:MetaAgents>
-
+    
     <acdh:CollStruct>
         <acdh:TopColl url="https://id.acdh.oeaw.ac.at/rita">
             <acdh:hasTitle xml:lang="de">Lesen im Alpental</acdh:hasTitle>
             <acdh:hasAlternativeTitle xml:lang="de">Privater Buchbesitz im katholisch dominierten Zentralalpenraum 1750-1800. Eine systematische Untersuchung anhand von Inventaren aus dem Pustertal und dem Stubaital</acdh:hasAlternativeTitle>
-            <!-- <acdh:hasDescription xml:lang="de">Ziel dieses FWF-geförderten, vom Institut für Geschichtswissenschaften und Europäische Ethnologie der Universität Innsbruck und dem Austrian Center for Digital Humanities and Cultural Heritage der Österreichischen Akademie der Wissenschaften (ACDHCH-ÖAW) durchgeführten Projekts ist die systematische Erforschung des privaten Buchbesitzes im katholisch dominierten Zentralalpenraum, genauer gesagt in Tirol, für den Zeitraum von 1750 bis 1800. Als Hauptquelle werden - wie das auch in vergleichbaren Studien, die sich bislang vor allem mit protestantisch-pietistisch geprägten Regionen beschäftigten, gemacht wurde - Inventare herangezogen. Bücher, die in rund 2000 Inventaren aus dem Südtiroler Pustertal genannt werden, sollen erhoben und so der private Buchbesitz in dieser Region beschrieben und systematisch analysiert werden.
+            <acdh:hasDescription xml:lang="de">Ziel dieses FWF-geförderten, vom Institut für Geschichtswissenschaften und Europäische Ethnologie der Universität Innsbruck und dem Austrian Center for Digital Humanities and Cultural Heritage der Österreichischen Akademie der Wissenschaften (ACDHCH-ÖAW) durchgeführten Projekts ist die systematische Erforschung des privaten Buchbesitzes im katholisch dominierten Zentralalpenraum, genauer gesagt in Tirol, für den Zeitraum von 1750 bis 1800. Als Hauptquelle werden - wie das auch in vergleichbaren Studien, die sich bislang vor allem mit protestantisch-pietistisch geprägten Regionen beschäftigten, gemacht wurde - Inventare herangezogen. Bücher, die in rund 2000 Inventaren aus dem Südtiroler Pustertal genannt werden, sollen erhoben und so der private Buchbesitz in dieser Region beschrieben und systematisch analysiert werden.
                 * Wer besaß Bücher und welche Muster lassen sich bei den BuchbesitzerInnen beobachten? (Geschlecht, Alter, sozioökonomischer Hintergrund, Beruf)
                 * Welche und wie viele Bücher waren im Umlauf bzw. populär/verbreitet? (religiöser oder weltlicher Inhalt, Autoren, Herkunft, Wert/Preis, Auswirkungen von staatlicher/kirchlicher Zensur)
                 * Welche Unterschiede und Parallelen zeigen sich im Vergleich zu existierenden Studien?
                 * Diese Studie betritt Neuland, nicht nur für das historische Tirol, sondern auch für das Gebiet des heutigen Österreich und den gesamten katholisch-süddeutschen Raum.
                 In Kooperation mit dem Austrian Center for Digital Humanities and Cultural Heritage der Österreichischen Akademie der Wissenschaften (ACDHCH-ÖAW), werden die Daten aus den systematisch analysierten Inventare hier in einer XML-codierten Online-Datenbank publiziert. Auf diese Weise sollen sowohl die Wissenschaft als auch die interessierte Öffentlichkeit einfachen Zugang zu den aufbereiteten Quellen erhalten, die für eine ganze Reihe von Fragestellungen von Interesse sein können.
                 In einer Pilotstudie wurden bereits rund 200 Inventare aus dem Tiroler Stubaital untersucht. Die Ergebnisse sind hier ebenfalls zu finden.
-            </acdh:hasDescription> -->
-            <acdh:hasPid rdf:datatype="http://www.w3.org/2001/XMLSchema#xs">https://hdl.handle.net/21.11115/0000-000C-D8D9-C</acdh:hasPid>
-            <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">1750-01-01</acdh:hasCoverageStartDate>
+            </acdh:hasDescription> 
+            <acdh:hasPid rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://hdl.handle.net/21.11115/0000-000C-D8D9-C</acdh:hasPid>
+            <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1750-01-01</acdh:hasCoverageStartDate>
             <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1800-12-31</acdh:hasCoverageEndDate>
             <acdh:hasSubject xml:lang="de">privater Buchbesitz</acdh:hasSubject>
             <acdh:hasSubject xml:lang="de">Geschichte des Lesens</acdh:hasSubject>
@@ -94,18 +100,7 @@
             <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/1133094783"/>
             <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
         </acdh:TopColl>
-
-        <acdh:DataColl name="disseminate">
-            <acdh:hasTitle xml:lang="de">Disseminationsskripte</acdh:hasTitle>
-            <acdh:hasDescription xml:lang="de">Dateien und Skripte zum Generieren von HTML Repräsentationen von TEI/XML Dateien</acdh:hasDescription>
-            <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1043833846"/>
-            <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/1123037736"/> <!-- acdh -->
-            <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
-            <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/1001454-8"/> <!-- öaw -->
-            <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1043833846"/> <!-- acdh -->
-            <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/1001454-8"/> <!-- öaw -->
-        </acdh:DataColl>
-
+        
         <acdh:DataColl name="editions">
             <acdh:hasTitle xml:lang="de">Edierte Inventare aus dem mittleren Pustertal</acdh:hasTitle>
             <acdh:hasDescription xml:lang="de">XML/TEI kodierte Transkripte aus dem mittleren Pustertal.</acdh:hasDescription>
@@ -133,15 +128,16 @@
             <acdh:hasSubject xml:lang="de">Digital Edition</acdh:hasSubject>
         </acdh:DataColl>
     </acdh:CollStruct>
-
+    
     <!-- mandatory properties shared by acdh:Collection AND acdh:Resource -->
     <acdh:RepoObject>
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/601"/> <!-- Geschichte, Archäologie -->
         <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/1043833846"/>
+        <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/1043833846"/>
         <acdh:hasContact rdf:resource="https://d-nb.info/gnd/1133094783"/>
         <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1043833846"/>
     </acdh:RepoObject>
-
+    
     <!-- Resource specific mandatory or very nice to have constant properties -->
     <acdh:SpecResource collection="editions">
         <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/1133094783"/> <!-- Span -->
@@ -149,22 +145,18 @@
         <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"/>
         <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"/>
         <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-        <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1750</acdh:hasCoverageStartDate>
-        <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1800</acdh:hasCoverageEndDate>
         <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/1133094783"/> <!-- Span -->
         <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/1133094783"/><!-- Span -->
         <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/> <!-- TEI  encoded texts -->
-        <acdh:hasCustomXSL rdf:resource="https://id.acdh.oeaw.ac.at/rita/disseminate/tei2html.xsl"/>
         <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1192324102"/>
     </acdh:SpecResource>
-
+    
     <!-- maps arche props to their values via xpath expressions; be aware the current TEI document needs to be encoded as '$doc' -->
-    <acdh:TeiLookUps>
+    <acdh:TeiLookUps collection="editions">
         <acdh:hasTitle type="literal">$item//tei:titleStmt/tei:title[1]/text()</acdh:hasTitle>
         <acdh:hasNonLinkedIdentifier type="literal">concat('Archivsignatur: ', string-join($item//tei:msIdentifier//text()))</acdh:hasNonLinkedIdentifier>
         <acdh:hasCoverageStartDate type="date">$item//tei:origin/data(@notBefore)</acdh:hasCoverageStartDate>
         <acdh:hasCoverageEndDate type="date">$item//tei:origin/data(@notBefore)</acdh:hasCoverageEndDate>
-        <acdh:isContinuedBy type="resource">$item/@next</acdh:isContinuedBy>
         <acdh:continues type="resource">$item/@pref</acdh:continues>
         <!-- <acdh:hasPid type="resource">$item//tei:publicationStmt/tei:idno/text()</acdh:hasPid>
         <acdh:isPartOf type="resource">$item/@xml:base</acdh:isPartOf> -->
