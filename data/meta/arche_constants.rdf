@@ -1,7 +1,6 @@
 <acdh:ACDH xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#">
     <acdh:Constanst>
         <acdh:DefaultLang>de</acdh:DefaultLang>
-        <acdh:AppBaseURL>http://127.0.1.1:8080/exist/apps/rita</acdh:AppBaseURL>
     </acdh:Constanst>
     
     <!-- definition of agents mentioned in the Metadata as e.g. PI, Curator, ... but not yet in ARCHE -->
@@ -91,7 +90,54 @@
             <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/1133094783"/>
             <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
         </acdh:TopColl>
-        
+        <acdh:DataColl name="indices">
+            <acdh:hasTitle xml:lang="de">Orts-, Personen- und Bücherregister</acdh:hasTitle>
+            <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1750-01-01</acdh:hasCoverageStartDate>
+            <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1800-12-31</acdh:hasCoverageEndDate>
+            <acdh:hasPid rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://hdl.handle.net/21.11115/0000-000D-FEA8-8</acdh:hasPid>
+            <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1192324102"/>
+            <acdh:hasSubject xml:lang="de">privater Buchbesitz</acdh:hasSubject>
+            <acdh:hasSubject xml:lang="de">Geschichte des Lesens</acdh:hasSubject>
+            <acdh:hasSubject xml:lang="de">Buchgeschichte</acdh:hasSubject>
+            <acdh:hasSubject xml:lang="de">Sozialgeschichte</acdh:hasSubject>
+            <acdh:hasSubject xml:lang="de">Tirol</acdh:hasSubject>
+            <acdh:hasSubject xml:lang="de">18. Jahrhundert</acdh:hasSubject>
+            <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1750-07-08</acdh:hasCoverageStartDate>
+            <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1798-09-01</acdh:hasCoverageEndDate>
+            <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/1133094783"/> <!-- Span -->
+            <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/1133094783"/><!-- Span -->
+            <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"/>
+            <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"/>
+            <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+            <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/1133094783"/>
+            <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
+            <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1192324102"/>
+            <acdh:hasContributor rdf:resource="https://d-nb.info/gnd/1043833846"/>
+        </acdh:DataColl>
+        <acdh:DataColl name="transkribus">
+            <acdh:hasTitle xml:lang="de">Volltexte Verfachbücher Mittleres Pustertal 1750-1800</acdh:hasTitle>
+            <acdh:hasDescription xml:lang="de">Diese Sammlung enthält automatisch generierte Volltexte der Verfachbücher des Mittleres Pustertals für den Zeitraum von 1750 bis 1800</acdh:hasDescription>
+            <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1192324102"/>
+            <acdh:hasSubject xml:lang="de">privater Buchbesitz</acdh:hasSubject>
+            <acdh:hasSubject xml:lang="de">Geschichte des Lesens</acdh:hasSubject>
+            <acdh:hasSubject xml:lang="de">Buchgeschichte</acdh:hasSubject>
+            <acdh:hasSubject xml:lang="de">Sozialgeschichte</acdh:hasSubject>
+            <acdh:hasSubject xml:lang="de">Tirol</acdh:hasSubject>
+            <acdh:hasSubject xml:lang="de">18. Jahrhundert</acdh:hasSubject>
+            <acdh:hasSubject xml:lang="de">Transkribus</acdh:hasSubject>
+            <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1750-07-08</acdh:hasCoverageStartDate>
+            <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1798-09-01</acdh:hasCoverageEndDate>
+            <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/1133094783"/> <!-- Span -->
+            <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/1133094783"/><!-- Span -->
+            <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"/>
+            <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"/>
+            <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+            <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/1133094783"/>
+            <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
+            <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1043833846"/>
+            <acdh:hasContributor rdf:resource="https://d-nb.info/gnd/1192324102"/>
+            <acdh:hasContributor rdf:resource="https://d-nb.info/gnd/1133094783"/>
+        </acdh:DataColl>
         <acdh:DataColl name="inventare">
             <acdh:hasTitle xml:lang="de">Statistische Auswertungen von Verfachbüchern hinsichtlich der Frage nach ländlichem Buchbesitz</acdh:hasTitle>
             <acdh:hasDescription xml:lang="de">Verfachbucheinträge in denen Inventare bzw. Besitzlisten geführt wurden, wurden systematsich anhand folgender Kategorien erfasst: 
@@ -118,6 +164,7 @@
             <acdh:hasSubject xml:lang="de">Sozialgeschichte</acdh:hasSubject>
             <acdh:hasSubject xml:lang="de">Tirol</acdh:hasSubject>
             <acdh:hasSubject xml:lang="de">18. Jahrhundert</acdh:hasSubject>
+            <acdh:hasPid rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://hdl.handle.net/21.11115/0000-000D-FEA7-9</acdh:hasPid>
             <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1750-07-08</acdh:hasCoverageStartDate>
             <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1798-09-01</acdh:hasCoverageEndDate>
             <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/1133094783"/> <!-- Span -->
@@ -135,6 +182,7 @@
             <acdh:hasTitle xml:lang="de">Edierte Verlassenschaftsabhandlungen aus dem mittleren Pustertal</acdh:hasTitle>
             <acdh:hasDescription xml:lang="de">XML/TEI kodierte Transkripte aus dem mittleren Pustertal.</acdh:hasDescription>
             <acdh:hasAppliedMethodDescription xml:lang="de">Die original Quellen wurden von Michael Prokosch in Microsoft Word transkribiert, wobei ausgewählte Textmerkamle mittels projektspezifischer Formatvorlagen ausgeziechnet wurden. Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI-Community-Stylesheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs weiter verarbeitet.</acdh:hasAppliedMethodDescription>
+            <acdh:hasPid rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://hdl.handle.net/21.11115/0000-000D-FEA6-A</acdh:hasPid>
             <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1750-07-08</acdh:hasCoverageStartDate>
             <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1798-09-01</acdh:hasCoverageEndDate>
             <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1133094783"/>
@@ -190,6 +238,18 @@
         <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/1133094783"/><!-- Span -->
         <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/> <!-- TEI  encoded texts -->
         <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1133094783"/>
+    </acdh:SpecResource>
+    
+    <acdh:SpecResource collection="indices">
+        <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/1133094783"/> <!-- Span -->
+        <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
+        <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"/>
+        <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"/>
+        <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+        <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/1133094783"/> <!-- Span -->
+        <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/1133094783"/><!-- Span -->
+        <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/> <!-- TEI  encoded texts -->
+        <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1192324102"/>
     </acdh:SpecResource>
     
     <!-- maps arche props to their values via xpath expressions; be aware the current TEI document needs to be encoded as '$doc' -->
