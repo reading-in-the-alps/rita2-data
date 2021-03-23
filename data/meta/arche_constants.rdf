@@ -49,7 +49,7 @@
             <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/601"/> <!-- Geschichte, Archäologie -->
             <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/1043833846"/>
             <acdh:hasContact rdf:resource="https://d-nb.info/gnd/1133094783"/>
-            <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1043833846"/>
+            <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1133094783"/>
             <acdh:hasDescription xml:lang="de">Ziel dieses Projekts ist die systematische Erforschung des privaten Buchbesitzes im katholisch
                 dominierten Zentralalpenraum, genauergesagt in Tirol, für den Zeitraum von 1750 bis 1800.</acdh:hasDescription>
             <acdh:hasStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-06</acdh:hasStartDate>
@@ -75,7 +75,7 @@
             <rdf:type rdf:resource="https://vocabs.acdh.oeaw.ac.at/schema#Resource"/>
             <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/rita"/>
             <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/1043833846"/>
-            <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1043833846"/>
+            <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1133094783"/>
             <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/36165-3"/>
             UNI    <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/16332395-1"/>
             <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
@@ -276,7 +276,7 @@
         <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/1043833846"/>
         <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/1043833846"/>
         <acdh:hasContact rdf:resource="https://d-nb.info/gnd/1133094783"/>
-        <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1043833846"/>
+        <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1133094783"/>
     </acdh:RepoObject>
     
     <!-- Resource specific mandatory or very nice to have constant properties -->
