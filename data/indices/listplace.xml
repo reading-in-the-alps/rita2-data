@@ -917,7 +917,7 @@
             <place xml:id="st_oswald">
                <placeName>St. Oswald</placeName>
                <placeName type="italiano">Sant'Osvaldo</placeName>
-               <district reF="#kastelruth">Kastelruth</district>
+               <district ref="#kastelruth">Kastelruth</district>
                <location>
                         <geo decls="#LatLng">46.5567 11.5213</geo>
                     </location>

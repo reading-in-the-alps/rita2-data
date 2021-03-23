@@ -19,3 +19,8 @@ contains the with oxgarage transformed Excel sheets; before the transformation s
 ### ./data/inventare
 
 contains the data from ./excel which were transformed with `xsl/excel_to_summary.xsl`
+
+
+### verfachbuchregesten.csv
+
+this dataset was created via https://rita-vfbr.acdh-dev.oeaw.ac.at/summaries/verfachbucheintraege/?columns=located_in&columns=start_page&columns=end_page&columns=vollregest&columns=book&columns=trp_page_nr_start&columns=trp_page_nr_end&columns=mentioned_person&vollregest=&entry_signatur=&located_in__year_after=&located_in__year_before=&book=unknown&inventory=unknown&Filter=Search&sort=id
