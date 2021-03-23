@@ -132,7 +132,7 @@
                 * Volltexte der Verfachbücher.
                 Mit Ausnahme der Volltexte, welche im MultiPAGE XML Format vorliegen, sind sämtliche Daten entsprechender der Guidlines der Text Encoding Initiative (TEI) kodiert.
             </acdh:hasDescription> 
-            <acdh:hasPid rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://hdl.handle.net/21.11115/0000-000C-D8D9-C</acdh:hasPid>
+            <acdh:hasPid rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://hdl.handle.net/21.11115/0000-000D-FEAB-5</acdh:hasPid>
             <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1750-01-01</acdh:hasCoverageStartDate>
             <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1800-12-31</acdh:hasCoverageEndDate>
             <acdh:hasSubject xml:lang="de">privater Buchbesitz</acdh:hasSubject>
