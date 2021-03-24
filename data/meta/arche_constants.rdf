@@ -124,13 +124,13 @@
             <acdh:hasTitle xml:lang="de">Lesen im Alpental</acdh:hasTitle>
             <acdh:hasAlternativeTitle xml:lang="de">Privater Buchbesitz im katholisch dominierten Zentralalpenraum 1750-1800. Eine systematische Untersuchung anhand von Inventaren aus dem Pustertal und dem Stubaital</acdh:hasAlternativeTitle>
             <acdh:hasSpatialCoverage rdf:resource="https://www.geonames.org/3169744"/>
-            <acdh:hasDescription xml:lang="de">Die vorliegende Datensammlung umfasst die Ergebnisse des FWF-Projektes “Reading in the Alps”, welches sich dem Thema des ländlichen Buchbesitzes im mittleren Pustertal zwischen 1750-1800 widmetet. Im Konkreten wurden folgende Datensätze generiert:
-                * Edierte Verlassenschaftsabhandlungen Geistlicher aus dem mittleren Pustertal
-                * Orts-, Personen- und Bücherregister
-                * Statistische Auswertungen von Verfachbüchern mit Inventaren
-                * Kurzregesten der Verfachbucheinträge
+            <acdh:hasDescription xml:lang="de">Die vorliegende Datensammlung umfasst die Ergebnisse des FWF-Projektes “Reading in the Alps”, welches sich dem Thema des ländlichen Buchbesitzes im mittleren Pustertal zwischen 1750-1800 widmete. Im Konkreten liegen folgende Datensätze vor:
+                * Edierte Verlassenschaftsabhandlungen Geistlicher aus dem mittleren Pustertal;
+                * Orts-, Personen- und Bücherregister;
+                * Statistische Auswertungen von Verfachbüchern mit Inventaren;
+                * Kurzregesten der Verfachbucheinträge;
                 * Volltexte der Verfachbücher.
-                Mit Ausnahme der Volltexte, welche im MultiPAGE XML Format vorliegen, sind sämtliche Daten entsprechender der Guidlines der Text Encoding Initiative (TEI) kodiert.
+                Mit Ausnahme der Volltexte, welche im MultiPAGE XML Format vorliegen, sind sämtliche Daten entsprechendder Guidlines der Text Encoding Initiative (TEI) kodiert.
             </acdh:hasDescription> 
             <acdh:hasPid rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://hdl.handle.net/21.11115/0000-000D-FEAB-5</acdh:hasPid>
             <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1750-01-01</acdh:hasCoverageStartDate>
@@ -160,7 +160,6 @@
             <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1750-01-01</acdh:hasCoverageStartDate>
             <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1800-12-31</acdh:hasCoverageEndDate>
             <acdh:hasPid rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://hdl.handle.net/21.11115/0000-000D-FEA8-8</acdh:hasPid>
-            <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1192324102"/>
             <acdh:hasSubject xml:lang="de">privater Buchbesitz</acdh:hasSubject>
             <acdh:hasSubject xml:lang="de">Geschichte des Lesens</acdh:hasSubject>
             <acdh:hasSubject xml:lang="de">Buchgeschichte</acdh:hasSubject>
@@ -177,7 +176,7 @@
             <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/16332395-1"/>
             <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
             <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1192324102"/>
-            <acdh:hasContributor rdf:resource="https://d-nb.info/gnd/1043833846"/>
+            <acdh:hasContributor rdf:resource="https://d-nb.info/gnd/1133094783"/>
             <acdh:hasContributor rdf:resource="https://id.acdh.oeaw.ac.at/mkirnbauer"/>
         </acdh:DataColl>
         <acdh:DataColl name="transkribus">
@@ -244,18 +243,18 @@
             <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
             <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/16332395-1"/>
             <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
-            <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1043833846"/>
-            <acdh:hasContributor rdf:resource="https://d-nb.info/gnd/1192324102"/>
+            <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1133094783"/>
+            <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1192324102"/>
         </acdh:DataColl>
         <acdh:DataColl name="editions">
             <acdh:hasTitle xml:lang="de">Edierte Verlassenschaftsabhandlungen Geistlicher aus dem mittleren Pustertal</acdh:hasTitle>
             <acdh:hasDescription xml:lang="de">XML/TEI kodierte Transkripte aus dem mittleren Pustertal.</acdh:hasDescription>
-            <acdh:hasAppliedMethodDescription xml:lang="de">Die original Quellen wurden von Michael Prokosch in Microsoft Word transkribiert, wobei ausgewählte Textmerkamle mittels projektspezifischer Formatvorlagen ausgeziechnet wurden. Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI-Community-Stylesheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs weiter verarbeitet.</acdh:hasAppliedMethodDescription>
+            <acdh:hasAppliedMethodDescription xml:lang="de">Die original Quellen wurden von Michael Prokosch in Microsoft Word transkribiert, wobei ausgewählte Textmerkamle mittels projektspezifischer Formatvorlagen ausgezeichnet wurden. Die Transkripte respektive die .docx Dokumente wurden anschließend mittels der TEI-Community-Stylesheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs weiter verarbeitet.</acdh:hasAppliedMethodDescription>
             <acdh:hasPid rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://hdl.handle.net/21.11115/0000-000D-FEA6-A</acdh:hasPid>
             <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1750-07-08</acdh:hasCoverageStartDate>
             <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1798-09-01</acdh:hasCoverageEndDate>
-            <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1133094783"/>
-            <acdh:hasContributor rdf:resource="https://d-nb.info/gnd/1043833846"/>
+            <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1192324102"/>
+            <acdh:hasContributor rdf:resource="https://d-nb.info/gnd/1133094783"/>
             <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/> <!-- TEI encoded texts -->
             <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/16332395-1"/> <!-- institut -->
             <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/36165-3"/><!-- UNI -->
@@ -294,7 +293,7 @@
         <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/16332395-1"/> <!-- institut -->
         <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/36165-3"/><!-- UNI -->
         <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/> <!-- TEI  encoded texts -->
-        <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1192324102"/>
+        <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1133094783"/>
     </acdh:SpecResource>
     
     <acdh:SpecResource collection="inventare">
@@ -307,6 +306,7 @@
         <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/36165-3"/><!-- UNI -->
         <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/> <!-- TEI  encoded texts -->
         <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1133094783"/>
+        <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1192324102"/>
     </acdh:SpecResource>
     
     <acdh:SpecResource collection="indices">
@@ -319,6 +319,7 @@
         <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/36165-3"/><!-- UNI -->
         <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/> <!-- TEI  encoded texts -->
         <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1192324102"/>
+        <acdh:hasContributor rdf:resource="https://d-nb.info/gnd/1133094783"/>
     </acdh:SpecResource>
     
     <!-- maps arche props to their values via xpath expressions; be aware the current TEI document needs to be encoded as '$doc' -->
@@ -330,6 +331,9 @@
         <acdh:continues type="resource">$item/@pref</acdh:continues>
     </acdh:TeiLookUps>
     <acdh:TeiLookUps collection="inventare">
+        <acdh:hasTitle type="literal">$item//tei:titleStmt/tei:title[1]/text()</acdh:hasTitle>
+    </acdh:TeiLookUps>
+    <acdh:TeiLookUps collection="indices">
         <acdh:hasTitle type="literal">$item//tei:titleStmt/tei:title[1]/text()</acdh:hasTitle>
     </acdh:TeiLookUps>
 </acdh:ACDH>
