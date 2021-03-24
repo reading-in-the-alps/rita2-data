@@ -1,0 +1,2622 @@
+@prefix ns1: <https://vocabs.acdh.oeaw.ac.at/schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/119622.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1781-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1781-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "422 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 222, 1781"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/120102.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1784-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1784-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "573 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 263, 1784"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/130273.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1792-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1790-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "561 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 235, 1790/1791/1792"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/130274.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1795-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1793-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "526 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 239, 1793/1794/1795"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221259.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1750-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1750-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "80 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 229, 1750"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221260.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1751-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1751-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "124 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 230, 1751"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221261.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1752-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1752-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "84 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 231, 1752"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221262.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1753-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1753-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "106 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 232, 1753"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221263.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1754-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1754-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "123 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 233, 1754"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221264.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1755-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1755-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "74 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 234, 1755"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221265.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1756-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1756-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "84 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 235, 1756"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221266.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1757-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1757-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "64 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 236, 1757"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221267.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1758-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1758-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "48 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 237, 1758"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221268.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1759-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1759-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "141 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 238, 1759"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221269.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1760-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1760-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "126 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 239, 1760"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221270.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1761-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1761-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "51 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 240, 1761"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221271.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1762-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1762-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "202 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 241, 1762"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221272.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1763-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1763-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "145 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 242, 1763"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221273.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1764-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1764-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "105 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 243, 1764"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221274.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1765-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1765-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "28 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 244, 1765"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221275.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1766-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1766-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "178 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 245, 1766"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221276.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1767-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1767-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "136 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 246, 1767"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221277.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1768-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1768-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "216 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 247, 1768"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221278.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1769-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1769-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "164 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 248, 1769"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221292.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1800-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1800-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "417 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 279, 1800"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221293.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1781-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1781-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "394 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 260, 1781"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221294.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1780-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1780-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "328 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 259, 1780"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221295.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1779-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1779-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "268 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 258, 1779"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221296.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1778-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1778-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "162 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 257, 1778"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221297.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1777-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1777-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "216 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 256, 1777"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221298.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1776-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1776-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "100 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 255, 1776"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221299.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1775-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1775-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "193 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 254, 1775"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221300.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1774-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1774-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "231 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 253, 1774"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221301.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1773-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1773-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "164 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 252, 1773"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221302.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1772-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1772-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "138 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 251, 1772"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221303.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1771-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1771-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "222 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 250, 1771"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221304.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1770-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1770-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "170 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 249, 1770"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221748.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1794-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1794-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "316 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 273, 1794"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221749.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1793-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1793-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "463 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 272, 1793"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221750.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1792-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1792-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "422 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 271, 1792"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221755.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1791-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1791-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "735 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 270, 1791"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221756.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1790-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1790-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "356 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 269, 1790"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221757.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1789-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1789-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "395 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 268, 1789"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221758.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1788-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1788-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "349 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 267, 1788"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221759.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1787-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1787-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "404 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 266, 1787"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221760.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1786-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1786-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "481 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 265, 1786"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221761.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1785-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1785-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "452 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 264, 1785"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221762.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1783-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1783-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "610 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 262, 1783"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/221763.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1782-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1782-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "274 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 261, 1782"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/223083.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1795-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1795-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "350 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 274, 1795"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/224131.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1799-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1799-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "274 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 278, 1799"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/224132.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1798-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1798-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "621 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 277, 1798"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/224133.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1797-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1797-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "863 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 276, 1797"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/224134.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1796-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1796-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "657 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 275, 1796"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/227980.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1753-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1752-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "640 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 179, 1752/1753"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/227981.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1755-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1754-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "815 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 184, 1754/1755"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/227982.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1757-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1756-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "651 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 187, 1756/1757"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/227983.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1759-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1758-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "606 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 190, 1758/1759"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/227984.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1765-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1764-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "726 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 199, 1764/1765"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/227985.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1768-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1766-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "785 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 202, 1766/1767/1768"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/227986.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1770-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1769-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "819 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 206, 1769/1770"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/227987.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1772-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1771-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "969 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 209, 1771/1772"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/227988.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1773-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1773-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "421 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 211, 1773"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/227989.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1775-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1774-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "1011 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 213, 1774/1775"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/227990.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1777-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1776-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "731 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 215, 1776/1777"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/227991.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1779-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1778-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "957 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 218, 1778/1779"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/227992.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1781-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1780-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "719 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 221, 1780/1781"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/227993.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1783-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1782-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "946 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 224, 1782/1783"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/227994.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1784-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1784-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "608 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 226, 1784"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/228502.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1789-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1787-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "538 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 232, 1787/1788/1789"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/228503.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1786-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1785-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "489 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 228, 1785/1786"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/228578.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1802-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1800-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "443 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 96, 1800/1801/1802"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/228908.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1751-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1750-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "810 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 176, 1750/1751"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/232814.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1751-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1751-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "623 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 177, 1751"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/232827.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1750-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1750-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "609 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 175, 1750"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/232899.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1752-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1752-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "491 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 178, 1752"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/232912.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1753-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1753-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "382 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 180, 1753"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/232924.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1754-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1754-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "396 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 181, 1754"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/232988.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1755-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1755-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "454 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 185, 1755"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/232997.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1756-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1756-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "507 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 186, 1756"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233003.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1757-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1757-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "546 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 188, 1757"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233014.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1758-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1758-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "466 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 189, 1758"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233027.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1759-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1759-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "660 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 191, 1759"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233031.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1760-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1760-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "463 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 192, 1760"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233040.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1761-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1761-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "432 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 194, 1761"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233058.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1762-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1762-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "545 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 195, 1762"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233062.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1763-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1763-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "475 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 196, 1763"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233431.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1764-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1764-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "466 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 198, 1764"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233454.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1765-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1765-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "417 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 200, 1765"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233467.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1766-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1766-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "453 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 201, 1766"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233471.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1767-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1767-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "381 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 203, 1767"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233506.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1768-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1768-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "637 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 204, 1768"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233507.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1769-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1769-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "410 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 205, 1769"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233516.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1771-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1770-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "560 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 208, 1770/1771"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233517.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1772-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1772-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "787 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 210, 1772"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233518.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1774-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1773-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "920 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 212, 1773/1774"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233519.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1775-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1775-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "487 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 214, 1775"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233548.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1776-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1776-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "493 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 207, 1776"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233550.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1777-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1777-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "497 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 216, 1777"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233551.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1778-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1778-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "518 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 217, 1778"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233552.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1779-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1779-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "415 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 219, 1779"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233553.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1780-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1780-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "465 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 220, 1780"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233563.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1782-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1782-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "530 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 223, 1782"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233568.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1784-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1783-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "633 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 225, 1783/1784"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233586.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1785-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1785-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "393 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 227, 1785"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233587.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1786-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1786-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "389 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 229, 1786"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233588.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1787-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1787-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "490 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 230, 1787"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233589.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1788-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1788-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "377 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 232, 1788"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233590.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1789-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1789-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "412 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 233, 1789"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233591.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1790-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1790-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "459 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 234, 1790"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233593.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1791-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1791-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "409 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 236, 1791"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233594.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1792-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1792-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "391 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 237, 1792"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233595.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1794-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1793-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "777 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 238, 1793/1794"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/233596.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1795-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1795-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "433 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 240, 1795"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/234824.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1796-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1796-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "514 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 241, 1796"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/234825.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1797-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1797-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "655 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 243, 1797"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/234826.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1799-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1798-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "698 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 244, 1798/1799"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/234827.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1800-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1800-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "843 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 245, 1800"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+<https://id.acdh.oeaw.ac.at/rita/transkribus/235171.xml> a ns1:Resource ;
+    ns1:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
+    ns1:hasContributor <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasCoverageEndDate "1799-12-31"^^xsd:date ;
+    ns1:hasCoverageStartDate "1796-01-01"^^xsd:date ;
+    ns1:hasCreator <https://d-nb.info/gnd/1133094783>,
+        <https://d-nb.info/gnd/1192324102>,
+        <https://id.acdh.oeaw.ac.at/mmayer> ;
+    ns1:hasDepositor <https://d-nb.info/gnd/1133094783> ;
+    ns1:hasExtent "1285 Seiten"@de ;
+    ns1:hasFormat "application/xml" ;
+    ns1:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    ns1:hasLicensor <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    ns1:hasOwner <https://d-nb.info/gnd/16332395-1> ;
+    ns1:hasRightsHolder <https://d-nb.info/gnd/36165-3> ;
+    ns1:hasSubject "Buchgeschichte"@de,
+        "Geschichte des Lesens"@de,
+        "privater Buchbesitz"@de ;
+    ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 242, 1796/1797/1798/1799"@de ;
+    ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
+
+
