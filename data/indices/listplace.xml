@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/rita/indices" xml:id="listplace.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Ortsverzeichnis des Editionsprojects Reading in The Alps</title>
+            <title>Verzeichnis der in den Verlassenschaftsinventaren von Geistlichen erwähnten Orten</title>
             <respStmt>
                <resp>Datenkuration</resp>
                <name>
@@ -134,7 +134,7 @@
                <location>
                         <geo decls="#LatLng">46.80345 11.95237</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/8949779</idno>
+               <idno type="GEONAMES">https://www.geonames.org/8949779</idno>
             </place>
             <place xml:id="himmelfahrt_kirche">
                <placeName>Dietenheim (Maria-Himmelfahrt-Kirche)</placeName>
@@ -166,7 +166,7 @@
                <location>
                         <geo decls="#LatLng">46.99623 11.97988</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/6536019</idno>
+               <idno type="GEONAMES">https://www.geonames.org/6536019</idno>
             </place>
             <place xml:id="taufers">
                <placeName>Taufers</placeName>
@@ -174,7 +174,7 @@
                <location>
                         <geo decls="#LatLng">46.9112 11.94835</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/9033196</idno>
+               <idno type="GEONAMES">https://www.geonames.org/9033196</idno>
             </place>
             <place xml:id="saenct_michaelspurg">
                <placeName>St. Michaelsburg</placeName>
@@ -188,7 +188,7 @@
                <location>
                         <geo decls="#LatLng">47.26266 11.39454</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/2775220</idno>
+               <idno type="GEONAMES">https://www.geonames.org/2775220</idno>
             </place>
             <place xml:id="st_lorenzen">
                <placeName>St. Lorenzen</placeName>
@@ -197,7 +197,7 @@
                <location>
                         <geo decls="#LatLng">46.78514 11.90812</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3168114</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3168114</idno>
             </place>
             <place xml:id="brunegg">
                <placeName>Bruneck</placeName>
@@ -205,7 +205,7 @@
                <location>
                         <geo decls="#LatLng">46.79942 11.93429</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3181480</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3181480</idno>
             </place>
             <place xml:id="saalen">
                <placeName>Saalen</placeName>
@@ -228,7 +228,7 @@
                <location>
                         <geo decls="#LatLng">46.71503 11.65598</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3181550</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3181550</idno>
             </place>
             <place xml:id="soneburg">
                <placeName>Sonnenburg</placeName>
@@ -236,7 +236,7 @@
                <location>
                         <geo decls="#LatLng">46.78644 11.89123</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/8954327</idno>
+               <idno type="GEONAMES">https://www.geonames.org/8954327</idno>
             </place>
             <place xml:id="stift_sonnenburg">
                <placeName>Stift Sonnenburg</placeName>
@@ -245,14 +245,14 @@
                <location>
                         <geo decls="#LatLng">46.78644 11.89123</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/8954327</idno>
+               <idno type="GEONAMES">https://www.geonames.org/8954327</idno>
             </place>
             <place xml:id="stainach">
                <placeName>Steinach am Brenner</placeName>
                <location>
                         <geo decls="#LatLng">47.08809 11.48985</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/7873623</idno>
+               <idno type="GEONAMES">https://www.geonames.org/7873623</idno>
             </place>
             <place xml:id="roveredo">
                <placeName>Rovereto</placeName>
@@ -261,14 +261,14 @@
                <location>
                         <geo decls="#LatLng">45.8904 11.04053</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3168854</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3168854</idno>
             </place>
             <place xml:id="cronburg">
                <placeName>Kronburg</placeName>
                <location>
                         <geo decls="#LatLng">47.17659 10.62567</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/2773391</idno>
+               <idno type="GEONAMES">https://www.geonames.org/2773391</idno>
             </place>
             <place xml:id="muehlbach">
                <placeName>Mühlbach</placeName>
@@ -277,7 +277,7 @@
                <location>
                         <geo decls="#LatLng">46.79658 11.66754</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3169345</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3169345</idno>
             </place>
             <place xml:id="muehlbach_bei_gais">
                <placeName>Mühlbach</placeName>
@@ -286,7 +286,7 @@
                <location>
                         <geo decls="#LatLng">46.84745 11.98062</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/7627828</idno>
+               <idno type="GEONAMES">https://www.geonames.org/7627828</idno>
             </place>
             <place xml:id="rodenegg">
                <placeName>Rodeneck</placeName>
@@ -295,7 +295,7 @@
                <location>
                         <geo decls="#LatLng">46.77953 11.69048</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/6534787</idno>
+               <idno type="GEONAMES">https://www.geonames.org/6534787</idno>
             </place>
             <place xml:id="gericht_rodenegg">
                <placeName>Rodeneck</placeName>
@@ -303,7 +303,7 @@
                <location>
                         <geo decls="#LatLng">46.77953 11.69048</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/6536016</idno>
+               <idno type="GEONAMES">https://www.geonames.org/6536016</idno>
             </place>
             <place xml:id="monthal">
                <placeName>Montal</placeName>
@@ -312,7 +312,7 @@
                <location>
                         <geo decls="#LatLng">46.7709 11.86038</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/8951295</idno>
+               <idno type="GEONAMES">https://www.geonames.org/8951295</idno>
             </place>
             <place xml:id="klausen">
                <placeName>Klausen</placeName>
@@ -320,7 +320,7 @@
                <location>
                         <geo decls="#LatLng">46.64001 11.56573</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3178764</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3178764</idno>
             </place>
             <place xml:id="layen">
                <placeName>Lajen</placeName>
@@ -329,7 +329,7 @@
                <location>
                         <geo decls="#LatLng">46.60809 11.56559</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3175236</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3175236</idno>
             </place>
             <place xml:id="lazfonns">
                <placeName>Latzfons</placeName>
@@ -338,7 +338,7 @@
                <location>
                         <geo decls="#LatLng">46.66965 11.55135</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3174978</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3174978</idno>
             </place>
             <place xml:id="verdings">
                <placeName>Verdings</placeName>
@@ -347,7 +347,7 @@
                <location>
                         <geo decls="#LatLng">46.65653 11.57221</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/8951089</idno>
+               <idno type="GEONAMES">https://www.geonames.org/8951089</idno>
             </place>
             <place xml:id="heiligkreuz_franewiese">
                <placeName>Hl.-Kreuz-Kirche / Fronwiese</placeName>
@@ -387,7 +387,7 @@
                <location>
                         <geo decls="#LatLng">46.77685 11.95149</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/7601924</idno>
+               <idno type="GEONAMES">https://www.geonames.org/7601924</idno>
             </place>
             <place xml:id="rattenperg">
                <placeName>Rattenberg</placeName>
@@ -395,14 +395,14 @@
                <location>
                         <geo decls="#LatLng">47.43861 11.89374</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/7873655</idno>
+               <idno type="GEONAMES">https://www.geonames.org/7873655</idno>
             </place>
             <place xml:id="salzburg">
                <placeName>Salzburg (Erzbistum)</placeName>
                <location>
                         <geo decls="#LatLng">47.41667 13.25</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/2766823</idno>
+               <idno type="GEONAMES">https://www.geonames.org/2766823</idno>
             </place>
             <place xml:id="st_georgen">
                <placeName>St. Georgen</placeName>
@@ -411,7 +411,7 @@
                <location>
                         <geo decls="#LatLng">46.81254 11.93416</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3168310</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3168310</idno>
             </place>
             <place xml:id="st_georgen_kirche">
                <placeName>St. Georg (Kirche)</placeName>
@@ -449,7 +449,7 @@
                <location>
                         <geo decls="#LatLng">46.86507 11.94753</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3164169</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3164169</idno>
             </place>
             <place xml:id="stock">
                <placeName>Stock (Ansitz)</placeName>
@@ -465,7 +465,7 @@
                <location>
                         <geo decls="#LatLng">46.77446 12.02154</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3172182</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3172182</idno>
             </place>
             <place xml:id="niederrasen">
                <placeName>Niederrasen</placeName>
@@ -474,7 +474,7 @@
                <location>
                         <geo decls="#LatLng">46.77806 12.05222</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3218565</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3218565</idno>
             </place>
             <place xml:id="tesselberg">
                <placeName>Tesselberg</placeName>
@@ -483,7 +483,7 @@
                <location>
                         <geo decls="#LatLng">46.82888 11.98577</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/8973747</idno>
+               <idno type="GEONAMES">https://www.geonames.org/8973747</idno>
             </place>
             <place xml:id="rasen">
                <placeName>Rasen / Altrasen</placeName>
@@ -492,7 +492,7 @@
                <location>
                         <geo decls="#LatLng">46.77853 12.04729</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/6534785</idno>
+               <idno type="GEONAMES">https://www.geonames.org/6534785</idno>
             </place>
             <place xml:id="antholz_mittertal">
                <placeName>Antholz-Mittertal</placeName>
@@ -501,7 +501,7 @@
                <location>
                         <geo decls="#LatLng">46.85855 12.0999</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3183032</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3183032</idno>
             </place>
             <place xml:id="antholz">
                <placeName>Antholz</placeName>
@@ -510,7 +510,7 @@
                <location>
                         <geo decls="#LatLng">46.85855 12.0999</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3183032</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3183032</idno>
             </place>
             <place xml:id="oberwiellenpach">
                <placeName>Oberwielenbach</placeName>
@@ -519,7 +519,7 @@
                <location>
                         <geo decls="#LatLng">46.81664 12.00335</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3218563</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3218563</idno>
             </place>
             <place xml:id="gais">
                <placeName>Gais</placeName>
@@ -528,7 +528,7 @@
                <location>
                         <geo decls="#LatLng">46.83658 11.94931</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3176410</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3176410</idno>
             </place>
             <place xml:id="gais_kirche">
                <placeName>Gais (St.-Johannes-Kirche)</placeName>
@@ -552,7 +552,7 @@
                <location>
                         <geo decls="#LatLng">46.71056 12.61444</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/2769662</idno>
+               <idno type="GEONAMES">https://www.geonames.org/2769662</idno>
             </place>
             <place xml:id="jempach">
                <placeName>Jenbach</placeName>
@@ -560,7 +560,7 @@
                <location>
                         <geo decls="#LatLng">47.39173 11.77245</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/2775093</idno>
+               <idno type="GEONAMES">https://www.geonames.org/2775093</idno>
             </place>
             <place xml:id="strengen">
                <placeName>Strengen</placeName>
@@ -568,7 +568,7 @@
                <location>
                         <geo decls="#LatLng">47.12589 10.46199</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/2764137</idno>
+               <idno type="GEONAMES">https://www.geonames.org/2764137</idno>
             </place>
             <place xml:id="wenns">
                <placeName>Wenns</placeName>
@@ -576,7 +576,7 @@
                <location>
                         <geo decls="#LatLng">47.16667 10.73333</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/2761488</idno>
+               <idno type="GEONAMES">https://www.geonames.org/2761488</idno>
             </place>
             <place xml:id="telfes">
                <placeName>Telfes</placeName>
@@ -584,14 +584,14 @@
                <location>
                         <geo decls="#LatLng">47.16667 11.36667</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/2763811</idno>
+               <idno type="GEONAMES">https://www.geonames.org/2763811</idno>
             </place>
             <place xml:id="kaernten">
                <placeName>Kärnten</placeName>
                <location>
                         <geo decls="#LatLng">46.75 13.83333</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/2774686</idno>
+               <idno type="GEONAMES">https://www.geonames.org/2774686</idno>
             </place>
             <place xml:id="ymbst">
                <placeName>Imst</placeName>
@@ -599,7 +599,7 @@
                <location>
                         <geo decls="#LatLng">47.24504 10.73974</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/2775307</idno>
+               <idno type="GEONAMES">https://www.geonames.org/2775307</idno>
             </place>
             <place xml:id="lienz">
                <placeName>Lienz</placeName>
@@ -607,7 +607,7 @@
                <location>
                         <geo decls="#LatLng">46.8289 12.76903</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/2772505</idno>
+               <idno type="GEONAMES">https://www.geonames.org/2772505</idno>
             </place>
             <place xml:id="pflaurenz">
                <placeName>Pflaurenz</placeName>
@@ -616,14 +616,14 @@
                <location>
                         <geo decls="#LatLng">46.78225 11.89223</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3176902</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3176902</idno>
             </place>
             <place xml:id="england">
                <placeName>Königreich Großbritannien</placeName>
                <location>
                         <geo decls="#LatLng">54 -2</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/2648147</idno>
+               <idno type="GEONAMES">https://www.geonames.org/2648147</idno>
             </place>
             <place xml:id="neustift">
                <placeName>Neustift</placeName>
@@ -632,7 +632,7 @@
                <location>
                         <geo decls="#LatLng">46.74313 11.64801</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3172196</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3172196</idno>
             </place>
             <place xml:id="iniching">
                <placeName>Innichen</placeName>
@@ -641,7 +641,7 @@
                <location>
                         <geo decls="#LatLng">46.7324 12.27855</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3168508</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3168508</idno>
             </place>
             <place xml:id="sterzing">
                <placeName>Sterzing</placeName>
@@ -650,7 +650,7 @@
                <location>
                         <geo decls="#LatLng">46.89253 11.43007</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/6535984</idno>
+               <idno type="GEONAMES">https://www.geonames.org/6535984</idno>
             </place>
             <place xml:id="naudersberg">
                <placeName>Naudersberg</placeName>
@@ -658,7 +658,7 @@
                <location>
                         <geo decls="#LatLng">46.88746 10.54071</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/7873665</idno>
+               <idno type="GEONAMES">https://www.geonames.org/7873665</idno>
             </place>
             <place xml:id="st_martin">
                <placeName>St. Martin</placeName>
@@ -667,7 +667,7 @@
                <location>
                         <geo decls="#LatLng">46.77714 11.89806</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/8950151</idno>
+               <idno type="GEONAMES">https://www.geonames.org/8950151</idno>
             </place>
             <place xml:id="st_gotthard">
                <placeName>St.-Gotthard-und-St.-Erhard-Kirche</placeName>
@@ -684,7 +684,7 @@
                <location>
                         <geo decls="#LatLng">46.74843 11.86496</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/8955949</idno>
+               <idno type="GEONAMES">https://www.geonames.org/8955949</idno>
             </place>
             <place xml:id="mahr">
                <placeName>In der Mahr</placeName>
@@ -704,7 +704,7 @@
                <location>
                         <geo decls="#LatLng">46.51151 10.90741</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3165053</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3165053</idno>
             </place>
             <place xml:id="passeier">
                <placeName>Passeiertal</placeName>
@@ -713,7 +713,7 @@
                <location>
                         <geo decls="#LatLng">46.81282 11.24577</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/6535925</idno>
+               <idno type="GEONAMES">https://www.geonames.org/6535925</idno>
             </place>
             <place xml:id="sarnthal">
                <placeName>Sarntal</placeName>
@@ -722,7 +722,7 @@
                <location>
                         <geo decls="#LatLng">46.64352 11.35577</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/6535928</idno>
+               <idno type="GEONAMES">https://www.geonames.org/6535928</idno>
             </place>
             <place xml:id="niederolang">
                <placeName>Niederolang</placeName>
@@ -731,7 +731,7 @@
                <location>
                         <geo decls="#LatLng">46.7681 12.01818</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/9036159</idno>
+               <idno type="GEONAMES">https://www.geonames.org/9036159</idno>
             </place>
             <place xml:id="ollang">
                <placeName>Olang</placeName>
@@ -740,7 +740,7 @@
                <location>
                         <geo decls="#LatLng">46.75983 12.03099</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/6535938</idno>
+               <idno type="GEONAMES">https://www.geonames.org/6535938</idno>
             </place>
             <place xml:id="st_sigmund">
                <placeName>St. Sigmund</placeName>
@@ -749,7 +749,7 @@
                <location>
                         <geo decls="#LatLng">46.81151 11.80267</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3167727</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3167727</idno>
             </place>
             <place xml:id="pfalzen">
                <placeName>Pfalzen</placeName>
@@ -758,7 +758,7 @@
                <location>
                         <geo decls="#LatLng">46.81359 11.88308</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3177231</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3177231</idno>
             </place>
             <place xml:id="scheneck">
                <placeName>Schöneck</placeName>
@@ -773,7 +773,7 @@
                <location>
                         <geo decls="#LatLng">46.76931 11.89759</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/8964455</idno>
+               <idno type="GEONAMES">https://www.geonames.org/8964455</idno>
             </place>
             <place xml:id="lothen">
                <placeName>Lothen</placeName>
@@ -782,7 +782,7 @@
                <location>
                         <geo decls="#LatLng">46.79238 11.88692</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/8966079</idno>
+               <idno type="GEONAMES">https://www.geonames.org/8966079</idno>
             </place>
             <place xml:id="goslbichl">
                <placeName>Goslbichl</placeName>
@@ -794,7 +794,7 @@
                <location>
                         <geo decls="#LatLng">46.7702 11.92189</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/8951978</idno>
+               <idno type="GEONAMES">https://www.geonames.org/8951978</idno>
             </place>
             <place xml:id="picolein">
                <placeName>Pikolein</placeName>
@@ -803,7 +803,7 @@
                <location>
                         <geo decls="#LatLng">46.68724 11.89539</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/8956202</idno>
+               <idno type="GEONAMES">https://www.geonames.org/8956202</idno>
             </place>
             <place xml:id="st_martin_thurn">
                <placeName>St. Martin in Thurn</placeName>
@@ -812,7 +812,7 @@
                <location>
                         <geo decls="#LatLng">46.68153 11.89809</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/6534788</idno>
+               <idno type="GEONAMES">https://www.geonames.org/6534788</idno>
             </place>
             <place xml:id="thurn_schloss">
                <placeName>Schloss Thurn</placeName>
@@ -828,7 +828,7 @@
                <location>
                         <geo decls="#LatLng">46.68153 11.89809</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/6536017</idno>
+               <idno type="GEONAMES">https://www.geonames.org/6536017</idno>
             </place>
             <place xml:id="sorega">
                <placeName>Sorega</placeName>
@@ -845,7 +845,7 @@
                <location>
                         <geo decls="#LatLng">46.57007 11.93606</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3168493</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3168493</idno>
             </place>
             <place xml:id="ennenberg">
                <placeName>Enneberg</placeName>
@@ -853,7 +853,7 @@
                <location>
                         <geo decls="#LatLng">46.69792 11.93544</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3173977</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3173977</idno>
             </place>
             <place xml:id="obvill">
                <placeName>Obvill</placeName>
@@ -872,7 +872,7 @@
                <location>
                         <geo decls="#LatLng">46.7915 11.8967</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/8971263</idno>
+               <idno type="GEONAMES">https://www.geonames.org/8971263</idno>
             </place>
             <place xml:id="sillian">
                <placeName>Sillian</placeName>
@@ -880,7 +880,7 @@
                <location>
                         <geo decls="#LatLng">46.75278 12.42111</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/2765044</idno>
+               <idno type="GEONAMES">https://www.geonames.org/2765044</idno>
             </place>
             <place xml:id="ellen">
                <placeName>Ellen</placeName>
@@ -889,7 +889,7 @@
                <location>
                         <geo decls="#LatLng">46.77601 11.83533</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/8973126</idno>
+               <idno type="GEONAMES">https://www.geonames.org/8973126</idno>
             </place>
             <place xml:id="kiens">
                <placeName>Kiens</placeName>
@@ -898,7 +898,7 @@
                <location>
                         <geo decls="#LatLng">46.8068 11.84</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3178820</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3178820</idno>
             </place>
             <place xml:id="mauern">
                <placeName>Mauern</placeName>
@@ -928,7 +928,7 @@
                <location>
                         <geo decls="#LatLng">46.56662 11.56098</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/6535890</idno>
+               <idno type="GEONAMES">https://www.geonames.org/6535890</idno>
             </place>
             <place xml:id="steegen_nikolaus">
                <placeName>St. Nikolaus (Kirche)</placeName>
@@ -944,7 +944,7 @@
                <location>
                         <geo decls="#LatLng">47.35169 11.71014</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/2765390</idno>
+               <idno type="GEONAMES">https://www.geonames.org/2765390</idno>
             </place>
             <place xml:id="stainhaus">
                <placeName>Steinhaus</placeName>
@@ -953,7 +953,7 @@
                <location>
                         <geo decls="#LatLng">46.995 11.98</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/8950556</idno>
+               <idno type="GEONAMES">https://www.geonames.org/8950556</idno>
             </place>
             <place xml:id="brixen_neustift">
                <placeName>Neustift (Kloster)</placeName>
@@ -962,14 +962,14 @@
                <location>
                         <geo decls="#LatLng">46.74247 11.6489</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/11789813</idno>
+               <idno type="GEONAMES">https://www.geonames.org/11789813</idno>
             </place>
             <place xml:id="lemberg">
                <placeName>Lemberg / Lviv</placeName>
                <location>
                         <geo decls="#LatLng">49.83826 24.02324</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/702550</idno>
+               <idno type="GEONAMES">https://www.geonames.org/702550</idno>
             </place>
             <place xml:id="borgo">
                <placeName>Borgo Sacco</placeName>
@@ -978,7 +978,7 @@
                <location>
                         <geo decls="#LatLng">45.88622 11.01987</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3168735</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3168735</idno>
             </place>
             <place xml:id="pasln">
                <placeName>Baslan</placeName>
@@ -987,7 +987,7 @@
                <location>
                         <geo decls="#LatLng">46.63942 11.14207</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/8960929</idno>
+               <idno type="GEONAMES">https://www.geonames.org/8960929</idno>
             </place>
             <place xml:id="tscherms">
                <placeName>Tscherms</placeName>
@@ -996,7 +996,7 @@
                <location>
                         <geo decls="#LatLng">46.63462 11.14657</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/6535891</idno>
+               <idno type="GEONAMES">https://www.geonames.org/6535891</idno>
             </place>
             <place xml:id="keselanger">
                <placeName>Keselanger</placeName>
@@ -1008,7 +1008,7 @@
                <location>
                         <geo decls="#LatLng">46.79643 11.96948</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/8961704</idno>
+               <idno type="GEONAMES">https://www.geonames.org/8961704</idno>
             </place>
             <place xml:id="st_martin_kaplanei">
                <placeName>St. Martin (Kirche)</placeName>
@@ -1032,14 +1032,14 @@
                <location>
                         <geo decls="#LatLng">46.69884 11.93104</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/8643247</idno>
+               <idno type="GEONAMES">https://www.geonames.org/8643247</idno>
             </place>
             <place xml:id="kals_gericht">
                <placeName>Kals</placeName>
                <location>
                         <geo decls="#LatLng">47 12.65</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/2774897</idno>
+               <idno type="GEONAMES">https://www.geonames.org/2774897</idno>
             </place>
             <place xml:id="oberfellach">
                <placeName>Obervellach</placeName>
@@ -1047,7 +1047,7 @@
                <location>
                         <geo decls="#LatLng">46.93309 13.19738</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/7871655</idno>
+               <idno type="GEONAMES">https://www.geonames.org/7871655</idno>
             </place>
             <place xml:id="falkenstein">
                <placeName>Oberfalkenstein</placeName>
@@ -1070,7 +1070,7 @@
                <location>
                         <geo decls="#LatLng">46.71901 11.91694</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3170749</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3170749</idno>
             </place>
             <place xml:id="lovara">
                <placeName>Lovara</placeName>
@@ -1097,7 +1097,7 @@
                <location>
                         <geo decls="#LatLng">46.9264 11.9789</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3183545</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3183545</idno>
             </place>
             <place xml:id="sand">
                <placeName>Sand in Taufers</placeName>
@@ -1106,7 +1106,7 @@
                <location>
                         <geo decls="#LatLng">46.91882 11.953575</geo>
                     </location>
-               <idno type="GEONAMES">http://www.geonames.org/3180908</idno>
+               <idno type="GEONAMES">https://www.geonames.org/3180908</idno>
             </place>
          </listPlace>
       </body>

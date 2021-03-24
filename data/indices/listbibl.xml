@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/rita/indices" xml:id="listbibl.xml">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Bücherverzeichnis des Editionsprojects Reading in The Alps</title>
+        <title>Verzeichnis der in den Verlassenschaftsinventaren von Geistlichen erwähnten Bücher</title>
         <respStmt>
           <resp>Datenkuration</resp>
           <name>
@@ -174,7 +174,7 @@
           <title/>
           <extent>Quart</extent>
           <decoNote><material>Pergament</material></decoNote>
-          <volumes>2</volumes>
+          <extent>2 Bände</extent>
         </bibl>
         <bibl xml:id="heribertus_conciones_pastorales">
           <author ref="http://d-nb.info/gnd/118641034">Heribert von Salurn</author>
@@ -193,7 +193,7 @@
           <title>Predigen</title>
           <extent>Folio</extent>
           <decoNote><material>französisch</material></decoNote>
-          <volumes>2</volumes>
+          <extent>2 Bände</extent>
         </bibl>
         <bibl xml:id="sacerdotale_brixinense">
           <author ref="http://d-nb.info/gnd/119500809">Christoph Andreas von Spaur</author>
@@ -210,7 +210,7 @@
           <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11291623-9</idno>
           <extent>Quart</extent>
           <decoNote><material>Pergament</material></decoNote>
-          <volumes>3</volumes>
+          <extent>3 Bände</extent>
         </bibl>
         <bibl xml:id="pater_mauritius_homo_simplex_et_rectus">
           <author ref="http://d-nb.info/gnd/172252806">Mauritius von Nattenhausen</author>
@@ -290,7 +290,7 @@
           <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10329671-9</idno>
           <extent>Folio</extent>
           <decoNote><material>Leder (Schweinsleder)</material></decoNote>
-          <volumes>1</volumes>
+          <extent>1 Bände</extent>
         </bibl>
         <bibl xml:id="knellinger_predigen_festtage">
           <author ref="http://d-nb.info/gnd/123441552">Balthasar Knellinger</author>
@@ -300,7 +300,7 @@
           <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10329835-0</idno>
           <extent>Folio</extent>
           <decoNote><material>"Scheinheiten"</material></decoNote>
-          <volumes>3</volumes>
+          <extent>3 Bände</extent>
         </bibl>
         <bibl xml:id="pater_reittmayr_lehrverfassung">
           <author ref="http://d-nb.info/gnd/123667658">Joachim Reittmair</author>
@@ -321,7 +321,7 @@
             >http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10618401-9</idno>
           <extent>Folio</extent>
           <decoNote><material>Pergament</material></decoNote>
-          <volumes>2</volumes>
+          <extent>2 Bände</extent>
           <note>stark verbrannt</note>
         </bibl>
         <bibl xml:id="pater_ilhum">
@@ -362,7 +362,7 @@
           <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10364798-5</idno>
           <extent>Folio</extent>
           <decoNote><material>französisch</material></decoNote>
-          <volumes>4</volumes>
+          <extent>4 Bände</extent>
         </bibl>
         <bibl xml:id="lacroix">
           <author ref="http://d-nb.info/gnd/129957682">Claude Lacroix</author>
@@ -735,7 +735,7 @@
         </bibl>
         <bibl xml:id="nadasi_jahr_der_geheiligten">
           <author ref="http://d-nb.info/gnd/104112565">János Nádasi</author>
-          <translator>Johann Georg Sartor</translator>
+          <editor role="translator">Johann Georg Sartor</editor>
           <title>Jahr der beheiligten Sonntägen etc.</title>
           <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10269996-0</idno>
         </bibl>
@@ -3580,8 +3580,7 @@
         <bibl xml:id="eiusdem_discorsi_sacri_sopra_varie_feste">
           <author ref="http://d-nb.info/gnd/100067328">Giovanni Battista Campadelli</author>
           <title>Discorsi Sacri Sopra Varie Feste, Divozioni, Et Altre Materie Morali</title>
-          <idno cert="deutsche_ausgabe"
-            >http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10458433-5</idno>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10458433-5</idno>
         </bibl>
         <bibl xml:id="discorsi_della_bona_morte_del_padre_bordoni">
           <author ref="http://d-nb.info/gnd/128883707">Giuseppe Antonio Bordoni</author>
@@ -3715,7 +3714,7 @@
           <author ref="http://d-nb.info/gnd/1045717177">Jean-Gaspard Dufay</author>
           <title cert="unknown">Sämmtliche Predigten [...]</title>
           <decoNote><material>französisch</material></decoNote>
-          <volumes>2</volumes>
+          <extent>2 Bände</extent>
           <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10478420-4</idno>
           <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10478423-0</idno>
           <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10478424-5</idno>
@@ -3863,7 +3862,7 @@
         <bibl xml:id="p_neumayr">
           <author cert="unknown">[Pater] Neumayr</author>
           <title/>
-          <volumes>25</volumes>
+          <extent>25 Bände</extent>
         </bibl>
         <bibl xml:id="mathias_schenberg_religions_gruende">
           <author ref="http://d-nb.info/gnd/124038697">Matthias von Schönberg</author>
@@ -3878,7 +3877,7 @@
         <bibl xml:id="opere_di_padre_calino">
           <author ref="http://d-nb.info/gnd/100067476" cert="high">Cesare Calino</author>
           <title cert="high">Opere del Padre Calino</title>
-          <volumes>25</volumes>
+          <extent>25 Bände</extent>
           <idno>https://books.google.at/books?id=nNFQAAAAcAAJ</idno>
           <idno>https://books.google.at/books?id=YlypuAtMf_wC</idno>
         </bibl>
@@ -4106,8 +4105,7 @@
           <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10458476-2</idno>
           <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10458478-3</idno>
           <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10458479-3</idno>
-          <idno cert="deutsche_ausgabe"
-            >http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10464715-6</idno>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10464715-6</idno>
           <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11099746-0</idno>
         </bibl>
         <bibl xml:id="gedanken_st_bernardi">
@@ -4180,8 +4178,7 @@
           <author ref="http://d-nb.info/gnd/12453970X">Marin Grostête Desmahis</author>
           <author ref="http://d-nb.info/gnd/1067062076">Franz Karl Hägelin</author>
           <title>Die Aus Der Heiligen Schrift Erwiesene Wahrheit Der Katholischen Religion</title>
-          <idno cert="franzoesische_ausgabe"
-            >http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11294708-6</idno>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11294708-6</idno>
         </bibl>
         <bibl xml:id="p_isidori_sutter_lehrreiche_kanzel_reden">
           <author ref="http://d-nb.info/gnd/100408869">Simon de la Vierge</author>
@@ -4571,8 +4568,7 @@
           <title>Vera Et Solida Devotio Complectens Scientiam Christiani Circa Explicationem
             Sacramentorum Ecclesiae</title>
           <idno>https://books.google.at/books?id=TspjAAAAcAAJ</idno>
-          <idno cert="franzoesische_ausgabe"
-            >http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11088079-3</idno>
+          <idno>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11088079-3</idno>
         </bibl>
         <bibl xml:id="p_ignatii_brentano_annus_assceticus">
           <author ref="http://d-nb.info/gnd/100056318">Ignatius Brentano Cimarolo</author>
