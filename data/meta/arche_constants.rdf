@@ -209,7 +209,7 @@
         </acdh:DataColl>
         <acdh:DataColl name="inventare">
             <acdh:hasTitle xml:lang="de">Statistische Auswertungen von Verfachbüchern mit Inventaren</acdh:hasTitle>
-            <acdh:hasDescription xml:lang="de">Verfachbucheinträge in denen Inventare bzw. Besitzlisten geführt wurden, wurden systematsich anhand folgender Kategorien erfasst: 
+            <acdh:hasDescription xml:lang="de">Verfachbucheinträge, die Inventare bzw. Besitzlisten enthalten, wurden systematisch anhand folgender Kategorien erfasst: 
                 * Signatur
                 * Name (Erklärung aus Verfachbuch)
                 * Dokumententypus
@@ -225,7 +225,7 @@
                 * Gesamtsumme Vermögen (vor Abzug der Passiva)
                 * Gesamtsumme Vermögen (nach Abzug der Passiva)
                 Zusätzlich dazu wurden noch eine Reihe von Parametern hinsichtlich des verzeichneten Vermögens strukturiert erfasst.
-                Die Datensätze liegen als XML TEI kodierte Dokumente vor.
+                Die Datensätze liegen als XML/TEI  kodierte Dokumente vor.
             </acdh:hasDescription>
             <acdh:hasSubject xml:lang="de">privater Buchbesitz</acdh:hasSubject>
             <acdh:hasSubject xml:lang="de">Geschichte des Lesens</acdh:hasSubject>
@@ -326,6 +326,7 @@
     
     <!-- maps arche props to their values via xpath expressions; be aware the current TEI document needs to be encoded as '$doc' -->
     <acdh:TeiLookUps collection="editions">
+        <acdh:hasPid>create</acdh:hasPid>
         <acdh:hasTitle type="literal">$item//tei:titleStmt/tei:title[1]/text()</acdh:hasTitle>
         <acdh:hasNonLinkedIdentifier type="literal">concat('Archivsignatur: ', string-join($item//tei:msIdentifier//text()))</acdh:hasNonLinkedIdentifier>
         <acdh:hasCoverageStartDate type="date">$item//tei:origin/data(@notBefore)</acdh:hasCoverageStartDate>
