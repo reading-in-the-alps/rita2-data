@@ -284,6 +284,7 @@
     
     <!-- Resource specific mandatory or very nice to have constant properties -->
     <acdh:SpecResource collection="editions">
+        <acdh:hasPid>create</acdh:hasPid>
         <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/16332395-1"/> <!-- institut -->
         <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
         <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"/>
@@ -296,6 +297,7 @@
     </acdh:SpecResource>
     
     <acdh:SpecResource collection="inventare">
+        <acdh:hasPid>create</acdh:hasPid>
         <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/16332395-1"/> <!-- institut -->
         <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
         <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"/>
@@ -309,6 +311,7 @@
     </acdh:SpecResource>
     
     <acdh:SpecResource collection="indices">
+        <acdh:hasPid>create</acdh:hasPid>
         <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/16332395-1"/> <!-- institut -->
         <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
         <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"/>
