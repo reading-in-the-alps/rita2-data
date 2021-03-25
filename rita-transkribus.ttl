@@ -21,6 +21,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 222, 1781"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/120102.xml> a ns1:Resource ;
@@ -43,6 +44,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 263, 1784"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/130273.xml> a ns1:Resource ;
@@ -65,6 +67,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 235, 1790/1791/1792"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/130274.xml> a ns1:Resource ;
@@ -87,6 +90,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 239, 1793/1794/1795"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221259.xml> a ns1:Resource ;
@@ -109,6 +113,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 229, 1750"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221260.xml> a ns1:Resource ;
@@ -131,6 +136,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 230, 1751"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221261.xml> a ns1:Resource ;
@@ -153,6 +159,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 231, 1752"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221262.xml> a ns1:Resource ;
@@ -175,6 +182,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 232, 1753"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221263.xml> a ns1:Resource ;
@@ -197,6 +205,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 233, 1754"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221264.xml> a ns1:Resource ;
@@ -219,6 +228,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 234, 1755"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221265.xml> a ns1:Resource ;
@@ -241,6 +251,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 235, 1756"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221266.xml> a ns1:Resource ;
@@ -263,6 +274,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 236, 1757"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221267.xml> a ns1:Resource ;
@@ -285,6 +297,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 237, 1758"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221268.xml> a ns1:Resource ;
@@ -307,6 +320,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 238, 1759"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221269.xml> a ns1:Resource ;
@@ -329,6 +343,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 239, 1760"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221270.xml> a ns1:Resource ;
@@ -351,6 +366,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 240, 1761"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221271.xml> a ns1:Resource ;
@@ -373,6 +389,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 241, 1762"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221272.xml> a ns1:Resource ;
@@ -395,6 +412,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 242, 1763"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221273.xml> a ns1:Resource ;
@@ -417,6 +435,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 243, 1764"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221274.xml> a ns1:Resource ;
@@ -439,6 +458,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 244, 1765"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221275.xml> a ns1:Resource ;
@@ -461,6 +481,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 245, 1766"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221276.xml> a ns1:Resource ;
@@ -483,6 +504,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 246, 1767"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221277.xml> a ns1:Resource ;
@@ -505,6 +527,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 247, 1768"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221278.xml> a ns1:Resource ;
@@ -527,6 +550,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 248, 1769"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221292.xml> a ns1:Resource ;
@@ -549,6 +573,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 279, 1800"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221293.xml> a ns1:Resource ;
@@ -571,6 +596,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 260, 1781"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221294.xml> a ns1:Resource ;
@@ -593,6 +619,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 259, 1780"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221295.xml> a ns1:Resource ;
@@ -615,6 +642,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 258, 1779"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221296.xml> a ns1:Resource ;
@@ -637,6 +665,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 257, 1778"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221297.xml> a ns1:Resource ;
@@ -659,6 +688,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 256, 1777"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221298.xml> a ns1:Resource ;
@@ -681,6 +711,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 255, 1776"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221299.xml> a ns1:Resource ;
@@ -703,6 +734,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 254, 1775"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221300.xml> a ns1:Resource ;
@@ -725,6 +757,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 253, 1774"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221301.xml> a ns1:Resource ;
@@ -747,6 +780,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 252, 1773"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221302.xml> a ns1:Resource ;
@@ -769,6 +803,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 251, 1772"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221303.xml> a ns1:Resource ;
@@ -791,6 +826,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 250, 1771"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221304.xml> a ns1:Resource ;
@@ -813,6 +849,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 249, 1770"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221748.xml> a ns1:Resource ;
@@ -835,6 +872,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 273, 1794"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221749.xml> a ns1:Resource ;
@@ -857,6 +895,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 272, 1793"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221750.xml> a ns1:Resource ;
@@ -879,6 +918,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 271, 1792"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221755.xml> a ns1:Resource ;
@@ -901,6 +941,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 270, 1791"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221756.xml> a ns1:Resource ;
@@ -923,6 +964,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 269, 1790"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221757.xml> a ns1:Resource ;
@@ -945,6 +987,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 268, 1789"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221758.xml> a ns1:Resource ;
@@ -967,6 +1010,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 267, 1788"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221759.xml> a ns1:Resource ;
@@ -989,6 +1033,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 266, 1787"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221760.xml> a ns1:Resource ;
@@ -1011,6 +1056,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 265, 1786"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221761.xml> a ns1:Resource ;
@@ -1033,6 +1079,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 264, 1785"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221762.xml> a ns1:Resource ;
@@ -1055,6 +1102,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 262, 1783"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/221763.xml> a ns1:Resource ;
@@ -1077,6 +1125,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 261, 1782"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/223083.xml> a ns1:Resource ;
@@ -1099,6 +1148,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 274, 1795"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/224131.xml> a ns1:Resource ;
@@ -1121,6 +1171,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 278, 1799"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/224132.xml> a ns1:Resource ;
@@ -1143,6 +1194,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 277, 1798"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/224133.xml> a ns1:Resource ;
@@ -1165,6 +1217,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 276, 1797"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/224134.xml> a ns1:Resource ;
@@ -1187,6 +1240,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Landgericht St. Michaelsburg, Bd. 275, 1796"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/227980.xml> a ns1:Resource ;
@@ -1209,6 +1263,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 179, 1752/1753"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/227981.xml> a ns1:Resource ;
@@ -1231,6 +1286,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 184, 1754/1755"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/227982.xml> a ns1:Resource ;
@@ -1253,6 +1309,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 187, 1756/1757"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/227983.xml> a ns1:Resource ;
@@ -1275,6 +1332,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 190, 1758/1759"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/227984.xml> a ns1:Resource ;
@@ -1297,6 +1355,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 199, 1764/1765"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/227985.xml> a ns1:Resource ;
@@ -1319,6 +1378,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 202, 1766/1767/1768"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/227986.xml> a ns1:Resource ;
@@ -1341,6 +1401,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 206, 1769/1770"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/227987.xml> a ns1:Resource ;
@@ -1363,6 +1424,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 209, 1771/1772"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/227988.xml> a ns1:Resource ;
@@ -1385,6 +1447,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 211, 1773"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/227989.xml> a ns1:Resource ;
@@ -1407,6 +1470,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 213, 1774/1775"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/227990.xml> a ns1:Resource ;
@@ -1429,6 +1493,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 215, 1776/1777"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/227991.xml> a ns1:Resource ;
@@ -1451,6 +1516,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 218, 1778/1779"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/227992.xml> a ns1:Resource ;
@@ -1473,6 +1539,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 221, 1780/1781"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/227993.xml> a ns1:Resource ;
@@ -1495,6 +1562,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 224, 1782/1783"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/227994.xml> a ns1:Resource ;
@@ -1517,6 +1585,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 226, 1784"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/228502.xml> a ns1:Resource ;
@@ -1539,6 +1608,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 232, 1787/1788/1789"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/228503.xml> a ns1:Resource ;
@@ -1561,6 +1631,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 228, 1785/1786"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/228578.xml> a ns1:Resource ;
@@ -1583,6 +1654,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 96, 1800/1801/1802"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/228908.xml> a ns1:Resource ;
@@ -1605,6 +1677,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 176, 1750/1751"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/232814.xml> a ns1:Resource ;
@@ -1627,6 +1700,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 177, 1751"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/232827.xml> a ns1:Resource ;
@@ -1649,6 +1723,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 175, 1750"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/232899.xml> a ns1:Resource ;
@@ -1671,6 +1746,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 178, 1752"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/232912.xml> a ns1:Resource ;
@@ -1693,6 +1769,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 180, 1753"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/232924.xml> a ns1:Resource ;
@@ -1715,6 +1792,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 181, 1754"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/232988.xml> a ns1:Resource ;
@@ -1737,6 +1815,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 185, 1755"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/232997.xml> a ns1:Resource ;
@@ -1759,6 +1838,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 186, 1756"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233003.xml> a ns1:Resource ;
@@ -1781,6 +1861,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 188, 1757"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233014.xml> a ns1:Resource ;
@@ -1803,6 +1884,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 189, 1758"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233027.xml> a ns1:Resource ;
@@ -1825,6 +1907,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 191, 1759"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233031.xml> a ns1:Resource ;
@@ -1847,6 +1930,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 192, 1760"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233040.xml> a ns1:Resource ;
@@ -1869,6 +1953,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 194, 1761"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233058.xml> a ns1:Resource ;
@@ -1891,6 +1976,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 195, 1762"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233062.xml> a ns1:Resource ;
@@ -1913,6 +1999,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 196, 1763"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233431.xml> a ns1:Resource ;
@@ -1935,6 +2022,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 198, 1764"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233454.xml> a ns1:Resource ;
@@ -1957,6 +2045,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 200, 1765"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233467.xml> a ns1:Resource ;
@@ -1979,6 +2068,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 201, 1766"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233471.xml> a ns1:Resource ;
@@ -2001,6 +2091,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 203, 1767"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233506.xml> a ns1:Resource ;
@@ -2023,6 +2114,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 204, 1768"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233507.xml> a ns1:Resource ;
@@ -2045,6 +2137,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 205, 1769"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233516.xml> a ns1:Resource ;
@@ -2067,6 +2160,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 208, 1770/1771"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233517.xml> a ns1:Resource ;
@@ -2089,6 +2183,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 210, 1772"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233518.xml> a ns1:Resource ;
@@ -2111,6 +2206,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 212, 1773/1774"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233519.xml> a ns1:Resource ;
@@ -2133,6 +2229,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 214, 1775"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233548.xml> a ns1:Resource ;
@@ -2155,6 +2252,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 207, 1776"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233550.xml> a ns1:Resource ;
@@ -2177,6 +2275,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 216, 1777"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233551.xml> a ns1:Resource ;
@@ -2199,6 +2298,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 217, 1778"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233552.xml> a ns1:Resource ;
@@ -2221,6 +2321,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 219, 1779"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233553.xml> a ns1:Resource ;
@@ -2243,6 +2344,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 220, 1780"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233563.xml> a ns1:Resource ;
@@ -2265,6 +2367,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 223, 1782"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233568.xml> a ns1:Resource ;
@@ -2287,6 +2390,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 225, 1783/1784"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233586.xml> a ns1:Resource ;
@@ -2309,6 +2413,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 227, 1785"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233587.xml> a ns1:Resource ;
@@ -2331,6 +2436,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 229, 1786"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233588.xml> a ns1:Resource ;
@@ -2353,6 +2459,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 230, 1787"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233589.xml> a ns1:Resource ;
@@ -2375,6 +2482,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 232, 1788"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233590.xml> a ns1:Resource ;
@@ -2397,6 +2505,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 233, 1789"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233591.xml> a ns1:Resource ;
@@ -2419,6 +2528,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 234, 1790"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233593.xml> a ns1:Resource ;
@@ -2441,6 +2551,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 236, 1791"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233594.xml> a ns1:Resource ;
@@ -2463,6 +2574,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 237, 1792"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233595.xml> a ns1:Resource ;
@@ -2485,6 +2597,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 238, 1793/1794"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/233596.xml> a ns1:Resource ;
@@ -2507,6 +2620,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 240, 1795"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/234824.xml> a ns1:Resource ;
@@ -2529,6 +2643,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 241, 1796"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/234825.xml> a ns1:Resource ;
@@ -2551,6 +2666,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 243, 1797"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/234826.xml> a ns1:Resource ;
@@ -2573,6 +2689,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 244, 1798/1799"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/234827.xml> a ns1:Resource ;
@@ -2595,6 +2712,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Stadtgericht Bruneck, Bd. 245, 1800"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 <https://id.acdh.oeaw.ac.at/rita/transkribus/235171.xml> a ns1:Resource ;
@@ -2617,6 +2735,7 @@
         "Geschichte des Lesens"@de,
         "privater Buchbesitz"@de ;
     ns1:hasTitle "Verfachbuch Oberamtsgericht Bruneck, Bd. 242, 1796/1797/1798/1799"@de ;
+    ns1:hasPid "create" ;
     ns1:isPartOf <https://id.acdh.oeaw.ac.at/rita/transkribus> .
 
 
