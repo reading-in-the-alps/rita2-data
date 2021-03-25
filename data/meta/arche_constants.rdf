@@ -181,6 +181,7 @@
         </acdh:DataColl>
         <acdh:DataColl name="transkribus">
             <acdh:hasTitle xml:lang="de">Volltexte der Verfachbücher</acdh:hasTitle>
+            <acdh:hasPid rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://hdl.handle.net/21.11115/0000-000D-FEAD-3</acdh:hasPid>
             <acdh:hasDescription xml:lang="de">Diese Sammlung enthält automatisch generierte Volltexte der Verfachbücher des mittleren Pustertals für den Zeitraum von 1750 bis 1800.</acdh:hasDescription>
             <acdh:hasAppliedMethodDescription xml:lang="de">Die Volltexte wurden mithilfe von Transkribus generiert. Dazu wurden die von Michael Span angefertigten Digitalisate der Verfachbücher in Transkribus importiert und mit Unterstützung von Martin Kirnbauer mit entsprechenden Metadata versehen. Auf Basis von rund 100.000 von Michael Prokosch, Michael Span und Manuela Mayer transkribierter Wörter wurde ein Modell (VB_1750_1800_M1Base, ID:26269) trainiert und auf die restlichen Dokumente angewendet.</acdh:hasAppliedMethodDescription>
             <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1192324102"/>
