@@ -14,9 +14,9 @@
         </acdh:Organisation>
         <acdh:Person rdf:about="https://d-nb.info/gnd/1133094783">
             <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/mspan"/>
-            <acdh:hasTitle xml:lang="de">Michael Span</acdh:hasTitle>
-            <acdh:hasLastName xml:lang="de">Span</acdh:hasLastName>
-            <acdh:hasFirstName xml:lang="de">Michael</acdh:hasFirstName>
+            <acdh:hasTitle xml:lang="und">Michael Span</acdh:hasTitle>
+            <acdh:hasLastName xml:lang="und">Span</acdh:hasLastName>
+            <acdh:hasFirstName xml:lang="und">Michael</acdh:hasFirstName>
         </acdh:Person>
         <acdh:Person rdf:about="https://d-nb.info/gnd/129199176">
             <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/bmazohl"/>
