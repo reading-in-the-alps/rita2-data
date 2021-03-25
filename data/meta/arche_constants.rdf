@@ -6,40 +6,41 @@
     <!-- definition of agents mentioned in the Metadata as e.g. PI, Curator, ... but not yet in ARCHE -->
     <acdh:MetaAgents>
         <acdh:Organisation rdf:about="https://d-nb.info/gnd/16332395-1">
-            <acdh:hasTitle xml:lang="de">Institut für Geschichtswissenschaften und Europäische Ethnologie</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="de">Institut für Geschichtswissenschaften und Europäische Ethnologie | Universität Innsbruck</acdh:hasTitle>
             <acdh:isMemberOf rdf:resource="https://d-nb.info/gnd/36165-3"/>
         </acdh:Organisation>
         <acdh:Organisation rdf:about="https://d-nb.info/gnd/36165-3">
             <acdh:hasTitle xml:lang="de">Universität Innsbruck</acdh:hasTitle>
         </acdh:Organisation>
-        <acdh:Organisation rdf:about="https://d-nb.info/gnd/16332395-1">
-            <acdh:hasTitle xml:lang="de">Institut für Geschichtswissenschaften und Europäische Ethnologie</acdh:hasTitle>
-        </acdh:Organisation>
         <acdh:Person rdf:about="https://d-nb.info/gnd/1133094783">
+            <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/mspan"/>
             <acdh:hasTitle xml:lang="de">Michael Span</acdh:hasTitle>
             <acdh:hasLastName xml:lang="de">Span</acdh:hasLastName>
             <acdh:hasFirstName xml:lang="de">Michael</acdh:hasFirstName>
         </acdh:Person>
         <acdh:Person rdf:about="https://d-nb.info/gnd/129199176">
-            <acdh:hasTitle xml:lang="de">Brigitte Mazohl</acdh:hasTitle>
+            <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/bmazohl"/>
+            <acdh:hasTitle xml:lang="und">Brigitte Mazohl</acdh:hasTitle>
             <acdh:hasPersonalTitle>em. o. Univ.-Prof. Dr. phil.</acdh:hasPersonalTitle>
-            <acdh:hasLastName xml:lang="de">Mazohl</acdh:hasLastName>
-            <acdh:hasFirstName xml:lang="de">Brigitte</acdh:hasFirstName>
+            <acdh:hasLastName xml:lang="und">Mazohl</acdh:hasLastName>
+            <acdh:hasFirstName xml:lang="und">Brigitte</acdh:hasFirstName>
         </acdh:Person>
         <acdh:Person rdf:about="https://d-nb.info/gnd/1192324102">
-            <acdh:hasTitle xml:lang="de">Michael Prokosch</acdh:hasTitle>
-            <acdh:hasLastName xml:lang="de">Prokosch</acdh:hasLastName>
-            <acdh:hasFirstName xml:lang="de">Michael</acdh:hasFirstName>
+            <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/mprokosch"/>
+            <acdh:hasTitle xml:lang="und">Michael Prokosch</acdh:hasTitle>
+            <acdh:hasLastName xml:lang="und">Prokosch</acdh:hasLastName>
+            <acdh:hasFirstName xml:lang="und">Michael</acdh:hasFirstName>
         </acdh:Person>
         <acdh:Person rdf:about="https://d-nb.info/gnd/1043833846">
-            <acdh:hasTitle xml:lang="de">Peter Andorfer</acdh:hasTitle>
-            <acdh:hasLastName xml:lang="de">Andorfer</acdh:hasLastName>
-            <acdh:hasFirstName xml:lang="de">Peter</acdh:hasFirstName>
+            <acdh:hasIdentifier rdf:resource="https://id.acdh.oeaw.ac.at/pandorfer"/>
+            <acdh:hasTitle xml:lang="und">Peter Andorfer</acdh:hasTitle>
+            <acdh:hasLastName xml:lang="und">Andorfer</acdh:hasLastName>
+            <acdh:hasFirstName xml:lang="und">Peter</acdh:hasFirstName>
         </acdh:Person>
         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/mmayer">
-            <acdh:hasFirstName xml:lang="de">Manuela</acdh:hasFirstName>
-            <acdh:hasLastName xml:lang="de">Mayer</acdh:hasLastName>
-            <acdh:hasTitle xml:lang="de">Manuela Mayer</acdh:hasTitle>
+            <acdh:hasFirstName xml:lang="und">Manuela</acdh:hasFirstName>
+            <acdh:hasLastName xml:lang="und">Mayer</acdh:hasLastName>
+            <acdh:hasTitle xml:lang="und">Manuela Mayer</acdh:hasTitle>
         </acdh:Person>
         <acdh:Place rdf:about="https://www.geonames.org/3169744">
             <acdh:hasTitle xml:lang="de">Pustertal</acdh:hasTitle>
