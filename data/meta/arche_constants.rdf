@@ -156,7 +156,7 @@
         </acdh:TopColl>
         <acdh:DataColl name="indices">
             <acdh:hasTitle xml:lang="de">Orts-, Personen- und Bücherregister</acdh:hasTitle>
-            <acdh:hasDescription xml:lang="de">XML TEI kodierte Verzeichnisse der in den editierten Verlassenschaftsabhandlungen erwähnten Personen, Ort und Bücher.</acdh:hasDescription>
+            <acdh:hasDescription xml:lang="de">XML/TEI kodierte Verzeichnisse der in den editierten Verlassenschaftsabhandlungen erwähnten Personen, Orte und Bücher</acdh:hasDescription>
             <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1750-01-01</acdh:hasCoverageStartDate>
             <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1800-12-31</acdh:hasCoverageEndDate>
             <acdh:hasPid rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://hdl.handle.net/21.11115/0000-000D-FEA8-8</acdh:hasPid>
