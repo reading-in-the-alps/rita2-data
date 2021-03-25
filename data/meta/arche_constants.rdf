@@ -47,13 +47,14 @@
         </acdh:Place>
         <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/rita/verfachbuchregesten.xml">
             <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/rita"/>
+            <acdh:hasPid rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://hdl.handle.net/21.11115/0000-000D-FEAC-4</acdh:hasPid>
             <acdh:hasTitle xml:lang="de">Kurzregesten der Verfachbucheinträge</acdh:hasTitle>
             <acdh:hasDescription xml:lang="de">Auf der Suche nach Einträgen in den Verfachbüchern der Verwaltungseinheiten St. Michaelsburg, Stadtgericht Bruneck und Oberamtsgericht Bruneck, die für das Projekt „Lesen im Alpental. Privater Buchbesitz in Tirol 1750–1800“ relevant waren, mussten zwangsläufig sämtliche Verfachbücher des Untersuchungs(zeit)raums durchgesehen werden. Als interne Arbeitsbehelfe wurden dabei von Michael Span und Michael Prokosch Kurzregesten der einzelnen Verfachbucheinträge angefertigt, in denen
                 * neben dem Typus des im Eintrag beschriebenen Rechtsgeschäfts,
                 * die wichtigsten handelnden Personen
                 * sowie die genaue Position (Blatt- beziehungsweise Seitenzahlen sowie Nummerierung) des Eintrags im Verfachbuch festgehalten wurden.
                 Hinsichtlich der Vollständigkeit der Regesten zu den Verfachbüchern des Landgerichts St. Michaelsburg muss jedoch einschränkend folgendes bemerkt werden: Aufgezeichnet wurden hier jene gerichtlichen Vorgänge, die potenziell die Erstellung eines Inventars veranlassen konnten. Die Auswahl erfolgte anhand der den Verfachbucheinträgen beigefügten „Kurztitel". Da diese mitunter nur rudimentäre Auskunft über die jeweiligen Einträge erteilen, ist mit gewissen Unschärfen zu rechnen. Definitiv vollständig verzeichnet sind jedoch auch hier jene Verfachbucheinträge, die Inventare enthalten. Das betrifft auch Fälle, in denen Inventare nicht „vollständig“ vorhanden sind, respektive lediglich Teile der Habe einzelner Personen verzeichnet wurden.</acdh:hasDescription>
-            <acdh:hasAppliedMethodDescription xml:lang="de">Die Kurzregesten wurden von Michael Prokosch und Michael Span in MS-Word erstellt und anschließend von Peter Andorfer in XML TEI Dokumente konvertiert.</acdh:hasAppliedMethodDescription>
+            <acdh:hasAppliedMethodDescription xml:lang="de">Die Kurzregesten wurden von Michael Prokosch und Michael Span in MS-Word erstellt und anschließend von Peter Andorfer in XML/TEI Dokumente konvertiert.</acdh:hasAppliedMethodDescription>
             <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1750-01-01
             </acdh:hasCoverageStartDate>
             <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1800-12-31</acdh:hasCoverageEndDate>
@@ -104,7 +105,7 @@
         <rdf:Description rdf:about="https://id.acdh.oeaw.ac.at/rita/title-img.jpg">
             <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
             <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/16332395-1"/>
-            institut   <acdh:isTitleImageOf rdf:resource="https://id.acdh.oeaw.ac.at/rita"/>
+            <acdh:isTitleImageOf rdf:resource="https://id.acdh.oeaw.ac.at/rita"/>
             <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
             <acdh:hasTitle xml:lang="de">Alte Bücher im Tiroler Landesmuseum Ferdinandeum</acdh:hasTitle>
             <acdh:hasContact rdf:resource="https://d-nb.info/gnd/1133094783"/>
@@ -114,9 +115,8 @@
             <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/1043833846"/>
             <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1133094783"/>
             <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/36165-3"/>
-            UNI    <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/16332395-1"/>
+            <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/16332395-1"/>
             <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
-            <!--            <acdh:hasHosting rdf:resource="https://arche.acdh.oeaw.ac.at/api/3313"/>-->
         </rdf:Description>
     </acdh:MetaAgents>
     
