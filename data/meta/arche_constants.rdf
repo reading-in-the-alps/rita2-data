@@ -249,13 +249,12 @@
         <acdh:DataColl name="editions">
             <acdh:hasTitle xml:lang="de">Edierte Verlassenschaftsabhandlungen Geistlicher aus dem mittleren Pustertal</acdh:hasTitle>
             <acdh:hasDescription xml:lang="de">XML/TEI kodierte Transkripte aus dem mittleren Pustertal.</acdh:hasDescription>
-            <acdh:hasAppliedMethodDescription xml:lang="de">Die original Quellen wurden von Michael Prokosch in Microsoft Word transkribiert, wobei ausgewählte Textmerkamle mittels projektspezifischer Formatvorlagen ausgezeichnet wurden. Die Transkripte respektive die .docx Dokumente wurden anschließend mittels der TEI-Community-Stylesheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs weiter verarbeitet.</acdh:hasAppliedMethodDescription>
+            <acdh:hasAppliedMethodDescription xml:lang="de">Die Originalquellen wurden von Michael Prokosch in Microsoft Word transkribiert, wobei ausgewählte Textmerkmale mittels projektspezifischer Formatvorlagen ausgezeichnet wurden. Die Transkripte respektive die docx-Dokumente wurden mithilfe von TEI-Community-Stylesheets und Oxygen in ein generisches TEI transformiert und anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar erstellten XSLTs weiterverarbeitet.</acdh:hasAppliedMethodDescription>
             <acdh:hasPid rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://hdl.handle.net/21.11115/0000-000D-FEA6-A</acdh:hasPid>
             <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1750-07-08</acdh:hasCoverageStartDate>
             <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1798-09-01</acdh:hasCoverageEndDate>
             <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1192324102"/>
             <acdh:hasContributor rdf:resource="https://d-nb.info/gnd/1133094783"/>
-            <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/> <!-- TEI encoded texts -->
             <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/16332395-1"/> <!-- institut -->
             <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/36165-3"/><!-- UNI -->
             <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"/>
