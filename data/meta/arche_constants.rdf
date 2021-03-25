@@ -84,6 +84,7 @@
         </acdh:Resource>
         <acdh:Project rdf:about="https://id.acdh.oeaw.ac.at/rita/project">
             <acdh:hasTitle xml:lang="de">Lesen im Alpental. Privater Buchbesitz in Tirol 1750-1800</acdh:hasTitle>
+            <acdh:hasRelatedCollection rdf:resource="https://id.acdh.oeaw.ac.at/rita"/>
             <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/601"/> <!-- Geschichte, Archäologie -->
             <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/1043833846"/>
             <acdh:hasContact rdf:resource="https://d-nb.info/gnd/1133094783"/>
@@ -103,7 +104,6 @@
             <acdh:hasSubject xml:lang="de">18. Jahrhundert</acdh:hasSubject>
         </acdh:Project>
         <rdf:Description rdf:about="https://id.acdh.oeaw.ac.at/rita/title-img.jpg">
-            <acdh:hasRelatedCollection rdf:resource="https://id.acdh.oeaw.ac.at/rita"/>
             <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
             <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/16332395-1"/>
             <acdh:isTitleImageOf rdf:resource="https://id.acdh.oeaw.ac.at/rita"/>
