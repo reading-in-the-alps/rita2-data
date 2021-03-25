@@ -181,8 +181,8 @@
         </acdh:DataColl>
         <acdh:DataColl name="transkribus">
             <acdh:hasTitle xml:lang="de">Volltexte der Verfachbücher</acdh:hasTitle>
-            <acdh:hasDescription xml:lang="de">Diese Sammlung enthält automatisch generierte Volltexte der Verfachbücher des Mittleres Pustertals für den Zeitraum von 1750 bis 1800</acdh:hasDescription>
-            <acdh:hasAppliedMethodDescription xml:lang="de">Die Volltexte wurden mit Hilfe von Transkribus generiert. Dazu wurden die von Michael Span angefertigten Digitalisate der Verfachbücher in Transkribus importiert und mit Unterstützung von Martin Kirnbauer mit entsprechenden Metadata versehen. Auf Basis von rund 100.000 von Michael Prokosch, Michael Span und Manuela Mayer transkribierter Wörter wurde ein Model (VB_1750_1800_M1Base, ID:26269) trainiert und auf die restlichen Dokumente angewendet.</acdh:hasAppliedMethodDescription>
+            <acdh:hasDescription xml:lang="de">Diese Sammlung enthält automatisch generierte Volltexte der Verfachbücher des mittleren Pustertals für den Zeitraum von 1750 bis 1800.</acdh:hasDescription>
+            <acdh:hasAppliedMethodDescription xml:lang="de">Die Volltexte wurden mithilfe von Transkribus generiert. Dazu wurden die von Michael Span angefertigten Digitalisate der Verfachbücher in Transkribus importiert und mit Unterstützung von Martin Kirnbauer mit entsprechenden Metadata versehen. Auf Basis von rund 100.000 von Michael Prokosch, Michael Span und Manuela Mayer transkribierter Wörter wurde ein Modell (VB_1750_1800_M1Base, ID:26269) trainiert und auf die restlichen Dokumente angewendet.</acdh:hasAppliedMethodDescription>
             <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1192324102"/>
             <acdh:hasSubject xml:lang="de">privater Buchbesitz</acdh:hasSubject>
             <acdh:hasSubject xml:lang="de">Geschichte des Lesens</acdh:hasSubject>
@@ -326,7 +326,6 @@
     
     <!-- maps arche props to their values via xpath expressions; be aware the current TEI document needs to be encoded as '$doc' -->
     <acdh:TeiLookUps collection="editions">
-        <acdh:hasPid>create</acdh:hasPid>
         <acdh:hasTitle type="literal">$item//tei:titleStmt/tei:title[1]/text()</acdh:hasTitle>
         <acdh:hasNonLinkedIdentifier type="literal">concat('Archivsignatur: ', string-join($item//tei:msIdentifier//text()))</acdh:hasNonLinkedIdentifier>
         <acdh:hasCoverageStartDate type="date">$item//tei:origin/data(@notBefore)</acdh:hasCoverageStartDate>
